@@ -1,0 +1,12 @@
+[Bookmarks]
+[Recent]
+C:\Projects\ad-learning\blender\models\assets-slappy-000\screens\
+C:\Projects\ad-learning\blender\models\assets-slappy-000\models\
+C:\Projects\ad-learning\blender\models\top-and-iso-scene-000\
+C:\Projects\ad-learning\blender\models\land-stones-000\screens\
+C:\Projects\ad-learning\blender\models\land-stones-000\
+C:\Projects\ad-learning\blender\models\house-000\
+C:\Users\dmytr\OneDrive\Pictures\Screenshots\
+C:\Projects\ad-learning\blender\models\car-000\
+C:\Projects\ad-learning\blender\models\land-001\
+C:\Projects\ad-learning\blender\models\land-000\

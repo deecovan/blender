@@ -1,0 +1,2044 @@
+1
+00:00:00,000 --> 00:00:02,520
+hi guys this stefan fashion also known
+
+2
+00:00:02,520 --> 00:00:03,270
+as infancia
+
+3
+00:00:03,270 --> 00:00:04,950
+and i'm making a game called that's
+
+4
+00:00:04,950 --> 00:00:06,960
+racing which is a low polygon racing
+
+5
+00:00:06,960 --> 00:00:08,940
+game and for that game I'm gonna need a
+
+6
+00:00:08,940 --> 00:00:11,250
+lot of low poly trees and I've started
+
+7
+00:00:11,250 --> 00:00:12,750
+to make some in blender here and I
+
+8
+00:00:12,750 --> 00:00:14,460
+wanted to go through the process of how
+
+9
+00:00:14,460 --> 00:00:15,960
+I make them and maybe I can share some
+
+10
+00:00:15,960 --> 00:00:17,640
+tips and tricks on how you can make your
+
+11
+00:00:17,640 --> 00:00:19,890
+own polygon trees and I'll also bring
+
+12
+00:00:19,890 --> 00:00:21,900
+them into unity and show you some of the
+
+13
+00:00:21,900 --> 00:00:23,430
+shader effects that you can apply to get
+
+14
+00:00:23,430 --> 00:00:24,779
+them to sway a little bit in the wind
+
+15
+00:00:24,779 --> 00:00:26,490
+and also add some weather effects to
+
+16
+00:00:26,490 --> 00:00:29,400
+them so as you can see here already got
+
+17
+00:00:29,400 --> 00:00:32,520
+got a bunch of trees and I've been able
+
+18
+00:00:32,520 --> 00:00:34,140
+to screencast keys here so you should be
+
+19
+00:00:34,140 --> 00:00:35,520
+able to see all the keystrokes that I do
+
+20
+00:00:35,520 --> 00:00:37,590
+and I'm gonna be trying to say them all
+
+21
+00:00:37,590 --> 00:00:40,110
+out loud as well and I'm by no means a
+
+22
+00:00:40,110 --> 00:00:42,510
+blender expert so bear with me when I
+
+23
+00:00:42,510 --> 00:00:45,870
+hit the wrong Keys all the time but just
+
+24
+00:00:45,870 --> 00:00:47,879
+gonna have to live with it maybe I'll
+
+25
+00:00:47,879 --> 00:00:49,469
+try to edit some of it out as well but
+
+26
+00:00:49,469 --> 00:00:51,960
+what's huh let's see how it goes so as
+
+27
+00:00:51,960 --> 00:00:53,370
+you can see I've made a bunch of trees
+
+28
+00:00:53,370 --> 00:00:56,070
+here and I've also got a whole bunch of
+
+29
+00:00:56,070 --> 00:00:58,079
+tree trunks here that I'm going to be
+
+30
+00:00:58,079 --> 00:01:02,550
+adding foilage to later on and I but I
+
+31
+00:01:02,550 --> 00:01:04,500
+will be making a tree from scratch so I
+
+32
+00:01:04,500 --> 00:01:06,000
+can show you that a whole process here
+
+33
+00:01:06,000 --> 00:01:10,530
+and so I press shift C to get the cursor
+
+34
+00:01:10,530 --> 00:01:13,530
+back into the center mode and then I
+
+35
+00:01:13,530 --> 00:01:15,299
+press the del key to get the rotation
+
+36
+00:01:15,299 --> 00:01:17,400
+the way I want it and I'm also usually
+
+37
+00:01:17,400 --> 00:01:20,549
+in orthographic mode which is when I
+
+38
+00:01:20,549 --> 00:01:24,450
+make these trees rather than perspective
+
+39
+00:01:24,450 --> 00:01:27,390
+so shift a to add a mesh and I always go
+
+40
+00:01:27,390 --> 00:01:32,640
+start with a cube and let's go into the
+
+41
+00:01:32,640 --> 00:01:35,520
+front view in orthographic and I also
+
+42
+00:01:35,520 --> 00:01:37,110
+want to make sure that trees that
+
+43
+00:01:37,110 --> 00:01:39,720
+they're at the base so when you place it
+
+44
+00:01:39,720 --> 00:01:40,890
+in the terrain it's gonna be a lot
+
+45
+00:01:40,890 --> 00:01:44,280
+easier so I press tab and then I press s
+
+46
+00:01:44,280 --> 00:01:46,470
+to scale it down a little bit to get a
+
+47
+00:01:46,470 --> 00:01:49,110
+smaller stem and then I also want to
+
+48
+00:01:49,110 --> 00:01:50,970
+move the bottom mesh here so I've got
+
+49
+00:01:50,970 --> 00:01:53,700
+the face select here and I want to move
+
+50
+00:01:53,700 --> 00:01:57,570
+that face up to is that zero to make
+
+51
+00:01:57,570 --> 00:01:59,850
+sure that it's at the very base of the
+
+52
+00:01:59,850 --> 00:02:03,030
+object at the pivot point and from there
+
+53
+00:02:03,030 --> 00:02:05,009
+I might as well actually do the UV
+
+54
+00:02:05,009 --> 00:02:06,630
+mapping here as well so I select all the
+
+55
+00:02:06,630 --> 00:02:09,330
+faces and I go into the UV editing mode
+
+56
+00:02:09,330 --> 00:02:12,450
+and I've already loaded this very simple
+
+57
+00:02:12,450 --> 00:02:13,590
+pallet for a tree
+
+58
+00:02:13,590 --> 00:02:16,519
+that I'm gonna be using and we clicked
+
+59
+00:02:16,519 --> 00:02:19,500
+all meshes oops
+
+60
+00:02:19,500 --> 00:02:22,800
+unwrap it just like this and since I'm
+
+61
+00:02:22,800 --> 00:02:25,140
+not text you're mapping it I just want
+
+62
+00:02:25,140 --> 00:02:26,879
+the colors from the texture so I just
+
+63
+00:02:26,879 --> 00:02:29,550
+shrink all these meshes meshes or faces
+
+64
+00:02:29,550 --> 00:02:32,730
+down and then I press G to grab it and
+
+65
+00:02:32,730 --> 00:02:34,290
+then I move it into the center of the
+
+66
+00:02:34,290 --> 00:02:35,670
+brown because this time it's gonna be
+
+67
+00:02:35,670 --> 00:02:37,200
+brown at all times so that I have three
+
+68
+00:02:37,200 --> 00:02:39,650
+different shades for the leaves later on
+
+69
+00:02:39,650 --> 00:02:42,989
+and then I go back into the default mode
+
+70
+00:02:42,989 --> 00:02:46,049
+and then we're gonna make a model a
+
+71
+00:02:46,049 --> 00:02:48,299
+basic stem here so I make sure I'm in
+
+72
+00:02:48,299 --> 00:02:50,640
+face mode here actually I'll go into
+
+73
+00:02:50,640 --> 00:02:52,140
+perspective mode now I think which is
+
+74
+00:02:52,140 --> 00:02:55,019
+long pod for five again and then I just
+
+75
+00:02:55,019 --> 00:02:57,989
+work by extruding let's see I have to
+
+76
+00:02:57,989 --> 00:03:00,120
+get this off this is the proportional
+
+77
+00:03:00,120 --> 00:03:01,769
+editing which I don't want no it moves
+
+78
+00:03:01,769 --> 00:03:04,620
+faces which are in in the neighborhood
+
+79
+00:03:04,620 --> 00:03:07,200
+so I disable that and then basically I
+
+80
+00:03:07,200 --> 00:03:10,860
+just exclude and I press the S key to
+
+81
+00:03:10,860 --> 00:03:14,129
+scale the face and then I can extrude
+
+82
+00:03:14,129 --> 00:03:17,069
+again and then shrink that down a little
+
+83
+00:03:17,069 --> 00:03:19,980
+bit and then basically I just work with
+
+84
+00:03:19,980 --> 00:03:23,430
+the S key for scale and G for if I press
+
+85
+00:03:23,430 --> 00:03:25,109
+D to grab I move it a little bit offset
+
+86
+00:03:25,109 --> 00:03:28,980
+like that and then you can also click on
+
+87
+00:03:28,980 --> 00:03:31,730
+these gizmo arrows to move it on a
+
+88
+00:03:31,730 --> 00:03:36,660
+specific axis here so and then press key
+
+89
+00:03:36,660 --> 00:03:39,510
+again to extrude up G to move it a
+
+90
+00:03:39,510 --> 00:03:41,639
+little bit and then let's say here I
+
+91
+00:03:41,639 --> 00:03:43,620
+come to a point where I want to split
+
+92
+00:03:43,620 --> 00:03:45,299
+this into multiple branches and since I
+
+93
+00:03:45,299 --> 00:03:47,700
+want the low-poly look I just do efore
+
+94
+00:03:47,700 --> 00:03:49,440
+extrude again and I just go up a little
+
+95
+00:03:49,440 --> 00:03:51,989
+bit like this because now I can grab a
+
+96
+00:03:51,989 --> 00:03:54,120
+face here and then extrude this one with
+
+97
+00:03:54,120 --> 00:03:57,599
+E and then I might move it a little bit
+
+98
+00:03:57,599 --> 00:03:59,340
+and then maybe a little bit by using the
+
+99
+00:03:59,340 --> 00:04:04,220
+axes and then s to scale and then also
+
+100
+00:04:04,220 --> 00:04:06,510
+we can go on top here and mix through
+
+101
+00:04:06,510 --> 00:04:09,599
+this one again scale and then I work
+
+102
+00:04:09,599 --> 00:04:13,709
+like this and by just extruding the
+
+103
+00:04:13,709 --> 00:04:17,910
+faces pressing G to grab them and move
+
+104
+00:04:17,910 --> 00:04:24,560
+them basically extrude here grab scale
+
+105
+00:04:24,560 --> 00:04:29,490
+grab let's move this one up a lot now
+
+106
+00:04:29,490 --> 00:04:31,169
+let's say we want this one to move over
+
+107
+00:04:31,169 --> 00:04:34,020
+a little bit more like this then also
+
+108
+00:04:34,020 --> 00:04:36,960
+you can grab the bait out extra this one
+
+109
+00:04:36,960 --> 00:04:38,490
+again and then I'll split this into
+
+110
+00:04:38,490 --> 00:04:46,560
+multiple branches here this scale grab
+
+111
+00:04:46,560 --> 00:04:49,770
+up and let's do one more here extrude
+
+112
+00:04:49,770 --> 00:04:57,060
+with es4 scale this one up and here as
+
+113
+00:04:57,060 --> 00:04:58,710
+well now you can grab a whole bunch of
+
+114
+00:04:58,710 --> 00:05:00,840
+faces I like to work with that ctrl key
+
+115
+00:05:00,840 --> 00:05:04,620
+I go into vertex select instead then I
+
+116
+00:05:04,620 --> 00:05:06,390
+hold the ctrl key and then I can draw
+
+117
+00:05:06,390 --> 00:05:07,830
+all the vertices that I want to select
+
+118
+00:05:07,830 --> 00:05:11,490
+and I press R to rotate and as you can
+
+119
+00:05:11,490 --> 00:05:13,110
+see now it didn't pick the back ones so
+
+120
+00:05:13,110 --> 00:05:13,800
+I press esque
+
+121
+00:05:13,800 --> 00:05:15,659
+escape to go out of that and I enable
+
+122
+00:05:15,659 --> 00:05:20,250
+this one so now it also shows me the
+
+123
+00:05:20,250 --> 00:05:22,020
+vertices that are behind and I redo this
+
+124
+00:05:22,020 --> 00:05:23,909
+I press all to select a to select
+
+125
+00:05:23,909 --> 00:05:25,440
+everything and a to deselect everything
+
+126
+00:05:25,440 --> 00:05:28,460
+again is wrong so the ctrl key click
+
+127
+00:05:28,460 --> 00:05:31,110
+drag around all the vertices I want and
+
+128
+00:05:31,110 --> 00:05:35,580
+then R to rotate G to grab and move it a
+
+129
+00:05:35,580 --> 00:05:37,380
+little bit again and then I basically
+
+130
+00:05:37,380 --> 00:05:39,069
+just worked like this
+
+131
+00:05:39,069 --> 00:05:42,669
+in different view modes just get an
+
+132
+00:05:42,669 --> 00:05:45,759
+interesting tree look and then I can
+
+133
+00:05:45,759 --> 00:05:47,559
+also do the same thing with a scale here
+
+134
+00:05:47,559 --> 00:05:50,409
+and you can also set the if you want it
+
+135
+00:05:50,409 --> 00:05:56,319
+to scale in a let's see if I press you
+
+136
+00:05:56,319 --> 00:05:58,449
+see when I scale now it scales from the
+
+137
+00:05:58,449 --> 00:06:00,490
+center of the object which I wouldn't
+
+138
+00:06:00,490 --> 00:06:01,930
+want to do that if I scale a whole tree
+
+139
+00:06:01,930 --> 00:06:05,319
+up so if I press the period key on the
+
+140
+00:06:05,319 --> 00:06:05,740
+keyboard
+
+141
+00:06:05,740 --> 00:06:08,559
+it changes the scaled center to the
+
+142
+00:06:08,559 --> 00:06:10,599
+pivot point word to the yeah the pivot
+
+143
+00:06:10,599 --> 00:06:12,939
+point of the object so if I scale now as
+
+144
+00:06:12,939 --> 00:06:14,319
+you can see it grows the whole tree and
+
+145
+00:06:14,319 --> 00:06:15,969
+it's also important to be in face mode
+
+146
+00:06:15,969 --> 00:06:18,099
+here so with the tub so you can see the
+
+147
+00:06:18,099 --> 00:06:20,919
+faces so you scale all the time within
+
+148
+00:06:20,919 --> 00:06:24,129
+the this one because if I go out of edit
+
+149
+00:06:24,129 --> 00:06:26,020
+mode it's important that this scale is
+
+150
+00:06:26,020 --> 00:06:31,330
+always 1 it makes it easier later on you
+
+151
+00:06:31,330 --> 00:06:33,219
+can fix it later on as well but try to
+
+152
+00:06:33,219 --> 00:06:36,520
+stick to keep it at one day so when you
+
+153
+00:06:36,520 --> 00:06:38,289
+have a tree like this maybe that's all
+
+154
+00:06:38,289 --> 00:06:40,659
+we want for this one and then we want to
+
+155
+00:06:40,659 --> 00:06:43,389
+add this foilage look to it their leaves
+
+156
+00:06:43,389 --> 00:06:45,610
+and there are a number of ways I do that
+
+157
+00:06:45,610 --> 00:06:48,039
+but I'll take you through one of them
+
+158
+00:06:48,039 --> 00:06:54,309
+for this particular tree and so I press
+
+159
+00:06:54,309 --> 00:06:55,990
+tab to get out of the object mode and
+
+160
+00:06:55,990 --> 00:06:57,699
+then I press a to deselect everything
+
+161
+00:06:57,699 --> 00:06:59,949
+and then let's say I want to add I click
+
+162
+00:06:59,949 --> 00:07:01,479
+on this face here and it'll put the
+
+163
+00:07:01,479 --> 00:07:03,699
+cursor right there and then I press
+
+164
+00:07:03,699 --> 00:07:06,819
+shift a to add in this case I'll add a
+
+165
+00:07:06,819 --> 00:07:10,569
+cube and then I want to apply a modifier
+
+166
+00:07:10,569 --> 00:07:14,080
+here which is the subdivision surface
+
+167
+00:07:14,080 --> 00:07:17,740
+and let's bring it up to 2 and that
+
+168
+00:07:17,740 --> 00:07:20,439
+basically just creates a sphere cube map
+
+169
+00:07:20,439 --> 00:07:22,990
+sphere and I like to work with different
+
+170
+00:07:22,990 --> 00:07:25,689
+shapes you could have used this one
+
+171
+00:07:25,689 --> 00:07:27,639
+called the ICO sphere for example which
+
+172
+00:07:27,639 --> 00:07:29,229
+I use sometimes as well but for this
+
+173
+00:07:29,229 --> 00:07:31,349
+case I'll just use the cube and
+
+174
+00:07:31,349 --> 00:07:35,649
+subdivide it and then I click apply to
+
+175
+00:07:35,649 --> 00:07:38,019
+get this mesh the way I want and then I
+
+176
+00:07:38,019 --> 00:07:41,409
+press tab to go into edit mode face
+
+177
+00:07:41,409 --> 00:07:44,979
+select a to select all the faces and
+
+178
+00:07:44,979 --> 00:07:49,529
+then I go into the UV editing sorry
+
+179
+00:07:49,529 --> 00:07:54,249
+and then I press on rap and again it
+
+180
+00:07:54,249 --> 00:07:56,139
+doesn't matter that all the faces are
+
+181
+00:07:56,139 --> 00:07:58,360
+showing like this because we're not
+
+182
+00:07:58,360 --> 00:07:59,379
+going to text your map it in the
+
+183
+00:07:59,379 --> 00:08:01,719
+traditional way way of UV doing UV
+
+184
+00:08:01,719 --> 00:08:04,180
+Islands so I'll press s to scale this
+
+185
+00:08:04,180 --> 00:08:08,830
+down let's do that again G to grab them
+
+186
+00:08:08,830 --> 00:08:10,479
+and then I'll move them up just to get
+
+187
+00:08:10,479 --> 00:08:13,240
+this solid green color there and then
+
+188
+00:08:13,240 --> 00:08:15,610
+what I want to do is I want to go back
+
+189
+00:08:15,610 --> 00:08:19,120
+into the default view here and then I
+
+190
+00:08:19,120 --> 00:08:21,629
+can switch off the transparency there
+
+191
+00:08:21,629 --> 00:08:25,419
+and then press a twice first to deselect
+
+192
+00:08:25,419 --> 00:08:27,430
+everything and then again to select and
+
+193
+00:08:27,430 --> 00:08:29,529
+then I press shift D to duplicate this
+
+194
+00:08:29,529 --> 00:08:34,539
+and then I put this G to grab I want to
+
+195
+00:08:34,539 --> 00:08:38,250
+place it just at the tip of that branch
+
+196
+00:08:38,250 --> 00:08:42,279
+like this shift D again to duplicate and
+
+197
+00:08:42,279 --> 00:08:44,049
+I'm this is I'm in the same object now
+
+198
+00:08:44,049 --> 00:08:45,550
+this is still the same object I'm just
+
+199
+00:08:45,550 --> 00:08:47,589
+duplicating all the mesh the vertices
+
+200
+00:08:47,589 --> 00:08:51,160
+and the faces here I used G to grab it
+
+201
+00:08:51,160 --> 00:08:54,459
+and move it into the place and then I
+
+202
+00:08:54,459 --> 00:08:57,819
+press shift D again let's add that one
+
+203
+00:08:57,819 --> 00:09:02,199
+up there G to grab it and move it a
+
+204
+00:09:02,199 --> 00:09:06,880
+little bit and if I want to change now
+
+205
+00:09:06,880 --> 00:09:09,040
+as you can see that this gizmo is
+
+206
+00:09:09,040 --> 00:09:10,600
+controlling and that's because I used
+
+207
+00:09:10,600 --> 00:09:13,660
+the pivot point of the object when I
+
+208
+00:09:13,660 --> 00:09:15,610
+wanted to resize the tree but if I press
+
+209
+00:09:15,610 --> 00:09:19,779
+the key that comma key no then it'll
+
+210
+00:09:19,779 --> 00:09:21,850
+change it to the center of the vertices
+
+211
+00:09:21,850 --> 00:09:25,360
+that I've added or these faces here and
+
+212
+00:09:25,360 --> 00:09:29,680
+I press shift D again now I can actually
+
+213
+00:09:29,680 --> 00:09:31,209
+use these arrows as well as since I
+
+214
+00:09:31,209 --> 00:09:33,040
+press the comma key to get the center
+
+215
+00:09:33,040 --> 00:09:36,910
+point of the mesh so now I've added some
+
+216
+00:09:36,910 --> 00:09:39,670
+then that looks crap to be honest but
+
+217
+00:09:39,670 --> 00:09:42,610
+we're not done yet so let's fix this we
+
+218
+00:09:42,610 --> 00:09:44,800
+don't want this like perfect symmetrical
+
+219
+00:09:44,800 --> 00:09:48,040
+or spherical shape so basically what you
+
+220
+00:09:48,040 --> 00:09:50,680
+can do now is if you press tab mode
+
+221
+00:09:50,680 --> 00:09:53,230
+you can actually select if I press L now
+
+222
+00:09:53,230 --> 00:09:55,990
+it will select all the linked faces or
+
+223
+00:09:55,990 --> 00:09:58,660
+vertices for this particular group of
+
+224
+00:09:58,660 --> 00:10:01,839
+vertices and I if I just go and click
+
+225
+00:10:01,839 --> 00:10:04,000
+the L key now on all these I aim with
+
+226
+00:10:04,000 --> 00:10:06,399
+the mouse and I click L then I can
+
+227
+00:10:06,399 --> 00:10:08,170
+select all the faces here I could have
+
+228
+00:10:08,170 --> 00:10:10,240
+clicked a actually so if I deselect
+
+229
+00:10:10,240 --> 00:10:12,010
+everything in click again so in this
+
+230
+00:10:12,010 --> 00:10:13,990
+case I could have used a but sometimes
+
+231
+00:10:13,990 --> 00:10:15,640
+it's really useful to use the L key to
+
+232
+00:10:15,640 --> 00:10:19,899
+get the linked vertices and first thing
+
+233
+00:10:19,899 --> 00:10:22,480
+we can do for example is let's let's
+
+234
+00:10:22,480 --> 00:10:23,860
+actually rescale this and make these a
+
+235
+00:10:23,860 --> 00:10:25,570
+little bit bigger and then I can't be in
+
+236
+00:10:25,570 --> 00:10:27,910
+this with everything selected because if
+
+237
+00:10:27,910 --> 00:10:30,160
+I do that as you can see that all like
+
+238
+00:10:30,160 --> 00:10:33,070
+just sent outwards so this operation
+
+239
+00:10:33,070 --> 00:10:34,420
+actually need to do on these
+
+240
+00:10:34,420 --> 00:10:36,459
+individually so I click again to
+
+241
+00:10:36,459 --> 00:10:41,709
+deselect I click L or let's see I mean
+
+242
+00:10:41,709 --> 00:10:43,600
+select the face first L to select this
+
+243
+00:10:43,600 --> 00:10:46,270
+face and then now if I scale it scales
+
+244
+00:10:46,270 --> 00:10:47,920
+it in place here so let's just click
+
+245
+00:10:47,920 --> 00:10:52,029
+these L to get the links and then just
+
+246
+00:10:52,029 --> 00:10:54,220
+to make these a little bit bigger L for
+
+247
+00:10:54,220 --> 00:10:58,680
+the link once I select with the right
+
+248
+00:10:58,680 --> 00:11:01,990
+with the right mouse button l scale up a
+
+249
+00:11:01,990 --> 00:11:09,209
+little bit and this one again L scale so
+
+250
+00:11:09,209 --> 00:11:12,850
+and now we want to get some irregularity
+
+251
+00:11:12,850 --> 00:11:15,250
+to this these look weight around so what
+
+252
+00:11:15,250 --> 00:11:17,050
+you can do then for example is if I
+
+253
+00:11:17,050 --> 00:11:20,350
+click a to select everything or actually
+
+254
+00:11:20,350 --> 00:11:21,400
+I don't need to do that because this
+
+255
+00:11:21,400 --> 00:11:23,500
+operates on the whole mesh mode or on
+
+256
+00:11:23,500 --> 00:11:25,180
+the whole object level so and I go to
+
+257
+00:11:25,180 --> 00:11:26,560
+the modifier and I want to end a
+
+258
+00:11:26,560 --> 00:11:30,970
+displace modifier and here I want to
+
+259
+00:11:30,970 --> 00:11:36,220
+click on new and change this into I'll
+
+260
+00:11:36,220 --> 00:11:38,950
+click on this one here and I change this
+
+261
+00:11:38,950 --> 00:11:43,570
+into a cloud texture resume this in a
+
+262
+00:11:43,570 --> 00:11:45,700
+little bit then I go back to the
+
+263
+00:11:45,700 --> 00:11:48,339
+modifier and if I change the strength
+
+264
+00:11:48,339 --> 00:11:50,740
+here now I need to go out of edit mode
+
+265
+00:11:50,740 --> 00:11:53,320
+actually so I tab now you can see that
+
+266
+00:11:53,320 --> 00:11:56,140
+it warps this the mesh is a little bit
+
+267
+00:11:56,140 --> 00:11:59,310
+thing gets out of that it regular so
+
+268
+00:11:59,310 --> 00:12:01,450
+when I do that
+
+269
+00:12:01,450 --> 00:12:03,790
+you get starting to get a little bit of
+
+270
+00:12:03,790 --> 00:12:07,829
+a different view to it I'll do it
+
+271
+00:12:07,829 --> 00:12:10,690
+you can also change change this one the
+
+272
+00:12:10,690 --> 00:12:12,490
+level so let's say we wanted it like
+
+273
+00:12:12,490 --> 00:12:12,910
+that
+
+274
+00:12:12,910 --> 00:12:15,490
+maybe that's and then I click apply here
+
+275
+00:12:15,490 --> 00:12:18,399
+now so this could be one tree if you
+
+276
+00:12:18,399 --> 00:12:20,560
+wanted like this I still think it needs
+
+277
+00:12:20,560 --> 00:12:23,140
+a little bit of work to it so usually I
+
+278
+00:12:23,140 --> 00:12:26,500
+just play around in in this edit mode
+
+279
+00:12:26,500 --> 00:12:29,760
+here so maybe for example I want to do
+
+280
+00:12:29,760 --> 00:12:32,680
+if I add another modifier here saying
+
+281
+00:12:32,680 --> 00:12:37,269
+let's subdivide this one into let's see
+
+282
+00:12:37,269 --> 00:12:39,640
+that work no that's gonna be way too
+
+283
+00:12:39,640 --> 00:12:42,010
+many meshes so that's not subdivide it
+
+284
+00:12:42,010 --> 00:12:49,709
+let's instead do this decimates modifier
+
+285
+00:12:50,670 --> 00:12:54,579
+and then scale it down then I start
+
+286
+00:12:54,579 --> 00:12:57,010
+reducing actually vertices here to get
+
+287
+00:12:57,010 --> 00:12:59,910
+even more of a low poly look like that
+
+288
+00:12:59,910 --> 00:13:04,149
+and when I go into edit mode you see
+
+289
+00:13:04,149 --> 00:13:05,769
+that effect disappears and it's because
+
+290
+00:13:05,769 --> 00:13:07,620
+it's showing me the mesh instead this
+
+291
+00:13:07,620 --> 00:13:11,110
+modifier operates on not on on the mesh
+
+292
+00:13:11,110 --> 00:13:12,970
+edit mode but on the object mode so I
+
+293
+00:13:12,970 --> 00:13:14,350
+need to be out of the mesh edit mode
+
+294
+00:13:14,350 --> 00:13:17,560
+with a table here let's apply this one
+
+295
+00:13:17,560 --> 00:13:20,529
+and I still think that these groups of
+
+296
+00:13:20,529 --> 00:13:22,540
+these chunks should be a bit bigger so
+
+297
+00:13:22,540 --> 00:13:23,740
+let's make them a little bit bigger
+
+298
+00:13:23,740 --> 00:13:26,560
+again tab into edit mode I'll click on
+
+299
+00:13:26,560 --> 00:13:29,949
+one face ll to select all the link s to
+
+300
+00:13:29,949 --> 00:13:32,529
+scale it let's scale all of these up l
+
+301
+00:13:32,529 --> 00:13:40,810
+scale select L scale just like that face
+
+302
+00:13:40,810 --> 00:13:46,420
+owl scale and then L to select links and
+
+303
+00:13:46,420 --> 00:13:48,850
+then scale here we go so now we're
+
+304
+00:13:48,850 --> 00:13:50,829
+starting to get a tree that I like the
+
+305
+00:13:50,829 --> 00:13:53,860
+look of then I like to name them
+
+306
+00:13:53,860 --> 00:13:56,800
+properly I press shift C to get back
+
+307
+00:13:56,800 --> 00:14:03,209
+into the cursor mode in if it
+
+308
+00:14:03,209 --> 00:14:04,860
+if it's when you rotated you and it
+
+309
+00:14:04,860 --> 00:14:07,529
+doesn't pivot around this you can press
+
+310
+00:14:07,529 --> 00:14:11,699
+the del Delete key I think now I should
+
+311
+00:14:11,699 --> 00:14:20,519
+have fully rotates nope there we go
+
+312
+00:14:20,519 --> 00:14:26,100
+I needed up in object mode so I press I
+
+313
+00:14:26,100 --> 00:14:27,809
+don't want to go into orthographic mode
+
+314
+00:14:27,809 --> 00:14:30,509
+again here now and then number one to
+
+315
+00:14:30,509 --> 00:14:32,519
+get the front view so let's say I was
+
+316
+00:14:32,519 --> 00:14:35,279
+happy with this tree now and then I want
+
+317
+00:14:35,279 --> 00:14:38,249
+to rename my objects I'm up to treat 12
+
+318
+00:14:38,249 --> 00:14:41,579
+here so I'm gonna make 3 13 so this cube
+
+319
+00:14:41,579 --> 00:14:42,929
+I'll double click on that one and rename
+
+320
+00:14:42,929 --> 00:14:48,389
+it tree Oh 13 there because this one as
+
+321
+00:14:48,389 --> 00:14:50,399
+you can see has not doesn't have the
+
+322
+00:14:50,399 --> 00:14:51,050
+leaves
+
+323
+00:14:51,050 --> 00:14:53,249
+let's now let's move that one out
+
+324
+00:14:53,249 --> 00:14:55,410
+because we want to keep that one for a
+
+325
+00:14:55,410 --> 00:14:58,709
+bear tree but I'm pleased chef D to
+
+326
+00:14:58,709 --> 00:15:01,470
+duplicate the whole object escaped
+
+327
+00:15:01,470 --> 00:15:04,889
+because and then we can move it back to
+
+328
+00:15:04,889 --> 00:15:07,649
+0 here and now what I want to do is I
+
+329
+00:15:07,649 --> 00:15:09,240
+want to parent or I want to join so I
+
+330
+00:15:09,240 --> 00:15:12,839
+select these this object with all the
+
+331
+00:15:12,839 --> 00:15:17,189
+leaves and then I shift and oh no yeah
+
+332
+00:15:17,189 --> 00:15:18,689
+sorry I shift and right click on the
+
+333
+00:15:18,689 --> 00:15:23,369
+tree and I press ctrl J to join these
+
+334
+00:15:23,369 --> 00:15:26,369
+together so now it's a single mesh and
+
+335
+00:15:26,369 --> 00:15:32,189
+let's call this one regular so this is
+
+336
+00:15:32,189 --> 00:15:36,839
+the normal look of this tree and this
+
+337
+00:15:36,839 --> 00:15:41,129
+tree model is actually finished I think
+
+338
+00:15:41,129 --> 00:15:48,209
+I'm allergic to blender maybe so let's
+
+339
+00:15:48,209 --> 00:15:50,399
+go this tree is finished now but let's
+
+340
+00:15:50,399 --> 00:15:52,019
+say I want to make a different
+
+341
+00:15:52,019 --> 00:15:55,850
+variations as you can see here I've got
+
+342
+00:15:55,850 --> 00:15:58,470
+got a bunch of four variations of each
+
+343
+00:15:58,470 --> 00:16:00,089
+tree and I want to make another one so
+
+344
+00:16:00,089 --> 00:16:01,949
+I've moved out onto this side I crap
+
+345
+00:16:01,949 --> 00:16:07,399
+press shift D to duplicate it escape
+
+346
+00:16:08,350 --> 00:16:10,780
+back and then I'll move it to here and
+
+347
+00:16:10,780 --> 00:16:12,490
+now I want to operate just on these
+
+348
+00:16:12,490 --> 00:16:13,870
+leaves I want to keep the stem the same
+
+349
+00:16:13,870 --> 00:16:19,180
+way so if I go into edit mode now I want
+
+350
+00:16:19,180 --> 00:16:24,270
+to break this into a separate mesh again
+
+351
+00:16:24,270 --> 00:16:26,620
+so I can operate on just the leaves and
+
+352
+00:16:26,620 --> 00:16:28,930
+not this the easiest way to do that one
+
+353
+00:16:28,930 --> 00:16:31,810
+is to select something on the tree here
+
+354
+00:16:31,810 --> 00:16:33,790
+and repress l-4 linked and that will
+
+355
+00:16:33,790 --> 00:16:36,400
+pick all the vertexes and/or vertices
+
+356
+00:16:36,400 --> 00:16:39,010
+and faces for the tree trunk there press
+
+357
+00:16:39,010 --> 00:16:42,610
+ctrl I to invert that selection and then
+
+358
+00:16:42,610 --> 00:16:46,240
+I press P to separate and I separate by
+
+359
+00:16:46,240 --> 00:16:48,520
+selection here and now this is snapped
+
+360
+00:16:48,520 --> 00:16:50,710
+back into a separate object as you can
+
+361
+00:16:50,710 --> 00:16:56,140
+see here so if I select this one last
+
+362
+00:16:56,140 --> 00:16:57,670
+you can see this is a separate object
+
+363
+00:16:57,670 --> 00:16:59,740
+now and that's how I want to work on on
+
+364
+00:16:59,740 --> 00:17:01,600
+this and now let's make a little
+
+365
+00:17:01,600 --> 00:17:04,359
+variation so I go into edit mode and I
+
+366
+00:17:04,359 --> 00:17:06,190
+select all the vertices and then maybe I
+
+367
+00:17:06,190 --> 00:17:07,650
+want to scale them up a little bit and
+
+368
+00:17:07,650 --> 00:17:09,819
+here I like to start playing as well
+
+369
+00:17:09,819 --> 00:17:11,470
+with this proportional editing so I
+
+370
+00:17:11,470 --> 00:17:14,500
+enabled this proportional editing and
+
+371
+00:17:14,500 --> 00:17:16,930
+then maybe I want to select some random
+
+372
+00:17:16,930 --> 00:17:19,950
+vertices at the top here of the mesh
+
+373
+00:17:19,950 --> 00:17:22,480
+press one to get into the front view
+
+374
+00:17:22,480 --> 00:17:22,750
+again
+
+375
+00:17:22,750 --> 00:17:25,599
+let's select shift select this vertex
+
+376
+00:17:25,599 --> 00:17:27,670
+this one and then if I move this up now
+
+377
+00:17:27,670 --> 00:17:29,860
+you can see not only does it move the
+
+378
+00:17:29,860 --> 00:17:31,630
+vertices that are selected but it moves
+
+379
+00:17:31,630 --> 00:17:33,520
+the ones that are in the vicinity as
+
+380
+00:17:33,520 --> 00:17:37,630
+well this is insanity so you say in the
+
+381
+00:17:37,630 --> 00:17:41,230
+neighborhood and if I press controls and
+
+382
+00:17:41,230 --> 00:17:43,300
+I do that again I can also press G to
+
+383
+00:17:43,300 --> 00:17:47,560
+grab this and then I press Z or Z to
+
+384
+00:17:47,560 --> 00:17:51,370
+force it to move it on the the z-axis up
+
+385
+00:17:51,370 --> 00:17:53,350
+and down and then if I use the scroll
+
+386
+00:17:53,350 --> 00:17:55,300
+wheel now I can change how much this
+
+387
+00:17:55,300 --> 00:17:57,070
+proportional editing should be affecting
+
+388
+00:17:57,070 --> 00:18:00,730
+this so I can pull this up so if I
+
+389
+00:18:00,730 --> 00:18:02,320
+change this one maybe I want to create
+
+390
+00:18:02,320 --> 00:18:04,090
+the tree that looks a bit like this and
+
+391
+00:18:04,090 --> 00:18:07,180
+I can also use scaling and that's also
+
+392
+00:18:07,180 --> 00:18:12,010
+proportional so now we suddenly got a
+
+393
+00:18:12,010 --> 00:18:14,140
+trade with a different look to it
+
+394
+00:18:14,140 --> 00:18:16,960
+similar but still enough different to
+
+395
+00:18:16,960 --> 00:18:19,600
+maybe save that one and to keep this
+
+396
+00:18:19,600 --> 00:18:21,500
+tree I want to have it as one mesh
+
+397
+00:18:21,500 --> 00:18:24,409
+or one object at least so I click on
+
+398
+00:18:24,409 --> 00:18:26,480
+this one and I shift and right click on
+
+399
+00:18:26,480 --> 00:18:29,140
+the tree trunk I press ctrl J to join it
+
+400
+00:18:29,140 --> 00:18:32,900
+I'm gonna rename this one to Lush maybe
+
+401
+00:18:32,900 --> 00:18:34,880
+because it's nice and lush it's got some
+
+402
+00:18:34,880 --> 00:18:39,440
+more foilage to it let's one make one
+
+403
+00:18:39,440 --> 00:18:41,360
+last variation of this tree as well just
+
+404
+00:18:41,360 --> 00:18:45,530
+to cement this whole thing in I press I
+
+405
+00:18:45,530 --> 00:18:46,460
+select this one
+
+406
+00:18:46,460 --> 00:18:50,240
+press shift D to duplicate it escape to
+
+407
+00:18:50,240 --> 00:18:52,520
+snap it back I move it into view here
+
+408
+00:18:52,520 --> 00:18:53,929
+where I would like to work on it it's
+
+409
+00:18:53,929 --> 00:18:55,070
+not a must that you do it
+
+410
+00:18:55,070 --> 00:18:57,289
+that's origin here but I like to do it
+
+411
+00:18:57,289 --> 00:19:01,090
+that way let's go into tab mode again
+
+412
+00:19:01,090 --> 00:19:04,820
+edits this object and remember here we
+
+413
+00:19:04,820 --> 00:19:07,190
+want to select something on the tree
+
+414
+00:19:07,190 --> 00:19:09,110
+trunk press L to get all the link
+
+415
+00:19:09,110 --> 00:19:12,169
+vertices ctrl I to invert the selection
+
+416
+00:19:12,169 --> 00:19:15,770
+and then press P to the touch
+
+417
+00:19:15,770 --> 00:19:19,730
+selection separator now I can work on
+
+418
+00:19:19,730 --> 00:19:22,520
+this object alone and here maybe we want
+
+419
+00:19:22,520 --> 00:19:25,760
+to I like to twist these around as well
+
+420
+00:19:25,760 --> 00:19:27,500
+so if I select the top vertices here
+
+421
+00:19:27,500 --> 00:19:28,880
+again like I did last time
+
+422
+00:19:28,880 --> 00:19:31,760
+and one nice effect for these low poly
+
+423
+00:19:31,760 --> 00:19:33,380
+trees I found was if you select this one
+
+424
+00:19:33,380 --> 00:19:35,470
+you keep this proportional editing
+
+425
+00:19:35,470 --> 00:19:38,630
+enabled and you press R to rotate and
+
+426
+00:19:38,630 --> 00:19:42,169
+then Zed to make sure that it rotates
+
+427
+00:19:42,169 --> 00:19:45,650
+around the center is that axis let's
+
+428
+00:19:45,650 --> 00:19:47,570
+scale this one up with me so if you just
+
+429
+00:19:47,570 --> 00:19:49,429
+add a little slight twist to it that can
+
+430
+00:19:49,429 --> 00:19:51,230
+make the trees look a bit interesting as
+
+431
+00:19:51,230 --> 00:19:54,140
+well like that for example I've got
+
+432
+00:19:54,140 --> 00:19:58,190
+quite a nice aesthetics - I think and
+
+433
+00:19:58,190 --> 00:20:00,409
+then let's add a little bit more let's
+
+434
+00:20:00,409 --> 00:20:01,580
+try a little bit more on this particular
+
+435
+00:20:01,580 --> 00:20:04,370
+mesh let's see how this goes so I go tab
+
+436
+00:20:04,370 --> 00:20:06,110
+out of into object mode let's add this
+
+437
+00:20:06,110 --> 00:20:10,850
+modifier now and do a subdivision to
+
+438
+00:20:10,850 --> 00:20:16,100
+levels and the let's apply this modifier
+
+439
+00:20:16,100 --> 00:20:17,090
+and this is going to be too many
+
+440
+00:20:17,090 --> 00:20:19,100
+polygons now for this low poly look this
+
+441
+00:20:19,100 --> 00:20:22,340
+is starting to get too detailed but
+
+442
+00:20:22,340 --> 00:20:24,409
+before we decimate this one that still
+
+443
+00:20:24,409 --> 00:20:26,990
+add a modifier and displace this one a
+
+444
+00:20:26,990 --> 00:20:30,799
+little bit let's pick that texture that
+
+445
+00:20:30,799 --> 00:20:32,179
+we did before which was the cloud
+
+446
+00:20:32,179 --> 00:20:33,299
+texture
+
+447
+00:20:33,299 --> 00:20:35,129
+and let's play around with a strength a
+
+448
+00:20:35,129 --> 00:20:40,919
+little bit maybe like that apply this
+
+449
+00:20:40,919 --> 00:20:43,139
+modifier and then finally let's do a big
+
+450
+00:20:43,139 --> 00:20:44,960
+decimate here as well this way too many
+
+451
+00:20:44,960 --> 00:20:49,669
+their faces on this one so let's do
+
+452
+00:20:49,669 --> 00:21:00,299
+decimates bring it down to and then
+
+453
+00:21:00,299 --> 00:21:01,710
+apply this one and as you can see now
+
+454
+00:21:01,710 --> 00:21:03,419
+it's a lot further it's a lot fewer
+
+455
+00:21:03,419 --> 00:21:06,179
+here's what another trick yard to get a
+
+456
+00:21:06,179 --> 00:21:08,820
+little bit different as you can if you
+
+457
+00:21:08,820 --> 00:21:11,279
+remember I had a palette here in the UV
+
+458
+00:21:11,279 --> 00:21:16,139
+mapping with some different colors so if
+
+459
+00:21:16,139 --> 00:21:20,489
+I do seven to get the top view here and
+
+460
+00:21:20,489 --> 00:21:21,989
+then make sure I don't have this
+
+461
+00:21:21,989 --> 00:21:23,759
+transparency thing selected so that's
+
+462
+00:21:23,759 --> 00:21:26,700
+disabled I press the B key for box
+
+463
+00:21:26,700 --> 00:21:29,700
+select and now it's selected all the
+
+464
+00:21:29,700 --> 00:21:34,200
+faces that have that can be viewed from
+
+465
+00:21:34,200 --> 00:21:35,940
+on top and I want to reduce the
+
+466
+00:21:35,940 --> 00:21:37,350
+selection a little bit by shrinking it
+
+467
+00:21:37,350 --> 00:21:42,149
+so press ctrl - on the numpad and that
+
+468
+00:21:42,149 --> 00:21:43,470
+shrinks down my selection a little bit
+
+469
+00:21:43,470 --> 00:21:46,080
+and then I press G here when I'm over
+
+470
+00:21:46,080 --> 00:21:49,730
+the UV map and I'll move this to there
+
+471
+00:21:49,730 --> 00:21:52,859
+and now I've got some parts some
+
+472
+00:21:52,859 --> 00:21:55,169
+polygons that are brighter up here with
+
+473
+00:21:55,169 --> 00:21:57,749
+a different shade and also if I press
+
+474
+00:21:57,749 --> 00:22:00,210
+ctrl 7 I'll in the same way I'll get the
+
+475
+00:22:00,210 --> 00:22:05,279
+base of the tree so b4 box selected and
+
+476
+00:22:05,279 --> 00:22:07,830
+then ctrl - to shrink it down a little
+
+477
+00:22:07,830 --> 00:22:08,249
+bit
+
+478
+00:22:08,249 --> 00:22:11,220
+actually let's go into the face then
+
+479
+00:22:11,220 --> 00:22:12,869
+maybe I'll keep the shift key and I'll
+
+480
+00:22:12,869 --> 00:22:14,249
+press a few of these as well I'll just
+
+481
+00:22:14,249 --> 00:22:18,450
+select some random meshes down here or
+
+482
+00:22:18,450 --> 00:22:23,450
+faces sorry maybe these pose as well
+
+483
+00:22:25,929 --> 00:22:29,990
+like that and then I go over here on the
+
+484
+00:22:29,990 --> 00:22:32,059
+left side press G and I move this down
+
+485
+00:22:32,059 --> 00:22:34,429
+to the darker shade so now we've got a
+
+486
+00:22:34,429 --> 00:22:36,169
+little bit of color variation in this to
+
+487
+00:22:36,169 --> 00:22:41,270
+usable so there we go finally is to join
+
+488
+00:22:41,270 --> 00:22:43,700
+this one so I'll go back into the
+
+489
+00:22:43,700 --> 00:22:47,750
+default view here press one to get the
+
+490
+00:22:47,750 --> 00:22:51,410
+front view select this one shift selects
+
+491
+00:22:51,410 --> 00:22:55,549
+tree trunk control J and then let's call
+
+492
+00:22:55,549 --> 00:23:05,809
+this one twisty here we go so that's the
+
+493
+00:23:05,809 --> 00:23:06,470
+low-poly
+
+494
+00:23:06,470 --> 00:23:08,750
+editing of this tree maybe that gave you
+
+495
+00:23:08,750 --> 00:23:10,280
+some hints and tips and tricks on how to
+
+496
+00:23:10,280 --> 00:23:13,100
+do low poly edit modeling in blender and
+
+497
+00:23:13,100 --> 00:23:15,740
+in the next video I'll import this tree
+
+498
+00:23:15,740 --> 00:23:17,990
+into unity and I'll show you an
+
+499
+00:23:17,990 --> 00:23:19,760
+amplified shader that I made using the
+
+500
+00:23:19,760 --> 00:23:23,360
+amplify acid and it'll add some
+
+501
+00:23:23,360 --> 00:23:25,250
+character to the tree by making its way
+
+502
+00:23:25,250 --> 00:23:26,720
+a little bit in the wind using the
+
+503
+00:23:26,720 --> 00:23:29,840
+vertex shader and it'll also I'll make a
+
+504
+00:23:29,840 --> 00:23:31,490
+little weather effect to them as well
+
+505
+00:23:31,490 --> 00:23:33,410
+that you can look at so have a look at
+
+506
+00:23:33,410 --> 00:23:36,679
+that video you can view it so I'll put a
+
+507
+00:23:36,679 --> 00:23:38,200
+link here somewhere just click on that
+
+508
+00:23:38,200 --> 00:23:40,549
+enjoy I hope you have fun modeling in
+
+509
+00:23:40,549 --> 00:23:44,500
+blender take care see ya
+
+510
+00:23:47,850 --> 00:23:51,050
+[Music]
+
+511
+00:23:53,640 --> 00:24:05,329
+[Music]
+

@@ -1,0 +1,3 @@
+C:\Projects\Godot-4.1\h-flyer\assets\mooney\mooney.blend
+C:\Projects\Godot-4.1\h-flyer\assets\mooney\buildings.blend
+C:\Projects\Godot-4.1\h-flyer\assets\building_meshes\buildings.blend

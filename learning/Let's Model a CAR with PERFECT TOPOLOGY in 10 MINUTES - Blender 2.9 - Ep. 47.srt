@@ -1,0 +1,2700 @@
+1
+00:00:00,640 --> 00:00:03,040
+hello guys and welcome to episode four
+
+2
+00:00:03,040 --> 00:00:04,960
+is it 47 i keep saying it wrong yes it
+
+3
+00:00:04,960 --> 00:00:07,839
+is hello guys and welcome to episode 47
+
+4
+00:00:07,839 --> 00:00:09,360
+of the 10 minute modeling challenge this
+
+5
+00:00:09,360 --> 00:00:11,440
+time it really is number 47. i said it
+
+6
+00:00:11,440 --> 00:00:12,719
+wrong last week but never mind
+
+7
+00:00:12,719 --> 00:00:14,880
+in this video i'm gonna try to do the
+
+8
+00:00:14,880 --> 00:00:16,800
+impossible i'm gonna in 10 minutes
+
+9
+00:00:16,800 --> 00:00:18,880
+create a perfect topology car
+
+10
+00:00:18,880 --> 00:00:21,439
+with all the quads and i'm gonna nail it
+
+11
+00:00:21,439 --> 00:00:22,400
+hopefully
+
+12
+00:00:22,400 --> 00:00:23,920
+let's see how that goes well i've done a
+
+13
+00:00:23,920 --> 00:00:25,920
+lot of low poly cars before but i really
+
+14
+00:00:25,920 --> 00:00:27,599
+wanted to find a way to
+
+15
+00:00:27,599 --> 00:00:30,000
+to model cars quickly and keep that
+
+16
+00:00:30,000 --> 00:00:31,679
+perfect topology and i've never really
+
+17
+00:00:31,679 --> 00:00:32,640
+been a fan
+
+18
+00:00:32,640 --> 00:00:34,399
+where you have to actually model like
+
+19
+00:00:34,399 --> 00:00:35,920
+the side or splines
+
+20
+00:00:35,920 --> 00:00:37,280
+connect them all together and try to
+
+21
+00:00:37,280 --> 00:00:38,879
+keep that quad topology and i've always
+
+22
+00:00:38,879 --> 00:00:40,160
+heard that you shouldn't use
+
+23
+00:00:40,160 --> 00:00:42,559
+a box method to model cars and i've
+
+24
+00:00:42,559 --> 00:00:44,000
+actually always thought myself i can't
+
+25
+00:00:44,000 --> 00:00:45,039
+really create a nice
+
+26
+00:00:45,039 --> 00:00:47,520
+looking car with a box modeling but i
+
+27
+00:00:47,520 --> 00:00:49,360
+spent a bit of time now and i've
+
+28
+00:00:49,360 --> 00:00:51,600
+thought of how it must be possible and i
+
+29
+00:00:51,600 --> 00:00:52,800
+think i've found a method
+
+30
+00:00:52,800 --> 00:00:55,199
+to do it so make sure you stick around
+
+31
+00:00:55,199 --> 00:00:56,640
+now for this video and
+
+32
+00:00:56,640 --> 00:00:58,640
+look at it to the end because gonna do
+
+33
+00:00:58,640 --> 00:01:00,480
+the modeling and then i'm gonna show you
+
+34
+00:01:00,480 --> 00:01:02,320
+the bonus material as well how
+
+35
+00:01:02,320 --> 00:01:04,159
+you can actually work from that model
+
+36
+00:01:04,159 --> 00:01:06,080
+now and start using uh probably
+
+37
+00:01:06,080 --> 00:01:07,760
+proportional editing to get it
+
+38
+00:01:07,760 --> 00:01:10,000
+into doing some crazy stuff so make sure
+
+39
+00:01:10,000 --> 00:01:11,040
+you watch to the end now
+
+40
+00:01:11,040 --> 00:01:14,560
+you've heard me check this out as well
+
+41
+00:01:14,560 --> 00:01:17,360
+it's a book it's the sound of star wars
+
+42
+00:01:17,360 --> 00:01:19,040
+check this out
+
+43
+00:01:19,040 --> 00:01:22,240
+sound 125 it's the ray gun or the laser
+
+44
+00:01:22,240 --> 00:01:24,720
+la serie in swedish of boba fett the
+
+45
+00:01:24,720 --> 00:01:26,799
+bounty hunter this whole book is full of
+
+46
+00:01:26,799 --> 00:01:28,479
+cool stories how they record those sound
+
+47
+00:01:28,479 --> 00:01:30,159
+effects and you might be surprised that
+
+48
+00:01:30,159 --> 00:01:31,600
+everything that you hear in a film
+
+49
+00:01:31,600 --> 00:01:34,320
+is fake for example take a gladiator you
+
+50
+00:01:34,320 --> 00:01:35,920
+see a horse riding in you think that
+
+51
+00:01:35,920 --> 00:01:36,400
+that's
+
+52
+00:01:36,400 --> 00:01:38,320
+the sound of a real horse no no
+
+53
+00:01:38,320 --> 00:01:39,680
+obviously you've got the coconut thing
+
+54
+00:01:39,680 --> 00:01:40,000
+going
+
+55
+00:01:40,000 --> 00:01:42,960
+on with the with that well it doesn't
+
+56
+00:01:42,960 --> 00:01:44,159
+sound like that now but
+
+57
+00:01:44,159 --> 00:01:45,920
+the sword that he pulls out it's like a
+
+58
+00:01:45,920 --> 00:01:47,520
+fish slice and when he rides
+
+59
+00:01:47,520 --> 00:01:50,000
+his armor and uh sword and the shield
+
+60
+00:01:50,000 --> 00:01:51,680
+and stuff that's just uh some
+
+61
+00:01:51,680 --> 00:01:53,600
+rattling chains and some leather straps
+
+62
+00:01:53,600 --> 00:01:55,680
+that someone's swinging
+
+63
+00:01:55,680 --> 00:01:57,600
+yeah even the horse sound itself you'd
+
+64
+00:01:57,600 --> 00:01:59,360
+think that was a real horse but no no no
+
+65
+00:01:59,360 --> 00:02:00,159
+it's the same guy
+
+66
+00:02:00,159 --> 00:02:04,399
+who's like flapping the straps he's gone
+
+67
+00:02:05,680 --> 00:02:07,280
+stuff like that so it's not even a real
+
+68
+00:02:07,280 --> 00:02:09,119
+horse so all the sound effects all the
+
+69
+00:02:09,119 --> 00:02:10,080
+foley stuff
+
+70
+00:02:10,080 --> 00:02:12,239
+is all fake so check that out as well
+
+71
+00:02:12,239 --> 00:02:13,680
+google some videos on it and i might
+
+72
+00:02:13,680 --> 00:02:15,760
+even feature some on a video on my own
+
+73
+00:02:15,760 --> 00:02:16,720
+the lord of the rings
+
+74
+00:02:16,720 --> 00:02:18,560
+flapping of a dragon's wing a cheese
+
+75
+00:02:18,560 --> 00:02:20,080
+crater on a string that they're swinging
+
+76
+00:02:20,080 --> 00:02:20,560
+in the air
+
+77
+00:02:20,560 --> 00:02:22,000
+if you want to support this channel and
+
+78
+00:02:22,000 --> 00:02:23,599
+have a little shout out and if you're
+
+79
+00:02:23,599 --> 00:02:25,120
+watching the premiere you can actually
+
+80
+00:02:25,120 --> 00:02:26,959
+click the little super chat or the super
+
+81
+00:02:26,959 --> 00:02:28,080
+sticker icon
+
+82
+00:02:28,080 --> 00:02:29,760
+and i'll make sure to mention you in the
+
+83
+00:02:29,760 --> 00:02:31,519
+next episode of 10 minute modeling
+
+84
+00:02:31,519 --> 00:02:33,280
+challenge so we had andreas brill and
+
+85
+00:02:33,280 --> 00:02:33,680
+said
+
+86
+00:02:33,680 --> 00:02:35,440
+infensia do you mean like this and
+
+87
+00:02:35,440 --> 00:02:37,040
+exactly andreas that's exactly what i
+
+88
+00:02:37,040 --> 00:02:38,720
+mean and here's your shout out we also
+
+89
+00:02:38,720 --> 00:02:39,040
+had
+
+90
+00:02:39,040 --> 00:02:41,120
+draco so card i can never say your name
+
+91
+00:02:41,120 --> 00:02:42,640
+but you like to hear it because you said
+
+92
+00:02:42,640 --> 00:02:43,360
+me me me
+
+93
+00:02:43,360 --> 00:02:45,440
+i like to hear my name lol and then we
+
+94
+00:02:45,440 --> 00:02:46,720
+have lumenia
+
+95
+00:02:46,720 --> 00:02:49,200
+you uh said happy modeling ducks no
+
+96
+00:02:49,200 --> 00:02:50,080
+dudes
+
+97
+00:02:50,080 --> 00:02:52,640
+yeah and luminia is a guy from denmark
+
+98
+00:02:52,640 --> 00:02:54,000
+and he's making a super cool
+
+99
+00:02:54,000 --> 00:02:55,840
+fireworks game that he's hoping to
+
+100
+00:02:55,840 --> 00:02:57,200
+release i think now before
+
+101
+00:02:57,200 --> 00:02:59,120
+the new year so check that out it's like
+
+102
+00:02:59,120 --> 00:03:00,959
+a low poly style but really neat
+
+103
+00:03:00,959 --> 00:03:02,560
+lush looking fireworks and i actually
+
+104
+00:03:02,560 --> 00:03:04,159
+recorded a few of the sound effects that
+
+105
+00:03:04,159 --> 00:03:05,360
+i used i don't know if you're still
+
+106
+00:03:05,360 --> 00:03:06,959
+using those ones check out that channel
+
+107
+00:03:06,959 --> 00:03:08,400
+i'll put that in the description
+
+108
+00:03:08,400 --> 00:03:10,560
+check out that game and then we had toot
+
+109
+00:03:10,560 --> 00:03:12,959
+84 you said to buy some oreo cookies for
+
+110
+00:03:12,959 --> 00:03:14,000
+the next stream
+
+111
+00:03:14,000 --> 00:03:15,760
+smiley face thanks for all the nice
+
+112
+00:03:15,760 --> 00:03:17,440
+content and thank you for that comment
+
+113
+00:03:17,440 --> 00:03:19,200
+and thanks for their donation because i
+
+114
+00:03:19,200 --> 00:03:21,200
+actually bought myself some oreo cookies
+
+115
+00:03:21,200 --> 00:03:22,800
+and i'd like to show them but i can't
+
+116
+00:03:22,800 --> 00:03:24,400
+because i ate them and so did my kids
+
+117
+00:03:24,400 --> 00:03:25,200
+and my wife
+
+118
+00:03:25,200 --> 00:03:27,040
+so we appreciate that thanks a lot all
+
+119
+00:03:27,040 --> 00:03:28,799
+right strap things on
+
+120
+00:03:28,799 --> 00:03:31,040
+if that's what you do and uh let's get
+
+121
+00:03:31,040 --> 00:03:33,840
+started
+
+122
+00:03:34,480 --> 00:03:36,319
+i have no idea why i'm saying stuff like
+
+123
+00:03:36,319 --> 00:03:37,599
+that
+
+124
+00:03:37,599 --> 00:03:39,519
+okay for cars i've realized that the
+
+125
+00:03:39,519 --> 00:03:41,519
+cavity setting isn't the best
+
+126
+00:03:41,519 --> 00:03:43,280
+even though i've got the merch the
+
+127
+00:03:43,280 --> 00:03:45,200
+cavity shirt here with the default cube
+
+128
+00:03:45,200 --> 00:03:46,159
+of course i'm going to start with the
+
+129
+00:03:46,159 --> 00:03:47,040
+default cube
+
+130
+00:03:47,040 --> 00:03:48,640
+but i have to disable cavity for this
+
+131
+00:03:48,640 --> 00:03:50,239
+one because it doesn't look so good for
+
+132
+00:03:50,239 --> 00:03:50,720
+cars
+
+133
+00:03:50,720 --> 00:03:54,400
+are you ready i'm ready let's get it on
+
+134
+00:03:54,400 --> 00:03:57,280
+i used to watch uh ufc back in the day
+
+135
+00:03:57,280 --> 00:03:58,959
+so here we go ready
+
+136
+00:03:58,959 --> 00:04:02,239
+steady go when we're off yes and auto
+
+137
+00:04:02,239 --> 00:04:04,239
+mirror as usual tab into edit mode
+
+138
+00:04:04,239 --> 00:04:08,239
+scale y five move it up
+
+139
+00:04:08,239 --> 00:04:11,120
+scale z flatten it and now we're gonna
+
+140
+00:04:11,120 --> 00:04:12,640
+do loop cutting
+
+141
+00:04:12,640 --> 00:04:15,360
+ctrl r loop cut one along here and then
+
+142
+00:04:15,360 --> 00:04:16,798
+side view again ctrl r
+
+143
+00:04:16,798 --> 00:04:19,918
+let's put one here ctrl r put one there
+
+144
+00:04:19,918 --> 00:04:23,199
+ctrl r ctrl r there
+
+145
+00:04:23,199 --> 00:04:24,400
+and then one in the middle of each
+
+146
+00:04:24,400 --> 00:04:26,240
+control r control r and then we need one
+
+147
+00:04:26,240 --> 00:04:28,160
+more loop cut ctrl r
+
+148
+00:04:28,160 --> 00:04:30,639
+here and i've said you shouldn't really
+
+149
+00:04:30,639 --> 00:04:32,639
+use a box when you do
+
+150
+00:04:32,639 --> 00:04:34,320
+cars but i've changed my mind now i'm
+
+151
+00:04:34,320 --> 00:04:36,000
+going to use probably this all the time
+
+152
+00:04:36,000 --> 00:04:37,120
+though
+
+153
+00:04:37,120 --> 00:04:39,040
+so eye to inset now and make sure you
+
+154
+00:04:39,040 --> 00:04:40,400
+press b
+
+155
+00:04:40,400 --> 00:04:42,080
+for boundary so you connect it in the
+
+156
+00:04:42,080 --> 00:04:44,400
+center there down below
+
+157
+00:04:44,400 --> 00:04:47,440
+and now we can do side view double click
+
+158
+00:04:47,440 --> 00:04:48,320
+a to d select
+
+159
+00:04:48,320 --> 00:04:50,400
+b to box select just the side ones there
+
+160
+00:04:50,400 --> 00:04:53,120
+shift and deselect these note
+
+161
+00:04:53,120 --> 00:04:56,160
+and then e to extrude quite a bit to
+
+162
+00:04:56,160 --> 00:04:57,440
+there and now we've actually got a
+
+163
+00:04:57,440 --> 00:04:58,800
+pretty cool topology here
+
+164
+00:04:58,800 --> 00:05:02,080
+maybe i'll do alt select
+
+165
+00:05:02,080 --> 00:05:04,560
+those bring that down slightly if i
+
+166
+00:05:04,560 --> 00:05:05,280
+press
+
+167
+00:05:05,280 --> 00:05:06,880
+period make sure i've got medium point
+
+168
+00:05:06,880 --> 00:05:08,800
+here and i'll shift select a bunch of
+
+169
+00:05:08,800 --> 00:05:10,080
+these now i might
+
+170
+00:05:10,080 --> 00:05:12,240
+yeah the time is actually running scale
+
+171
+00:05:12,240 --> 00:05:13,520
+y axis
+
+172
+00:05:13,520 --> 00:05:16,639
+to there select that one shift select
+
+173
+00:05:16,639 --> 00:05:17,039
+these
+
+174
+00:05:17,039 --> 00:05:20,320
+scale y there i'll just do roughly
+
+175
+00:05:20,320 --> 00:05:23,039
+the same and then shift select these and
+
+176
+00:05:23,039 --> 00:05:24,000
+move them up slightly
+
+177
+00:05:24,000 --> 00:05:25,199
+and now we've got pretty good wheel
+
+178
+00:05:25,199 --> 00:05:27,039
+arches that the good thing about these
+
+179
+00:05:27,039 --> 00:05:28,960
+wheel arches now is that you can
+
+180
+00:05:28,960 --> 00:05:32,400
+they're real arches real wheel arches so
+
+181
+00:05:32,400 --> 00:05:34,639
+if i control and shift select a few of
+
+182
+00:05:34,639 --> 00:05:36,320
+these and then now we can bring this in
+
+183
+00:05:36,320 --> 00:05:37,680
+and make those little wide
+
+184
+00:05:37,680 --> 00:05:39,919
+things go in there so i'm gonna make a
+
+185
+00:05:39,919 --> 00:05:41,360
+muscle car i'll um
+
+186
+00:05:41,360 --> 00:05:42,720
+just come up with something on my own
+
+187
+00:05:42,720 --> 00:05:44,960
+but i think i'll uh maybe like a dodge
+
+188
+00:05:44,960 --> 00:05:46,400
+charger inspired
+
+189
+00:05:46,400 --> 00:05:48,160
+front or something where it is a little
+
+190
+00:05:48,160 --> 00:05:49,759
+bit aggressive
+
+191
+00:05:49,759 --> 00:05:53,280
+well maybe move this down to there
+
+192
+00:05:53,280 --> 00:05:55,120
+bring this forward get a little bit of a
+
+193
+00:05:55,120 --> 00:05:57,759
+mean look that should do it
+
+194
+00:05:57,759 --> 00:05:59,680
+and then here in the back we can fix
+
+195
+00:05:59,680 --> 00:06:01,120
+this in a second ctrl
+
+196
+00:06:01,120 --> 00:06:04,560
+r and now i'll shift select these and
+
+197
+00:06:04,560 --> 00:06:06,400
+here's another trick now i to inset
+
+198
+00:06:06,400 --> 00:06:06,800
+again
+
+199
+00:06:06,800 --> 00:06:08,960
+with boundary like this so we get the
+
+200
+00:06:08,960 --> 00:06:10,479
+center pretty good
+
+201
+00:06:10,479 --> 00:06:12,880
+and then e to extrude this one now and
+
+202
+00:06:12,880 --> 00:06:14,639
+it looks like a limo now so i'll
+
+203
+00:06:14,639 --> 00:06:16,560
+fix it a little bit but that's the scale
+
+204
+00:06:16,560 --> 00:06:17,919
+e to extrude there
+
+205
+00:06:17,919 --> 00:06:19,600
+and then now let's shape it into a bit
+
+206
+00:06:19,600 --> 00:06:21,919
+of a rounder shape
+
+207
+00:06:21,919 --> 00:06:25,360
+so just shift select those and
+
+208
+00:06:25,360 --> 00:06:28,160
+we can bring this forward quite a bit
+
+209
+00:06:28,160 --> 00:06:28,800
+now i think
+
+210
+00:06:28,800 --> 00:06:32,400
+so i'll select these whole faces
+
+211
+00:06:32,400 --> 00:06:34,080
+and bring that to there and this one
+
+212
+00:06:34,080 --> 00:06:36,080
+even further oop i'm gonna move that
+
+213
+00:06:36,080 --> 00:06:36,720
+down maybe
+
+214
+00:06:36,720 --> 00:06:40,720
+to there and forward both
+
+215
+00:06:40,720 --> 00:06:42,160
+that's it and we're still on a quad
+
+216
+00:06:42,160 --> 00:06:44,000
+topology here and
+
+217
+00:06:44,000 --> 00:06:47,680
+uh quite it should be quite good to work
+
+218
+00:06:47,680 --> 00:06:48,880
+off now
+
+219
+00:06:48,880 --> 00:06:51,520
+so let's shape this edge here so how am
+
+220
+00:06:51,520 --> 00:06:54,400
+i doing 709
+
+221
+00:06:54,400 --> 00:06:56,800
+bring that in and down a bit the whole
+
+222
+00:06:56,800 --> 00:06:57,759
+edge
+
+223
+00:06:57,759 --> 00:07:02,160
+to there bring this up a bit i'll wait
+
+224
+00:07:02,160 --> 00:07:03,039
+with that actually
+
+225
+00:07:03,039 --> 00:07:06,319
+but i can select this round this off a
+
+226
+00:07:06,319 --> 00:07:06,960
+little bit
+
+227
+00:07:06,960 --> 00:07:10,000
+to there and maybe round this off
+
+228
+00:07:10,000 --> 00:07:12,720
+slightly as well so that's it and it's a
+
+229
+00:07:12,720 --> 00:07:16,000
+little bit too long probably
+
+230
+00:07:16,000 --> 00:07:19,199
+box selected there and a bit too high
+
+231
+00:07:19,199 --> 00:07:23,120
+bring it down and to there
+
+232
+00:07:23,120 --> 00:07:25,840
+okay and this one we can change maybe
+
+233
+00:07:25,840 --> 00:07:26,479
+well
+
+234
+00:07:26,479 --> 00:07:29,039
+some shape
+
+235
+00:07:29,520 --> 00:07:33,039
+rotate there all right
+
+236
+00:07:33,039 --> 00:07:35,440
+all set to see that again and then now
+
+237
+00:07:35,440 --> 00:07:36,800
+we can do control r
+
+238
+00:07:36,800 --> 00:07:38,240
+do one more loop cut this is a nice
+
+239
+00:07:38,240 --> 00:07:39,520
+thing now with that finally having a
+
+240
+00:07:39,520 --> 00:07:41,039
+good topology sorry for
+
+241
+00:07:41,039 --> 00:07:44,400
+leading a stray for a long time but
+
+242
+00:07:44,400 --> 00:07:46,720
+this should work now hopefully now we
+
+243
+00:07:46,720 --> 00:07:48,080
+can just extrude this
+
+244
+00:07:48,080 --> 00:07:50,400
+bonnet or hood depending on where you
+
+245
+00:07:50,400 --> 00:07:53,039
+live in the world
+
+246
+00:07:53,840 --> 00:07:56,560
+so i'll shift select a few of these and
+
+247
+00:07:56,560 --> 00:07:57,280
+then just to
+
+248
+00:07:57,280 --> 00:07:59,280
+e to extrude s to scale this one down
+
+249
+00:07:59,280 --> 00:08:01,440
+let's make it a bit aggressive stylized
+
+250
+00:08:01,440 --> 00:08:04,960
+again it's not gonna
+
+251
+00:08:04,960 --> 00:08:06,240
+be able to see out through that window
+
+252
+00:08:06,240 --> 00:08:08,800
+but that's okay looks pretty cool
+
+253
+00:08:08,800 --> 00:08:12,240
+looks a bit mean okay and that's it
+
+254
+00:08:12,240 --> 00:08:12,879
+let's uh
+
+255
+00:08:12,879 --> 00:08:15,680
+see 548 i'm wasting time here precious
+
+256
+00:08:15,680 --> 00:08:16,160
+time
+
+257
+00:08:16,160 --> 00:08:18,319
+we need to put some lights on here so
+
+258
+00:08:18,319 --> 00:08:19,759
+let's do a headlight
+
+259
+00:08:19,759 --> 00:08:24,240
+in here gg to move that onto the side
+
+260
+00:08:24,240 --> 00:08:26,720
+actually i'll do the whole gg there
+
+261
+00:08:26,720 --> 00:08:27,919
+let's put a headlight here
+
+262
+00:08:27,919 --> 00:08:31,360
+i to inset e to extrude
+
+263
+00:08:31,360 --> 00:08:34,640
+and the grill e takes iten set e to
+
+264
+00:08:34,640 --> 00:08:35,279
+extrude
+
+265
+00:08:35,279 --> 00:08:38,399
+and down and then here make some tail
+
+266
+00:08:38,399 --> 00:08:39,360
+lights
+
+267
+00:08:39,360 --> 00:08:43,519
+iten set e to extrude
+
+268
+00:08:43,519 --> 00:08:46,959
+and i to inset and e to extrude that one
+
+269
+00:08:46,959 --> 00:08:48,080
+as well and then let's
+
+270
+00:08:48,080 --> 00:08:51,200
+do a number plate so to there colorize
+
+271
+00:08:51,200 --> 00:08:51,920
+the car a
+
+272
+00:08:51,920 --> 00:08:54,160
+select everything let's make a blue
+
+273
+00:08:54,160 --> 00:08:55,360
+supercar is that
+
+274
+00:08:55,360 --> 00:08:58,320
+is there such a thing we can bring this
+
+275
+00:08:58,320 --> 00:08:59,920
+down slightly
+
+276
+00:08:59,920 --> 00:09:03,760
+tweak this okay and
+
+277
+00:09:03,760 --> 00:09:07,040
+gg gg slides it pretty good up these
+
+278
+00:09:07,040 --> 00:09:08,560
+edges here let's put a wing on it as
+
+279
+00:09:08,560 --> 00:09:10,160
+well it's probably not very super
+
+280
+00:09:10,160 --> 00:09:11,680
+like a muscle car like but i won't have
+
+281
+00:09:11,680 --> 00:09:13,360
+a wing on this one so let's just do
+
+282
+00:09:13,360 --> 00:09:14,800
+let's wing it
+
+283
+00:09:14,800 --> 00:09:16,880
+we'll do e to extrude this whole thing
+
+284
+00:09:16,880 --> 00:09:18,720
+move it back
+
+285
+00:09:18,720 --> 00:09:22,560
+and then select these i to inset
+
+286
+00:09:22,560 --> 00:09:25,360
+and delete to delete them faces how am i
+
+287
+00:09:25,360 --> 00:09:26,160
+doing 4
+
+288
+00:09:26,160 --> 00:09:29,680
+35 alt shifts like this
+
+289
+00:09:29,680 --> 00:09:31,279
+and then right click on them and do
+
+290
+00:09:31,279 --> 00:09:33,120
+bridge edge loops and that's going to be
+
+291
+00:09:33,120 --> 00:09:33,920
+the wing
+
+292
+00:09:33,920 --> 00:09:37,920
+i think yeah okay let's colorize
+
+293
+00:09:37,920 --> 00:09:40,480
+uh taillights they can be red g on the
+
+294
+00:09:40,480 --> 00:09:41,519
+left side there
+
+295
+00:09:41,519 --> 00:09:44,000
+ctrl plus let's make a darker blue here
+
+296
+00:09:44,000 --> 00:09:45,360
+as if it was shaded
+
+297
+00:09:45,360 --> 00:09:48,959
+and then g get a white number plate
+
+298
+00:09:48,959 --> 00:09:51,200
+and then headlights i guess oh what's
+
+299
+00:09:51,200 --> 00:09:52,080
+happened here
+
+300
+00:09:52,080 --> 00:09:53,440
+i have no idea what's happening here
+
+301
+00:09:53,440 --> 00:09:55,440
+let's hide it this must have been
+
+302
+00:09:55,440 --> 00:09:56,720
+selected i have to fix this
+
+303
+00:09:56,720 --> 00:10:01,040
+control plus delete faces
+
+304
+00:10:01,040 --> 00:10:04,079
+and delete faces oh no
+
+305
+00:10:04,079 --> 00:10:07,279
+delete edges then expect this
+
+306
+00:10:07,279 --> 00:10:10,000
+select a few of these apparently delete
+
+307
+00:10:10,000 --> 00:10:10,800
+edges
+
+308
+00:10:10,800 --> 00:10:13,839
+so i've got plenty of time or something
+
+309
+00:10:13,839 --> 00:10:18,320
+g let's make it dark and then here
+
+310
+00:10:18,320 --> 00:10:20,880
+g orange okay now we'll make some
+
+311
+00:10:20,880 --> 00:10:23,600
+bumpers as well
+
+312
+00:10:25,200 --> 00:10:27,600
+uh i'll select these a little bit over
+
+313
+00:10:27,600 --> 00:10:28,800
+the top probably
+
+314
+00:10:28,800 --> 00:10:30,880
+stylized as well alt e to extrude long
+
+315
+00:10:30,880 --> 00:10:32,160
+phase normals s
+
+316
+00:10:32,160 --> 00:10:34,959
+scale and bring them forward a bit ctrl
+
+317
+00:10:34,959 --> 00:10:35,440
+plus
+
+318
+00:10:35,440 --> 00:10:38,399
+let's make them like a black color or
+
+319
+00:10:38,399 --> 00:10:39,279
+something
+
+320
+00:10:39,279 --> 00:10:42,320
+here as well how am i doing 320
+
+321
+00:10:42,320 --> 00:10:46,560
+ulti extra long face normals moving back
+
+322
+00:10:46,560 --> 00:10:49,920
+control plus do that one a bit very dark
+
+323
+00:10:49,920 --> 00:10:53,680
+lucky thing as well okay now color
+
+324
+00:10:53,680 --> 00:10:55,600
+and uh we'll do the wheel arches here
+
+325
+00:10:55,600 --> 00:10:57,040
+the real wheel arches
+
+326
+00:10:57,040 --> 00:11:01,040
+wheel real wheel wheels on wheels
+
+327
+00:11:01,040 --> 00:11:03,440
+real wheel spare wheels i don't know
+
+328
+00:11:03,440 --> 00:11:05,040
+what i'm talking about
+
+329
+00:11:05,040 --> 00:11:07,519
+what's going on okay i'm shift selecting
+
+330
+00:11:07,519 --> 00:11:08,240
+a view of these
+
+331
+00:11:08,240 --> 00:11:09,760
+and i should have just done a different
+
+332
+00:11:09,760 --> 00:11:11,760
+method but that's okay g to move that on
+
+333
+00:11:11,760 --> 00:11:13,040
+to there
+
+334
+00:11:13,040 --> 00:11:15,040
+and then oh we need maybe to make
+
+335
+00:11:15,040 --> 00:11:16,480
+something that looks a little bit like
+
+336
+00:11:16,480 --> 00:11:18,640
+windows as well not like windows 10 or
+
+337
+00:11:18,640 --> 00:11:20,079
+anything but
+
+338
+00:11:20,079 --> 00:11:23,680
+like car windows
+
+339
+00:11:24,560 --> 00:11:28,320
+and i should probably bring gg slider
+
+340
+00:11:28,320 --> 00:11:30,959
+as well let's try to color it just see
+
+341
+00:11:30,959 --> 00:11:32,079
+if it works
+
+342
+00:11:32,079 --> 00:11:33,920
+so it could be refined a little bit
+
+343
+00:11:33,920 --> 00:11:35,839
+probably
+
+344
+00:11:35,839 --> 00:11:40,720
+g let's make black windows gg
+
+345
+00:11:41,200 --> 00:11:44,160
+and gg okay this could have probably
+
+346
+00:11:44,160 --> 00:11:44,880
+been
+
+347
+00:11:44,880 --> 00:11:48,320
+perhaps a little bit better let's make
+
+348
+00:11:49,519 --> 00:11:53,680
+oh make it blue again okay
+
+349
+00:11:54,079 --> 00:11:55,920
+uh maybe not the best rear window there
+
+350
+00:11:55,920 --> 00:11:57,200
+but i've got two minutes to go and i
+
+351
+00:11:57,200 --> 00:11:58,560
+need to put some wheels on so
+
+352
+00:11:58,560 --> 00:12:02,000
+let's go side view shift right click
+
+353
+00:12:02,000 --> 00:12:05,120
+shift a cylinder and
+
+354
+00:12:05,120 --> 00:12:09,040
+let's do 12 scale zed
+
+355
+00:12:09,040 --> 00:12:13,040
+and let's do uh
+
+356
+00:12:14,000 --> 00:12:15,680
+i have to disable clipping i think move
+
+357
+00:12:15,680 --> 00:12:17,200
+them into there
+
+358
+00:12:17,200 --> 00:12:20,480
+rotate y 90 side view
+
+359
+00:12:20,480 --> 00:12:24,240
+scale them down to there rotate
+
+360
+00:12:24,240 --> 00:12:27,519
+move them up again a scale 0 on the left
+
+361
+00:12:27,519 --> 00:12:30,720
+and g to move it to black move it out to
+
+362
+00:12:30,720 --> 00:12:31,120
+there
+
+363
+00:12:31,120 --> 00:12:33,680
+we can fix this in a second 128 so
+
+364
+00:12:33,680 --> 00:12:34,480
+select that one
+
+365
+00:12:34,480 --> 00:12:37,600
+i to inset a to extrude let's do simple
+
+366
+00:12:37,600 --> 00:12:38,320
+wheels here
+
+367
+00:12:38,320 --> 00:12:42,639
+i to inset e to extrude s to scale
+
+368
+00:12:42,639 --> 00:12:45,519
+control plus a few times to there let's
+
+369
+00:12:45,519 --> 00:12:46,000
+come
+
+370
+00:12:46,000 --> 00:12:49,040
+like a gray like alloy
+
+371
+00:12:49,040 --> 00:12:51,920
+rims shift select these g to move to
+
+372
+00:12:51,920 --> 00:12:52,959
+black so it looks like
+
+373
+00:12:52,959 --> 00:12:56,560
+shadow and
+
+374
+00:12:56,560 --> 00:12:58,480
+move them out we can fix the wheel arch
+
+375
+00:12:58,480 --> 00:12:59,760
+just now a little bit overly aggressive
+
+376
+00:12:59,760 --> 00:13:00,240
+here so
+
+377
+00:13:00,240 --> 00:13:03,680
+l shift d move it to there
+
+378
+00:13:03,680 --> 00:13:06,079
+how am i doing 56 seconds okay here's
+
+379
+00:13:06,079 --> 00:13:07,680
+the nice thing now with the wheel arches
+
+380
+00:13:07,680 --> 00:13:08,800
+we can
+
+381
+00:13:08,800 --> 00:13:12,959
+uh select these if i hit them
+
+382
+00:13:12,959 --> 00:13:16,160
+i'll just shift select this control
+
+383
+00:13:16,160 --> 00:13:18,720
+i actually just do control r of course
+
+384
+00:13:18,720 --> 00:13:21,200
+and then move this in
+
+385
+00:13:21,200 --> 00:13:23,920
+and s to scale a little bit and then
+
+386
+00:13:23,920 --> 00:13:24,320
+here
+
+387
+00:13:24,320 --> 00:13:27,920
+same thing ctrl r scale them
+
+388
+00:13:27,920 --> 00:13:30,160
+and move them into there
+
+389
+00:13:30,160 --> 00:13:31,680
+[Music]
+
+390
+00:13:31,680 --> 00:13:34,480
+and we can do i've got 28 seconds here
+
+391
+00:13:34,480 --> 00:13:35,279
+maybe i can
+
+392
+00:13:35,279 --> 00:13:39,839
+get the rear view mirror gg
+
+393
+00:13:39,839 --> 00:13:43,120
+e to extrude r to rotate g to move
+
+394
+00:13:43,120 --> 00:13:46,240
+front okay this looks really weird so
+
+395
+00:13:46,240 --> 00:13:49,839
+alt said
+
+396
+00:13:51,120 --> 00:13:53,440
+we can fix we can stylize a little bit
+
+397
+00:13:53,440 --> 00:13:54,160
+later on
+
+398
+00:13:54,160 --> 00:13:58,000
+so here rotate
+
+399
+00:13:58,000 --> 00:14:00,240
+it extrude r to rotate one second e
+
+400
+00:14:00,240 --> 00:14:01,120
+takes red
+
+401
+00:14:01,120 --> 00:14:03,270
+that's the scale i rotate that
+
+402
+00:14:03,270 --> 00:14:06,309
+[Music]
+
+403
+00:14:06,560 --> 00:14:08,380
+okay so let's see what we got
+
+404
+00:14:08,380 --> 00:14:10,880
+[Music]
+
+405
+00:14:10,880 --> 00:14:12,800
+so pardon the shape of the car that
+
+406
+00:14:12,800 --> 00:14:14,560
+didn't turn out that all that great
+
+407
+00:14:14,560 --> 00:14:16,800
+but i think the topology is really good
+
+408
+00:14:16,800 --> 00:14:18,240
+and i guess uh it's pretty good that it
+
+409
+00:14:18,240 --> 00:14:18,720
+ended up
+
+410
+00:14:18,720 --> 00:14:20,320
+this uh not so good because now we can
+
+411
+00:14:20,320 --> 00:14:21,519
+actually play a little bit in the bonus
+
+412
+00:14:21,519 --> 00:14:22,639
+material and
+
+413
+00:14:22,639 --> 00:14:25,120
+show why this topology is pretty good uh
+
+414
+00:14:25,120 --> 00:14:26,639
+there are a few things that we could fix
+
+415
+00:14:26,639 --> 00:14:28,560
+with it um there's a few things down
+
+416
+00:14:28,560 --> 00:14:30,160
+here that i did when i scaled it we can
+
+417
+00:14:30,160 --> 00:14:30,480
+do
+
+418
+00:14:30,480 --> 00:14:33,040
+the whole shape is a little bit odd
+
+419
+00:14:33,040 --> 00:14:33,920
+which we can fix
+
+420
+00:14:33,920 --> 00:14:37,199
+all of this now so here comes the bonus
+
+421
+00:14:37,199 --> 00:14:38,720
+tips now and i think yeah this is why
+
+422
+00:14:38,720 --> 00:14:40,480
+you should stay to the end and not just
+
+423
+00:14:40,480 --> 00:14:42,079
+switch off now really stay to the end
+
+424
+00:14:42,079 --> 00:14:44,000
+and watch this bit because
+
+425
+00:14:44,000 --> 00:14:45,519
+if you have this shape and you wanted to
+
+426
+00:14:45,519 --> 00:14:47,360
+start to refine this either into a make
+
+427
+00:14:47,360 --> 00:14:48,560
+it let's say you wanted to change the
+
+428
+00:14:48,560 --> 00:14:50,480
+front here we could uh
+
+429
+00:14:50,480 --> 00:14:53,040
+let's see if i do proportional editing
+
+430
+00:14:53,040 --> 00:14:54,000
+and make sure
+
+431
+00:14:54,000 --> 00:14:56,000
+connected only is on so we don't want to
+
+432
+00:14:56,000 --> 00:14:58,480
+scale the wheels now and then
+
+433
+00:14:58,480 --> 00:15:01,519
+i can do scale z and then
+
+434
+00:15:01,519 --> 00:15:03,600
+scale that up maybe use the mouse wheel
+
+435
+00:15:03,600 --> 00:15:05,040
+to change that
+
+436
+00:15:05,040 --> 00:15:08,399
+maybe i want to bring this down g z
+
+437
+00:15:08,399 --> 00:15:11,040
+scroll the mouse wheel down change it to
+
+438
+00:15:11,040 --> 00:15:13,199
+there maybe
+
+439
+00:15:13,199 --> 00:15:14,800
+g to move that forward even more if you
+
+440
+00:15:14,800 --> 00:15:16,320
+wanted it more aggressive maybe we
+
+441
+00:15:16,320 --> 00:15:17,680
+wanted to change this whole thing
+
+442
+00:15:17,680 --> 00:15:20,240
+a little bit so maybe it's too long so
+
+443
+00:15:20,240 --> 00:15:21,519
+alt z
+
+444
+00:15:21,519 --> 00:15:25,680
+one select these
+
+445
+00:15:25,680 --> 00:15:29,199
+move it in maybe here
+
+446
+00:15:29,199 --> 00:15:32,639
+move that in make it shorter
+
+447
+00:15:32,639 --> 00:15:34,480
+back is way too long here as well so
+
+448
+00:15:34,480 --> 00:15:37,440
+let's do control
+
+449
+00:15:37,519 --> 00:15:40,560
+move it to there move this in
+
+450
+00:15:40,560 --> 00:15:43,440
+move that to there
+
+451
+00:15:44,079 --> 00:15:46,240
+and then alt side again here let's say
+
+452
+00:15:46,240 --> 00:15:47,360
+we wanted to
+
+453
+00:15:47,360 --> 00:15:48,959
+make this rear view mirror actually look
+
+454
+00:15:48,959 --> 00:15:51,040
+a little bit nicer we could do
+
+455
+00:15:51,040 --> 00:15:56,000
+e to extrude has s scale that one down
+
+456
+00:15:56,000 --> 00:15:59,600
+maybe we'll bring these back and
+
+457
+00:15:59,600 --> 00:16:02,399
+the bottom here
+
+458
+00:16:05,199 --> 00:16:08,639
+to there colorize this black g
+
+459
+00:16:08,639 --> 00:16:10,880
+black
+
+460
+00:16:13,680 --> 00:16:17,120
+move that down to there maybe oh that's
+
+461
+00:16:17,120 --> 00:16:19,680
+with too much
+
+462
+00:16:20,839 --> 00:16:23,839
+g
+
+463
+00:16:24,000 --> 00:16:25,839
+okay and here the wheel arches as well
+
+464
+00:16:25,839 --> 00:16:27,759
+here's uh i think this is probably the
+
+465
+00:16:27,759 --> 00:16:28,560
+most important
+
+466
+00:16:28,560 --> 00:16:30,399
+part that i'm most happy with the whole
+
+467
+00:16:30,399 --> 00:16:32,000
+build as well it's uh the fact that
+
+468
+00:16:32,000 --> 00:16:33,920
+these wheel arches now can be really
+
+469
+00:16:33,920 --> 00:16:34,399
+just
+
+470
+00:16:34,399 --> 00:16:35,920
+selected like this usually i ended up
+
+471
+00:16:35,920 --> 00:16:39,759
+with really weird edges right here
+
+472
+00:16:39,759 --> 00:16:41,839
+so but now s to scale if you want to
+
+473
+00:16:41,839 --> 00:16:43,360
+make more room for the wheels you could
+
+474
+00:16:43,360 --> 00:16:45,360
+do o for proportional again as to scale
+
+475
+00:16:45,360 --> 00:16:47,680
+down
+
+476
+00:16:47,680 --> 00:16:50,720
+has to scale it move it up if you want
+
+477
+00:16:50,720 --> 00:16:52,399
+to do that
+
+478
+00:16:52,399 --> 00:16:54,639
+and same here in the back if i do select
+
+479
+00:16:54,639 --> 00:16:55,680
+this one
+
+480
+00:16:55,680 --> 00:16:58,720
+ctrl select to here all the way down to
+
+481
+00:16:58,720 --> 00:17:03,040
+there let's do scale on this one
+
+482
+00:17:03,279 --> 00:17:06,559
+move that in maybe
+
+483
+00:17:08,000 --> 00:17:11,199
+and if you want to bring this in
+
+484
+00:17:11,199 --> 00:17:14,559
+let's select these move oh proportional
+
+485
+00:17:14,559 --> 00:17:15,439
+off now baby
+
+486
+00:17:15,439 --> 00:17:17,280
+bring those in get this whole thing
+
+487
+00:17:17,280 --> 00:17:20,400
+flaring out a little bit more
+
+488
+00:17:22,319 --> 00:17:24,079
+and if you wanted to change here i
+
+489
+00:17:24,079 --> 00:17:25,439
+noticed that the bonnet was a little bit
+
+490
+00:17:25,439 --> 00:17:27,119
+too started too far
+
+491
+00:17:27,119 --> 00:17:30,160
+so let's just slide that back maybe we
+
+492
+00:17:30,160 --> 00:17:31,360
+can do either
+
+493
+00:17:31,360 --> 00:17:34,960
+so it goes like this we can bring
+
+494
+00:17:34,960 --> 00:17:37,600
+this down
+
+495
+00:17:38,320 --> 00:17:46,799
+g g
+
+496
+00:17:46,799 --> 00:17:51,039
+bring this up out
+
+497
+00:17:51,360 --> 00:17:52,799
+and if you want to change the look of
+
+498
+00:17:52,799 --> 00:17:54,480
+the headlights maybe you want this
+
+499
+00:17:54,480 --> 00:17:59,039
+to be more like a teardrop so front view
+
+500
+00:17:59,039 --> 00:18:02,640
+o proportional g move that
+
+501
+00:18:02,640 --> 00:18:07,039
+to maybe like this
+
+502
+00:18:07,039 --> 00:18:14,160
+s to scale it g to move it
+
+503
+00:18:14,160 --> 00:18:17,440
+and then we'll bring this down as well
+
+504
+00:18:17,440 --> 00:18:19,919
+to there
+
+505
+00:18:20,640 --> 00:18:22,559
+we could control select the whole front
+
+506
+00:18:22,559 --> 00:18:24,559
+there maybe drag it forward
+
+507
+00:18:24,559 --> 00:18:27,520
+a little bit pointy nose also a bit over
+
+508
+00:18:27,520 --> 00:18:28,400
+the top maybe
+
+509
+00:18:28,400 --> 00:18:30,000
+i like the film with sylvester stallone
+
+510
+00:18:30,000 --> 00:18:31,760
+over the top
+
+511
+00:18:31,760 --> 00:18:33,520
+cow's a dog a weird film just out of the
+
+512
+00:18:33,520 --> 00:18:35,120
+blue everyone was so
+
+513
+00:18:35,120 --> 00:18:36,960
+hyped on rambo and rocky and stuff that
+
+514
+00:18:36,960 --> 00:18:38,160
+they pretty much binged
+
+515
+00:18:38,160 --> 00:18:40,080
+anything that sylvester stallone pulled
+
+516
+00:18:40,080 --> 00:18:43,120
+out of his
+
+517
+00:18:43,120 --> 00:18:48,640
+repertoire so maybe something like that
+
+518
+00:18:49,600 --> 00:18:51,760
+okay oh yeah i wanted to show this as
+
+519
+00:18:51,760 --> 00:18:53,360
+well i managed to
+
+520
+00:18:53,360 --> 00:18:56,480
+mess up a little bit here you can if you
+
+521
+00:18:56,480 --> 00:18:58,080
+wanted to space these out you could do
+
+522
+00:18:58,080 --> 00:18:58,720
+gg
+
+523
+00:18:58,720 --> 00:19:01,280
+just move them apart a little bit here
+
+524
+00:19:01,280 --> 00:19:01,919
+gg
+
+525
+00:19:01,919 --> 00:19:06,000
+to keep the quad gg
+
+526
+00:19:06,000 --> 00:19:11,039
+gg that's it
+
+527
+00:19:11,039 --> 00:19:13,600
+and you could work on uh fixing the rear
+
+528
+00:19:13,600 --> 00:19:15,440
+window that was a bit strange maybe we
+
+529
+00:19:15,440 --> 00:19:16,240
+can
+
+530
+00:19:16,240 --> 00:19:20,799
+move that forward a bit down
+
+531
+00:19:20,799 --> 00:19:22,880
+so i'm not a car designer by the way so
+
+532
+00:19:22,880 --> 00:19:24,240
+sorry for this
+
+533
+00:19:24,240 --> 00:19:25,600
+i should have probably used some sort of
+
+534
+00:19:25,600 --> 00:19:27,600
+a blueprint the good thing about the 10
+
+535
+00:19:27,600 --> 00:19:28,720
+minute modeling challenge is
+
+536
+00:19:28,720 --> 00:19:30,559
+that i can just blame it on the time
+
+537
+00:19:30,559 --> 00:19:33,039
+frame so
+
+538
+00:19:33,039 --> 00:19:34,160
+and if you wanted to make the whole
+
+539
+00:19:34,160 --> 00:19:36,000
+thing wider a select everything just
+
+540
+00:19:36,000 --> 00:19:36,960
+move it wider
+
+541
+00:19:36,960 --> 00:19:38,880
+that's it or it controls that if you
+
+542
+00:19:38,880 --> 00:19:40,320
+didn't want to make it wider
+
+543
+00:19:40,320 --> 00:19:42,080
+if you really want to go crazy you can
+
+544
+00:19:42,080 --> 00:19:43,600
+actually do that as well and
+
+545
+00:19:43,600 --> 00:19:46,400
+uh check this out let's say we wanted to
+
+546
+00:19:46,400 --> 00:19:47,120
+make a
+
+547
+00:19:47,120 --> 00:19:49,039
+like a fun looking car not that this
+
+548
+00:19:49,039 --> 00:19:50,640
+isn't fun looking this is looking dodgy
+
+549
+00:19:50,640 --> 00:19:51,280
+already
+
+550
+00:19:51,280 --> 00:19:53,679
+but let's go back with proportional now
+
+551
+00:19:53,679 --> 00:19:55,039
+let's go crazy
+
+552
+00:19:55,039 --> 00:19:58,480
+let's do g to move this one scroll it up
+
+553
+00:19:58,480 --> 00:20:01,200
+let's lean that one forward let's pick
+
+554
+00:20:01,200 --> 00:20:02,080
+that one
+
+555
+00:20:02,080 --> 00:20:04,880
+g to move that on scroll it up sometimes
+
+556
+00:20:04,880 --> 00:20:06,960
+i've seen these like cartoony
+
+557
+00:20:06,960 --> 00:20:09,919
+uh looking cars so i wanted to try to
+
+558
+00:20:09,919 --> 00:20:11,600
+make something a little bit similar
+
+559
+00:20:11,600 --> 00:20:15,919
+r to rotate g to move that on
+
+560
+00:20:16,159 --> 00:20:17,919
+let's go even crazier with the front
+
+561
+00:20:17,919 --> 00:20:21,679
+here g
+
+562
+00:20:21,679 --> 00:20:24,960
+r to rotate g
+
+563
+00:20:24,960 --> 00:20:29,200
+that's this looks a bit strange maybe
+
+564
+00:20:29,200 --> 00:20:31,600
+move that one let's do this whole thing
+
+565
+00:20:31,600 --> 00:20:33,280
+g to move this
+
+566
+00:20:33,280 --> 00:20:35,840
+wheel that up let's make it a lot wider
+
+567
+00:20:35,840 --> 00:20:38,080
+here
+
+568
+00:20:40,480 --> 00:20:44,000
+let's select control selected there
+
+569
+00:20:44,000 --> 00:20:49,120
+g x
+
+570
+00:20:49,120 --> 00:20:54,080
+control selector there gx
+
+571
+00:20:54,320 --> 00:21:02,000
+and now you can even r to rotate
+
+572
+00:21:02,000 --> 00:21:06,640
+do the same here ctrl selected to there
+
+573
+00:21:06,640 --> 00:21:09,600
+or to rotate and then we have to do the
+
+574
+00:21:09,600 --> 00:21:10,799
+same with the wheels then
+
+575
+00:21:10,799 --> 00:21:15,039
+so has to scale them up
+
+576
+00:21:15,039 --> 00:21:16,720
+and i think when i see these funny
+
+577
+00:21:16,720 --> 00:21:18,720
+pictures of these they even do the crazy
+
+578
+00:21:18,720 --> 00:21:20,159
+stuff when they draw them like with the
+
+579
+00:21:20,159 --> 00:21:20,640
+wheels
+
+580
+00:21:20,640 --> 00:21:24,720
+so let's bring g x
+
+581
+00:21:24,960 --> 00:21:28,400
+and then here let's do the same thing
+
+582
+00:21:28,400 --> 00:21:28,880
+here
+
+583
+00:21:28,880 --> 00:21:32,000
+l scale that up g
+
+584
+00:21:32,000 --> 00:21:36,240
+pick the bottom g x
+
+585
+00:21:37,360 --> 00:21:39,440
+and here we can just g to move this
+
+586
+00:21:39,440 --> 00:21:44,559
+whole thing to make it fit
+
+587
+00:21:44,559 --> 00:21:47,440
+like that and i understand if you don't
+
+588
+00:21:47,440 --> 00:21:49,039
+like this card that's perfectly fine i
+
+589
+00:21:49,039 --> 00:21:50,480
+just wanted to make a point that you can
+
+590
+00:21:50,480 --> 00:21:51,919
+make them uh really
+
+591
+00:21:51,919 --> 00:21:53,760
+like the cartoon stylized ones again
+
+592
+00:21:53,760 --> 00:21:55,679
+with the topology now it should deform
+
+593
+00:21:55,679 --> 00:21:57,039
+really nicely well
+
+594
+00:21:57,039 --> 00:21:59,600
+not that this is deforming that nicely
+
+595
+00:21:59,600 --> 00:22:00,480
+but
+
+596
+00:22:00,480 --> 00:22:01,840
+you get the point i think that you could
+
+597
+00:22:01,840 --> 00:22:05,360
+make these uh funky looking cars
+
+598
+00:22:05,360 --> 00:22:08,400
+and maybe we'll do a over the top here
+
+599
+00:22:08,400 --> 00:22:09,440
+with a
+
+600
+00:22:09,440 --> 00:22:12,640
+bonnet or the hood let's do one of those
+
+601
+00:22:12,640 --> 00:22:15,760
+intakes here as well
+
+602
+00:22:15,760 --> 00:22:18,640
+e to extrude
+
+603
+00:22:19,919 --> 00:22:22,559
+bring this in
+
+604
+00:22:23,600 --> 00:22:27,440
+and bring that up even more
+
+605
+00:22:27,440 --> 00:22:31,840
+g is that oh no g y
+
+606
+00:22:32,080 --> 00:22:35,600
+and g is that that's what i want
+
+607
+00:22:35,600 --> 00:22:41,840
+i to inset e to extrude
+
+608
+00:22:47,520 --> 00:22:52,559
+g okay g
+
+609
+00:22:52,840 --> 00:22:55,840
+proportional
+
+610
+00:22:58,080 --> 00:23:00,400
+all right
+
+611
+00:23:03,840 --> 00:23:07,919
+shift selector there rotate
+
+612
+00:23:12,159 --> 00:23:13,840
+i've always thought that box modeling
+
+613
+00:23:13,840 --> 00:23:15,360
+didn't really allow you to create a good
+
+614
+00:23:15,360 --> 00:23:17,200
+car and i've even seen tutorials from
+
+615
+00:23:17,200 --> 00:23:19,280
+some established people to say that
+
+616
+00:23:19,280 --> 00:23:21,840
+don't start from a box start from from
+
+617
+00:23:21,840 --> 00:23:22,799
+splines instead
+
+618
+00:23:22,799 --> 00:23:24,640
+but the two key things here that i think
+
+619
+00:23:24,640 --> 00:23:26,000
+really makes this work is
+
+620
+00:23:26,000 --> 00:23:27,600
+when you do the wheel arches that you do
+
+621
+00:23:27,600 --> 00:23:30,080
+the inset with the boundary off
+
+622
+00:23:30,080 --> 00:23:32,159
+and also when you extrude the top of the
+
+623
+00:23:32,159 --> 00:23:34,320
+car but you also do an inset and then
+
+624
+00:23:34,320 --> 00:23:36,240
+you extrude that inset that's going to
+
+625
+00:23:36,240 --> 00:23:37,919
+be the key takeaway from this video that
+
+626
+00:23:37,919 --> 00:23:38,640
+you can make
+
+627
+00:23:38,640 --> 00:23:41,279
+car topology from box modeling and you
+
+628
+00:23:41,279 --> 00:23:42,799
+can get it pretty good as well and
+
+629
+00:23:42,799 --> 00:23:44,480
+you can keep those quad going you don't
+
+630
+00:23:44,480 --> 00:23:45,919
+really have to compromise on them
+
+631
+00:23:45,919 --> 00:23:46,720
+anywhere
+
+632
+00:23:46,720 --> 00:23:48,480
+and you'll always be able to do the loop
+
+633
+00:23:48,480 --> 00:23:50,559
+cuts it'll always deform nicely
+
+634
+00:23:50,559 --> 00:23:52,080
+i'm really really happy that i found
+
+635
+00:23:52,080 --> 00:23:53,840
+this method now because i've it's been a
+
+636
+00:23:53,840 --> 00:23:55,440
+bit it's probably going to be the
+
+637
+00:23:55,440 --> 00:23:57,600
+holy grail for me when it comes to
+
+638
+00:23:57,600 --> 00:23:59,039
+modeling because i always like to start
+
+639
+00:23:59,039 --> 00:24:00,799
+with a box i don't really like the
+
+640
+00:24:00,799 --> 00:24:03,120
+spline modeling where you outline them
+
+641
+00:24:03,120 --> 00:24:04,080
+and i'm really really
+
+642
+00:24:04,080 --> 00:24:06,320
+happy that this box method now works and
+
+643
+00:24:06,320 --> 00:24:08,799
+i'm super excited about the wheel arches
+
+644
+00:24:08,799 --> 00:24:10,640
+because the loop cuts now will allow you
+
+645
+00:24:10,640 --> 00:24:12,720
+to keep those arches coming out
+
+646
+00:24:12,720 --> 00:24:14,799
+and always when i've done trying to keep
+
+647
+00:24:14,799 --> 00:24:16,799
+the quads when i do spine modeling i
+
+648
+00:24:16,799 --> 00:24:18,080
+always end up messing it up
+
+649
+00:24:18,080 --> 00:24:20,320
+around those arches so i hope you
+
+650
+00:24:20,320 --> 00:24:21,840
+managed to take some stuff away from
+
+651
+00:24:21,840 --> 00:24:23,360
+this as well and i think i'm gonna do a
+
+652
+00:24:23,360 --> 00:24:25,520
+proper tutorial on this topic as well
+
+653
+00:24:25,520 --> 00:24:27,440
+maybe i don't have to stress the car to
+
+654
+00:24:27,440 --> 00:24:29,520
+make it look a little bit so
+
+655
+00:24:29,520 --> 00:24:31,200
+so weird of a car maybe i can actually
+
+656
+00:24:31,200 --> 00:24:33,679
+use a blueprint so i make some real cars
+
+657
+00:24:33,679 --> 00:24:35,840
+how about that i'm going to upload this
+
+658
+00:24:35,840 --> 00:24:38,000
+to my patreon page so anyone on the
+
+659
+00:24:38,000 --> 00:24:38,960
+tutorial tier
+
+660
+00:24:38,960 --> 00:24:40,880
+which is two dollars at the moment
+
+661
+00:24:40,880 --> 00:24:42,400
+anyone on that tier will be able to
+
+662
+00:24:42,400 --> 00:24:43,840
+download this blend file have a play
+
+663
+00:24:43,840 --> 00:24:45,440
+with it and all the other 40
+
+664
+00:24:45,440 --> 00:24:47,279
+whatever episodes that i've got those
+
+665
+00:24:47,279 --> 00:24:48,960
+blend files will be added there as well
+
+666
+00:24:48,960 --> 00:24:51,360
+so head over to patreon.compencia if you
+
+667
+00:24:51,360 --> 00:24:52,720
+want to give that a little bit of extra
+
+668
+00:24:52,720 --> 00:24:54,000
+support and hit the like button if you
+
+669
+00:24:54,000 --> 00:24:55,679
+liked the video and subscribe if you
+
+670
+00:24:55,679 --> 00:24:56,640
+haven't already
+
+671
+00:24:56,640 --> 00:24:58,320
+and i'm going to see you next week for
+
+672
+00:24:58,320 --> 00:25:00,960
+another 10 minute modeling challenge
+
+673
+00:25:00,960 --> 00:25:15,840
+bye for now
+
+674
+00:25:25,900 --> 00:25:29,919
+[Music]
+
+675
+00:25:29,919 --> 00:25:32,000
+you
+

@@ -1,0 +1,1412 @@
+1
+00:00:00,000 --> 00:00:01,530
+hope you've had a good week so far it's
+
+2
+00:00:01,530 --> 00:00:04,490
+gonna be episode 27 of the lope oh no
+
+3
+00:00:04,490 --> 00:00:06,779
+I'm in Sweden where it's usually quite
+
+4
+00:00:06,779 --> 00:00:09,150
+cold and right now it's too warm for me
+
+5
+00:00:09,150 --> 00:00:10,920
+it's 28 degrees Celsius and that's like
+
+6
+00:00:10,920 --> 00:00:11,820
+a sauna for me
+
+7
+00:00:11,820 --> 00:00:13,500
+so struggling here a little bit but I'm
+
+8
+00:00:13,500 --> 00:00:14,759
+in the basement at least that's the
+
+9
+00:00:14,759 --> 00:00:16,740
+coolest place in the house literally
+
+10
+00:00:16,740 --> 00:00:18,600
+because there's my computer room as well
+
+11
+00:00:18,600 --> 00:00:19,800
+like I said I hope you've had a good
+
+12
+00:00:19,800 --> 00:00:22,500
+week so far and it's time for episode 27
+
+13
+00:00:22,500 --> 00:00:24,210
+of the ten minute modelling challenge so
+
+14
+00:00:24,210 --> 00:00:26,250
+welcome to that one I'm excited this
+
+15
+00:00:26,250 --> 00:00:28,019
+past week I've worked on the game the
+
+16
+00:00:28,019 --> 00:00:29,699
+RTS game quite a bit I've there played a
+
+17
+00:00:29,699 --> 00:00:32,040
+little bit EVE Online with my son I used
+
+18
+00:00:32,040 --> 00:00:35,579
+to play that game 2004 to 2006 so that's
+
+19
+00:00:35,579 --> 00:00:37,890
+a long time ago and I'm a space fan
+
+20
+00:00:37,890 --> 00:00:39,960
+really loved that game but it just takes
+
+21
+00:00:39,960 --> 00:00:41,579
+up too much time but now dropped in a
+
+22
+00:00:41,579 --> 00:00:42,870
+little bit during the last week because
+
+23
+00:00:42,870 --> 00:00:45,120
+my son plays it and he wants to get into
+
+24
+00:00:45,120 --> 00:00:46,950
+it so I thought I'll spare some time I'm
+
+25
+00:00:46,950 --> 00:00:48,690
+a complete noob so I'm not getting
+
+26
+00:00:48,690 --> 00:00:50,190
+anything done I'm doing a few random
+
+27
+00:00:50,190 --> 00:00:52,230
+missions and just there skilling up a
+
+28
+00:00:52,230 --> 00:00:53,430
+little bit again so if you haven't
+
+29
+00:00:53,430 --> 00:00:54,480
+played EVE Online you should try it
+
+30
+00:00:54,480 --> 00:00:55,770
+maybe one day if you want to have no
+
+31
+00:00:55,770 --> 00:00:57,930
+time left in your life I don't want if
+
+32
+00:00:57,930 --> 00:00:59,699
+you've already got no time and then you
+
+33
+00:00:59,699 --> 00:01:01,050
+tried Eve that's the real challenge
+
+34
+00:01:01,050 --> 00:01:03,149
+another thing I did last week was I
+
+35
+00:01:03,149 --> 00:01:05,430
+edited a video I've created a low poly
+
+36
+00:01:05,430 --> 00:01:07,619
+tutorial so it's about an hour and a
+
+37
+00:01:07,619 --> 00:01:09,570
+half long so like a full feature film
+
+38
+00:01:09,570 --> 00:01:11,970
+really too long probably but I wanted to
+
+39
+00:01:11,970 --> 00:01:13,500
+make a video I've had a lot of requests
+
+40
+00:01:13,500 --> 00:01:15,960
+to do a slow video where I'd go through
+
+41
+00:01:15,960 --> 00:01:18,299
+everything in detail so in contrast to
+
+42
+00:01:18,299 --> 00:01:20,250
+these 10 min builds I've made that video
+
+43
+00:01:20,250 --> 00:01:21,720
+now so I'm gonna publish it and it's
+
+44
+00:01:21,720 --> 00:01:23,040
+basically everything I've learned about
+
+45
+00:01:23,040 --> 00:01:24,960
+low poly modeling in one long video
+
+46
+00:01:24,960 --> 00:01:27,299
+where I talk a lot I haven't even put
+
+47
+00:01:27,299 --> 00:01:29,369
+any music in that video being one and a
+
+48
+00:01:29,369 --> 00:01:30,930
+half hours I thought people can choose
+
+49
+00:01:30,930 --> 00:01:32,820
+their own music and won't have that and
+
+50
+00:01:32,820 --> 00:01:34,950
+then they can skip forward back and hear
+
+51
+00:01:34,950 --> 00:01:36,619
+what I say hopefully to celebrate
+
+52
+00:01:36,619 --> 00:01:38,640
+space-themed I haven't done space in a
+
+53
+00:01:38,640 --> 00:01:40,140
+long time and I'm gonna try to make
+
+54
+00:01:40,140 --> 00:01:42,750
+spaceships as many as I can in ten
+
+55
+00:01:42,750 --> 00:01:44,399
+minutes and I'm gonna make the modular
+
+56
+00:01:44,399 --> 00:01:45,659
+if you've seen any of my past videos
+
+57
+00:01:45,659 --> 00:01:47,820
+I've done some modular spaceships so I'm
+
+58
+00:01:47,820 --> 00:01:49,320
+gonna try that now I'm gonna try to do
+
+59
+00:01:49,320 --> 00:01:50,700
+that in ten minutes it's a bit of a time
+
+60
+00:01:50,700 --> 00:01:52,799
+thief I think you know considering I
+
+61
+00:01:52,799 --> 00:01:54,329
+made ten cars you might be easy to think
+
+62
+00:01:54,329 --> 00:01:56,520
+I'll do at least 10 or more ships but
+
+63
+00:01:56,520 --> 00:01:58,200
+don't think I'll even get that far so
+
+64
+00:01:58,200 --> 00:01:59,520
+let's see how many we can do in 10
+
+65
+00:01:59,520 --> 00:02:02,189
+minutes yes it's taken on a mirror top
+
+66
+00:02:02,189 --> 00:02:04,649
+internet mode free a select everything
+
+67
+00:02:04,649 --> 00:02:07,560
+scale it down scale on the y-axis and
+
+68
+00:02:07,560 --> 00:02:08,729
+then we're gonna make some modules here
+
+69
+00:02:08,729 --> 00:02:11,550
+shift d on the y-axis for
+
+70
+00:02:11,550 --> 00:02:13,980
+shift are a few times let's make six
+
+71
+00:02:13,980 --> 00:02:16,470
+modules first one here control are it's
+
+72
+00:02:16,470 --> 00:02:17,970
+going to be a cockpit so I'll just scale
+
+73
+00:02:17,970 --> 00:02:20,640
+on proportional off scale it up control
+
+74
+00:02:20,640 --> 00:02:24,750
+our scale that one up and let's do here
+
+75
+00:02:24,750 --> 00:02:30,240
+as well Luke I am B and alt s to scale
+
+76
+00:02:30,240 --> 00:02:32,430
+up that's it that's our cockpit so let's
+
+77
+00:02:32,430 --> 00:02:34,530
+make it like here's another thing let's
+
+78
+00:02:34,530 --> 00:02:36,360
+make just some random shape a bit
+
+79
+00:02:36,360 --> 00:02:37,310
+similar to that one
+
+80
+00:02:37,310 --> 00:02:44,310
+l scale it up and let's scale that and
+
+81
+00:02:44,310 --> 00:02:46,560
+let's scale this I'll just do some
+
+82
+00:02:46,560 --> 00:02:47,430
+random edits here
+
+83
+00:02:47,430 --> 00:02:50,810
+oh god no clear what I'm doing all the
+
+84
+00:02:50,810 --> 00:02:54,750
+scale let's do all select that one I to
+
+85
+00:02:54,750 --> 00:02:58,140
+inset all T face normals and let's do
+
+86
+00:02:58,140 --> 00:02:59,400
+something as well just to make a little
+
+87
+00:02:59,400 --> 00:03:02,100
+bit more interesting I to inset that all
+
+88
+00:03:02,100 --> 00:03:06,630
+t to extrude scale have to fix this it's
+
+89
+00:03:06,630 --> 00:03:10,860
+a bit broken so that's a some well
+
+90
+00:03:10,860 --> 00:03:12,570
+flatten it a bit looks a bit too chubby
+
+91
+00:03:12,570 --> 00:03:15,570
+to to round L scales okay that's gonna
+
+92
+00:03:15,570 --> 00:03:17,700
+have to be it let's do some weird module
+
+93
+00:03:17,700 --> 00:03:21,360
+here and maybe six cups all select these
+
+94
+00:03:21,360 --> 00:03:25,680
+it--in set and period and go to
+
+95
+00:03:25,680 --> 00:03:27,330
+individual origins scale those down
+
+96
+00:03:27,330 --> 00:03:29,430
+let's make that orange have it glow a
+
+97
+00:03:29,430 --> 00:03:31,650
+little bit here another module let's
+
+98
+00:03:31,650 --> 00:03:32,880
+just make something a little bit longer
+
+99
+00:03:32,880 --> 00:03:36,480
+maybe control or again move that back
+
+100
+00:03:36,480 --> 00:03:40,800
+move it out control our it sounds like
+
+101
+00:03:40,800 --> 00:03:42,530
+the Pirates control
+
+102
+00:03:42,530 --> 00:03:44,760
+but then a missile like a pirate anyway
+
+103
+00:03:44,760 --> 00:03:48,450
+that's okay Alti make some other module
+
+104
+00:03:48,450 --> 00:03:51,110
+here maybe
+
+105
+00:03:51,200 --> 00:03:54,120
+right insert that each extrude best
+
+106
+00:03:54,120 --> 00:03:57,120
+scale and let's bring the salute extra
+
+107
+00:03:57,120 --> 00:03:58,980
+Buster scale how am i doing 802 okay
+
+108
+00:03:58,980 --> 00:04:01,560
+let's make an engine here I need some
+
+109
+00:04:01,560 --> 00:04:06,420
+more space for that so I'm going to
+
+110
+00:04:06,420 --> 00:04:09,150
+disable clipping on that on and move it
+
+111
+00:04:09,150 --> 00:04:13,230
+out and press F to cap it ctrl R let's
+
+112
+00:04:13,230 --> 00:04:15,810
+loop cut it not that we control or
+
+113
+00:04:15,810 --> 00:04:20,608
+control the part I'll scale why control
+
+114
+00:04:20,608 --> 00:04:25,890
+R let's loop cut here scale that down
+
+115
+00:04:25,890 --> 00:04:29,040
+oh I have to go to edge select a scale
+
+116
+00:04:29,040 --> 00:04:33,960
+on the Z scale on X okay and here let's
+
+117
+00:04:33,960 --> 00:04:36,810
+make the engine eat extrude oh I forgot
+
+118
+00:04:36,810 --> 00:04:39,390
+I'm not in the mirror section here e to
+
+119
+00:04:39,390 --> 00:04:42,870
+extrude s to scale I to inset e to
+
+120
+00:04:42,870 --> 00:04:44,640
+extrude n control force a few times
+
+121
+00:04:44,640 --> 00:04:47,300
+making block in the back us in a bit
+
+122
+00:04:47,300 --> 00:04:51,930
+dark here we need to also do ITIN set e
+
+123
+00:04:51,930 --> 00:04:55,650
+to extrude control also me to there make
+
+124
+00:04:55,650 --> 00:04:58,560
+that dark control our six loop cuts here
+
+125
+00:04:58,560 --> 00:04:59,010
+as well
+
+126
+00:04:59,010 --> 00:05:02,160
+scale on the y-axis okay we need medium
+
+127
+00:05:02,160 --> 00:05:06,479
+scale Y and let's do some loop
+
+128
+00:05:06,479 --> 00:05:10,260
+selections here I 10 set and alt s to
+
+129
+00:05:10,260 --> 00:05:13,680
+scale them down and make them and we
+
+130
+00:05:13,680 --> 00:05:15,930
+need a wing as well so L clipping is off
+
+131
+00:05:15,930 --> 00:05:20,010
+what's the F to cap it clipping on scale
+
+132
+00:05:20,010 --> 00:05:22,620
+that let's make it flat e to extrude s
+
+133
+00:05:22,620 --> 00:05:25,560
+to scale e to extrude s to scale here we
+
+134
+00:05:25,560 --> 00:05:27,510
+go e to extrude as the scale I'm going
+
+135
+00:05:27,510 --> 00:05:29,340
+to bring this up a little bit and then
+
+136
+00:05:29,340 --> 00:05:31,890
+ctrl + rotate on the y axis and get some
+
+137
+00:05:31,890 --> 00:05:34,950
+bender to this one move it in control
+
+138
+00:05:34,950 --> 00:05:38,010
+art let's make a loop cut here as well
+
+139
+00:05:38,010 --> 00:05:43,080
+scale it I didn't set that on scale that
+
+140
+00:05:43,080 --> 00:05:46,200
+and make it orange to draw okay 6:15
+
+141
+00:05:46,200 --> 00:05:47,520
+arms have to start making some
+
+142
+00:05:47,520 --> 00:05:49,650
+spaceships now so let's select this
+
+143
+00:05:49,650 --> 00:05:51,710
+whole object shift D to duplicate at X
+
+144
+00:05:51,710 --> 00:05:54,120
+minus 8 and shift
+
+145
+00:05:54,120 --> 00:05:58,020
+maybe I'll just to 5 that's probably all
+
+146
+00:05:58,020 --> 00:06:00,700
+so let's start assembling here this one
+
+147
+00:06:00,700 --> 00:06:04,270
+will just make scale on the y-axis bring
+
+148
+00:06:04,270 --> 00:06:07,300
+that on in able to select the linked put
+
+149
+00:06:07,300 --> 00:06:08,680
+it there I'll just have to do something
+
+150
+00:06:08,680 --> 00:06:12,630
+wrong to me rotates on the x-axis and
+
+151
+00:06:12,630 --> 00:06:16,780
+here get grab an engine not on there
+
+152
+00:06:16,780 --> 00:06:19,120
+that's gonna have to do first one I
+
+153
+00:06:19,120 --> 00:06:21,400
+don't have to change so much so that's
+
+154
+00:06:21,400 --> 00:06:24,370
+our first spaceship here another
+
+155
+00:06:24,370 --> 00:06:27,790
+cockpits tab into that one and let's
+
+156
+00:06:27,790 --> 00:06:32,190
+move that today I have to move control
+
+157
+00:06:32,190 --> 00:06:35,170
+okay I don't know why that's happened
+
+158
+00:06:35,170 --> 00:06:38,380
+well I've changed the center point here
+
+159
+00:06:38,380 --> 00:06:40,710
+which is really frustrating there we go
+
+160
+00:06:40,710 --> 00:06:44,950
+okay and scale X okay how should I do
+
+161
+00:06:44,950 --> 00:06:47,560
+this one rotate on the z axis maybe move
+
+162
+00:06:47,560 --> 00:06:51,580
+it out there let's rotate on the X let's
+
+163
+00:06:51,580 --> 00:06:56,790
+make some weird rotate X shifty rotate X
+
+164
+00:06:56,790 --> 00:07:01,240
+grab some engines maybe I'll put one
+
+165
+00:07:01,240 --> 00:07:05,290
+here and grab some wings here what's
+
+166
+00:07:05,290 --> 00:07:08,040
+happen here to these
+
+167
+00:07:09,999 --> 00:07:12,699
+okay I've done something here so this
+
+168
+00:07:12,699 --> 00:07:17,619
+one's gonna have no wings apparently we
+
+169
+00:07:17,619 --> 00:07:18,639
+can just make something else then
+
+170
+00:07:18,639 --> 00:07:23,559
+instead eat extrude that's the scale
+
+171
+00:07:23,559 --> 00:07:26,319
+that's gonna be at 435 I don't know what
+
+172
+00:07:26,319 --> 00:07:27,219
+happened to that wing I probably
+
+173
+00:07:27,219 --> 00:07:31,779
+destroyed it someone here L white Zeus
+
+174
+00:07:31,779 --> 00:07:33,759
+get on why here let's make something on
+
+175
+00:07:33,759 --> 00:07:36,729
+the scale a lot and maybe rotate on the
+
+176
+00:07:36,729 --> 00:07:42,029
+y-axis as well get that one said there
+
+177
+00:07:42,029 --> 00:07:49,619
+let's grab it today L on this one scale
+
+178
+00:07:49,619 --> 00:07:53,919
+okay what should we do this on rotate X
+
+179
+00:07:53,919 --> 00:07:57,519
+again scale it up a little bit down to
+
+180
+00:07:57,519 --> 00:08:00,519
+here maybe shifty duplicate that one as
+
+181
+00:08:00,519 --> 00:08:03,519
+well so 358 let's put some engines here
+
+182
+00:08:03,519 --> 00:08:06,789
+I'll scale those and you're not a little
+
+183
+00:08:06,789 --> 00:08:09,339
+bit should we do four engines on this
+
+184
+00:08:09,339 --> 00:08:13,809
+beast thanks oh yeah some wings they
+
+185
+00:08:13,809 --> 00:08:16,469
+were tiny about to scale these up to
+
+186
+00:08:16,469 --> 00:08:22,119
+scale Oh rotate why we're running out of
+
+187
+00:08:22,119 --> 00:08:23,589
+space between the ships here let's make
+
+188
+00:08:23,589 --> 00:08:24,759
+something that looks a bit like an
+
+189
+00:08:24,759 --> 00:08:27,009
+x-wing thing shifty I guess I have to
+
+190
+00:08:27,009 --> 00:08:28,149
+separate these little bit later on
+
+191
+00:08:28,149 --> 00:08:29,979
+doesn't matter if they're overlapping a
+
+192
+00:08:29,979 --> 00:08:32,019
+little bit now I can fix that scale
+
+193
+00:08:32,019 --> 00:08:34,439
+those down
+
+194
+00:08:35,669 --> 00:08:39,799
+okay 3:23 let's make another ship here I
+
+195
+00:08:39,799 --> 00:08:41,909
+have to move these south to give them
+
+196
+00:08:41,909 --> 00:08:44,850
+some spaceship space G omit this one
+
+197
+00:08:44,850 --> 00:08:46,830
+okay let's make some something else here
+
+198
+00:08:46,830 --> 00:08:50,610
+L to select link but wider let's bring
+
+199
+00:08:50,610 --> 00:08:52,110
+this out a little bit
+
+200
+00:08:52,110 --> 00:09:01,320
+scale L rotate is that let's bring that
+
+201
+00:09:01,320 --> 00:09:07,340
+back to there maybe rotate that L just
+
+202
+00:09:07,340 --> 00:09:11,160
+make something chunky here as well shift
+
+203
+00:09:11,160 --> 00:09:14,070
+D to duplicate that one move it out
+
+204
+00:09:14,070 --> 00:09:19,170
+rotate X yeah select these linked I'm
+
+205
+00:09:19,170 --> 00:09:26,220
+doing 240 shift D okay more engines so
+
+206
+00:09:26,220 --> 00:09:33,540
+let's bring these so let's put scale to
+
+207
+00:09:33,540 --> 00:09:35,280
+there maybe and then here what should we
+
+208
+00:09:35,280 --> 00:09:36,660
+do these just bring these down I guess
+
+209
+00:09:36,660 --> 00:09:39,540
+let's scale these wings scale on the y
+
+210
+00:09:39,540 --> 00:09:40,800
+axis make them a bit longer
+
+211
+00:09:40,800 --> 00:09:42,540
+you can probably pull this out as well
+
+212
+00:09:42,540 --> 00:09:46,350
+make that one longer maybe do something
+
+213
+00:09:46,350 --> 00:09:50,730
+like scale or e to extrude these stop
+
+214
+00:09:50,730 --> 00:09:55,440
+them back to scale those down and out at
+
+215
+00:09:55,440 --> 00:09:59,370
+sea 240 no - OH - what am I going on
+
+216
+00:09:59,370 --> 00:10:05,160
+loves the thumb there maybe rotate Y
+
+217
+00:10:05,160 --> 00:10:07,590
+that's Y okay
+
+218
+00:10:07,590 --> 00:10:09,300
+one more ship and then I'll tweak the
+
+219
+00:10:09,300 --> 00:10:12,990
+little bit as well l scale okay you
+
+220
+00:10:12,990 --> 00:10:14,580
+should do some different type of design
+
+221
+00:10:14,580 --> 00:10:17,790
+here maybe so let's go forward with this
+
+222
+00:10:17,790 --> 00:10:20,580
+stuff here and help
+
+223
+00:10:20,580 --> 00:10:27,780
+let's do clipping off cap those clipping
+
+224
+00:10:27,780 --> 00:10:34,920
+on put them their engines their wings
+
+225
+00:10:34,920 --> 00:10:41,040
+125 okay let's see scale there are some
+
+226
+00:10:41,040 --> 00:10:47,120
+small ship here rotates on the y axis
+
+227
+00:10:50,150 --> 00:10:53,970
+that in scale that thumb okay so I'll
+
+228
+00:10:53,970 --> 00:10:55,650
+just tweak some of their I've got one
+
+229
+00:10:55,650 --> 00:10:56,910
+minute to do so let's just do some
+
+230
+00:10:56,910 --> 00:10:59,460
+tweaking to decent this one maybe could
+
+231
+00:10:59,460 --> 00:11:03,210
+do with some feature here so select a
+
+232
+00:11:03,210 --> 00:11:06,060
+few these items that those eat extra
+
+233
+00:11:06,060 --> 00:11:09,740
+down and then call it up a bit darker
+
+234
+00:11:09,740 --> 00:11:12,870
+there maybe what should we do this shift
+
+235
+00:11:12,870 --> 00:11:14,430
+as well maybe we'll give it some
+
+236
+00:11:14,430 --> 00:11:16,770
+features on the wing here as well and
+
+237
+00:11:16,770 --> 00:11:24,240
+eats extrude up scale its scale okay
+
+238
+00:11:24,240 --> 00:11:26,670
+and for this ship here we've got thirty
+
+239
+00:11:26,670 --> 00:11:28,770
+four seconds just do some more tweaks
+
+240
+00:11:28,770 --> 00:11:32,190
+here so topping to that on scale up on
+
+241
+00:11:32,190 --> 00:11:35,340
+down a bit here maybe select those I
+
+242
+00:11:35,340 --> 00:11:39,450
+think sets each extrude select a few
+
+243
+00:11:39,450 --> 00:11:42,530
+these I two inserts it extrudes I
+
+244
+00:11:42,530 --> 00:11:43,650
+Tennyson
+
+245
+00:11:43,650 --> 00:11:45,600
+eat extrude down and just make them
+
+246
+00:11:45,600 --> 00:11:49,320
+large thirteen seconds to go so I'm here
+
+247
+00:11:49,320 --> 00:11:52,650
+as well I ten sets each extruded s to
+
+248
+00:11:52,650 --> 00:11:58,590
+scale but eat to extrude s to scale one
+
+249
+00:11:58,590 --> 00:11:59,940
+second to go that's it
+
+250
+00:11:59,940 --> 00:12:03,650
+one two three four five
+
+251
+00:12:07,130 --> 00:12:09,480
+hmm recorded this one actually myself
+
+252
+00:12:09,480 --> 00:12:12,930
+it's alert sound this is a big foghorn
+
+253
+00:12:12,930 --> 00:12:14,490
+up here on the mountain near where I
+
+254
+00:12:14,490 --> 00:12:16,500
+live so that goes off once a month and I
+
+255
+00:12:16,500 --> 00:12:17,910
+recorded that for me some effects might
+
+256
+00:12:17,910 --> 00:12:20,130
+be so here we go let's just arrange
+
+257
+00:12:20,130 --> 00:12:21,480
+these ships a little bit no I won't
+
+258
+00:12:21,480 --> 00:12:24,120
+modify them at all so let's just put
+
+259
+00:12:24,120 --> 00:12:26,640
+them into place here okay so we've got
+
+260
+00:12:26,640 --> 00:12:29,010
+maybe these aren't the most detailed of
+
+261
+00:12:29,010 --> 00:12:31,529
+ships but we've got sort of different
+
+262
+00:12:31,529 --> 00:12:32,610
+looking ships let's move them in a
+
+263
+00:12:32,610 --> 00:12:35,790
+little bit into it so they're a bit
+
+264
+00:12:35,790 --> 00:12:38,850
+better line top view maybe let's try to
+
+265
+00:12:38,850 --> 00:12:40,470
+get the center of gravity here for all
+
+266
+00:12:40,470 --> 00:12:46,950
+of them maybe like that one this one and
+
+267
+00:12:46,950 --> 00:12:49,140
+this one so they've all got quite
+
+268
+00:12:49,140 --> 00:12:50,399
+similar features on them because we're
+
+269
+00:12:50,399 --> 00:12:52,830
+using the same model but I guess if
+
+270
+00:12:52,830 --> 00:12:54,720
+you're making something like a top-down
+
+271
+00:12:54,720 --> 00:12:56,490
+shooter game or shoot them up or
+
+272
+00:12:56,490 --> 00:12:58,140
+something like that then spaceships of
+
+273
+00:12:58,140 --> 00:13:00,660
+this size are pretty decent they'll like
+
+274
+00:13:00,660 --> 00:13:02,220
+basically if you keep them at this size
+
+275
+00:13:02,220 --> 00:13:04,020
+and render them they'll look alright I
+
+276
+00:13:04,020 --> 00:13:06,029
+think when you get the 3d shading when
+
+277
+00:13:06,029 --> 00:13:08,580
+you rotate them you have another good
+
+278
+00:13:08,580 --> 00:13:10,470
+thing with them being modules is that
+
+279
+00:13:10,470 --> 00:13:11,640
+you can actually assemble the ships just
+
+280
+00:13:11,640 --> 00:13:13,200
+the way you want you can make hundreds
+
+281
+00:13:13,200 --> 00:13:16,470
+thousands not millions loads of ships
+
+282
+00:13:16,470 --> 00:13:18,060
+are out of these modules and they'll all
+
+283
+00:13:18,060 --> 00:13:20,250
+have a similar style I usually go crazy
+
+284
+00:13:20,250 --> 00:13:22,230
+I've been made a video a few years ago
+
+285
+00:13:22,230 --> 00:13:23,970
+where you can actually make a custom
+
+286
+00:13:23,970 --> 00:13:25,709
+it's like a custom editor where you can
+
+287
+00:13:25,709 --> 00:13:27,990
+assemble your own ships so I made about
+
+288
+00:13:27,990 --> 00:13:30,300
+maybe 20-30 modules and you could
+
+289
+00:13:30,300 --> 00:13:31,800
+basically create any ship with that one
+
+290
+00:13:31,800 --> 00:13:33,240
+I had a lot of fun with it and I should
+
+291
+00:13:33,240 --> 00:13:34,830
+probably pick that up something oh yeah
+
+292
+00:13:34,830 --> 00:13:36,600
+what I was gonna say as well not only
+
+293
+00:13:36,600 --> 00:13:37,890
+can you make a lot of ships with these
+
+294
+00:13:37,890 --> 00:13:40,020
+modules another really handy thing is
+
+295
+00:13:40,020 --> 00:13:41,730
+that you can blow the ships up and like
+
+296
+00:13:41,730 --> 00:13:43,800
+have separate hitboxes for all the
+
+297
+00:13:43,800 --> 00:13:45,690
+components and you can even animate them
+
+298
+00:13:45,690 --> 00:13:47,130
+so you could for example link them
+
+299
+00:13:47,130 --> 00:13:49,200
+together so when you rotate a wing you
+
+300
+00:13:49,200 --> 00:13:50,670
+can have engines following along and
+
+301
+00:13:50,670 --> 00:13:52,890
+things like that really really useful to
+
+302
+00:13:52,890 --> 00:13:55,170
+make the modular and I've had a few
+
+303
+00:13:55,170 --> 00:13:57,630
+people say or what about when you have a
+
+304
+00:13:57,630 --> 00:13:59,790
+geometry that's like linked into each
+
+305
+00:13:59,790 --> 00:14:01,440
+other so it won't that be wasting
+
+306
+00:14:01,440 --> 00:14:03,420
+performance of your graphics card but I
+
+307
+00:14:03,420 --> 00:14:05,910
+mean there's so few polygons there's so
+
+308
+00:14:05,910 --> 00:14:07,770
+few triangles and your computers and
+
+309
+00:14:07,770 --> 00:14:09,360
+everything even mobile phones will be
+
+310
+00:14:09,360 --> 00:14:12,209
+able to render these like a beast they
+
+311
+00:14:12,209 --> 00:14:13,920
+won't hardly take any performance and
+
+312
+00:14:13,920 --> 00:14:15,990
+whatsoever so I wouldn't worry about the
+
+313
+00:14:15,990 --> 00:14:17,940
+fact that it's geometry inside there I
+
+314
+00:14:17,940 --> 00:14:18,880
+wouldn't even worry about
+
+315
+00:14:18,880 --> 00:14:21,490
+a bit so go ahead go crazy with it maybe
+
+316
+00:14:21,490 --> 00:14:23,350
+and it'll be fun to make a little unity
+
+317
+00:14:23,350 --> 00:14:24,700
+project of this I don't know if a lot of
+
+318
+00:14:24,700 --> 00:14:26,650
+time for that but if I were to put them
+
+319
+00:14:26,650 --> 00:14:29,140
+in unity it could be fun to see them fly
+
+320
+00:14:29,140 --> 00:14:30,670
+about a little bit maybe shoot and
+
+321
+00:14:30,670 --> 00:14:33,010
+explode maybe I'll do that would you
+
+322
+00:14:33,010 --> 00:14:34,540
+like to see that in a video maybe give
+
+323
+00:14:34,540 --> 00:14:35,950
+me a shout in the comments if you do I
+
+324
+00:14:35,950 --> 00:14:37,600
+want to give a big shout out as well to
+
+325
+00:14:37,600 --> 00:14:38,830
+my heroic here
+
+326
+00:14:38,830 --> 00:14:42,220
+discord admins I've got c64 gamer that I
+
+327
+00:14:42,220 --> 00:14:44,740
+took and Alex rack to that are doing an
+
+328
+00:14:44,740 --> 00:14:46,900
+amazing job to keep the discord up and
+
+329
+00:14:46,900 --> 00:14:48,610
+running and they're also introducing
+
+330
+00:14:48,610 --> 00:14:50,020
+some BOTS now because we're starting to
+
+331
+00:14:50,020 --> 00:14:52,210
+we've hit over a thousand people so
+
+332
+00:14:52,210 --> 00:14:53,560
+we're starting to get some issues with
+
+333
+00:14:53,560 --> 00:14:55,240
+spamming and I'm so noobish when it
+
+334
+00:14:55,240 --> 00:14:57,970
+comes to this chord so these heroes help
+
+335
+00:14:57,970 --> 00:14:59,770
+me out a lot so thanks a lot for that
+
+336
+00:14:59,770 --> 00:15:01,480
+guys I really appreciate it that's gonna
+
+337
+00:15:01,480 --> 00:15:03,190
+be for this week I've spent so much time
+
+338
+00:15:03,190 --> 00:15:05,230
+editing that low-poly video so if you
+
+339
+00:15:05,230 --> 00:15:06,970
+don't have a look check out in the
+
+340
+00:15:06,970 --> 00:15:08,770
+description or in my channel history and
+
+341
+00:15:08,770 --> 00:15:10,240
+you can watch that video if you want an
+
+342
+00:15:10,240 --> 00:15:12,520
+hour and a half this week so this video
+
+343
+00:15:12,520 --> 00:15:13,930
+is gonna be shorter than my normal ones
+
+344
+00:15:13,930 --> 00:15:15,460
+but I hope you come back next week and
+
+345
+00:15:15,460 --> 00:15:18,610
+we'll do a pisode 28 them so until then
+
+346
+00:15:18,610 --> 00:15:21,400
+have a great week and don't forget to
+
+347
+00:15:21,400 --> 00:15:23,050
+subscribe if you haven't already if you
+
+348
+00:15:23,050 --> 00:15:24,910
+want to that is of course and Hittle
+
+349
+00:15:24,910 --> 00:15:26,440
+like if you like the video and check out
+
+350
+00:15:26,440 --> 00:15:27,760
+my patreon this one if you haven't done
+
+351
+00:15:27,760 --> 00:15:29,940
+that
+
+352
+00:15:31,050 --> 00:15:53,649
+[Music]
+
+353
+00:15:53,649 --> 00:15:55,709
+you
+

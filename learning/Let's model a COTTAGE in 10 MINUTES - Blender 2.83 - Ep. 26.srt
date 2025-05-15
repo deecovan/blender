@@ -1,0 +1,3220 @@
+1
+00:00:00,030 --> 00:00:02,100
+raucous and welcome back to another
+
+2
+00:00:02,100 --> 00:00:04,859
+Thursday it's at least so 26 of the 10
+
+3
+00:00:04,859 --> 00:00:06,299
+minute modelling challenge and I'm gonna
+
+4
+00:00:06,299 --> 00:00:08,220
+do more low poly stuff today I'm gonna
+
+5
+00:00:08,220 --> 00:00:10,500
+make a little red Swedish cottage there
+
+6
+00:00:10,500 --> 00:00:11,670
+are some regions around here especially
+
+7
+00:00:11,670 --> 00:00:13,469
+outside in the countryside you'll have
+
+8
+00:00:13,469 --> 00:00:15,269
+loads of little red cottages everywhere
+
+9
+00:00:15,269 --> 00:00:16,770
+and I think there's a bunt painted
+
+10
+00:00:16,770 --> 00:00:19,199
+anything else but red so I'm gonna make
+
+11
+00:00:19,199 --> 00:00:21,270
+it red just to make sure it fits in hope
+
+12
+00:00:21,270 --> 00:00:22,680
+you've had a good week so far and I hope
+
+13
+00:00:22,680 --> 00:00:24,180
+you've been doing a lot of modeling I
+
+14
+00:00:24,180 --> 00:00:25,590
+know the Sun is coming out it's a bit of
+
+15
+00:00:25,590 --> 00:00:27,390
+a noise because it gives glares and
+
+16
+00:00:27,390 --> 00:00:29,279
+stuff built myself like a bunker here
+
+17
+00:00:29,279 --> 00:00:30,960
+I've got one window and that one I'm
+
+18
+00:00:30,960 --> 00:00:32,399
+covered up so I couldn't make it look
+
+19
+00:00:32,399 --> 00:00:34,469
+like night at any time it's quite nice
+
+20
+00:00:34,469 --> 00:00:37,290
+no reflections no bad conscious that you
+
+21
+00:00:37,290 --> 00:00:38,969
+should be outside in the sunshine let's
+
+22
+00:00:38,969 --> 00:00:39,750
+put the phone over here
+
+23
+00:00:39,750 --> 00:00:43,680
+let's get cranking let's go cottaging go
+
+24
+00:00:43,680 --> 00:00:45,360
+when we're off carbon turret mode a
+
+25
+00:00:45,360 --> 00:00:48,120
+select everything's step it up with
+
+26
+00:00:48,120 --> 00:00:50,579
+control scale and shift said we only
+
+27
+00:00:50,579 --> 00:00:51,750
+want to go to scale it like that
+
+28
+00:00:51,750 --> 00:00:54,899
+proportional off here geez at and then
+
+29
+00:00:54,899 --> 00:00:57,210
+select these two vertices or edges right
+
+30
+00:00:57,210 --> 00:00:58,739
+click and subdivide I'm gonna make a
+
+31
+00:00:58,739 --> 00:01:01,559
+roof here so bring that up select these
+
+32
+00:01:01,559 --> 00:01:03,989
+two shifty to duplicate it s the scale
+
+33
+00:01:03,989 --> 00:01:07,920
+it's bring it down to maybe they're all
+
+34
+00:01:07,920 --> 00:01:11,189
+the extra long face normals and like
+
+35
+00:01:11,189 --> 00:01:13,170
+this and then we'll do right click
+
+36
+00:01:13,170 --> 00:01:15,180
+subdivide again this time maybe eight
+
+37
+00:01:15,180 --> 00:01:20,310
+cuts to create tiles I to inset twice to
+
+38
+00:01:20,310 --> 00:01:21,960
+make these tiles and then all T to
+
+39
+00:01:21,960 --> 00:01:24,150
+extrude them along their normals and
+
+40
+00:01:24,150 --> 00:01:27,960
+then now I'm gonna do mesh OOP mesh and
+
+41
+00:01:27,960 --> 00:01:29,850
+then transform and randomize these if
+
+42
+00:01:29,850 --> 00:01:33,030
+it's but that's too much 0.03 now let's
+
+43
+00:01:33,030 --> 00:01:35,850
+colorize them so G on the left there see
+
+44
+00:01:35,850 --> 00:01:38,250
+two circles select a few lease and we
+
+45
+00:01:38,250 --> 00:01:39,930
+make them a bit darker proceed to
+
+46
+00:01:39,930 --> 00:01:41,759
+deselect a few with the middle mouse put
+
+47
+00:01:41,759 --> 00:01:44,579
+them here Mike and darker and see again
+
+48
+00:01:44,579 --> 00:01:47,880
+gonna make some really dark eyes okay
+
+49
+00:01:47,880 --> 00:01:50,159
+now let's select this one again actually
+
+50
+00:01:50,159 --> 00:01:52,229
+we have select all of them get that into
+
+51
+00:01:52,229 --> 00:01:54,210
+a different brown now I can select these
+
+52
+00:01:54,210 --> 00:01:55,770
+you've got to make some planks that
+
+53
+00:01:55,770 --> 00:01:57,840
+cover the edges of the tiles here so all
+
+54
+00:01:57,840 --> 00:02:00,020
+to e to extrude long face normals and
+
+55
+00:02:00,020 --> 00:02:03,299
+then we'll do ctrl + once and I have to
+
+56
+00:02:03,299 --> 00:02:05,759
+manually deselect this cut loop select
+
+57
+00:02:05,759 --> 00:02:06,990
+here because I've broken their geometry
+
+58
+00:02:06,990 --> 00:02:10,110
+a little to sort all t extra long face
+
+59
+00:02:10,110 --> 00:02:12,390
+that's it and then now I have to say
+
+60
+00:02:12,390 --> 00:02:15,240
+he's again because I want to call it
+
+61
+00:02:15,240 --> 00:02:18,270
+these bikes I think ctrl+ and then white
+
+62
+00:02:18,270 --> 00:02:21,870
+ok let's move to the base make that a
+
+63
+00:02:21,870 --> 00:02:24,000
+red cottage and then I have to link
+
+64
+00:02:24,000 --> 00:02:26,490
+these vertices together with J because
+
+65
+00:02:26,490 --> 00:02:29,580
+otherwise I can't loop cuts after J and
+
+66
+00:02:29,580 --> 00:02:33,060
+then ctrl R let's do some white corners
+
+67
+00:02:33,060 --> 00:02:34,890
+here house ok that want to have to cut
+
+68
+00:02:34,890 --> 00:02:36,480
+them manually that way because I've
+
+69
+00:02:36,480 --> 00:02:40,320
+broken the geometry there as well so ok
+
+70
+00:02:40,320 --> 00:02:42,090
+for the knife cut here once
+
+71
+00:02:42,090 --> 00:02:43,860
+so these corners are going to be white
+
+72
+00:02:43,860 --> 00:02:45,780
+in Sweden that's common it's called the
+
+73
+00:02:45,780 --> 00:02:48,239
+tax new tile in Swedish white knots for
+
+74
+00:02:48,239 --> 00:02:50,640
+some reason no maybe someone knows why
+
+75
+00:02:50,640 --> 00:02:54,180
+it's called I have no idea but white
+
+76
+00:02:54,180 --> 00:02:56,640
+corners anyway all t extra-long face
+
+77
+00:02:56,640 --> 00:02:59,190
+normals control pause and make them
+
+78
+00:02:59,190 --> 00:03:02,100
+white that's it and here we can make a
+
+79
+00:03:02,100 --> 00:03:04,739
+door so let's select that face shift D
+
+80
+00:03:04,739 --> 00:03:08,220
+scale scale X and bring it down to there
+
+81
+00:03:08,220 --> 00:03:10,470
+eat extra Don I
+
+82
+00:03:10,470 --> 00:03:14,870
+I have to do both Lisa try to insert
+
+83
+00:03:14,870 --> 00:03:18,989
+that let's bring this out note e to
+
+84
+00:03:18,989 --> 00:03:20,250
+extrude out
+
+85
+00:03:20,250 --> 00:03:23,580
+lt's like linked make it white as well
+
+86
+00:03:23,580 --> 00:03:27,510
+like the corners but a brown door shifty
+
+87
+00:03:27,510 --> 00:03:33,120
+to make a door handle here notes X eats
+
+88
+00:03:33,120 --> 00:03:36,019
+extrude that one it's a big door handle
+
+89
+00:03:36,019 --> 00:03:39,870
+G black ok and the whole door needs to
+
+90
+00:03:39,870 --> 00:03:42,450
+go in wait too far out okay here let's
+
+91
+00:03:42,450 --> 00:03:45,090
+make two windows that one first shift D
+
+92
+00:03:45,090 --> 00:03:46,890
+doesn't matter if they're not the same
+
+93
+00:03:46,890 --> 00:03:49,170
+size it's perfectly fine to be honest
+
+94
+00:03:49,170 --> 00:03:50,250
+it's actually better if they're not
+
+95
+00:03:50,250 --> 00:03:51,390
+because it looks a bit wonky
+
+96
+00:03:51,390 --> 00:03:53,730
+can I try to stylize this house a lot so
+
+97
+00:03:53,730 --> 00:03:58,010
+ll make those whites select these faces
+
+98
+00:03:58,010 --> 00:03:59,940
+this one has to come out a little bit
+
+99
+00:03:59,940 --> 00:04:01,110
+more I think we've got something to work
+
+100
+00:04:01,110 --> 00:04:04,799
+with I to inset all T to extrude one
+
+101
+00:04:04,799 --> 00:04:06,650
+face normals and then make us
+
+102
+00:04:06,650 --> 00:04:11,989
+blue okay 6:36 let's make some planks
+
+103
+00:04:11,989 --> 00:04:15,349
+here so ctrl R to loot cut actually
+
+104
+00:04:15,349 --> 00:04:20,870
+let's select select a few these planks
+
+105
+00:04:20,870 --> 00:04:25,880
+every other and do all T to extrude
+
+106
+00:04:25,880 --> 00:04:29,000
+longface now almost again and we can
+
+107
+00:04:29,000 --> 00:04:31,970
+just do mesh transform randomize those
+
+108
+00:04:31,970 --> 00:04:37,100
+with it as well now we're going to
+
+109
+00:04:37,100 --> 00:04:38,510
+stylize this even more so over
+
+110
+00:04:38,510 --> 00:04:41,660
+proportional and G to move it I'm gonna
+
+111
+00:04:41,660 --> 00:04:45,050
+make these corners swing in and out a
+
+112
+00:04:45,050 --> 00:04:46,789
+lot here I think that looks a bit
+
+113
+00:04:46,789 --> 00:04:50,889
+cartoony so let's just do that
+
+114
+00:04:50,889 --> 00:04:54,289
+I've seen better days this cottage when
+
+115
+00:04:54,289 --> 00:04:56,240
+I build stuff I try it out I go over
+
+116
+00:04:56,240 --> 00:04:58,370
+done on there all the details with a
+
+117
+00:04:58,370 --> 00:05:00,560
+millimeters this one was built a lot
+
+118
+00:05:00,560 --> 00:05:05,240
+faster than okay G let's actually get
+
+119
+00:05:05,240 --> 00:05:07,220
+the tiles monkey as well it's falling
+
+120
+00:05:07,220 --> 00:05:08,780
+apart it's got some damp issues here I
+
+121
+00:05:08,780 --> 00:05:11,150
+think sometime I think we have to have
+
+122
+00:05:11,150 --> 00:05:18,789
+some surveyor looking at this g-gee okay
+
+123
+00:05:20,200 --> 00:05:23,690
+let's stylize this door as well the one
+
+124
+00:05:23,690 --> 00:05:26,990
+care the better okay 515 or something
+
+125
+00:05:26,990 --> 00:05:30,950
+517 now we can make some colorization
+
+126
+00:05:30,950 --> 00:05:33,710
+here as well we've got time I think K
+
+127
+00:05:33,710 --> 00:05:38,020
+for the knife to add some
+
+128
+00:05:40,479 --> 00:05:42,400
+okay you probably don't want to do this
+
+129
+00:05:42,400 --> 00:05:44,860
+if you want or actually you could do
+
+130
+00:05:44,860 --> 00:05:46,360
+this but you should make a separate
+
+131
+00:05:46,360 --> 00:05:49,319
+level detail version elodie version with
+
+132
+00:05:49,319 --> 00:05:52,270
+with less purchases and stuff if you
+
+133
+00:05:52,270 --> 00:05:53,770
+want to use it as a shadow caster maybe
+
+134
+00:05:53,770 --> 00:05:56,110
+and save some performance or if you
+
+135
+00:05:56,110 --> 00:05:57,699
+wanna use it as a Collider you should
+
+136
+00:05:57,699 --> 00:05:59,830
+probably not have all these vertices and
+
+137
+00:05:59,830 --> 00:06:01,270
+if you want subdivide it but why would
+
+138
+00:06:01,270 --> 00:06:03,309
+you want to subdivide it a cottage
+
+139
+00:06:03,309 --> 00:06:10,689
+I wouldn't okay so now we've got those
+
+140
+00:06:10,689 --> 00:06:13,870
+we can actually three face select and
+
+141
+00:06:13,870 --> 00:06:15,400
+select a few this I'm gonna make these
+
+142
+00:06:15,400 --> 00:06:18,159
+darker red so just shift select all of
+
+143
+00:06:18,159 --> 00:06:25,599
+these and 423 okay there and now we go G
+
+144
+00:06:25,599 --> 00:06:29,740
+and then alt eat extra long face normals
+
+145
+00:06:29,740 --> 00:06:33,460
+again and that's it now we can make this
+
+146
+00:06:33,460 --> 00:06:37,899
+basic scale that on e to extrude it I've
+
+147
+00:06:37,899 --> 00:06:41,319
+got an extra geometry here no L let's
+
+148
+00:06:41,319 --> 00:06:43,240
+make it like a rock base for this house
+
+149
+00:06:43,240 --> 00:06:48,039
+control or tool it cut it once and twice
+
+150
+00:06:48,039 --> 00:06:56,860
+and three times four times and L to
+
+151
+00:06:56,860 --> 00:06:58,599
+select everything we can scale it down a
+
+152
+00:06:58,599 --> 00:07:01,020
+bit again a scale on the x-axis
+
+153
+00:07:01,020 --> 00:07:04,240
+and now I'll just move these off
+
+154
+00:07:04,240 --> 00:07:06,969
+actually like as if it's some sort of a
+
+155
+00:07:06,969 --> 00:07:09,879
+corner stone here we can maybe bring
+
+156
+00:07:09,879 --> 00:07:14,020
+let's do all T on these as well stick
+
+157
+00:07:14,020 --> 00:07:16,149
+out a little bit as well shift select a
+
+158
+00:07:16,149 --> 00:07:17,669
+bunch of these
+
+159
+00:07:17,669 --> 00:07:21,419
+Balti extra long edges we can reduce
+
+160
+00:07:21,419 --> 00:07:24,659
+this whole slice of ability okay and a
+
+161
+00:07:24,659 --> 00:07:26,219
+bit of wonkiness to this as well we
+
+162
+00:07:26,219 --> 00:07:27,900
+don't want it to be too perfect
+
+163
+00:07:27,900 --> 00:07:29,810
+we should really have a chimney as well
+
+164
+00:07:29,810 --> 00:07:38,370
+so oh three minutes let's make a chimney
+
+165
+00:07:38,370 --> 00:07:40,560
+so let's pick one of the tiles here
+
+166
+00:07:40,560 --> 00:07:42,990
+maybe that one the sort of bugs shift D
+
+167
+00:07:42,990 --> 00:07:47,990
+altered if he's like proportional G
+
+168
+00:07:47,990 --> 00:07:50,969
+should make a great chimney all t to
+
+169
+00:07:50,969 --> 00:07:53,699
+extrude long face normals eats extrude s
+
+170
+00:07:53,699 --> 00:07:57,620
+to scale each extreme o
+
+171
+00:07:57,620 --> 00:08:00,900
+doing spit then probably sorry about
+
+172
+00:08:00,900 --> 00:08:02,789
+that
+
+173
+00:08:02,789 --> 00:08:05,250
+I can't even fix it in post because I'm
+
+174
+00:08:05,250 --> 00:08:07,770
+not editing this section where I model
+
+175
+00:08:07,770 --> 00:08:10,020
+stuff edit any of this out so I have to
+
+176
+00:08:10,020 --> 00:08:12,139
+keep everything in that just happened
+
+177
+00:08:12,139 --> 00:08:14,520
+that's it there's a chimney wonky as
+
+178
+00:08:14,520 --> 00:08:15,210
+well
+
+179
+00:08:15,210 --> 00:08:17,400
+two minutes let's make a little days for
+
+180
+00:08:17,400 --> 00:08:19,110
+this to stand on maybe shift D to
+
+181
+00:08:19,110 --> 00:08:21,240
+duplicate it s to scale that one out
+
+182
+00:08:21,240 --> 00:08:25,039
+maybe like this G to move it to gray
+
+183
+00:08:25,039 --> 00:08:27,779
+well why did I make it greener because I
+
+184
+00:08:27,779 --> 00:08:28,740
+wanted it clean
+
+185
+00:08:28,740 --> 00:08:31,710
+Oh proportional off a texture that one
+
+186
+00:08:31,710 --> 00:08:35,089
+down ctrl or maybe eight Lucas and
+
+187
+00:08:35,089 --> 00:08:39,089
+control Oregon eight lip cuts and let's
+
+188
+00:08:39,089 --> 00:08:40,490
+bring this down a bit
+
+189
+00:08:40,490 --> 00:08:42,479
+selectively here the corner ones here
+
+190
+00:08:42,479 --> 00:08:49,010
+and how am i doing 1:58 G Oh
+
+191
+00:08:49,010 --> 00:08:51,779
+proportionally and although the only
+
+192
+00:08:51,779 --> 00:08:53,730
+work link I don't the house dissing G
+
+193
+00:08:53,730 --> 00:08:56,240
+said
+
+194
+00:08:57,509 --> 00:09:00,509
+okay
+
+195
+00:09:00,870 --> 00:09:07,559
+geez that got some issues here with that
+
+196
+00:09:07,559 --> 00:09:09,220
+no that's okay
+
+197
+00:09:09,220 --> 00:09:11,769
+am I getting tricked let's do this
+
+198
+00:09:11,769 --> 00:09:14,339
+manually then
+
+199
+00:09:18,620 --> 00:09:24,630
+lower few the corners here it's gonna be
+
+200
+00:09:24,630 --> 00:09:25,710
+a little bit like a floating island
+
+201
+00:09:25,710 --> 00:09:36,230
+isn't it all set 113 is a waste of time
+
+202
+00:09:36,230 --> 00:09:40,380
+also that's it
+
+203
+00:09:40,380 --> 00:09:42,300
+we can do the base a little bit control
+
+204
+00:09:42,300 --> 00:09:45,450
+seven to see at the bottom and we've got
+
+205
+00:09:45,450 --> 00:09:47,760
+some geometry poking through everything
+
+206
+00:09:47,760 --> 00:09:54,210
+to me yep to rescue you and rescue you
+
+207
+00:09:54,210 --> 00:09:58,380
+that's it control seven how many links
+
+208
+00:09:58,380 --> 00:10:01,560
+four to six seconds see two circle
+
+209
+00:10:01,560 --> 00:10:04,380
+select a few of these just make you
+
+210
+00:10:04,380 --> 00:10:10,529
+brown eg to move it down e to extrude on
+
+211
+00:10:10,529 --> 00:10:13,110
+s to scale it of ctrl + it's making
+
+212
+00:10:13,110 --> 00:10:18,779
+everything brown here how am i doing 26
+
+213
+00:10:18,779 --> 00:10:21,320
+seconds
+
+214
+00:10:23,460 --> 00:10:29,250
+gee tune in the hunt that's a
+
+215
+00:10:34,360 --> 00:10:40,399
+I'll move the handling that's it four
+
+216
+00:10:40,399 --> 00:10:41,320
+seconds to go
+
+217
+00:10:41,320 --> 00:10:43,670
+that's it that's our little house on the
+
+218
+00:10:43,670 --> 00:10:49,310
+island again okey-dokey
+
+219
+00:10:49,310 --> 00:10:50,870
+[Music]
+
+220
+00:10:50,870 --> 00:10:52,950
+all right folks so we've got a little
+
+221
+00:10:52,950 --> 00:10:55,140
+traditional Swedish cottage here with a
+
+222
+00:10:55,140 --> 00:10:57,900
+little chimney and a wonky door it's
+
+223
+00:10:57,900 --> 00:10:59,550
+gonna be I wanted to have a really
+
+224
+00:10:59,550 --> 00:11:01,710
+cartoony wonky look to it hopefully that
+
+225
+00:11:01,710 --> 00:11:03,330
+came through yeah it looks pretty all
+
+226
+00:11:03,330 --> 00:11:05,400
+right I think and it's standing on a
+
+227
+00:11:05,400 --> 00:11:09,900
+little green pasture so should we
+
+228
+00:11:09,900 --> 00:11:14,000
+disable maybe specular
+
+229
+00:11:14,120 --> 00:11:16,200
+alright folks so there we have it we've
+
+230
+00:11:16,200 --> 00:11:18,210
+got a little Swedish cottage here seen
+
+231
+00:11:18,210 --> 00:11:20,310
+better days I think we need to have like
+
+232
+00:11:20,310 --> 00:11:22,200
+I said some some sort of an inspector
+
+233
+00:11:22,200 --> 00:11:23,940
+looking at this because there we've got
+
+234
+00:11:23,940 --> 00:11:26,250
+some issues with the roof here we've got
+
+235
+00:11:26,250 --> 00:11:28,020
+some dump issues going we've got some
+
+236
+00:11:28,020 --> 00:11:30,600
+wonky corners I'm dread to look what
+
+237
+00:11:30,600 --> 00:11:32,100
+it's inside it's probably bare enough to
+
+238
+00:11:32,100 --> 00:11:34,110
+just to be a dust which is the Swedish
+
+239
+00:11:34,110 --> 00:11:37,680
+word for an outhouse where it stinks
+
+240
+00:11:37,680 --> 00:11:42,180
+pretty much for this video let's see did
+
+241
+00:11:42,180 --> 00:11:43,860
+I do anything different so I've done
+
+242
+00:11:43,860 --> 00:11:46,680
+pretty much all the stuff I did one tip
+
+243
+00:11:46,680 --> 00:11:48,930
+is if you wanted to randomize some stuff
+
+244
+00:11:48,930 --> 00:11:50,850
+that you've got selected so when you
+
+245
+00:11:50,850 --> 00:11:52,590
+have a bunch of randomized or when you
+
+246
+00:11:52,590 --> 00:11:57,260
+have a bunch of faces selected like this
+
+247
+00:11:57,260 --> 00:11:59,430
+this one is called I think I used it in
+
+248
+00:11:59,430 --> 00:12:01,710
+the last one mesh transform randomize
+
+249
+00:12:01,710 --> 00:12:04,050
+that just offsets everything a little
+
+250
+00:12:04,050 --> 00:12:06,660
+bit and you can change how much and you
+
+251
+00:12:06,660 --> 00:12:08,190
+can also change some other parameters
+
+252
+00:12:08,190 --> 00:12:10,860
+there I've just recently started to use
+
+253
+00:12:10,860 --> 00:12:12,960
+that one and sometimes you have to be
+
+254
+00:12:12,960 --> 00:12:14,730
+careful because when you warp it too
+
+255
+00:12:14,730 --> 00:12:16,320
+much it'll intersect itself and you
+
+256
+00:12:16,320 --> 00:12:18,360
+don't ever want to have like a vertex
+
+257
+00:12:18,360 --> 00:12:19,620
+here for example you don't want that to
+
+258
+00:12:19,620 --> 00:12:22,650
+be proportional on G you don't want that
+
+259
+00:12:22,650 --> 00:12:25,770
+to be poking through the geometry like
+
+260
+00:12:25,770 --> 00:12:28,110
+that that's bad and if you go too hard
+
+261
+00:12:28,110 --> 00:12:30,420
+on this randomize that can happen it
+
+262
+00:12:30,420 --> 00:12:31,950
+doesn't have any protection against that
+
+263
+00:12:31,950 --> 00:12:33,600
+as far as I know it also works if you
+
+264
+00:12:33,600 --> 00:12:35,160
+have vertices selected for example you
+
+265
+00:12:35,160 --> 00:12:36,900
+can go to mesh again transform and
+
+266
+00:12:36,900 --> 00:12:39,960
+randomize those as well so edges faces
+
+267
+00:12:39,960 --> 00:12:42,390
+and vertices you can randomize like that
+
+268
+00:12:42,390 --> 00:12:43,589
+that was a lot of proportional editing
+
+269
+00:12:43,589 --> 00:12:46,920
+again and some K for the knife cuts to
+
+270
+00:12:46,920 --> 00:12:48,990
+create these little features to get the
+
+271
+00:12:48,990 --> 00:12:51,210
+colorization there and just a lot of
+
+272
+00:12:51,210 --> 00:12:53,130
+proportional editing here too too wonky
+
+273
+00:12:53,130 --> 00:12:55,650
+Phi it that's a new term one key fight
+
+274
+00:12:55,650 --> 00:12:58,290
+so instead of doing a lot of tips like
+
+275
+00:12:58,290 --> 00:12:59,850
+that let's just keep modeling a little
+
+276
+00:12:59,850 --> 00:13:00,300
+bit shall we
+
+277
+00:13:00,300 --> 00:13:00,870
+Oh
+
+278
+00:13:00,870 --> 00:13:02,700
+and a few minutes of modeling so if we
+
+279
+00:13:02,700 --> 00:13:04,050
+were to continue with this one what we
+
+280
+00:13:04,050 --> 00:13:05,580
+want to do maybe wanted to add some
+
+281
+00:13:05,580 --> 00:13:08,640
+plumbing so we could do here for example
+
+282
+00:13:08,640 --> 00:13:10,710
+on the side which side should we pick
+
+283
+00:13:10,710 --> 00:13:14,279
+that's this right side here so obviously
+
+284
+00:13:14,279 --> 00:13:15,720
+this is not part of my 10-minute
+
+285
+00:13:15,720 --> 00:13:17,430
+modelling challenge now this is the
+
+286
+00:13:17,430 --> 00:13:18,839
+result that I'll be using as a thumbnail
+
+287
+00:13:18,839 --> 00:13:20,880
+and this is what I managed to do in ten
+
+288
+00:13:20,880 --> 00:13:21,240
+minutes
+
+289
+00:13:21,240 --> 00:13:22,980
+but let's just be a little bit casual
+
+290
+00:13:22,980 --> 00:13:24,720
+now maybe today let's have a casual
+
+291
+00:13:24,720 --> 00:13:27,450
+Thursday episode 26 so if I grab this
+
+292
+00:13:27,450 --> 00:13:30,839
+one and move this down let's move a few
+
+293
+00:13:30,839 --> 00:13:33,180
+of this time as well what should we do
+
+294
+00:13:33,180 --> 00:13:35,100
+here for some reason I want to have some
+
+295
+00:13:35,100 --> 00:13:37,710
+sort of sewage coming out here so let's
+
+296
+00:13:37,710 --> 00:13:40,710
+move this out so imagine that the house
+
+297
+00:13:40,710 --> 00:13:43,740
+have got some plumbing in it that we
+
+298
+00:13:43,740 --> 00:13:46,650
+wanted to see here so if I just move a
+
+299
+00:13:46,650 --> 00:13:48,210
+few of these I've still got proportional
+
+300
+00:13:48,210 --> 00:13:50,970
+editing also I have to be careful with
+
+301
+00:13:50,970 --> 00:13:54,720
+the proportional if you do alt oh then
+
+302
+00:13:54,720 --> 00:13:57,120
+it toggles here between connected and
+
+303
+00:13:57,120 --> 00:13:59,310
+not because you have to be careful here
+
+304
+00:13:59,310 --> 00:14:02,880
+if you've got not connected only there
+
+305
+00:14:02,880 --> 00:14:05,580
+and you put G to move that one be aware
+
+306
+00:14:05,580 --> 00:14:06,959
+that you drag the whole house down with
+
+307
+00:14:06,959 --> 00:14:08,370
+you maybe that's what you want to do
+
+308
+00:14:08,370 --> 00:14:09,810
+sometimes to make it follow the ground
+
+309
+00:14:09,810 --> 00:14:12,779
+but if you only want to modify the this
+
+310
+00:14:12,779 --> 00:14:14,160
+separate and this is actually part of
+
+311
+00:14:14,160 --> 00:14:16,260
+the same object here we this is still a
+
+312
+00:14:16,260 --> 00:14:17,670
+default cube remember that we've
+
+313
+00:14:17,670 --> 00:14:20,220
+modified a tiny bit so this green part
+
+314
+00:14:20,220 --> 00:14:21,630
+here the grass it's actually part of
+
+315
+00:14:21,630 --> 00:14:24,180
+this cube object but if I press L here
+
+316
+00:14:24,180 --> 00:14:26,040
+you can see that it's all the vertices
+
+317
+00:14:26,040 --> 00:14:27,779
+are connected to only each other not to
+
+318
+00:14:27,779 --> 00:14:30,870
+the house so if I were to move if I take
+
+319
+00:14:30,870 --> 00:14:32,490
+proportional off and move it this is
+
+320
+00:14:32,490 --> 00:14:35,010
+actually just in the same object but a
+
+321
+00:14:35,010 --> 00:14:36,589
+lot of geometry that's not connected
+
+322
+00:14:36,589 --> 00:14:39,930
+that was just so much work to try to say
+
+323
+00:14:39,930 --> 00:14:41,130
+and I still didn't manage to get the
+
+324
+00:14:41,130 --> 00:14:42,660
+message across but I think you've got it
+
+325
+00:14:42,660 --> 00:14:44,100
+by note because I've said it quite a few
+
+326
+00:14:44,100 --> 00:14:47,190
+times so let's see here we let's bring
+
+327
+00:14:47,190 --> 00:14:49,290
+this down a little bit further even more
+
+328
+00:14:49,290 --> 00:14:57,000
+key Oh again for proportional this may
+
+329
+00:14:57,000 --> 00:15:00,950
+be there and here maybe we'd do this
+
+330
+00:15:00,950 --> 00:15:05,780
+brown a little slumped here
+
+331
+00:15:05,780 --> 00:15:11,540
+so not that once G move out to brown
+
+332
+00:15:11,540 --> 00:15:13,370
+here you can see as well that this is
+
+333
+00:15:13,370 --> 00:15:16,520
+one face now and it's got some struggles
+
+334
+00:15:16,520 --> 00:15:18,110
+here to render it and so what we should
+
+335
+00:15:18,110 --> 00:15:20,270
+do here is I should select that on and
+
+336
+00:15:20,270 --> 00:15:21,680
+that one and press J to link these
+
+337
+00:15:21,680 --> 00:15:24,710
+together that'll force it to cut the
+
+338
+00:15:24,710 --> 00:15:26,270
+triangle the way we want it because I
+
+339
+00:15:26,270 --> 00:15:29,000
+want to colorize these brown hairs so
+
+340
+00:15:29,000 --> 00:15:30,980
+now we've got a little slope here maybe
+
+341
+00:15:30,980 --> 00:15:34,400
+I'll do take proportional off shift D to
+
+342
+00:15:34,400 --> 00:15:36,500
+duplicate it subdivide it right-click
+
+343
+00:15:36,500 --> 00:15:38,570
+subdivide and then I'll only select
+
+344
+00:15:38,570 --> 00:15:40,250
+these faces here what am i doing now
+
+345
+00:15:40,250 --> 00:15:41,450
+actually I don't want to do that on a
+
+346
+00:15:41,450 --> 00:15:43,970
+scale it down and then f3 and then I'll
+
+347
+00:15:43,970 --> 00:15:46,310
+type in circle and that'll make it
+
+348
+00:15:46,310 --> 00:15:48,230
+circle and for that to work you should
+
+349
+00:15:48,230 --> 00:15:49,670
+have this if you go to edit here
+
+350
+00:15:49,670 --> 00:15:52,370
+preferences you have an ad on here
+
+351
+00:15:52,370 --> 00:15:54,950
+called loop tools and it comes with a
+
+352
+00:15:54,950 --> 00:15:57,170
+unique unit it doesn't come with unity
+
+353
+00:15:57,170 --> 00:15:59,480
+believe me it comes with blender by
+
+354
+00:15:59,480 --> 00:16:01,370
+default but you have to enable it and if
+
+355
+00:16:01,370 --> 00:16:03,740
+you type in f3 and type in circle you
+
+356
+00:16:03,740 --> 00:16:05,630
+can actually make it turn any geometry
+
+357
+00:16:05,630 --> 00:16:07,550
+and try to make it into a circle and
+
+358
+00:16:07,550 --> 00:16:10,430
+then we can rotate it on the y-axis to
+
+359
+00:16:10,430 --> 00:16:13,280
+flip it up and then e to extrude it L to
+
+360
+00:16:13,280 --> 00:16:15,170
+select everything here again s to scale
+
+361
+00:16:15,170 --> 00:16:17,390
+of town and plumbing I guess we should
+
+362
+00:16:17,390 --> 00:16:19,339
+make it like some sort of a teal pile
+
+363
+00:16:19,339 --> 00:16:22,850
+teal eye clay color orange no actually I
+
+364
+00:16:22,850 --> 00:16:25,360
+want to make it
+
+365
+00:16:25,410 --> 00:16:29,669
+it could be disappointing concrete or
+
+366
+00:16:29,669 --> 00:16:31,439
+metal metal plumbing select that one
+
+367
+00:16:31,439 --> 00:16:33,119
+again let's make it a bit brighter no
+
+368
+00:16:33,119 --> 00:16:35,579
+and now I select these faces each
+
+369
+00:16:35,579 --> 00:16:37,739
+extruder on s to scale it's e to extrude
+
+370
+00:16:37,739 --> 00:16:40,859
+it make your pipe entrance here and
+
+371
+00:16:40,859 --> 00:16:43,589
+again sometimes for a stylized scene
+
+372
+00:16:43,589 --> 00:16:44,819
+like this you probably don't want it to
+
+373
+00:16:44,819 --> 00:16:48,029
+be this perfect all the time perfect as
+
+374
+00:16:48,029 --> 00:16:50,669
+if it was perfect but yeah back with
+
+375
+00:16:50,669 --> 00:16:52,799
+proportional auto to make sure it's
+
+376
+00:16:52,799 --> 00:16:56,759
+connected only and then G to move on and
+
+377
+00:16:56,759 --> 00:16:58,439
+let's just make this pipe a little bit
+
+378
+00:16:58,439 --> 00:17:00,359
+wonky too because if you suddenly have
+
+379
+00:17:00,359 --> 00:17:03,089
+perfect geometry I can't it's not
+
+380
+00:17:03,089 --> 00:17:05,759
+perfect what am I going on about anyway
+
+381
+00:17:05,759 --> 00:17:11,579
+you get the point so maybe like that and
+
+382
+00:17:11,579 --> 00:17:14,009
+then Oh proportional off you move it
+
+383
+00:17:14,009 --> 00:17:16,679
+into there ctrl + and just simulate that
+
+384
+00:17:16,679 --> 00:17:18,269
+it's shaded in there so I'll move it's a
+
+385
+00:17:18,269 --> 00:17:20,369
+dark corner and now let's make some
+
+386
+00:17:20,369 --> 00:17:22,859
+water pouring out - if this is an
+
+387
+00:17:22,859 --> 00:17:26,638
+outward I can't say that if this is an
+
+388
+00:17:26,638 --> 00:17:28,500
+outdoor toilet then you probably
+
+389
+00:17:28,500 --> 00:17:32,759
+wouldn't want windows on it and let's
+
+390
+00:17:32,759 --> 00:17:35,399
+extrude that one I just did shift D to
+
+391
+00:17:35,399 --> 00:17:37,200
+duplicate that one now in there and then
+
+392
+00:17:37,200 --> 00:17:41,580
+I make this blue pull that on now we're
+
+393
+00:17:41,580 --> 00:17:43,830
+gonna make some water point out here we
+
+394
+00:17:43,830 --> 00:17:47,039
+can do all zet to see through press the
+
+395
+00:17:47,039 --> 00:17:49,379
+3 on the keypad no we press 1 on the
+
+396
+00:17:49,379 --> 00:17:51,120
+keypad to see it from the side here now
+
+397
+00:17:51,120 --> 00:17:53,370
+we can do that other extrusion method
+
+398
+00:17:53,370 --> 00:17:55,049
+let's just check actually which one I
+
+399
+00:17:55,049 --> 00:17:56,549
+want to follow I'll follow this path
+
+400
+00:17:56,549 --> 00:17:59,490
+here so I'll do one again here I think
+
+401
+00:17:59,490 --> 00:18:00,990
+it's this one that's the slanting here
+
+402
+00:18:00,990 --> 00:18:03,720
+so we'll just do some control right
+
+403
+00:18:03,720 --> 00:18:05,909
+clicking here as if the water is pouring
+
+404
+00:18:05,909 --> 00:18:08,669
+out here I'll try to follow roughly
+
+405
+00:18:08,669 --> 00:18:12,779
+where I think it was here and then it
+
+406
+00:18:12,779 --> 00:18:14,730
+just pours off here so I'm just right
+
+407
+00:18:14,730 --> 00:18:17,789
+clicking and I should do it hold side
+
+408
+00:18:17,789 --> 00:18:19,710
+again to see through okay we did it -
+
+409
+00:18:19,710 --> 00:18:22,470
+too deep but that's ok we can fix it
+
+410
+00:18:22,470 --> 00:18:25,259
+we can go press o for proportional again
+
+411
+00:18:25,259 --> 00:18:27,899
+and then do G and then zev to move it up
+
+412
+00:18:27,899 --> 00:18:30,809
+and then we can do the same here all set
+
+413
+00:18:30,809 --> 00:18:33,320
+actually first let's select a few these
+
+414
+00:18:33,320 --> 00:18:37,050
+but not this one ok let's redo that
+
+415
+00:18:37,050 --> 00:18:38,760
+it's funny it picks exactly the face I
+
+416
+00:18:38,760 --> 00:18:45,030
+don't wanna pick all set and scare we
+
+417
+00:18:45,030 --> 00:18:48,240
+can scale this to old said it's kind of
+
+418
+00:18:48,240 --> 00:18:51,120
+placed here Paul said proportional so we
+
+419
+00:18:51,120 --> 00:18:52,920
+don't have to be picky at all this so
+
+420
+00:18:52,920 --> 00:18:55,290
+that's the beautiful that's the beauty
+
+421
+00:18:55,290 --> 00:19:02,179
+part but we'll select a few these okay
+
+422
+00:19:08,360 --> 00:19:09,750
+down there
+
+423
+00:19:09,750 --> 00:19:16,440
+scale y-axis rotate it's okay that
+
+424
+00:19:16,440 --> 00:19:17,790
+didn't work that's okay
+
+425
+00:19:17,790 --> 00:19:21,059
+rotate this one just go a little bit
+
+426
+00:19:21,059 --> 00:19:23,640
+slower now so I can speak a little bit
+
+427
+00:19:23,640 --> 00:19:25,260
+better about everything that I do rotate
+
+428
+00:19:25,260 --> 00:19:28,530
+on the x-axis just rotate the roughly
+
+429
+00:19:28,530 --> 00:19:32,250
+into place there will give me a few know
+
+430
+00:19:32,250 --> 00:19:36,030
+a few of these faces up and we have to
+
+431
+00:19:36,030 --> 00:19:40,890
+bring it down as welcome you can scale
+
+432
+00:19:40,890 --> 00:19:43,470
+this whole thing a bit thicker so let's
+
+433
+00:19:43,470 --> 00:19:47,760
+just select this proportional is on
+
+434
+00:19:47,760 --> 00:19:51,890
+scale said okay then I can't select ease
+
+435
+00:19:51,890 --> 00:19:53,610
+making it a lot more complicated
+
+436
+00:19:53,610 --> 00:19:55,590
+information that I need to know every
+
+437
+00:19:55,590 --> 00:19:57,420
+time I try to slow down and explain what
+
+438
+00:19:57,420 --> 00:19:59,550
+I'm doing I'm doing a worse job at
+
+439
+00:19:59,550 --> 00:20:01,110
+modeling and I'm doing a worse job in
+
+440
+00:20:01,110 --> 00:20:05,760
+explaining don't know odd-eyes so small
+
+441
+00:20:05,760 --> 00:20:08,990
+its scale said
+
+442
+00:20:09,040 --> 00:20:11,630
+okay I'm scaling the hole in there
+
+443
+00:20:11,630 --> 00:20:14,810
+that's by scale is that bringing these
+
+444
+00:20:14,810 --> 00:20:19,630
+up with it awfully proportional again
+
+445
+00:20:20,440 --> 00:20:24,500
+mm-hmm now that I'm seeing it I'm
+
+446
+00:20:24,500 --> 00:20:26,720
+actually surprised so much water is
+
+447
+00:20:26,720 --> 00:20:27,860
+pouring out from this little cottage
+
+448
+00:20:27,860 --> 00:20:29,990
+makes me a bit scared to know what's
+
+449
+00:20:29,990 --> 00:20:30,770
+going on in there
+
+450
+00:20:30,770 --> 00:20:32,530
+I think they've left this sink running
+
+451
+00:20:32,530 --> 00:20:35,210
+where's the pipe coming there okay so
+
+452
+00:20:35,210 --> 00:20:36,740
+that's one thing we could have done a
+
+453
+00:20:36,740 --> 00:20:38,480
+little pipe there maybe we bring these
+
+454
+00:20:38,480 --> 00:20:42,190
+edges down to make or in together here
+
+455
+00:20:42,190 --> 00:20:48,080
+make it like so should it be maybe a
+
+456
+00:20:48,080 --> 00:20:50,170
+little bridge that crosses over here
+
+457
+00:20:50,170 --> 00:20:52,160
+should it be a bridge crossing over
+
+458
+00:20:52,160 --> 00:20:54,800
+shift D duplicate that I often work like
+
+459
+00:20:54,800 --> 00:20:57,380
+this I do shift I pick a face and then I
+
+460
+00:20:57,380 --> 00:20:59,090
+do shift D to duplicate it because then
+
+461
+00:20:59,090 --> 00:21:00,830
+it's detached then I can use this whole
+
+462
+00:21:00,830 --> 00:21:04,190
+trickery with the L key to select linked
+
+463
+00:21:04,190 --> 00:21:06,970
+and everything like that and I just
+
+464
+00:21:06,970 --> 00:21:09,380
+reshape that one and then I do e to
+
+465
+00:21:09,380 --> 00:21:11,540
+extrude it to make it thick and then
+
+466
+00:21:11,540 --> 00:21:15,890
+Estes killer on and now this is the nice
+
+467
+00:21:15,890 --> 00:21:19,820
+thing L to select it and then G on the
+
+468
+00:21:19,820 --> 00:21:21,740
+left here to move that one and then
+
+469
+00:21:21,740 --> 00:21:27,440
+we'll do just to shift D Y minus one
+
+470
+00:21:27,440 --> 00:21:31,190
+minus zero point zero point seven and
+
+471
+00:21:31,190 --> 00:21:33,710
+then shift are a few times make those
+
+472
+00:21:33,710 --> 00:21:35,900
+planks across and now they all look the
+
+473
+00:21:35,900 --> 00:21:37,250
+same so we can't really have it like
+
+474
+00:21:37,250 --> 00:21:40,250
+that obviously so we can just pick one
+
+475
+00:21:40,250 --> 00:21:44,060
+to do do vertical xo2 get proportional
+
+476
+00:21:44,060 --> 00:21:48,380
+and then we can just what we could do
+
+477
+00:21:48,380 --> 00:21:51,390
+actually let's try to do them
+
+478
+00:21:51,390 --> 00:21:53,770
+let's press L on all of these planks now
+
+479
+00:21:53,770 --> 00:21:56,440
+and then we did what their tip was shift
+
+480
+00:21:56,440 --> 00:21:57,880
+l if you're a deselect the whole linked
+
+481
+00:21:57,880 --> 00:21:59,830
+package like that mesh transform
+
+482
+00:21:59,830 --> 00:22:02,680
+randomize and now we can actually slide
+
+483
+00:22:02,680 --> 00:22:05,470
+it up a bit more make it more I don't
+
+484
+00:22:05,470 --> 00:22:06,700
+have to be so worried the objects are
+
+485
+00:22:06,700 --> 00:22:07,900
+quite big so I don't have to be too
+
+486
+00:22:07,900 --> 00:22:10,960
+worried about that they are intersecting
+
+487
+00:22:10,960 --> 00:22:14,590
+too badly so scale may be on y-axis got
+
+488
+00:22:14,590 --> 00:22:17,050
+one no that's okay I thought that one
+
+489
+00:22:17,050 --> 00:22:18,160
+what could have been in the danger zone
+
+490
+00:22:18,160 --> 00:22:20,530
+a bit but it wasn't danger zone makes me
+
+491
+00:22:20,530 --> 00:22:23,640
+think of Top Gun that was a good movie
+
+492
+00:22:23,640 --> 00:22:27,490
+1984 the Swedish number of people that
+
+493
+00:22:27,490 --> 00:22:29,770
+applied to become a fighter pilot after
+
+494
+00:22:29,770 --> 00:22:32,140
+that one aired in the cinema was I don't
+
+495
+00:22:32,140 --> 00:22:33,370
+even know the number but it was a lot of
+
+496
+00:22:33,370 --> 00:22:34,750
+people that applied and wanted to become
+
+497
+00:22:34,750 --> 00:22:37,420
+fighter pilots however we got off the
+
+498
+00:22:37,420 --> 00:22:39,850
+top gun I don't know oh yeah danger zone
+
+499
+00:22:39,850 --> 00:22:42,010
+that's it so we've got like a lot of
+
+500
+00:22:42,010 --> 00:22:43,480
+planks here maybe we should have some
+
+501
+00:22:43,480 --> 00:22:47,020
+posts as well so I can just do another
+
+502
+00:22:47,020 --> 00:22:48,850
+face we'll pick a random one that on the
+
+503
+00:22:48,850 --> 00:22:51,700
+loop off with proportional scale it down
+
+504
+00:22:51,700 --> 00:22:55,060
+keep to move it there get to move it
+
+505
+00:22:55,060 --> 00:22:58,120
+down get to move it there make it brown
+
+506
+00:22:58,120 --> 00:23:03,130
+eat extrude it l2 select the links and
+
+507
+00:23:03,130 --> 00:23:06,340
+again this is the nice thing you just
+
+508
+00:23:06,340 --> 00:23:08,470
+like back in the day which would have
+
+509
+00:23:08,470 --> 00:23:10,060
+been like four weeks ago or something I
+
+510
+00:23:10,060 --> 00:23:13,270
+would have not really made stuff so
+
+511
+00:23:13,270 --> 00:23:14,950
+wonky but then what I was modeling the
+
+512
+00:23:14,950 --> 00:23:17,140
+part island I realized that the wonky it
+
+513
+00:23:17,140 --> 00:23:19,420
+is probably the better it looks when it
+
+514
+00:23:19,420 --> 00:23:21,700
+comes to like a low poly look so don't
+
+515
+00:23:21,700 --> 00:23:22,840
+be afraid don't try to make everything
+
+516
+00:23:22,840 --> 00:23:25,270
+perfect and aligned and stuff like that
+
+517
+00:23:25,270 --> 00:23:27,220
+if you've got any sort of OCD similar to
+
+518
+00:23:27,220 --> 00:23:28,870
+what I've got which is like I mentioned
+
+519
+00:23:28,870 --> 00:23:30,640
+it in a previous video as well it's like
+
+520
+00:23:30,640 --> 00:23:33,400
+symmetry and pixel perfect alignment
+
+521
+00:23:33,400 --> 00:23:35,770
+that's usually my motto so it feels
+
+522
+00:23:35,770 --> 00:23:36,850
+quite liberating
+
+523
+00:23:36,850 --> 00:23:39,150
+no I'm not gonna use that word it's been
+
+524
+00:23:39,150 --> 00:23:42,040
+contaminated it's quite nice to be able
+
+525
+00:23:42,040 --> 00:23:45,490
+to just to do stuff like this okay
+
+526
+00:23:45,490 --> 00:23:48,940
+so that's a maybe we should do some sort
+
+527
+00:23:48,940 --> 00:23:51,039
+of a rail here as well so we don't want
+
+528
+00:23:51,039 --> 00:23:53,289
+to fall down into the sewage water which
+
+529
+00:23:53,289 --> 00:23:55,809
+it might not even be sewage water you
+
+530
+00:23:55,809 --> 00:23:58,000
+never know what it is actually so shift
+
+531
+00:23:58,000 --> 00:24:00,279
+D duplicate that face as you can see you
+
+532
+00:24:00,279 --> 00:24:02,110
+can pretty much take any face here that
+
+533
+00:24:02,110 --> 00:24:06,039
+might seem suitable put it there
+
+534
+00:24:06,039 --> 00:24:08,590
+I don't eat to extrude it I'm just gonna
+
+535
+00:24:08,590 --> 00:24:10,029
+make a really simple plank here but I'll
+
+536
+00:24:10,029 --> 00:24:13,840
+rescale it on a bit G to move it and
+
+537
+00:24:13,840 --> 00:24:16,720
+again we don't have to be picky that's
+
+538
+00:24:16,720 --> 00:24:20,770
+the nice thing have I said the wonky or
+
+539
+00:24:20,770 --> 00:24:22,960
+the better I think I did but we could
+
+540
+00:24:22,960 --> 00:24:24,700
+actually make it not go through so much
+
+541
+00:24:24,700 --> 00:24:26,140
+show but I guess they they could have
+
+542
+00:24:26,140 --> 00:24:28,330
+chopped it through now we'll do L to
+
+543
+00:24:28,330 --> 00:24:31,299
+select those links and then here I can
+
+544
+00:24:31,299 --> 00:24:35,350
+just move that onto that and now maybe
+
+545
+00:24:35,350 --> 00:24:37,570
+we wanted it to be that could be a bit
+
+546
+00:24:37,570 --> 00:24:39,309
+thicker like that maybe you want to cut
+
+547
+00:24:39,309 --> 00:24:41,590
+it like this as well actually control
+
+548
+00:24:41,590 --> 00:24:44,890
+our loop cut a few those control or
+
+549
+00:24:44,890 --> 00:24:49,000
+we've got a few those and now with
+
+550
+00:24:49,000 --> 00:24:51,549
+proportional oh I'll just pick a few
+
+551
+00:24:51,549 --> 00:24:56,110
+these and we'll even make the railings
+
+552
+00:24:56,110 --> 00:24:59,320
+here a bit won't you because who would
+
+553
+00:24:59,320 --> 00:25:00,940
+have cut perfect plank like that if you
+
+554
+00:25:00,940 --> 00:25:02,350
+build a house like this in a place like
+
+555
+00:25:02,350 --> 00:25:04,390
+this with a builder like this I doubt
+
+556
+00:25:04,390 --> 00:25:07,539
+that they'd be using straight planks and
+
+557
+00:25:07,539 --> 00:25:08,980
+here we could do the same trick as well
+
+558
+00:25:08,980 --> 00:25:12,220
+we'll do K to do a knife cut here let's
+
+559
+00:25:12,220 --> 00:25:14,020
+add some of that geometry luckily enough
+
+560
+00:25:14,020 --> 00:25:17,200
+the number of polygons compared to like
+
+561
+00:25:17,200 --> 00:25:20,110
+non low poly arch this is so few
+
+562
+00:25:20,110 --> 00:25:21,779
+polygons anyway that I wouldn't even
+
+563
+00:25:21,779 --> 00:25:24,820
+flinch to use this on especially on a PC
+
+564
+00:25:24,820 --> 00:25:27,399
+it's not a problem to have these
+
+565
+00:25:27,399 --> 00:25:29,770
+vertices rendering I mean you have
+
+566
+00:25:29,770 --> 00:25:32,440
+objects in some cases where the
+
+567
+00:25:32,440 --> 00:25:35,049
+characters alone are like hundreds of
+
+568
+00:25:35,049 --> 00:25:38,110
+thousands of polygons and where I'll
+
+569
+00:25:38,110 --> 00:25:39,760
+check now actually what counter we out
+
+570
+00:25:39,760 --> 00:25:41,440
+node you can go brighter as well you
+
+571
+00:25:41,440 --> 00:25:43,010
+know
+
+572
+00:25:43,010 --> 00:25:50,809
+right let's do Kate let's make this
+
+573
+00:25:50,809 --> 00:25:54,200
+brighter so G and step it up a bit there
+
+574
+00:25:54,200 --> 00:25:55,850
+I works too actually in fact it looks
+
+575
+00:25:55,850 --> 00:25:58,850
+even better so let's make that one
+
+576
+00:25:58,850 --> 00:26:00,679
+brighter so we've got little bridge
+
+577
+00:26:00,679 --> 00:26:02,330
+these are hanging in the air I guess I
+
+578
+00:26:02,330 --> 00:26:04,750
+could fix that too
+
+579
+00:26:04,750 --> 00:26:07,370
+let's make some beams here so I'll just
+
+580
+00:26:07,370 --> 00:26:08,929
+hop into edit mode select that face
+
+581
+00:26:08,929 --> 00:26:10,760
+shifty you know the drill
+
+582
+00:26:10,760 --> 00:26:13,280
+I delete that you know fantastic shift
+
+583
+00:26:13,280 --> 00:26:16,669
+the bring it down scale scale on the
+
+584
+00:26:16,669 --> 00:26:20,150
+y-axis bring it down e to extrude on
+
+585
+00:26:20,150 --> 00:26:21,799
+sometimes like now you can see that I've
+
+586
+00:26:21,799 --> 00:26:23,570
+extrude it in the wrong direction so we
+
+587
+00:26:23,570 --> 00:26:25,220
+made it to all the back faces facing out
+
+588
+00:26:25,220 --> 00:26:26,780
+they use this way to fix that it's just
+
+589
+00:26:26,780 --> 00:26:28,250
+to extrude it in the other direction is
+
+590
+00:26:28,250 --> 00:26:30,770
+tough so that's the easiest way you
+
+591
+00:26:30,770 --> 00:26:32,090
+could also flip the normals and stuff
+
+592
+00:26:32,090 --> 00:26:36,440
+that's a bit of a pain okay there's one
+
+593
+00:26:36,440 --> 00:26:39,980
+beam let's do shift the rotate rotate
+
+594
+00:26:39,980 --> 00:26:46,880
+rotate on which axis white key to me
+
+595
+00:26:46,880 --> 00:26:48,850
+whatever no no no that's okay
+
+596
+00:26:48,850 --> 00:26:54,350
+no I've got something stupid L to select
+
+597
+00:26:54,350 --> 00:26:56,750
+our own bar to rotate okay I don't know
+
+598
+00:26:56,750 --> 00:26:58,400
+what key I press there but controls that
+
+599
+00:26:58,400 --> 00:27:01,100
+will save you a lot of the time so we've
+
+600
+00:27:01,100 --> 00:27:02,990
+got a lot British go in there should we
+
+601
+00:27:02,990 --> 00:27:04,730
+make it we've already made a tree so I
+
+602
+00:27:04,730 --> 00:27:05,929
+won't really do that but we could make
+
+603
+00:27:05,929 --> 00:27:08,150
+some grass things growing here so I'll
+
+604
+00:27:08,150 --> 00:27:10,580
+pick this face deep you know the drill
+
+605
+00:27:10,580 --> 00:27:12,770
+scale it bring it to that scale it down
+
+606
+00:27:12,770 --> 00:27:16,040
+even more and now change it to brighter
+
+607
+00:27:16,040 --> 00:27:18,290
+green move it down and then here we do
+
+608
+00:27:18,290 --> 00:27:20,510
+the right click to extrude s to scale
+
+609
+00:27:20,510 --> 00:27:23,390
+right click extrude scale right click to
+
+610
+00:27:23,390 --> 00:27:25,850
+extrude s to scale right click to
+
+611
+00:27:25,850 --> 00:27:28,340
+extrude s to scale control our for loop
+
+612
+00:27:28,340 --> 00:27:30,770
+cut there pick that one right click
+
+613
+00:27:30,770 --> 00:27:33,559
+scale actually we'll press over
+
+614
+00:27:33,559 --> 00:27:36,020
+proportional here and then just right
+
+615
+00:27:36,020 --> 00:27:37,580
+click and you can scale them all
+
+616
+00:27:37,580 --> 00:27:38,710
+together there
+
+617
+00:27:38,710 --> 00:27:42,660
+control our look at our scale its
+
+618
+00:27:42,660 --> 00:27:46,270
+control right-click scale it's for like
+
+619
+00:27:46,270 --> 00:27:49,810
+minutes so maybe this could be like some
+
+620
+00:27:49,810 --> 00:27:51,430
+sort of adjusts grass thing growing
+
+621
+00:27:51,430 --> 00:27:57,280
+there or something what else could we
+
+622
+00:27:57,280 --> 00:28:00,130
+have we could have a barrel here maybe
+
+623
+00:28:00,130 --> 00:28:01,510
+they need a barrel not that they need
+
+624
+00:28:01,510 --> 00:28:03,300
+any more water but let's make apparel
+
+625
+00:28:03,300 --> 00:28:05,860
+I'll just tick the same place here I'll
+
+626
+00:28:05,860 --> 00:28:07,990
+pick this face shift D to duplicate it
+
+627
+00:28:07,990 --> 00:28:11,020
+that's the scale move it up control I
+
+628
+00:28:11,020 --> 00:28:13,200
+right-click it and subdivide it once
+
+629
+00:28:13,200 --> 00:28:15,610
+then we've got our trusted F 3 and
+
+630
+00:28:15,610 --> 00:28:19,890
+circle a circle going G move it to brown
+
+631
+00:28:19,890 --> 00:28:21,460
+scale it down
+
+632
+00:28:21,460 --> 00:28:23,020
+get off proportional now we'll just
+
+633
+00:28:23,020 --> 00:28:25,990
+extrude the first up a bit for the base
+
+634
+00:28:25,990 --> 00:28:28,810
+ring e to extrude again as to scale E to
+
+635
+00:28:28,810 --> 00:28:30,940
+extrude that's the scale let's make a
+
+636
+00:28:30,940 --> 00:28:33,700
+ring here e to extrude this is a big
+
+637
+00:28:33,700 --> 00:28:36,040
+barrel I have to shrink it that's the
+
+638
+00:28:36,040 --> 00:28:38,890
+scale e to extrude s to scale that's our
+
+639
+00:28:38,890 --> 00:28:40,810
+old motto back isn't it
+
+640
+00:28:40,810 --> 00:28:43,450
+I've said it so much lately I'm right
+
+641
+00:28:43,450 --> 00:28:45,070
+clicking to extrude all sorts of weird
+
+642
+00:28:45,070 --> 00:28:49,120
+stuff that's no good is it so that's it
+
+643
+00:28:49,120 --> 00:28:53,050
+and then we'll in I to insert like that
+
+644
+00:28:53,050 --> 00:28:54,850
+need to extrude this could be let's just
+
+645
+00:28:54,850 --> 00:28:57,520
+fill it with water as well shall we it's
+
+646
+00:28:57,520 --> 00:29:00,070
+plenty of it alt to loop select that one
+
+647
+00:29:00,070 --> 00:29:02,530
+shift and alt to add loop select on
+
+648
+00:29:02,530 --> 00:29:04,150
+shift also like to shift all select
+
+649
+00:29:04,150 --> 00:29:07,860
+faulty to extrude on face normals ctrl +
+
+650
+00:29:07,860 --> 00:29:13,150
++ G great when they were got some sort
+
+651
+00:29:13,150 --> 00:29:17,450
+of a barrel strange-looking barrel
+
+652
+00:29:17,450 --> 00:29:20,540
+okay I'm a bit down today what else
+
+653
+00:29:20,540 --> 00:29:23,630
+should we do a little puffy this could
+
+654
+00:29:23,630 --> 00:29:26,960
+be very simple just cheap move it that's
+
+655
+00:29:26,960 --> 00:29:27,350
+it
+
+656
+00:29:27,350 --> 00:29:30,620
+passed on just a different color smokes
+
+657
+00:29:30,620 --> 00:29:38,360
+down here though you'll fall down okay
+
+658
+00:29:38,360 --> 00:29:41,800
+we can link this path together without
+
+659
+00:29:44,550 --> 00:29:46,559
+you randomized this moment of it I'm
+
+660
+00:29:46,559 --> 00:29:51,179
+here let's see I want to pick this
+
+661
+00:29:51,179 --> 00:29:53,010
+vertex old Zed then let's try to hunt
+
+662
+00:29:53,010 --> 00:30:05,090
+this vertex now mission impossible
+
+663
+00:30:05,090 --> 00:30:07,350
+but it wasn't impossible I just did it
+
+664
+00:30:07,350 --> 00:30:12,090
+so maybe that one that one should we do
+
+665
+00:30:12,090 --> 00:30:14,730
+it so yeah let's make this whole thing
+
+666
+00:30:14,730 --> 00:30:18,090
+you can walk around the house nope
+
+667
+00:30:18,090 --> 00:30:21,030
+oh yeah got another mission impossible
+
+668
+00:30:21,030 --> 00:30:24,450
+there we're gonna hunt for the another
+
+669
+00:30:24,450 --> 00:30:26,670
+vertex there a trick here is if it's
+
+670
+00:30:26,670 --> 00:30:27,960
+difficult if you just looked at this
+
+671
+00:30:27,960 --> 00:30:29,070
+picture it make no sense
+
+672
+00:30:29,070 --> 00:30:30,809
+but if you rotate a little bit you can
+
+673
+00:30:30,809 --> 00:30:32,550
+start picking out where the vertex is
+
+674
+00:30:32,550 --> 00:30:34,020
+that you want and it's probably that one
+
+675
+00:30:34,020 --> 00:30:36,960
+that we want yes and there's another one
+
+676
+00:30:36,960 --> 00:30:39,660
+your hunt it they wrote tracking lock-on
+
+677
+00:30:39,660 --> 00:30:43,500
+got it all set done and now this one's
+
+678
+00:30:43,500 --> 00:30:45,630
+not fitting there is it so let's
+
+679
+00:30:45,630 --> 00:30:48,780
+actually have some grass right there cuz
+
+680
+00:30:48,780 --> 00:30:50,250
+I like that that it grows right on the
+
+681
+00:30:50,250 --> 00:30:51,600
+corner for some reason the grass always
+
+682
+00:30:51,600 --> 00:30:53,910
+grows at the corner it's difficult to
+
+683
+00:30:53,910 --> 00:30:55,650
+cut there here let's make this look like
+
+684
+00:30:55,650 --> 00:30:57,870
+the grass is sticking up a little bit so
+
+685
+00:30:57,870 --> 00:31:01,980
+I'll select these and then e to extrude
+
+686
+00:31:01,980 --> 00:31:05,040
+it but let's extrude it down this one we
+
+687
+00:31:05,040 --> 00:31:07,410
+have to fix I'm not too worried about
+
+688
+00:31:07,410 --> 00:31:11,630
+the edge here because that's okay
+
+689
+00:31:11,880 --> 00:31:16,950
+I say that and then I break it so I need
+
+690
+00:31:16,950 --> 00:31:18,750
+to fix that we can't have this face
+
+691
+00:31:18,750 --> 00:31:21,840
+coming like that can we no we can just
+
+692
+00:31:21,840 --> 00:31:23,190
+delete that face select it
+
+693
+00:31:23,190 --> 00:31:25,590
+delete face and then we figure out what
+
+694
+00:31:25,590 --> 00:31:27,809
+to do here we can do switch on vertex
+
+695
+00:31:27,809 --> 00:31:31,169
+nothing you and then do ctrl key and
+
+696
+00:31:31,169 --> 00:31:33,840
+snap it to place there that's one way to
+
+697
+00:31:33,840 --> 00:31:36,169
+fix it
+
+698
+00:31:36,169 --> 00:31:38,700
+m2 merge by distance it removed five
+
+699
+00:31:38,700 --> 00:31:40,230
+vertices here that were double that's
+
+700
+00:31:40,230 --> 00:31:42,750
+okay then I'll just select that one
+
+701
+00:31:42,750 --> 00:31:47,370
+press f2 cap it and then dr. green as
+
+702
+00:31:47,370 --> 00:31:49,260
+well so that's it I just wanted to go
+
+703
+00:31:49,260 --> 00:31:51,419
+out there too and we can change these
+
+704
+00:31:51,419 --> 00:31:52,440
+little bits so they're different
+
+705
+00:31:52,440 --> 00:31:55,169
+thicknesses and not so uniformed just
+
+706
+00:31:55,169 --> 00:32:04,770
+some manual shifting there okay this to
+
+707
+00:32:04,770 --> 00:32:06,630
+be honest there's no right and wrong way
+
+708
+00:32:06,630 --> 00:32:09,679
+of doing it as long as you do right no
+
+709
+00:32:09,679 --> 00:32:13,080
+you just pick whatever method works at
+
+710
+00:32:13,080 --> 00:32:14,940
+the moment and if it works better for
+
+711
+00:32:14,940 --> 00:32:16,440
+you to do it won't wait do it that way
+
+712
+00:32:16,440 --> 00:32:18,179
+if it doesn't do it the other way okay
+
+713
+00:32:18,179 --> 00:32:19,590
+well I've already done a tree in the
+
+714
+00:32:19,590 --> 00:32:20,789
+other one so I'm not gonna bother to
+
+715
+00:32:20,789 --> 00:32:23,039
+make it tree no maybe we can just make
+
+716
+00:32:23,039 --> 00:32:27,330
+like a Ledge here so control has to say
+
+717
+00:32:27,330 --> 00:32:30,030
+that on let's bring this up as if it's
+
+718
+00:32:30,030 --> 00:32:34,950
+like an old corner here so maybe like
+
+719
+00:32:34,950 --> 00:32:37,950
+this and then let's just go eat extrude
+
+720
+00:32:37,950 --> 00:32:43,230
+that one and here we can do let's do
+
+721
+00:32:43,230 --> 00:32:45,780
+mesh transform randomized but let's do
+
+722
+00:32:45,780 --> 00:32:49,049
+it a lot more like this and then e to
+
+723
+00:32:49,049 --> 00:32:51,179
+extrude again and let's randomize it
+
+724
+00:32:51,179 --> 00:32:55,620
+again mesh transform randomize and slide
+
+725
+00:32:55,620 --> 00:32:57,659
+it that's it
+
+726
+00:32:57,659 --> 00:33:01,950
+and each extrude that one scale is that
+
+727
+00:33:01,950 --> 00:33:03,870
+now if you want to flatten it again and
+
+728
+00:33:03,870 --> 00:33:06,179
+then we'll do that I'll just do grass up
+
+729
+00:33:06,179 --> 00:33:11,580
+here no scale or all to eat extra long
+
+730
+00:33:11,580 --> 00:33:15,220
+face normals and bring it down like that
+
+731
+00:33:15,220 --> 00:33:18,040
+grab a few of these as well scale and a
+
+732
+00:33:18,040 --> 00:33:19,480
+bit differently how am i doing for a
+
+733
+00:33:19,480 --> 00:33:21,490
+battery battery is nearly dead on my
+
+734
+00:33:21,490 --> 00:33:23,590
+camera so I'm thinking that I've
+
+735
+00:33:23,590 --> 00:33:26,620
+recorded probably enough bogus modeling
+
+736
+00:33:26,620 --> 00:33:28,600
+now if you're still here on the premiere
+
+737
+00:33:28,600 --> 00:33:31,660
+thanks I didn't expect it to be this
+
+738
+00:33:31,660 --> 00:33:35,100
+long but you're free to leave anytime
+
+739
+00:33:35,100 --> 00:33:38,530
+it's makeup but I'm actually gonna
+
+740
+00:33:38,530 --> 00:33:41,500
+finish off any moment though so I want
+
+741
+00:33:41,500 --> 00:33:46,150
+to have it should I just do brown g2
+
+742
+00:33:46,150 --> 00:33:48,040
+move on let's do some more randomness
+
+743
+00:33:48,040 --> 00:33:50,830
+here Manuel randomness it's the worst
+
+744
+00:33:50,830 --> 00:33:52,720
+time to randomness humans are not really
+
+745
+00:33:52,720 --> 00:33:55,330
+good at trying to do stuff random it's
+
+746
+00:33:55,330 --> 00:33:56,590
+all these song patterns that you're
+
+747
+00:33:56,590 --> 00:33:58,480
+looking to do or something I'm not happy
+
+748
+00:33:58,480 --> 00:33:59,950
+about that but that's okay you don't
+
+749
+00:33:59,950 --> 00:34:01,240
+have to be happy with everything it's a
+
+750
+00:34:01,240 --> 00:34:02,470
+bit difficult to see the house not maybe
+
+751
+00:34:02,470 --> 00:34:06,280
+so let's move that one that vertex is
+
+752
+00:34:06,280 --> 00:34:08,290
+really annoying me that one in
+
+753
+00:34:08,290 --> 00:34:08,800
+particular
+
+754
+00:34:08,800 --> 00:34:10,870
+in fact it annoys me so much that I
+
+755
+00:34:10,870 --> 00:34:14,530
+might delete it and recreate this
+
+756
+00:34:14,530 --> 00:34:17,800
+because it annoyed me that much and then
+
+757
+00:34:17,800 --> 00:34:18,969
+I can show you that you don't have to be
+
+758
+00:34:18,969 --> 00:34:20,500
+too worried about something breaks you
+
+759
+00:34:20,500 --> 00:34:23,500
+can always repair it so if you wanted to
+
+760
+00:34:23,500 --> 00:34:25,960
+repair this one you could select these
+
+761
+00:34:25,960 --> 00:34:28,360
+press f2 no you don't want to do that
+
+762
+00:34:28,360 --> 00:34:30,340
+let's just do this you could eat extrude
+
+763
+00:34:30,340 --> 00:34:32,409
+this up let your vertex there's many
+
+764
+00:34:32,409 --> 00:34:35,290
+ways to fix it press F fix that
+
+765
+00:34:35,290 --> 00:34:38,500
+colorization there and then that's it
+
+766
+00:34:38,500 --> 00:34:40,090
+and then you can link these together so
+
+767
+00:34:40,090 --> 00:34:43,900
+like he's f2 link those and then you
+
+768
+00:34:43,900 --> 00:34:44,918
+just wanted to show you that you don't
+
+769
+00:34:44,918 --> 00:34:47,080
+have to be too afraid if something it's
+
+770
+00:34:47,080 --> 00:34:48,790
+like weird like that if you managed to
+
+771
+00:34:48,790 --> 00:34:50,350
+break the mesh you could just revert to
+
+772
+00:34:50,350 --> 00:34:52,270
+your save file that's probably the best
+
+773
+00:34:52,270 --> 00:34:55,570
+way but if you forgot to save some shift
+
+774
+00:34:55,570 --> 00:34:57,640
+selecting those pressing F but then it
+
+775
+00:34:57,640 --> 00:35:00,430
+does stretch this UV so you have to fix
+
+776
+00:35:00,430 --> 00:35:03,070
+the UV like this but that's not the end
+
+777
+00:35:03,070 --> 00:35:06,700
+of the world and then there we go you
+
+778
+00:35:06,700 --> 00:35:08,830
+have to pick the right edges as well f2
+
+779
+00:35:08,830 --> 00:35:11,800
+lot on mark that vertex
+
+780
+00:35:11,800 --> 00:35:14,350
+and now I've successfully just deleted
+
+781
+00:35:14,350 --> 00:35:16,000
+that vertex not annoying me and put it
+
+782
+00:35:16,000 --> 00:35:18,130
+back again just to show you that you can
+
+783
+00:35:18,130 --> 00:35:20,350
+actually fix the topology if you manage
+
+784
+00:35:20,350 --> 00:35:21,820
+to cut a hole don't panic
+
+785
+00:35:21,820 --> 00:35:25,660
+use the different F to cap the holes and
+
+786
+00:35:25,660 --> 00:35:27,460
+try to find the edges that should be
+
+787
+00:35:27,460 --> 00:35:29,170
+connected and you'd be alright I think
+
+788
+00:35:29,170 --> 00:35:31,420
+that's gonna be it for this week a lot
+
+789
+00:35:31,420 --> 00:35:33,340
+of extra bonus material they're probably
+
+790
+00:35:33,340 --> 00:35:35,140
+a bit more than I should have added but
+
+791
+00:35:35,140 --> 00:35:36,700
+hopefully gave you some extra insight to
+
+792
+00:35:36,700 --> 00:35:38,200
+do some modelling tips without the
+
+793
+00:35:38,200 --> 00:35:40,030
+stress of doing it within the ten
+
+794
+00:35:40,030 --> 00:35:42,070
+minutes but anyway please consider
+
+795
+00:35:42,070 --> 00:35:43,570
+subscribing if you haven't done that
+
+796
+00:35:43,570 --> 00:35:45,370
+already and hit like if you liked the
+
+797
+00:35:45,370 --> 00:35:47,380
+video and I'll see you next week for
+
+798
+00:35:47,380 --> 00:35:51,070
+another ten minute build alright bye for
+
+799
+00:35:51,070 --> 00:35:52,510
+now have a good week
+
+800
+00:35:52,510 --> 00:35:54,700
+squeak - check I've just hit the four
+
+801
+00:35:54,700 --> 00:35:56,500
+percent barrier of female Watchers as
+
+802
+00:35:56,500 --> 00:35:58,240
+well so thumbs up on that one and if
+
+803
+00:35:58,240 --> 00:36:03,720
+insya was a woman she'd look like this
+
+804
+00:36:04,200 --> 00:36:10,830
+okay that's it am I even in focus
+
+805
+00:36:12,660 --> 00:36:38,139
+[Music]
+

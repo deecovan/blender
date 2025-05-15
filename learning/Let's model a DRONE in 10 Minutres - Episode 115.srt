@@ -1,0 +1,3400 @@
+1
+00:00:00,000 --> 00:00:01,860
+hello everyone and welcome to the last
+
+2
+00:00:01,860 --> 00:00:03,600
+episode of the 10 minute modeling
+
+3
+00:00:03,600 --> 00:00:05,520
+challenge that I will be filming in this
+
+4
+00:00:05,520 --> 00:00:08,099
+room I think so anyway because tomorrow
+
+5
+00:00:08,099 --> 00:00:09,480
+we'll be getting the keys for the next
+
+6
+00:00:09,480 --> 00:00:11,099
+house that we're gonna move to so we've
+
+7
+00:00:11,099 --> 00:00:12,360
+lived in this house for one year now
+
+8
+00:00:12,360 --> 00:00:14,099
+since we moved to Australia and we want
+
+9
+00:00:14,099 --> 00:00:15,540
+to look around a little bit and we're
+
+10
+00:00:15,540 --> 00:00:17,340
+excited to try a new house in a new
+
+11
+00:00:17,340 --> 00:00:18,960
+neighborhood so we're moving just about
+
+12
+00:00:18,960 --> 00:00:21,660
+five minutes in that direction uh to an
+
+13
+00:00:21,660 --> 00:00:23,400
+even steeper Hill actually so it's going
+
+14
+00:00:23,400 --> 00:00:24,900
+to be a little bit more exercise when I
+
+15
+00:00:24,900 --> 00:00:25,920
+go up and down which is going to be
+
+16
+00:00:25,920 --> 00:00:26,939
+great actually I'm going to be driving
+
+17
+00:00:26,939 --> 00:00:28,800
+the car most of the time so probably a
+
+18
+00:00:28,800 --> 00:00:31,260
+zero exercise but still it sounds uh
+
+19
+00:00:31,260 --> 00:00:32,520
+like it's gonna be a nice place I'm
+
+20
+00:00:32,520 --> 00:00:35,040
+really excited so uh that's going to be
+
+21
+00:00:35,040 --> 00:00:37,440
+happening and I'm we still have this
+
+22
+00:00:37,440 --> 00:00:38,940
+house for another two weeks so it's a
+
+23
+00:00:38,940 --> 00:00:40,860
+bit of an overlap but I think that I'll
+
+24
+00:00:40,860 --> 00:00:42,360
+be recording the next episode in the
+
+25
+00:00:42,360 --> 00:00:44,160
+other house so this is
+
+26
+00:00:44,160 --> 00:00:45,960
+I probably wasn't lying when I said that
+
+27
+00:00:45,960 --> 00:00:47,820
+this might be or I said it was going to
+
+28
+00:00:47,820 --> 00:00:49,500
+be the last one in this room so I better
+
+29
+00:00:49,500 --> 00:00:51,420
+stick to it so hopefully I'll get the
+
+30
+00:00:51,420 --> 00:00:53,460
+internet to work the internet to work in
+
+31
+00:00:53,460 --> 00:00:55,320
+the new house as well and it should be
+
+32
+00:00:55,320 --> 00:00:56,760
+connected and it should hopefully be
+
+33
+00:00:56,760 --> 00:00:58,680
+fiber again otherwise I'll panic because
+
+34
+00:00:58,680 --> 00:01:00,719
+I cannot go back to anything else than
+
+35
+00:01:00,719 --> 00:01:03,120
+fiber it needs to be high speed up and
+
+36
+00:01:03,120 --> 00:01:04,860
+down and even to Europe it seems to be
+
+37
+00:01:04,860 --> 00:01:06,600
+working pretty decently these days but I
+
+38
+00:01:06,600 --> 00:01:08,280
+that's beyond my control in me but I
+
+39
+00:01:08,280 --> 00:01:10,080
+think it's only two hop like through
+
+40
+00:01:10,080 --> 00:01:11,600
+Singapore or something like pretty crazy
+
+41
+00:01:11,600 --> 00:01:13,979
+so that's going to be happening I'm
+
+42
+00:01:13,979 --> 00:01:16,500
+going to be literally after this episode
+
+43
+00:01:16,500 --> 00:01:18,659
+tomorrow get the keys and then pack
+
+44
+00:01:18,659 --> 00:01:20,580
+everything down and then shift all the
+
+45
+00:01:20,580 --> 00:01:22,200
+stuff we haven't got a tremendous amount
+
+46
+00:01:22,200 --> 00:01:24,420
+of stuff because we moved from Sweden
+
+47
+00:01:24,420 --> 00:01:26,340
+with only 13 suitcases for a family of
+
+48
+00:01:26,340 --> 00:01:28,080
+five so whatever we've got now is stuff
+
+49
+00:01:28,080 --> 00:01:29,820
+that we had to panic purchase because we
+
+50
+00:01:29,820 --> 00:01:31,979
+rented an unfurnished house so we had to
+
+51
+00:01:31,979 --> 00:01:34,140
+look on Ikea I had to sit for like I
+
+52
+00:01:34,140 --> 00:01:35,400
+don't know two weeks solid and just
+
+53
+00:01:35,400 --> 00:01:37,619
+assemble a lot of Ikea furniture so now
+
+54
+00:01:37,619 --> 00:01:39,060
+we're going to be moving that along with
+
+55
+00:01:39,060 --> 00:01:41,520
+the washer dryer and because I'm fridge
+
+56
+00:01:41,520 --> 00:01:43,259
+because in this country when you move
+
+57
+00:01:43,259 --> 00:01:44,939
+into a different house that doesn't come
+
+58
+00:01:44,939 --> 00:01:47,040
+along with it so I'm pretty used to the
+
+59
+00:01:47,040 --> 00:01:48,420
+way it works in Sweden a fridge and a
+
+60
+00:01:48,420 --> 00:01:50,220
+freezer and washing machines everything
+
+61
+00:01:50,220 --> 00:01:51,659
+like that stays in the house which is
+
+62
+00:01:51,659 --> 00:01:53,640
+pretty convenient but in this case we
+
+63
+00:01:53,640 --> 00:01:55,140
+have to bring it all so that's going to
+
+64
+00:01:55,140 --> 00:01:56,759
+be interesting but we've got a bit of a
+
+65
+00:01:56,759 --> 00:01:58,020
+moving company to help us out with that
+
+66
+00:01:58,020 --> 00:01:59,700
+all right so what else is happening I'm
+
+67
+00:01:59,700 --> 00:02:01,619
+reading a book how about that for the
+
+68
+00:02:01,619 --> 00:02:03,180
+first time in my life oh well actually
+
+69
+00:02:03,180 --> 00:02:06,180
+not true 100 because I did read Rainbow
+
+70
+00:02:06,180 --> 00:02:08,880
+Six in the late 90s because I like the
+
+71
+00:02:08,880 --> 00:02:10,199
+game so I thought I'd have to read the
+
+72
+00:02:10,199 --> 00:02:11,580
+book I love that one and then I've just
+
+73
+00:02:11,580 --> 00:02:13,200
+not read since then first of all I'm
+
+74
+00:02:13,200 --> 00:02:14,819
+reading a game design book that I got
+
+75
+00:02:14,819 --> 00:02:16,560
+recommended so I'll be able to give it a
+
+76
+00:02:16,560 --> 00:02:17,819
+little review on that one because I need
+
+77
+00:02:17,819 --> 00:02:19,739
+to learn a lot about game design it's
+
+78
+00:02:19,739 --> 00:02:21,720
+not as easy as making uh just
+
+79
+00:02:21,720 --> 00:02:23,580
+technically making a game so here's a
+
+80
+00:02:23,580 --> 00:02:24,660
+bit of a tip for you if you're
+
+81
+00:02:24,660 --> 00:02:26,400
+interested in making games a lot of the
+
+82
+00:02:26,400 --> 00:02:28,620
+courses out there Focus very heavily on
+
+83
+00:02:28,620 --> 00:02:30,780
+just like how do you use Unity how do
+
+84
+00:02:30,780 --> 00:02:32,340
+you get a thing to move how do you jump
+
+85
+00:02:32,340 --> 00:02:33,900
+how do you do a platformer how do you do
+
+86
+00:02:33,900 --> 00:02:35,520
+a first person shooter how do you do a
+
+87
+00:02:35,520 --> 00:02:37,440
+racing Simulator game but very few
+
+88
+00:02:37,440 --> 00:02:39,720
+actually focus on the fact that you know
+
+89
+00:02:39,720 --> 00:02:41,099
+it should really be a fun game it's
+
+90
+00:02:41,099 --> 00:02:42,720
+taken me about 20 years to realize that
+
+91
+00:02:42,720 --> 00:02:44,700
+because it's very easy doing doing like
+
+92
+00:02:44,700 --> 00:02:46,379
+15 ludum tires that I've done I've
+
+93
+00:02:46,379 --> 00:02:48,060
+learned it the hard way that it's very
+
+94
+00:02:48,060 --> 00:02:49,620
+easy to put together the game and you go
+
+95
+00:02:49,620 --> 00:02:51,239
+oh this might be fun and then you get
+
+96
+00:02:51,239 --> 00:02:52,920
+the feedback from players going nah it's
+
+97
+00:02:52,920 --> 00:02:54,300
+not really that fun and then you
+
+98
+00:02:54,300 --> 00:02:55,440
+actually play it yourself and you go
+
+99
+00:02:55,440 --> 00:02:57,540
+you're right this sucks it's pretty bad
+
+100
+00:02:57,540 --> 00:03:00,720
+so I'm really wanting to upload level up
+
+101
+00:03:00,720 --> 00:03:02,879
+my skills on the game design so I've
+
+102
+00:03:02,879 --> 00:03:04,260
+learned a lot through the Journey of
+
+103
+00:03:04,260 --> 00:03:06,060
+line War as well because uh my code Dev
+
+104
+00:03:06,060 --> 00:03:08,160
+there is really good when it comes to
+
+105
+00:03:08,160 --> 00:03:09,780
+the balancing in the game design and why
+
+106
+00:03:09,780 --> 00:03:11,220
+things should and should not be in the
+
+107
+00:03:11,220 --> 00:03:13,200
+game and I hope that to be able to adapt
+
+108
+00:03:13,200 --> 00:03:15,120
+a lot of that thought process and I've
+
+109
+00:03:15,120 --> 00:03:16,500
+learned a lot of stuff not to do as well
+
+110
+00:03:16,500 --> 00:03:18,060
+for example don't make a game that
+
+111
+00:03:18,060 --> 00:03:19,620
+doesn't have single player like everyone
+
+112
+00:03:19,620 --> 00:03:21,720
+told us not to do and we've learned it
+
+113
+00:03:21,720 --> 00:03:24,599
+well still we prefer the multiplayer
+
+114
+00:03:24,599 --> 00:03:26,159
+part but if you want to have a
+
+115
+00:03:26,159 --> 00:03:28,739
+commercially successful game then you
+
+116
+00:03:28,739 --> 00:03:30,180
+should probably implement single player
+
+117
+00:03:30,180 --> 00:03:32,819
+and listen to what people say problem
+
+118
+00:03:32,819 --> 00:03:34,500
+for me reading is that I fall asleep all
+
+119
+00:03:34,500 --> 00:03:36,120
+the time and I've got the Kindle version
+
+120
+00:03:36,120 --> 00:03:38,700
+and Kindle version sucks
+
+121
+00:03:38,700 --> 00:03:41,280
+Kindle app sucks and I was really
+
+122
+00:03:41,280 --> 00:03:42,959
+surprised because I thought since it's
+
+123
+00:03:42,959 --> 00:03:44,640
+been about 10 years since I saw Kindle
+
+124
+00:03:44,640 --> 00:03:46,019
+and I thought surely it must have
+
+125
+00:03:46,019 --> 00:03:47,760
+improved super good text-to-speech and
+
+126
+00:03:47,760 --> 00:03:48,840
+everything like that I can just download
+
+127
+00:03:48,840 --> 00:03:51,360
+the book and listen to it and they've
+
+128
+00:03:51,360 --> 00:03:53,040
+disabled the feature you cannot actually
+
+129
+00:03:53,040 --> 00:03:54,840
+enable it anymore because I think they
+
+130
+00:03:54,840 --> 00:03:56,519
+just want you to buy a Kindle device
+
+131
+00:03:56,519 --> 00:03:57,780
+instead but I don't want to do that
+
+132
+00:03:57,780 --> 00:03:59,099
+because I've already got a phone and
+
+133
+00:03:59,099 --> 00:04:01,500
+I've got I've vowed not to get too many
+
+134
+00:04:01,500 --> 00:04:03,540
+electrical devices am I recording yeah
+
+135
+00:04:03,540 --> 00:04:05,700
+so I'm not going to buy a Kindle app I
+
+136
+00:04:05,700 --> 00:04:07,140
+just want to be able to read it on my
+
+137
+00:04:07,140 --> 00:04:08,400
+phone and I want to be able to switch on
+
+138
+00:04:08,400 --> 00:04:10,739
+text-to-speech on the PC version it has
+
+139
+00:04:10,739 --> 00:04:12,299
+text-to-speech and I enabled that and I
+
+140
+00:04:12,299 --> 00:04:13,860
+thought I'll listen on my PC then how
+
+141
+00:04:13,860 --> 00:04:15,840
+about that it's tough to bring along but
+
+142
+00:04:15,840 --> 00:04:17,339
+at least I could sit down here and
+
+143
+00:04:17,339 --> 00:04:18,959
+listen to it and if you want to have a
+
+144
+00:04:18,959 --> 00:04:20,940
+book read by Stephen Hawkins it's an
+
+145
+00:04:20,940 --> 00:04:21,959
+excellent thing because I don't think
+
+146
+00:04:21,959 --> 00:04:24,180
+they've stated their speech synthesis
+
+147
+00:04:24,180 --> 00:04:27,720
+it's like like 9080s or something so I
+
+148
+00:04:27,720 --> 00:04:29,280
+don't recommend it unless you're
+
+149
+00:04:29,280 --> 00:04:30,600
+actually reading a book written by
+
+150
+00:04:30,600 --> 00:04:32,040
+Stephen Hawking maybe that could be good
+
+151
+00:04:32,040 --> 00:04:33,540
+but I don't want to listen to all the
+
+152
+00:04:33,540 --> 00:04:35,280
+books like that it's not good not
+
+153
+00:04:35,280 --> 00:04:36,840
+recommended let's just stick to the news
+
+154
+00:04:36,840 --> 00:04:40,259
+as well blender version 4.0 is coming as
+
+155
+00:04:40,259 --> 00:04:42,360
+well exciting huh and I'll summarize
+
+156
+00:04:42,360 --> 00:04:45,060
+exactly what's exciting me about blender
+
+157
+00:04:45,060 --> 00:04:46,740
+4.0
+
+158
+00:04:46,740 --> 00:04:48,540
+with that said let's move on to
+
+159
+00:04:48,540 --> 00:04:49,620
+something else because I couldn't
+
+160
+00:04:49,620 --> 00:04:50,880
+actually find anything that interested
+
+161
+00:04:50,880 --> 00:04:53,699
+me in version 4.0 of blunder and it
+
+162
+00:04:53,699 --> 00:04:55,440
+seems to be it's like uoi tweaks and
+
+163
+00:04:55,440 --> 00:04:58,080
+some basic rigging things and maybe a
+
+164
+00:04:58,080 --> 00:04:59,639
+lot of stuff with geometry notes which I
+
+165
+00:04:59,639 --> 00:05:00,660
+don't really use because I haven't found
+
+166
+00:05:00,660 --> 00:05:02,940
+a lot of use of the geometry notes yet I
+
+167
+00:05:02,940 --> 00:05:04,680
+like to customize my low poly stuff and
+
+168
+00:05:04,680 --> 00:05:06,900
+just stylistically model stuff even
+
+169
+00:05:06,900 --> 00:05:08,340
+though I'm into procedurally generating
+
+170
+00:05:08,340 --> 00:05:09,720
+things I haven't been able to do
+
+171
+00:05:09,720 --> 00:05:11,580
+anything that I necessarily want to do
+
+172
+00:05:11,580 --> 00:05:13,440
+with geometry notes so I'm not super
+
+173
+00:05:13,440 --> 00:05:16,020
+excited about for the oh yet but maybe I
+
+174
+00:05:16,020 --> 00:05:17,520
+will be maybe someone will correct me
+
+175
+00:05:17,520 --> 00:05:19,020
+and go hey you should check this out
+
+176
+00:05:19,020 --> 00:05:20,639
+button so if you know something that I
+
+177
+00:05:20,639 --> 00:05:21,900
+don't and that you think would interest
+
+178
+00:05:21,900 --> 00:05:23,960
+me go ahead put it in the description
+
+179
+00:05:23,960 --> 00:05:26,280
+one more update as well since we're on
+
+180
+00:05:26,280 --> 00:05:27,780
+the topic of intros that are way too
+
+181
+00:05:27,780 --> 00:05:29,699
+long for a 10 minute video check out the
+
+182
+00:05:29,699 --> 00:05:30,960
+ghost behind me
+
+183
+00:05:30,960 --> 00:05:33,479
+it's the it's the Pac-Man ghost and last
+
+184
+00:05:33,479 --> 00:05:36,000
+week it cost their crayons anything
+
+185
+00:05:36,000 --> 00:05:38,639
+called crayons it caused chaos with my
+
+186
+00:05:38,639 --> 00:05:40,680
+white balance because I had it on auto
+
+187
+00:05:40,680 --> 00:05:41,880
+white balance which I know you're not
+
+188
+00:05:41,880 --> 00:05:43,380
+supposed to have but I thought nothing
+
+189
+00:05:43,380 --> 00:05:44,820
+is changing in the room well the ghost
+
+190
+00:05:44,820 --> 00:05:46,320
+is Shifting color so I look like an
+
+191
+00:05:46,320 --> 00:05:47,820
+Oompa Loompa half the time and then I
+
+192
+00:05:47,820 --> 00:05:49,500
+look like a ghost myself half the time
+
+193
+00:05:49,500 --> 00:05:50,940
+but I think I've fixed it now because I
+
+194
+00:05:50,940 --> 00:05:52,320
+fixed the white balance so it should be
+
+195
+00:05:52,320 --> 00:05:53,940
+fixed now and hopefully that goes behind
+
+196
+00:05:53,940 --> 00:05:55,620
+me should just shift colors instead like
+
+197
+00:05:55,620 --> 00:05:57,300
+the way it's meant to be doing I'm
+
+198
+00:05:57,300 --> 00:05:59,100
+actually also reading another piece of
+
+199
+00:05:59,100 --> 00:06:01,440
+text and I should probably not mention
+
+200
+00:06:01,440 --> 00:06:04,020
+anyone here by name giselda I still well
+
+201
+00:06:04,020 --> 00:06:05,340
+actually I can't really say your name
+
+202
+00:06:05,340 --> 00:06:06,780
+but I'm really excited to read what
+
+203
+00:06:06,780 --> 00:06:08,280
+you've got cooking there I know it's not
+
+204
+00:06:08,280 --> 00:06:10,020
+sci-fi you say well I call it sci-fi but
+
+205
+00:06:10,020 --> 00:06:11,699
+it's like a fiction anyway I actually
+
+206
+00:06:11,699 --> 00:06:13,560
+really enjoyed reading it so keep up the
+
+207
+00:06:13,560 --> 00:06:15,240
+good work and keep that going because I
+
+208
+00:06:15,240 --> 00:06:16,440
+want to read the complete thing now I'm
+
+209
+00:06:16,440 --> 00:06:18,840
+hooked onto your story so keep up the
+
+210
+00:06:18,840 --> 00:06:20,520
+great job on that one I'm really excited
+
+211
+00:06:20,520 --> 00:06:22,080
+to read more what you've got going there
+
+212
+00:06:22,080 --> 00:06:23,340
+all right so I think that's pretty much
+
+213
+00:06:23,340 --> 00:06:25,860
+sums up what I had to say and that's all
+
+214
+00:06:25,860 --> 00:06:28,440
+I had to say about that maybe some
+
+215
+00:06:28,440 --> 00:06:29,699
+people actually came to watch the
+
+216
+00:06:29,699 --> 00:06:32,039
+modeling so I'm going to be jumping on
+
+217
+00:06:32,039 --> 00:06:33,900
+the Discord challenge again the weekly
+
+218
+00:06:33,900 --> 00:06:35,699
+Discord challenge has been going on for
+
+219
+00:06:35,699 --> 00:06:37,440
+well over a year now and thanks to Arvid
+
+220
+00:06:37,440 --> 00:06:39,479
+who's relentlessly putting up new themes
+
+221
+00:06:39,479 --> 00:06:41,220
+and collecting all the stuff collecting
+
+222
+00:06:41,220 --> 00:06:43,440
+it into git repo and he's waiting for me
+
+223
+00:06:43,440 --> 00:06:45,000
+to create a video where I'm going to go
+
+224
+00:06:45,000 --> 00:06:46,440
+through it and I'm panicking now because
+
+225
+00:06:46,440 --> 00:06:47,880
+there's so many submissions there over
+
+226
+00:06:47,880 --> 00:06:49,919
+like 50 weeks that I haven't gone
+
+227
+00:06:49,919 --> 00:06:51,720
+through so I don't really know how to
+
+228
+00:06:51,720 --> 00:06:53,880
+tackle it but I'm gonna probably build
+
+229
+00:06:53,880 --> 00:06:55,380
+up my courage and tackle it at some
+
+230
+00:06:55,380 --> 00:06:56,639
+point in the new house when we move
+
+231
+00:06:56,639 --> 00:06:58,740
+there and maybe I can't really go
+
+232
+00:06:58,740 --> 00:07:00,840
+through all the submissions but hey he's
+
+233
+00:07:00,840 --> 00:07:02,340
+done it so good that it's got preview
+
+234
+00:07:02,340 --> 00:07:04,800
+images so maybe I can select the best of
+
+235
+00:07:04,800 --> 00:07:07,139
+so if you've been participating in the
+
+236
+00:07:07,139 --> 00:07:08,759
+Discord challenge there stay tuned
+
+237
+00:07:08,759 --> 00:07:09,840
+because I'll create the video about it
+
+238
+00:07:09,840 --> 00:07:11,639
+and maybe your image will be reviewed
+
+239
+00:07:11,639 --> 00:07:13,440
+and I'll get some feedback some
+
+240
+00:07:13,440 --> 00:07:15,419
+criticism should I be harsh should I be
+
+241
+00:07:15,419 --> 00:07:17,460
+kind should I be both I don't know I'll
+
+242
+00:07:17,460 --> 00:07:20,039
+figure it out so I should criticize my
+
+243
+00:07:20,039 --> 00:07:21,360
+own junk sometimes as well because half
+
+244
+00:07:21,360 --> 00:07:23,280
+the stuff I make look here hideous but
+
+245
+00:07:23,280 --> 00:07:25,020
+I'm not afraid to say that just look at
+
+246
+00:07:25,020 --> 00:07:26,220
+my thumbnails from the 10 minute
+
+247
+00:07:26,220 --> 00:07:28,919
+modeling challenge but then hey if you
+
+248
+00:07:28,919 --> 00:07:30,419
+haven't followed me before this is where
+
+249
+00:07:30,419 --> 00:07:32,940
+it comes in to just focus yourself on 10
+
+250
+00:07:32,940 --> 00:07:33,900
+minutes because then you've got an
+
+251
+00:07:33,900 --> 00:07:36,660
+excellent excuse X excellent because you
+
+252
+00:07:36,660 --> 00:07:37,860
+can say hey I did that in 10 minutes
+
+253
+00:07:37,860 --> 00:07:39,479
+what can you expect what else have I
+
+254
+00:07:39,479 --> 00:07:40,740
+been doing well I thought it was going
+
+255
+00:07:40,740 --> 00:07:42,120
+to go a lot faster but I spent
+
+256
+00:07:42,120 --> 00:07:44,699
+apparently 35 hours roughly modeling
+
+257
+00:07:44,699 --> 00:07:46,860
+interior objects for the low poly packs
+
+258
+00:07:46,860 --> 00:07:48,660
+and they're compatible with a crispy
+
+259
+00:07:48,660 --> 00:07:51,539
+crisply characters mini so now I've got
+
+260
+00:07:51,539 --> 00:07:54,419
+crisply Interiors modern really like
+
+261
+00:07:54,419 --> 00:07:55,860
+backwards with the naming there but it's
+
+262
+00:07:55,860 --> 00:07:57,539
+crispy Interiors is the collection and
+
+263
+00:07:57,539 --> 00:07:58,919
+then it's the modern because I realized
+
+264
+00:07:58,919 --> 00:08:01,139
+I have to do fantasy packs or sci-fi and
+
+265
+00:08:01,139 --> 00:08:03,000
+cyberpunk in the future as well so I've
+
+266
+00:08:03,000 --> 00:08:04,860
+created this one took me about 35 hours
+
+267
+00:08:04,860 --> 00:08:06,419
+because I know that it took about 35
+
+268
+00:08:06,419 --> 00:08:08,039
+hours because I recorded the whole
+
+269
+00:08:08,039 --> 00:08:09,840
+process and then I turned it into a time
+
+270
+00:08:09,840 --> 00:08:11,220
+lapse that I played at four times the
+
+271
+00:08:11,220 --> 00:08:12,900
+speed and that turned into about seven
+
+272
+00:08:12,900 --> 00:08:15,060
+seven and a half hours so if my math is
+
+273
+00:08:15,060 --> 00:08:16,620
+correct which it probably isn't well
+
+274
+00:08:16,620 --> 00:08:18,720
+maybe it's 30 hours or whatever so I'll
+
+275
+00:08:18,720 --> 00:08:19,860
+figure it out yeah I'm really excited
+
+276
+00:08:19,860 --> 00:08:21,360
+about that one because I imported all
+
+277
+00:08:21,360 --> 00:08:22,860
+the objects and created a little demo
+
+278
+00:08:22,860 --> 00:08:25,139
+scene inside of Unreal Engine and uh
+
+279
+00:08:25,139 --> 00:08:27,300
+Unreal Engine is really cool because it
+
+280
+00:08:27,300 --> 00:08:29,099
+actually works extremely good now I got
+
+281
+00:08:29,099 --> 00:08:31,500
+Nani to work and then I also got the
+
+282
+00:08:31,500 --> 00:08:33,839
+Lumen which is doing beautiful work
+
+283
+00:08:33,839 --> 00:08:36,179
+actually with the emission so with the
+
+284
+00:08:36,179 --> 00:08:37,860
+in fancy a pixel texture that you might
+
+285
+00:08:37,860 --> 00:08:39,179
+be using now hopefully if you haven't
+
+286
+00:08:39,179 --> 00:08:40,500
+just check out the link in the
+
+287
+00:08:40,500 --> 00:08:42,779
+description and go grab it because that
+
+288
+00:08:42,779 --> 00:08:45,300
+emission works extremely good in Unreal
+
+289
+00:08:45,300 --> 00:08:47,160
+Engine so the Lumen just picks up all
+
+290
+00:08:47,160 --> 00:08:49,200
+the emissive surfaces and actually uses
+
+291
+00:08:49,200 --> 00:08:50,820
+it pretty much as a light but without
+
+292
+00:08:50,820 --> 00:08:53,640
+any Shadows but it I'm really happy with
+
+293
+00:08:53,640 --> 00:08:55,080
+the way it looks so I'm excited about
+
+294
+00:08:55,080 --> 00:08:57,000
+that one so that pack I'll be releasing
+
+295
+00:08:57,000 --> 00:08:58,680
+onto my website and I've also got some
+
+296
+00:08:58,680 --> 00:08:59,880
+other channels where I'll be releasing
+
+297
+00:08:59,880 --> 00:09:01,500
+it one of them being the unit asset
+
+298
+00:09:01,500 --> 00:09:03,180
+store and then when the Fab store is
+
+299
+00:09:03,180 --> 00:09:04,620
+coming from epic later on I'm going to
+
+300
+00:09:04,620 --> 00:09:06,420
+be releasing it there too and I'll also
+
+301
+00:09:06,420 --> 00:09:08,760
+give it to my hero tier on my patrons as
+
+302
+00:09:08,760 --> 00:09:10,320
+well just need to finalize the packaging
+
+303
+00:09:10,320 --> 00:09:12,120
+and then launch it and then move on to
+
+304
+00:09:12,120 --> 00:09:14,100
+the next pack all right then so I know
+
+305
+00:09:14,100 --> 00:09:15,540
+you've been waiting a lot for the
+
+306
+00:09:15,540 --> 00:09:17,760
+modeling now but I just want to say one
+
+307
+00:09:17,760 --> 00:09:19,620
+more thing actually and that is I had a
+
+308
+00:09:19,620 --> 00:09:21,899
+few more questions about Ultra Nova so
+
+309
+00:09:21,899 --> 00:09:23,760
+earlier a few months ago I released some
+
+310
+00:09:23,760 --> 00:09:25,560
+teasers about Ultra Nova and I developed
+
+311
+00:09:25,560 --> 00:09:27,120
+that prototype that was going to be the
+
+312
+00:09:27,120 --> 00:09:29,279
+full game inside of unity and since then
+
+313
+00:09:29,279 --> 00:09:31,140
+I've realized I actually love the the
+
+314
+00:09:31,140 --> 00:09:32,820
+way that Unreal Engine is presenting all
+
+315
+00:09:32,820 --> 00:09:34,860
+the graphics and the way I can just cram
+
+316
+00:09:34,860 --> 00:09:36,660
+all the polygons in there so I've been
+
+317
+00:09:36,660 --> 00:09:38,220
+learning behind the scenes pretty much
+
+318
+00:09:38,220 --> 00:09:40,019
+Unreal Engine to the point where I'm
+
+319
+00:09:40,019 --> 00:09:41,459
+starting to feel quite comfortable now
+
+320
+00:09:41,459 --> 00:09:43,380
+at least with the with the way I can do
+
+321
+00:09:43,380 --> 00:09:45,420
+the graphically and the graphic
+
+322
+00:09:45,420 --> 00:09:46,860
+appearance and stuff I'm still learning
+
+323
+00:09:46,860 --> 00:09:49,019
+a bit of C plus plus and the blueprint
+
+324
+00:09:49,019 --> 00:09:50,459
+still still got a long way to go but I'm
+
+325
+00:09:50,459 --> 00:09:52,019
+at a point where I can soon start to
+
+326
+00:09:52,019 --> 00:09:54,060
+actually assemble what I had in unity
+
+327
+00:09:54,060 --> 00:09:56,160
+into Unreal Engine and then I'll be
+
+328
+00:09:56,160 --> 00:09:57,480
+building it from there so I'm really
+
+329
+00:09:57,480 --> 00:09:59,339
+excited about that one and behind the
+
+330
+00:09:59,339 --> 00:10:01,260
+scenes it's also been a huge process to
+
+331
+00:10:01,260 --> 00:10:02,760
+update the game design document because
+
+332
+00:10:02,760 --> 00:10:05,880
+uh I I have to whisper now because one
+
+333
+00:10:05,880 --> 00:10:08,100
+thing that is not popular amongst my
+
+334
+00:10:08,100 --> 00:10:11,220
+subscribers is AI and if I say AI I lose
+
+335
+00:10:11,220 --> 00:10:12,839
+subscribers I that's why I'm whispering
+
+336
+00:10:12,839 --> 00:10:14,700
+that and when I created a video thinking
+
+337
+00:10:14,700 --> 00:10:16,080
+that this is going to be popular because
+
+338
+00:10:16,080 --> 00:10:19,320
+I said I'll I asked chat GPT to help me
+
+339
+00:10:19,320 --> 00:10:22,320
+make a game and then it didn't really it
+
+340
+00:10:22,320 --> 00:10:24,000
+wasn't that popular and I think I
+
+341
+00:10:24,000 --> 00:10:25,380
+understand why because it's like
+
+342
+00:10:25,380 --> 00:10:27,959
+everyone's doing that and then while
+
+343
+00:10:27,959 --> 00:10:29,880
+we're discussing it in the Discord and
+
+344
+00:10:29,880 --> 00:10:32,399
+it's actually not really that good to
+
+345
+00:10:32,399 --> 00:10:33,660
+come up with a game design because it
+
+346
+00:10:33,660 --> 00:10:35,160
+can provide some useful hints but if
+
+347
+00:10:35,160 --> 00:10:36,839
+you're expecting it to create a Sci-Fi
+
+348
+00:10:36,839 --> 00:10:38,820
+story or a fictional story it's just
+
+349
+00:10:38,820 --> 00:10:40,680
+gonna left and right grab stuff from all
+
+350
+00:10:40,680 --> 00:10:42,540
+over like existing stories and it won't
+
+351
+00:10:42,540 --> 00:10:44,279
+tell you it'll sound confident like it's
+
+352
+00:10:44,279 --> 00:10:45,959
+coming up with something on the fly but
+
+353
+00:10:45,959 --> 00:10:47,519
+it turns out like the names are taken
+
+354
+00:10:47,519 --> 00:10:49,140
+from this one names of the planets is
+
+355
+00:10:49,140 --> 00:10:50,940
+taken from this the story plot is from
+
+356
+00:10:50,940 --> 00:10:53,279
+this either game or series or sci-fi or
+
+357
+00:10:53,279 --> 00:10:55,320
+book or novel and you don't know what it
+
+358
+00:10:55,320 --> 00:10:56,760
+comes from so people will be able to
+
+359
+00:10:56,760 --> 00:10:58,800
+recognize that so again I shouldn't name
+
+360
+00:10:58,800 --> 00:11:01,140
+drop here but but yazilra that's what
+
+361
+00:11:01,140 --> 00:11:02,880
+I'm going to say is helping me with a
+
+362
+00:11:02,880 --> 00:11:04,980
+really cool story so I'm I'm super
+
+363
+00:11:04,980 --> 00:11:06,660
+excited to share more about that so
+
+364
+00:11:06,660 --> 00:11:07,860
+we've been working in the game design
+
+365
+00:11:07,860 --> 00:11:10,380
+document a lot so thumbs up thanks a lot
+
+366
+00:11:10,380 --> 00:11:12,060
+for your help so far I'm really eager to
+
+367
+00:11:12,060 --> 00:11:13,800
+actually put all the stuff that you
+
+368
+00:11:13,800 --> 00:11:15,540
+helped me with there and straighten the
+
+369
+00:11:15,540 --> 00:11:17,279
+story out it's a really cool plot now
+
+370
+00:11:17,279 --> 00:11:18,839
+it's got a lot more twists and
+
+371
+00:11:18,839 --> 00:11:21,120
+characters and everything's strung
+
+372
+00:11:21,120 --> 00:11:22,980
+together nicely we'll still have some
+
+373
+00:11:22,980 --> 00:11:24,959
+work to do on that front but I'm really
+
+374
+00:11:24,959 --> 00:11:26,220
+excited I think it's going to turn out
+
+375
+00:11:26,220 --> 00:11:28,019
+to be a really cool platformer now it's
+
+376
+00:11:28,019 --> 00:11:29,880
+gonna have some swing backs to turken 2
+
+377
+00:11:29,880 --> 00:11:31,440
+style because I love that that era of
+
+378
+00:11:31,440 --> 00:11:33,660
+gaming I like the Sci-Fi part of it the
+
+379
+00:11:33,660 --> 00:11:35,880
+robot style character I like the glowy
+
+380
+00:11:35,880 --> 00:11:38,640
+neon firing balls and then I like the
+
+381
+00:11:38,640 --> 00:11:39,839
+music style and everything like that so
+
+382
+00:11:39,839 --> 00:11:40,740
+it's going to have a lot of those
+
+383
+00:11:40,740 --> 00:11:42,720
+elements but a lot of new fresh contents
+
+384
+00:11:42,720 --> 00:11:44,399
+as well so in the form of a narrative
+
+385
+00:11:44,399 --> 00:11:45,660
+that's going to be way better than
+
+386
+00:11:45,660 --> 00:11:47,160
+anything I could have come up with in
+
+387
+00:11:47,160 --> 00:11:48,540
+Ultra Nova there's going to be a load of
+
+388
+00:11:48,540 --> 00:11:50,399
+drone enemies and the theme this week in
+
+389
+00:11:50,399 --> 00:11:51,839
+the 10 minute not in the 10 minute
+
+390
+00:11:51,839 --> 00:11:53,820
+modeling challenge in the Discord is
+
+391
+00:11:53,820 --> 00:11:55,560
+actually drones you can make either one
+
+392
+00:11:55,560 --> 00:11:57,540
+or more and I'm gonna try to wake wake
+
+393
+00:11:57,540 --> 00:12:00,360
+make one drone here so a drone it is and
+
+394
+00:12:00,360 --> 00:12:01,740
+I'm gonna be modeling it right here
+
+395
+00:12:01,740 --> 00:12:04,260
+right inside binder 3.6 now no need to
+
+396
+00:12:04,260 --> 00:12:06,660
+go to 4.0 beta because I know it's a lot
+
+397
+00:12:06,660 --> 00:12:08,100
+of hype but I don't need that I don't
+
+398
+00:12:08,100 --> 00:12:09,839
+need crashes anyway so I'm gonna stick
+
+399
+00:12:09,839 --> 00:12:13,500
+to 3.62 for a while Ready Steady
+
+400
+00:12:13,500 --> 00:12:16,440
+go we're counting yep we are all right
+
+401
+00:12:16,440 --> 00:12:18,420
+so I'm gonna do shift d to duplicate the
+
+402
+00:12:18,420 --> 00:12:20,040
+top face there move that to the side
+
+403
+00:12:20,040 --> 00:12:21,839
+let's do automator actually because I
+
+404
+00:12:21,839 --> 00:12:23,700
+want to be able to have the Drone arms
+
+405
+00:12:23,700 --> 00:12:26,519
+here and then this one I'm gonna do
+
+406
+00:12:26,519 --> 00:12:30,420
+e to extrude and control R oh no do you
+
+407
+00:12:30,420 --> 00:12:32,100
+know what I'm gonna make this I'll do my
+
+408
+00:12:32,100 --> 00:12:33,959
+usual check right click subdivide and
+
+409
+00:12:33,959 --> 00:12:37,320
+next go Circle X and then dissolve
+
+410
+00:12:37,320 --> 00:12:40,560
+limited and then e to extrude and here's
+
+411
+00:12:40,560 --> 00:12:42,180
+gonna be all set well it's not going to
+
+412
+00:12:42,180 --> 00:12:44,519
+be there high to inset
+
+413
+00:12:44,519 --> 00:12:47,339
+and right click and let's do a bridge
+
+414
+00:12:47,339 --> 00:12:49,380
+faces so there we go our little cylinder
+
+415
+00:12:49,380 --> 00:12:51,360
+that I want and then I'll e to extrude
+
+416
+00:12:51,360 --> 00:12:53,220
+this one as to scale its scale on the
+
+417
+00:12:53,220 --> 00:12:55,860
+z-axis Maybe and I can't remember what I
+
+418
+00:12:55,860 --> 00:12:57,899
+don't look like but it's okay
+
+419
+00:12:57,899 --> 00:12:59,760
+um and then I'm gonna put the propeller
+
+420
+00:12:59,760 --> 00:13:01,620
+thing in the center here
+
+421
+00:13:01,620 --> 00:13:04,860
+Shifty to duplicate F to uh just do that
+
+422
+00:13:04,860 --> 00:13:07,260
+on alt and then flip the normals do I
+
+423
+00:13:07,260 --> 00:13:09,480
+need to do that no probably not
+
+424
+00:13:09,480 --> 00:13:12,180
+okay but still and uh how should I do
+
+425
+00:13:12,180 --> 00:13:15,300
+the propellers here I'll do Ester scale
+
+426
+00:13:15,300 --> 00:13:18,000
+it's extrude and
+
+427
+00:13:18,000 --> 00:13:20,459
+L to select the link and just grab this
+
+428
+00:13:20,459 --> 00:13:22,620
+one on the left here and move it up to
+
+429
+00:13:22,620 --> 00:13:25,320
+here some gray color there we go and
+
+430
+00:13:25,320 --> 00:13:27,779
+then alt right click F3 and then just do
+
+431
+00:13:27,779 --> 00:13:30,959
+checker deselect and ALT extrude long
+
+432
+00:13:30,959 --> 00:13:33,480
+face normals there we go
+
+433
+00:13:33,480 --> 00:13:35,760
+have I got back facing on
+
+434
+00:13:35,760 --> 00:13:37,440
+okay that's not supported there I
+
+435
+00:13:37,440 --> 00:13:40,260
+thought it was flipped so alt n flip
+
+436
+00:13:40,260 --> 00:13:41,700
+there you go
+
+437
+00:13:41,700 --> 00:13:43,620
+go back I actually like the model in
+
+438
+00:13:43,620 --> 00:13:46,079
+this view these days Zed and material
+
+439
+00:13:46,079 --> 00:13:47,760
+preview there I don't know why
+
+440
+00:13:47,760 --> 00:13:50,540
+so we should do
+
+441
+00:13:50,540 --> 00:13:53,339
+control okay so here's the stupid thing
+
+442
+00:13:53,339 --> 00:13:57,180
+why am I modeling this one like this
+
+443
+00:13:57,180 --> 00:13:59,519
+should not really be modeling all the
+
+444
+00:13:59,519 --> 00:14:01,019
+blades at once you should do like an
+
+445
+00:14:01,019 --> 00:14:02,399
+array modifier or something like that
+
+446
+00:14:02,399 --> 00:14:04,560
+but never mind I'll try anyway I'll test
+
+447
+00:14:04,560 --> 00:14:07,260
+the scale scale on the z-axis
+
+448
+00:14:07,260 --> 00:14:09,899
+uh make this scale and okay and I'll do
+
+449
+00:14:09,899 --> 00:14:12,660
+period individual Origins period and go
+
+450
+00:14:12,660 --> 00:14:15,600
+normal scale on their y-axis
+
+451
+00:14:15,600 --> 00:14:18,720
+alt D to extrude long face normals and
+
+452
+00:14:18,720 --> 00:14:22,459
+maybe I'll do rotate on the z-axis
+
+453
+00:14:22,459 --> 00:14:24,959
+uh there we go
+
+454
+00:14:24,959 --> 00:14:26,760
+I actually want this low poly look so
+
+455
+00:14:26,760 --> 00:14:27,720
+I'm just going to keep them like that
+
+456
+00:14:27,720 --> 00:14:31,079
+each extrude s to scale and I'll do some
+
+457
+00:14:31,079 --> 00:14:33,180
+heat extrude that's the scale there so I
+
+458
+00:14:33,180 --> 00:14:34,380
+think that's pretty good that's gonna be
+
+459
+00:14:34,380 --> 00:14:37,320
+it for that little drone propeller thing
+
+460
+00:14:37,320 --> 00:14:39,360
+here anyway it actually needs to be
+
+461
+00:14:39,360 --> 00:14:42,120
+attached somewhere it's extrude should
+
+462
+00:14:42,120 --> 00:14:43,620
+it be from the top or the bottom the
+
+463
+00:14:43,620 --> 00:14:46,139
+bottom I guess that's just oh no I won't
+
+464
+00:14:46,139 --> 00:14:47,940
+scale that on yet I'll move it up it's
+
+465
+00:14:47,940 --> 00:14:50,639
+extrude and then we'll just do some sort
+
+466
+00:14:50,639 --> 00:14:52,019
+of a connection here
+
+467
+00:14:52,019 --> 00:14:55,560
+bolt said that'll do eat extrude
+
+468
+00:14:55,560 --> 00:14:59,160
+and well we can just bring it into there
+
+469
+00:14:59,160 --> 00:15:01,440
+that's it so that makes a little bit
+
+470
+00:15:01,440 --> 00:15:02,699
+more sense
+
+471
+00:15:02,699 --> 00:15:04,260
+and then we'll do e to extrude that's
+
+472
+00:15:04,260 --> 00:15:05,459
+the scale there for a little bit of
+
+473
+00:15:05,459 --> 00:15:06,540
+feature how am I doing seven minutes
+
+474
+00:15:06,540 --> 00:15:09,540
+okay so I've only got this thing I can
+
+475
+00:15:09,540 --> 00:15:11,279
+uh maybe I'll do a little bit more
+
+476
+00:15:11,279 --> 00:15:13,019
+detail here as well I don't know what to
+
+477
+00:15:13,019 --> 00:15:15,779
+do yet but let's scale this down
+
+478
+00:15:15,779 --> 00:15:17,579
+alt select there
+
+479
+00:15:17,579 --> 00:15:20,279
+and let's do it inset all tests to scale
+
+480
+00:15:20,279 --> 00:15:22,500
+them down then I don't know what to do
+
+481
+00:15:22,500 --> 00:15:25,620
+here but let's just punch a hole here or
+
+482
+00:15:25,620 --> 00:15:27,360
+something no we shouldn't
+
+483
+00:15:27,360 --> 00:15:30,420
+I'll just do like a little eye to inset
+
+484
+00:15:30,420 --> 00:15:32,940
+and all test to scale along normals that
+
+485
+00:15:32,940 --> 00:15:37,139
+should be I'll be okay I think
+
+486
+00:15:37,139 --> 00:15:38,820
+some darker color here for some reason I
+
+487
+00:15:38,820 --> 00:15:40,440
+want that have I got proportional one
+
+488
+00:15:40,440 --> 00:15:41,699
+nope
+
+489
+00:15:41,699 --> 00:15:44,220
+all right L to select the linked G to
+
+490
+00:15:44,220 --> 00:15:46,740
+move it okay now I need to L to select
+
+491
+00:15:46,740 --> 00:15:48,959
+this linked as well that's it then I'm
+
+492
+00:15:48,959 --> 00:15:51,060
+going to put this one here
+
+493
+00:15:51,060 --> 00:15:54,120
+rotate it maybe okay I need to do comma
+
+494
+00:15:54,120 --> 00:15:57,899
+and do Global period medium Point rotate
+
+495
+00:15:57,899 --> 00:16:00,240
+and should I do I think I might do six
+
+496
+00:16:00,240 --> 00:16:02,579
+just because I can duplicate them so
+
+497
+00:16:02,579 --> 00:16:04,440
+fast
+
+498
+00:16:04,440 --> 00:16:06,899
+Shifty white just have four that's
+
+499
+00:16:06,899 --> 00:16:08,760
+boring
+
+500
+00:16:08,760 --> 00:16:10,920
+so I'm gonna be doing it like this
+
+501
+00:16:10,920 --> 00:16:11,880
+instead
+
+502
+00:16:11,880 --> 00:16:14,160
+yeah that's it I have no idea why I do
+
+503
+00:16:14,160 --> 00:16:16,139
+that but never mind
+
+504
+00:16:16,139 --> 00:16:18,120
+so we'll bring this one up here and then
+
+505
+00:16:18,120 --> 00:16:20,220
+what am I doing five minutes so half the
+
+506
+00:16:20,220 --> 00:16:21,540
+time is done
+
+507
+00:16:21,540 --> 00:16:23,820
+um e to extrude
+
+508
+00:16:23,820 --> 00:16:26,220
+let's go each extrude here this is a bit
+
+509
+00:16:26,220 --> 00:16:28,680
+like a spaceship I guess
+
+510
+00:16:28,680 --> 00:16:32,639
+scale z e to extrude S to scale I think
+
+511
+00:16:32,639 --> 00:16:35,040
+I'll scale this one too I have no idea
+
+512
+00:16:35,040 --> 00:16:36,660
+really what to do here
+
+513
+00:16:36,660 --> 00:16:38,160
+so I'll just have to randomize a little
+
+514
+00:16:38,160 --> 00:16:40,500
+bit e to extrude I think I want to have
+
+515
+00:16:40,500 --> 00:16:41,339
+like
+
+516
+00:16:41,339 --> 00:16:43,380
+each extrude for some reason I feel like
+
+517
+00:16:43,380 --> 00:16:44,880
+having something that pokes out like
+
+518
+00:16:44,880 --> 00:16:45,959
+this
+
+519
+00:16:45,959 --> 00:16:47,339
+and then I think I want to have
+
+520
+00:16:47,339 --> 00:16:49,740
+something Ctrl R Loop cut can never go
+
+521
+00:16:49,740 --> 00:16:52,079
+wrong just add some more detail there
+
+522
+00:16:52,079 --> 00:16:55,019
+and I should probably LL to select the
+
+523
+00:16:55,019 --> 00:16:56,940
+link here move this one forward and I
+
+524
+00:16:56,940 --> 00:16:58,259
+think I'm going to do like some
+
+525
+00:16:58,259 --> 00:17:00,240
+indentations here
+
+526
+00:17:00,240 --> 00:17:03,360
+so I'll Ctrl R to Loop cut here Ctrl R
+
+527
+00:17:03,360 --> 00:17:07,020
+Loop cut here Ctrl R Loop cut there Ctrl
+
+528
+00:17:07,020 --> 00:17:09,059
+R Loop cut here
+
+529
+00:17:09,059 --> 00:17:10,980
+and then we'll just do shift select
+
+530
+00:17:10,980 --> 00:17:12,900
+these eye to inset
+
+531
+00:17:12,900 --> 00:17:15,599
+alt D to extrude long face normals
+
+532
+00:17:15,599 --> 00:17:17,880
+and then I'll color this one a lot
+
+533
+00:17:17,880 --> 00:17:19,260
+darker
+
+534
+00:17:19,260 --> 00:17:22,020
+so that looks a bit strange but I think
+
+535
+00:17:22,020 --> 00:17:24,240
+it'll it'll be okay then alt select here
+
+536
+00:17:24,240 --> 00:17:27,839
+scale on the z-axis and here I should do
+
+537
+00:17:27,839 --> 00:17:30,900
+as well maybe I want to have something
+
+538
+00:17:30,900 --> 00:17:32,820
+the houses like a camera here as well
+
+539
+00:17:32,820 --> 00:17:35,400
+eye to inset B for the boundary in the
+
+540
+00:17:35,400 --> 00:17:36,840
+center alt e to extrude long face
+
+541
+00:17:36,840 --> 00:17:40,039
+normals G get this one to a dark color
+
+542
+00:17:40,039 --> 00:17:42,780
+there again and then I'm just gonna do
+
+543
+00:17:42,780 --> 00:17:44,820
+some sort of a lens here so this is
+
+544
+00:17:44,820 --> 00:17:45,900
+going to be a problem because I'm going
+
+545
+00:17:45,900 --> 00:17:47,640
+to be actually I'll do two lenses
+
+546
+00:17:47,640 --> 00:17:48,780
+because that's going to be easier than
+
+547
+00:17:48,780 --> 00:17:50,880
+one lens since I'm in mirror mode here
+
+548
+00:17:50,880 --> 00:17:53,460
+so I'll grab this one shift d to
+
+549
+00:17:53,460 --> 00:17:56,340
+duplicate it but I have to disable here
+
+550
+00:17:56,340 --> 00:17:58,799
+on the modifier I have to clipping off
+
+551
+00:17:58,799 --> 00:18:01,200
+so I can just move that into there
+
+552
+00:18:01,200 --> 00:18:04,080
+so let's why not make two camera lenses
+
+553
+00:18:04,080 --> 00:18:06,360
+here stereo yeah it's filming stereo so
+
+554
+00:18:06,360 --> 00:18:08,400
+it's good for VR right right click
+
+555
+00:18:08,400 --> 00:18:11,160
+subdivide Circle scale it down clipping
+
+556
+00:18:11,160 --> 00:18:12,480
+back on because I always forget it but
+
+557
+00:18:12,480 --> 00:18:15,360
+not this time G to move it to a a
+
+558
+00:18:15,360 --> 00:18:17,520
+brighter gray maybe I'll do metal out of
+
+559
+00:18:17,520 --> 00:18:20,160
+these later on so I'll do e to extrude
+
+560
+00:18:20,160 --> 00:18:21,720
+and it's going to be failing downwards
+
+561
+00:18:21,720 --> 00:18:23,520
+because this is like a surveillance one
+
+562
+00:18:23,520 --> 00:18:25,919
+so surveillance why can I not say that
+
+563
+00:18:25,919 --> 00:18:27,720
+word alt the extra long phase normals
+
+564
+00:18:27,720 --> 00:18:31,200
+again uh each extrude estas scale each
+
+565
+00:18:31,200 --> 00:18:34,140
+extrude and I to inset and e to extrude
+
+566
+00:18:34,140 --> 00:18:36,840
+it looks looks like a pair of binoculars
+
+567
+00:18:36,840 --> 00:18:38,220
+why not
+
+568
+00:18:38,220 --> 00:18:40,320
+so should we do like a focus ring as
+
+569
+00:18:40,320 --> 00:18:43,020
+well automated of course so iTunes that
+
+570
+00:18:43,020 --> 00:18:46,020
+all tested scale and Control Plus and do
+
+571
+00:18:46,020 --> 00:18:47,700
+that a little bit darker as well and
+
+572
+00:18:47,700 --> 00:18:49,500
+then grab this one
+
+573
+00:18:49,500 --> 00:18:51,600
+and I forgot to press X and do limited
+
+574
+00:18:51,600 --> 00:18:54,120
+dissolve each extrude that's the scale B
+
+575
+00:18:54,120 --> 00:18:56,760
+to extrude looks a bit quirky it looks
+
+576
+00:18:56,760 --> 00:18:58,559
+like a pair of binoculars this turned
+
+577
+00:18:58,559 --> 00:19:00,059
+out to be like a comical one instead but
+
+578
+00:19:00,059 --> 00:19:01,620
+let's go for it
+
+579
+00:19:01,620 --> 00:19:03,600
+I've got three minutes to go so I'll
+
+580
+00:19:03,600 --> 00:19:06,179
+just add some quirky details here maybe
+
+581
+00:19:06,179 --> 00:19:07,980
+something like this and I think I'm
+
+582
+00:19:07,980 --> 00:19:10,020
+gonna add a pair of eyes for navigation
+
+583
+00:19:10,020 --> 00:19:11,940
+as well this is gonna be more like the
+
+584
+00:19:11,940 --> 00:19:15,720
+uh the stuff that it uses to navigate I
+
+585
+00:19:15,720 --> 00:19:17,940
+think alt e to extrude because we make
+
+586
+00:19:17,940 --> 00:19:19,320
+can make these shine a little bit
+
+587
+00:19:19,320 --> 00:19:22,799
+instead so I'll do scale this one down
+
+588
+00:19:22,799 --> 00:19:24,960
+okay no I don't want to do that GG to
+
+589
+00:19:24,960 --> 00:19:27,780
+slide it down
+
+590
+00:19:27,780 --> 00:19:29,820
+gee okay I'll have to just Freebase this
+
+591
+00:19:29,820 --> 00:19:31,620
+one a bit it's not called Freebase I
+
+592
+00:19:31,620 --> 00:19:33,840
+don't know it's called free free freebie
+
+593
+00:19:33,840 --> 00:19:35,400
+or something
+
+594
+00:19:35,400 --> 00:19:37,380
+okay that's no good but I'll do like
+
+595
+00:19:37,380 --> 00:19:40,020
+this and I know I'm twisting the
+
+596
+00:19:40,020 --> 00:19:41,700
+polygons now probably a big time but
+
+597
+00:19:41,700 --> 00:19:43,080
+never mind
+
+598
+00:19:43,080 --> 00:19:47,400
+still gonna do it g g and GG to slide
+
+599
+00:19:47,400 --> 00:19:49,200
+this one and now I'm just gonna do eye
+
+600
+00:19:49,200 --> 00:19:51,840
+to inset and ALT D to extreme long face
+
+601
+00:19:51,840 --> 00:19:54,360
+normals scale that one down and this one
+
+602
+00:19:54,360 --> 00:19:57,059
+we can go and miss it right so
+
+603
+00:19:57,059 --> 00:19:59,460
+should we do like green eyes I think or
+
+604
+00:19:59,460 --> 00:20:02,700
+red probably evil red eyes there we go
+
+605
+00:20:02,700 --> 00:20:04,799
+and then I still got two minutes to go
+
+606
+00:20:04,799 --> 00:20:06,120
+so we have to do something about this
+
+607
+00:20:06,120 --> 00:20:09,299
+hideous top here and fins can never go
+
+608
+00:20:09,299 --> 00:20:12,120
+wrong uh unless you're from Sweden then
+
+609
+00:20:12,120 --> 00:20:14,280
+fins are not
+
+610
+00:20:14,280 --> 00:20:15,960
+well they're neighboring countries so
+
+611
+00:20:15,960 --> 00:20:19,080
+it's pretty cool uh we'll do comma scale
+
+612
+00:20:19,080 --> 00:20:22,860
+Y and scale why well I said why but I
+
+613
+00:20:22,860 --> 00:20:25,080
+did X so
+
+614
+00:20:25,080 --> 00:20:27,539
+ete extrude and Esther scale and I'm
+
+615
+00:20:27,539 --> 00:20:29,100
+running out of time so I'll just have to
+
+616
+00:20:29,100 --> 00:20:30,840
+put some stuff here now
+
+617
+00:20:30,840 --> 00:20:32,820
+so here's going to be some sort of a
+
+618
+00:20:32,820 --> 00:20:33,840
+hatch
+
+619
+00:20:33,840 --> 00:20:36,539
+we'll do actually should I do this way I
+
+620
+00:20:36,539 --> 00:20:38,940
+to inset alt D to extrude long face
+
+621
+00:20:38,940 --> 00:20:42,720
+normals scale it down and move it okay
+
+622
+00:20:42,720 --> 00:20:45,780
+pick comma again in global move it in
+
+623
+00:20:45,780 --> 00:20:49,440
+and then I'll just go darker
+
+624
+00:20:49,440 --> 00:20:50,880
+to there
+
+625
+00:20:50,880 --> 00:20:52,559
+and then we'll put some stuff as well
+
+626
+00:20:52,559 --> 00:20:55,380
+some exhaust here or something no just a
+
+627
+00:20:55,380 --> 00:20:56,700
+hatch here
+
+628
+00:20:56,700 --> 00:20:58,799
+no that doesn't work either
+
+629
+00:20:58,799 --> 00:21:03,320
+so I'll do what should we do
+
+630
+00:21:04,380 --> 00:21:06,600
+Okay iTunes that I'll just wing it a
+
+631
+00:21:06,600 --> 00:21:08,940
+little bit now that doesn't work either
+
+632
+00:21:08,940 --> 00:21:11,460
+because that one's messed up GG
+
+633
+00:21:11,460 --> 00:21:13,860
+iTunes set all tests to scale I'll do
+
+634
+00:21:13,860 --> 00:21:17,100
+some armor plating that should do
+
+635
+00:21:17,100 --> 00:21:19,860
+so itin set all tests to scale this
+
+636
+00:21:19,860 --> 00:21:21,960
+creates like a panel effect look
+
+637
+00:21:21,960 --> 00:21:25,020
+um we can just do it inset eat extrude
+
+638
+00:21:25,020 --> 00:21:27,419
+as the scale this is some sort of a
+
+639
+00:21:27,419 --> 00:21:30,059
+housing of something I've got 45 seconds
+
+640
+00:21:30,059 --> 00:21:31,679
+so I'm just going to add some fake
+
+641
+00:21:31,679 --> 00:21:34,140
+details here I guess or something under
+
+642
+00:21:34,140 --> 00:21:36,659
+here as well here's like a hatch where
+
+643
+00:21:36,659 --> 00:21:38,280
+you can pick things up you need to
+
+644
+00:21:38,280 --> 00:21:40,740
+extrude maybe quite a lot there
+
+645
+00:21:40,740 --> 00:21:45,419
+there we'll do eye to insect alt tests
+
+646
+00:21:45,419 --> 00:21:48,179
+iTunes that here's some sort of an air
+
+647
+00:21:48,179 --> 00:21:50,400
+intake or something you don't have air
+
+648
+00:21:50,400 --> 00:21:52,380
+intakes all the time but never mind and
+
+649
+00:21:52,380 --> 00:21:56,039
+here is something else I10 set we'll
+
+650
+00:21:56,039 --> 00:21:58,980
+just do this one it instead he took
+
+651
+00:21:58,980 --> 00:22:00,539
+extrude s to scale
+
+652
+00:22:00,539 --> 00:22:03,299
+g e to extrude S to scale these are some
+
+653
+00:22:03,299 --> 00:22:06,360
+like sensors or something uh height
+
+654
+00:22:06,360 --> 00:22:07,440
+inset
+
+655
+00:22:07,440 --> 00:22:09,900
+need to extrude as the scale
+
+656
+00:22:09,900 --> 00:22:14,400
+key to move and two seconds
+
+657
+00:22:14,400 --> 00:22:15,960
+i e
+
+658
+00:22:15,960 --> 00:22:17,039
+okay
+
+659
+00:22:17,039 --> 00:22:19,900
+it's basically not sounding well
+
+660
+00:22:19,900 --> 00:22:22,989
+[Music]
+
+661
+00:22:23,600 --> 00:22:26,039
+why do I always make this one there we
+
+662
+00:22:26,039 --> 00:22:29,460
+go all right so here's the Drone in 10
+
+663
+00:22:29,460 --> 00:22:31,260
+minutes it's got
+
+664
+00:22:31,260 --> 00:22:33,299
+you could rig it and have these things
+
+665
+00:22:33,299 --> 00:22:34,860
+flap about I think it looks a little bit
+
+666
+00:22:34,860 --> 00:22:36,840
+comical with these binoculars there
+
+667
+00:22:36,840 --> 00:22:38,820
+we'll go into Tinker Time now since this
+
+668
+00:22:38,820 --> 00:22:40,200
+is the last episode of the 10 minute
+
+669
+00:22:40,200 --> 00:22:42,780
+long challenge in this room I'll just uh
+
+670
+00:22:42,780 --> 00:22:44,760
+do a little tweak version as well I
+
+671
+00:22:44,760 --> 00:22:46,380
+think I'm gonna try
+
+672
+00:22:46,380 --> 00:22:48,720
+to change all of this
+
+673
+00:22:48,720 --> 00:22:50,580
+if I scale
+
+674
+00:22:50,580 --> 00:22:54,000
+scale it on the x-axis first to zero
+
+675
+00:22:54,000 --> 00:22:56,700
+okay that was no good here
+
+676
+00:22:56,700 --> 00:23:00,059
+scale X zero and then I'm going to try
+
+677
+00:23:00,059 --> 00:23:01,620
+to move it down now to shiny metal
+
+678
+00:23:01,620 --> 00:23:03,299
+instead
+
+679
+00:23:03,299 --> 00:23:05,820
+and then I have to scale it down again
+
+680
+00:23:05,820 --> 00:23:08,640
+and move it to here is this better or
+
+681
+00:23:08,640 --> 00:23:11,059
+worse
+
+682
+00:23:12,179 --> 00:23:14,760
+I think I'm going to keep it to the well
+
+683
+00:23:14,760 --> 00:23:16,860
+maybe it's too shiny actually but should
+
+684
+00:23:16,860 --> 00:23:18,539
+I bring it to a little a little bit
+
+685
+00:23:18,539 --> 00:23:21,480
+duller here that one might be good
+
+686
+00:23:21,480 --> 00:23:24,679
+think I prefer this
+
+687
+00:23:25,440 --> 00:23:27,240
+and then we can put some more controls
+
+688
+00:23:27,240 --> 00:23:28,320
+here from above it's going to be
+
+689
+00:23:28,320 --> 00:23:30,299
+vulnerable so e to extrude
+
+690
+00:23:30,299 --> 00:23:32,460
+s to scale and here I can just do right
+
+691
+00:23:32,460 --> 00:23:34,200
+click subdivide
+
+692
+00:23:34,200 --> 00:23:36,059
+let's go up with the subdivision a bit
+
+693
+00:23:36,059 --> 00:23:38,460
+like this and then I'll just do some
+
+694
+00:23:38,460 --> 00:23:39,600
+random
+
+695
+00:23:39,600 --> 00:23:41,880
+configurations here
+
+696
+00:23:41,880 --> 00:23:43,679
+where we can put
+
+697
+00:23:43,679 --> 00:23:44,760
+here
+
+698
+00:23:44,760 --> 00:23:48,120
+some cyan
+
+699
+00:23:48,120 --> 00:23:50,039
+blue lights
+
+700
+00:23:50,039 --> 00:23:52,260
+so some control points there or
+
+701
+00:23:52,260 --> 00:23:53,520
+something
+
+702
+00:23:53,520 --> 00:23:55,620
+this one could be red
+
+703
+00:23:55,620 --> 00:23:57,600
+the little one don't press the red
+
+704
+00:23:57,600 --> 00:23:59,039
+button
+
+705
+00:23:59,039 --> 00:24:02,100
+so that could have been none and maybe I
+
+706
+00:24:02,100 --> 00:24:04,440
+could have put some like Stripes here as
+
+707
+00:24:04,440 --> 00:24:06,000
+well
+
+708
+00:24:06,000 --> 00:24:09,659
+so GG slides it remember very handy
+
+709
+00:24:09,659 --> 00:24:12,000
+eye to inset all tests to extreme long
+
+710
+00:24:12,000 --> 00:24:14,100
+phase normal so I think I'll indent this
+
+711
+00:24:14,100 --> 00:24:16,760
+slightly
+
+712
+00:24:17,520 --> 00:24:19,320
+should we
+
+713
+00:24:19,320 --> 00:24:21,659
+no I'll just color it then
+
+714
+00:24:21,659 --> 00:24:25,080
+so instead here I'll put like a
+
+715
+00:24:25,080 --> 00:24:28,820
+an orange color on it maybe
+
+716
+00:24:29,820 --> 00:24:30,900
+there
+
+717
+00:24:30,900 --> 00:24:33,919
+I don't know if I like that
+
+718
+00:24:34,020 --> 00:24:36,900
+control r s
+
+719
+00:24:36,900 --> 00:24:40,320
+Ctrl r s
+
+720
+00:24:40,320 --> 00:24:42,299
+I think that's a little bit better look
+
+721
+00:24:42,299 --> 00:24:43,620
+to it
+
+722
+00:24:43,620 --> 00:24:46,020
+and maybe it should have been here as
+
+723
+00:24:46,020 --> 00:24:49,559
+well maybe we can put it inset
+
+724
+00:24:49,559 --> 00:24:53,059
+bring that to Orange as well
+
+725
+00:24:53,940 --> 00:24:55,980
+just some colorization on it no that
+
+726
+00:24:55,980 --> 00:24:57,600
+makes no sense either
+
+727
+00:24:57,600 --> 00:24:58,980
+and I don't think it should be orange
+
+728
+00:24:58,980 --> 00:25:01,020
+there because the thing is I'll put it
+
+729
+00:25:01,020 --> 00:25:03,299
+on red instead
+
+730
+00:25:03,299 --> 00:25:07,280
+it's like a mark a red mark one
+
+731
+00:25:09,059 --> 00:25:11,880
+and I think just for some to break up
+
+732
+00:25:11,880 --> 00:25:13,500
+the colorization a bit I think I'm gonna
+
+733
+00:25:13,500 --> 00:25:16,080
+grab these and change
+
+734
+00:25:16,080 --> 00:25:19,740
+the color choose something a bit darker
+
+735
+00:25:19,740 --> 00:25:22,200
+and then I think I might do that
+
+736
+00:25:22,200 --> 00:25:24,840
+blades
+
+737
+00:25:24,840 --> 00:25:29,240
+brighter so l l
+
+738
+00:25:29,760 --> 00:25:31,919
+there we go and let's make those like a
+
+739
+00:25:31,919 --> 00:25:34,580
+really bright metal
+
+740
+00:25:39,779 --> 00:25:42,659
+and these lenses I guess we could do X
+
+741
+00:25:42,659 --> 00:25:45,000
+and do limited dissolve and then I'll
+
+742
+00:25:45,000 --> 00:25:47,940
+slap them slap slap
+
+743
+00:25:47,940 --> 00:25:51,600
+them onto hello where are you
+
+744
+00:25:51,600 --> 00:25:54,000
+here really shiny but you might not be
+
+745
+00:25:54,000 --> 00:25:56,900
+able to see that anyway
+
+746
+00:25:57,500 --> 00:25:59,159
+sorry
+
+747
+00:25:59,159 --> 00:26:01,320
+and should we put some antennas here as
+
+748
+00:26:01,320 --> 00:26:02,820
+well
+
+749
+00:26:02,820 --> 00:26:04,320
+I think so
+
+750
+00:26:04,320 --> 00:26:06,360
+so how do we do antennas well you know
+
+751
+00:26:06,360 --> 00:26:08,760
+it shift a to duplicate move it up so we
+
+752
+00:26:08,760 --> 00:26:10,860
+can see it right click subdivide and
+
+753
+00:26:10,860 --> 00:26:12,720
+circle scale it down
+
+754
+00:26:12,720 --> 00:26:14,760
+bring it down again
+
+755
+00:26:14,760 --> 00:26:18,299
+and do move it there e to extrude S to
+
+756
+00:26:18,299 --> 00:26:21,059
+scale e to extrude e to extrude S to
+
+757
+00:26:21,059 --> 00:26:22,380
+scale I might actually keep the lights
+
+758
+00:26:22,380 --> 00:26:24,059
+on the top there
+
+759
+00:26:24,059 --> 00:26:26,880
+but I will move the colors here
+
+760
+00:26:26,880 --> 00:26:30,840
+to like just some plain gray there
+
+761
+00:26:30,840 --> 00:26:34,279
+and maybe this one as well
+
+762
+00:26:36,059 --> 00:26:38,880
+there we go eight select everything and
+
+763
+00:26:38,880 --> 00:26:41,820
+then just move them to
+
+764
+00:26:41,820 --> 00:26:44,820
+different color here as well
+
+765
+00:26:44,820 --> 00:26:46,740
+and I think I'm gonna do it a bit
+
+766
+00:26:46,740 --> 00:26:49,279
+brighter actually
+
+767
+00:26:49,980 --> 00:26:52,500
+so there's our antennas and
+
+768
+00:26:52,500 --> 00:26:54,840
+it's gonna broadcast the signals back
+
+769
+00:26:54,840 --> 00:26:56,760
+here now
+
+770
+00:26:56,760 --> 00:26:58,740
+should I put more antennas on Shifty to
+
+771
+00:26:58,740 --> 00:27:00,120
+duplicate
+
+772
+00:27:00,120 --> 00:27:01,740
+scale
+
+773
+00:27:01,740 --> 00:27:04,279
+G
+
+774
+00:27:04,320 --> 00:27:08,220
+forward a bit no that's good
+
+775
+00:27:08,220 --> 00:27:10,020
+and maybe some sort of an exhaust here
+
+776
+00:27:10,020 --> 00:27:12,360
+as well item set
+
+777
+00:27:12,360 --> 00:27:15,960
+heat extrude and then we'll do another
+
+778
+00:27:15,960 --> 00:27:18,360
+round thing here shift a to duplicate
+
+779
+00:27:18,360 --> 00:27:19,799
+move it
+
+780
+00:27:19,799 --> 00:27:23,340
+right click subdivide Circle scale it
+
+781
+00:27:23,340 --> 00:27:26,580
+bring it scale it
+
+782
+00:27:26,580 --> 00:27:28,860
+G to move it down
+
+783
+00:27:28,860 --> 00:27:31,260
+each extrude
+
+784
+00:27:31,260 --> 00:27:33,600
+G to move rotate
+
+785
+00:27:33,600 --> 00:27:37,140
+scale quite not scary though
+
+786
+00:27:37,140 --> 00:27:39,059
+we'll scale the whole thing down scale
+
+787
+00:27:39,059 --> 00:27:41,039
+he's a bit twisted but I'm okay with
+
+788
+00:27:41,039 --> 00:27:45,299
+that rotate on the x-axis
+
+789
+00:27:45,299 --> 00:27:49,740
+G and then just gonna do it inset and E
+
+790
+00:27:49,740 --> 00:27:52,320
+to extrude S to scale
+
+791
+00:27:52,320 --> 00:27:54,000
+Control Plus and these will just do
+
+792
+00:27:54,000 --> 00:27:55,679
+non-reflective
+
+793
+00:27:55,679 --> 00:27:58,400
+black here
+
+794
+00:28:02,400 --> 00:28:04,620
+so I don't know if it runs I guess it's
+
+795
+00:28:04,620 --> 00:28:08,159
+running on uh electricity but it looks
+
+796
+00:28:08,159 --> 00:28:10,559
+like it might be on petrol this one
+
+797
+00:28:10,559 --> 00:28:12,419
+they save their moments with some petrol
+
+798
+00:28:12,419 --> 00:28:14,400
+using so
+
+799
+00:28:14,400 --> 00:28:18,179
+I don't know what to do I change that
+
+800
+00:28:18,179 --> 00:28:23,059
+and it's extrude and I think that's it
+
+801
+00:28:25,320 --> 00:28:27,120
+so with some additional time there we
+
+802
+00:28:27,120 --> 00:28:29,220
+had a few more things you could like
+
+803
+00:28:29,220 --> 00:28:31,919
+create some claw things as well maybe or
+
+804
+00:28:31,919 --> 00:28:34,740
+some more armor plates I'd inset all
+
+805
+00:28:34,740 --> 00:28:36,840
+testes scale
+
+806
+00:28:36,840 --> 00:28:41,039
+height inset all test to scale and here
+
+807
+00:28:41,039 --> 00:28:44,640
+one more thing eye to inset and
+
+808
+00:28:44,640 --> 00:28:47,100
+alt e to extrude long face normals
+
+809
+00:28:47,100 --> 00:28:48,960
+Control Plus
+
+810
+00:28:48,960 --> 00:28:51,240
+and then just do this one a and then
+
+811
+00:28:51,240 --> 00:28:54,000
+dollar and darker
+
+812
+00:28:54,000 --> 00:28:55,620
+and obviously you'd have to make them
+
+813
+00:28:55,620 --> 00:28:58,140
+spin if you wanted in the game
+
+814
+00:28:58,140 --> 00:29:00,720
+alright folks so there we have it a
+
+815
+00:29:00,720 --> 00:29:02,220
+drone to go with the weekly modeling
+
+816
+00:29:02,220 --> 00:29:03,659
+challenge if you want to join in on the
+
+817
+00:29:03,659 --> 00:29:04,799
+weekly modeling challenge if you don't
+
+818
+00:29:04,799 --> 00:29:06,120
+know what to model if you want to boost
+
+819
+00:29:06,120 --> 00:29:07,860
+your skills and improve yourself share
+
+820
+00:29:07,860 --> 00:29:09,480
+your work and get some feedback from
+
+821
+00:29:09,480 --> 00:29:11,640
+some Discord members lovely Discord
+
+822
+00:29:11,640 --> 00:29:13,799
+members jump into the infancy Discord
+
+823
+00:29:13,799 --> 00:29:15,600
+server it's a link right in the
+
+824
+00:29:15,600 --> 00:29:17,400
+description there join us have a chat
+
+825
+00:29:17,400 --> 00:29:19,020
+talk about all sorts of random things
+
+826
+00:29:19,020 --> 00:29:20,820
+about modeling or game development or
+
+827
+00:29:20,820 --> 00:29:23,039
+watches play games or share our work
+
+828
+00:29:23,039 --> 00:29:24,779
+when we stream a little bit there just
+
+829
+00:29:24,779 --> 00:29:26,520
+go left and right if you're bored
+
+830
+00:29:26,520 --> 00:29:28,200
+whatever just go in there hang out a
+
+831
+00:29:28,200 --> 00:29:29,940
+little bit with us and we'll have a good
+
+832
+00:29:29,940 --> 00:29:31,980
+time speaking about these type of things
+
+833
+00:29:31,980 --> 00:29:34,020
+all right so with that said I'm gonna be
+
+834
+00:29:34,020 --> 00:29:35,340
+summing up this video I'm going to be
+
+835
+00:29:35,340 --> 00:29:37,320
+uploading this model here to my patreon
+
+836
+00:29:37,320 --> 00:29:39,659
+page to the tutorial tier they will be
+
+837
+00:29:39,659 --> 00:29:41,880
+getting a hold of all of the stuff that
+
+838
+00:29:41,880 --> 00:29:43,020
+I make in the 10 minute modeling
+
+839
+00:29:43,020 --> 00:29:44,880
+challenge so head over there I do it in
+
+840
+00:29:44,880 --> 00:29:46,080
+batches so it's not going to come out
+
+841
+00:29:46,080 --> 00:29:48,240
+right away I'll do like about 10 at a
+
+842
+00:29:48,240 --> 00:29:50,220
+time when I do upload them so I hope you
+
+843
+00:29:50,220 --> 00:29:51,720
+enjoyed the video and subscribe if you
+
+844
+00:29:51,720 --> 00:29:53,640
+haven't already and give it a like as
+
+845
+00:29:53,640 --> 00:29:55,080
+well if you don't mind that'll help me
+
+846
+00:29:55,080 --> 00:29:57,899
+out a bunch until next video have a
+
+847
+00:29:57,899 --> 00:30:00,120
+great one and I'll see you then bye for
+
+848
+00:30:00,120 --> 00:30:02,299
+now
+
+849
+00:30:03,190 --> 00:30:25,220
+[Music]
+
+850
+00:30:25,220 --> 00:30:28,340
+thank you
+

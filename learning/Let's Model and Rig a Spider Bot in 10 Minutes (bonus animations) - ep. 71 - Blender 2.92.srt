@@ -1,0 +1,3676 @@
+1
+00:00:00,000 --> 00:00:02,560
+hello everyone and welcome to episode 71
+
+2
+00:00:02,560 --> 00:00:04,960
+of the 10 minute modeling challenge
+
+3
+00:00:04,960 --> 00:00:06,480
+this time around i'm going to be doing a
+
+4
+00:00:06,480 --> 00:00:08,960
+spider bot and it was suggested by mia
+
+5
+00:00:08,960 --> 00:00:09,599
+pc
+
+6
+00:00:09,599 --> 00:00:11,920
+and i think she meant it like a spider
+
+7
+00:00:11,920 --> 00:00:13,759
+bot so i'm going to do a spider robot if
+
+8
+00:00:13,759 --> 00:00:14,880
+that's not what you meant
+
+9
+00:00:14,880 --> 00:00:16,320
+then i got it wrong but i'm going to do
+
+10
+00:00:16,320 --> 00:00:18,720
+it anyway so a little robotic
+
+11
+00:00:18,720 --> 00:00:20,800
+hard to surface the spider it's going to
+
+12
+00:00:20,800 --> 00:00:22,400
+be low poly of course no surprise i'm
+
+13
+00:00:22,400 --> 00:00:23,840
+going to fit it in 10 minutes i'm going
+
+14
+00:00:23,840 --> 00:00:24,720
+to rig it as well
+
+15
+00:00:24,720 --> 00:00:26,240
+last weekend got a little bit busy as
+
+16
+00:00:26,240 --> 00:00:28,560
+well first it was my wife's birthday
+
+17
+00:00:28,560 --> 00:00:29,279
+actually on
+
+18
+00:00:29,279 --> 00:00:30,880
+the friday so we had a good time there
+
+19
+00:00:30,880 --> 00:00:32,000
+spent time with the family and
+
+20
+00:00:32,000 --> 00:00:33,040
+celebrated that
+
+21
+00:00:33,040 --> 00:00:35,040
+and then on the weekend we did a lot of
+
+22
+00:00:35,040 --> 00:00:36,719
+housework so we started to tear down a
+
+23
+00:00:36,719 --> 00:00:37,440
+balcony
+
+24
+00:00:37,440 --> 00:00:39,680
+and of course there was ludum there 48
+
+25
+00:00:39,680 --> 00:00:41,520
+and i sort of a little bit forgot about
+
+26
+00:00:41,520 --> 00:00:42,640
+it so i
+
+27
+00:00:42,640 --> 00:00:44,000
+just had to do what i could i didn't
+
+28
+00:00:44,000 --> 00:00:46,160
+want to miss out on my 13th
+
+29
+00:00:46,160 --> 00:00:49,120
+consecutive participation of ludum there
+
+30
+00:00:49,120 --> 00:00:50,719
+but i had to scale it down so i did a
+
+31
+00:00:50,719 --> 00:00:52,079
+little diving game and
+
+32
+00:00:52,079 --> 00:00:55,120
+uh very unimaginable very little
+
+33
+00:00:55,120 --> 00:00:56,800
+innovation when it comes to this one and
+
+34
+00:00:56,800 --> 00:00:58,640
+originality it just flushed down the
+
+35
+00:00:58,640 --> 00:00:59,440
+toilet
+
+36
+00:00:59,440 --> 00:01:01,199
+and when i told my wife what i did she's
+
+37
+00:01:01,199 --> 00:01:03,440
+just going god couldn't you come up with
+
+38
+00:01:03,440 --> 00:01:05,119
+anything better than that
+
+39
+00:01:05,119 --> 00:01:08,080
+but the game's called deep blue wow
+
+40
+00:01:08,080 --> 00:01:10,640
+surprising original yeah i know
+
+41
+00:01:10,640 --> 00:01:12,159
+and it's a deep diving like a free
+
+42
+00:01:12,159 --> 00:01:13,920
+diving game so i modeled a little
+
+43
+00:01:13,920 --> 00:01:14,560
+character
+
+44
+00:01:14,560 --> 00:01:16,240
+and it had some new challenges actually
+
+45
+00:01:16,240 --> 00:01:17,759
+but it was good to learn
+
+46
+00:01:17,759 --> 00:01:19,360
+first of all i'm not used to modeling
+
+47
+00:01:19,360 --> 00:01:20,960
+characters being upside down
+
+48
+00:01:20,960 --> 00:01:22,560
+and with the leg movements i'm so used
+
+49
+00:01:22,560 --> 00:01:24,159
+to inverse kinematics and the walk
+
+50
+00:01:24,159 --> 00:01:24,799
+cycles
+
+51
+00:01:24,799 --> 00:01:26,320
+so when i'm going to do the flippers and
+
+52
+00:01:26,320 --> 00:01:27,920
+when he was swimming down it was a
+
+53
+00:01:27,920 --> 00:01:29,439
+little bit trickier than i thought
+
+54
+00:01:29,439 --> 00:01:31,439
+so that was a bit of a good practice and
+
+55
+00:01:31,439 --> 00:01:33,119
+there was a few other things i did an
+
+56
+00:01:33,119 --> 00:01:33,759
+inverted
+
+57
+00:01:33,759 --> 00:01:35,680
+ragdoll which was quite fun that's
+
+58
+00:01:35,680 --> 00:01:37,119
+another new one for me because
+
+59
+00:01:37,119 --> 00:01:38,560
+usually i just do a ragdoll apply
+
+60
+00:01:38,560 --> 00:01:40,400
+physics and let them drop but this one
+
+61
+00:01:40,400 --> 00:01:42,799
+i had to do a ragdoll basically like
+
+62
+00:01:42,799 --> 00:01:43,439
+before
+
+63
+00:01:43,439 --> 00:01:45,439
+but i inverted gravity and i had to do
+
+64
+00:01:45,439 --> 00:01:47,920
+the angular drag and the drag of all the
+
+65
+00:01:47,920 --> 00:01:49,119
+joints a little bit so it looks like
+
+66
+00:01:49,119 --> 00:01:50,720
+he's floating up
+
+67
+00:01:50,720 --> 00:01:52,960
+and for the depth of the water just to
+
+68
+00:01:52,960 --> 00:01:55,040
+make that blue shades i didn't really go
+
+69
+00:01:55,040 --> 00:01:57,200
+all in with volumetrics and stuff like
+
+70
+00:01:57,200 --> 00:01:59,360
+that i did it uh the cheating way that's
+
+71
+00:01:59,360 --> 00:02:00,479
+what
+
+72
+00:02:00,479 --> 00:02:02,079
+that's me uh i was gonna say that was me
+
+73
+00:02:02,079 --> 00:02:04,159
+that's not me but the uh
+
+74
+00:02:04,159 --> 00:02:06,000
+uh oh yeah i just put a lot of
+
+75
+00:02:06,000 --> 00:02:08,000
+transparent sheets between uh
+
+76
+00:02:08,000 --> 00:02:09,598
+like different layers of the background
+
+77
+00:02:09,598 --> 00:02:11,599
+so it gradually shaded it towards
+
+78
+00:02:11,599 --> 00:02:14,000
+like a blue color for the depth so you
+
+79
+00:02:14,000 --> 00:02:15,840
+can download that unity project and if
+
+80
+00:02:15,840 --> 00:02:17,040
+you want to have a look at it it looks a
+
+81
+00:02:17,040 --> 00:02:17,840
+total mess
+
+82
+00:02:17,840 --> 00:02:20,000
+it's like hack and slash just make it
+
+83
+00:02:20,000 --> 00:02:21,040
+work within the
+
+84
+00:02:21,040 --> 00:02:23,520
+uh within the time and i guess you have
+
+85
+00:02:23,520 --> 00:02:24,959
+48 hours for ludum there
+
+86
+00:02:24,959 --> 00:02:28,160
+leave them there 48 48 hours that was a
+
+87
+00:02:28,160 --> 00:02:29,280
+bit of a coincidence
+
+88
+00:02:29,280 --> 00:02:31,120
+but i managed to put 15 hours into the
+
+89
+00:02:31,120 --> 00:02:32,720
+game and uh considering that little
+
+90
+00:02:32,720 --> 00:02:34,000
+amount of time i was happy with the
+
+91
+00:02:34,000 --> 00:02:35,760
+result and i also wanted to make
+
+92
+00:02:35,760 --> 00:02:37,519
+my first one-click game so there's only
+
+93
+00:02:37,519 --> 00:02:38,879
+one button that you need to do in the
+
+94
+00:02:38,879 --> 00:02:39,840
+whole game and that's
+
+95
+00:02:39,840 --> 00:02:42,319
+press spacebar but if you time the swim
+
+96
+00:02:42,319 --> 00:02:43,840
+downs then you can go a little bit
+
+97
+00:02:43,840 --> 00:02:45,680
+faster so you can reach that depth
+
+98
+00:02:45,680 --> 00:02:47,599
+and the theme of course was deeper and
+
+99
+00:02:47,599 --> 00:02:49,920
+deeper so i thought every time you go
+
+100
+00:02:49,920 --> 00:02:50,319
+you're
+
+101
+00:02:50,319 --> 00:02:51,920
+going to go a little bit deeper it's
+
+102
+00:02:51,920 --> 00:02:54,640
+time to model a spiderbot and
+
+103
+00:02:54,640 --> 00:02:55,920
+i'm going to go for the old cool palette
+
+104
+00:02:55,920 --> 00:02:58,080
+again the solid link is
+
+105
+00:02:58,080 --> 00:02:59,840
+might be in the description let's go
+
+106
+00:02:59,840 --> 00:03:01,599
+ready steady go
+
+107
+00:03:01,599 --> 00:03:04,720
+we're off tap into the mode a select
+
+108
+00:03:04,720 --> 00:03:05,200
+everything
+
+109
+00:03:05,200 --> 00:03:08,080
+g oh no first of all of course bottom
+
+110
+00:03:08,080 --> 00:03:08,879
+mirror
+
+111
+00:03:08,879 --> 00:03:12,640
+a g move it up scale it down bring it in
+
+112
+00:03:12,640 --> 00:03:14,640
+and here i'm going to copy this for the
+
+113
+00:03:14,640 --> 00:03:16,080
+legs shift d
+
+114
+00:03:16,080 --> 00:03:18,480
+and copy this for like a little gun
+
+115
+00:03:18,480 --> 00:03:20,319
+turret at the top here
+
+116
+00:03:20,319 --> 00:03:23,920
+l scale y control r
+
+117
+00:03:23,920 --> 00:03:26,080
+maybe six loop cuts on this one because
+
+118
+00:03:26,080 --> 00:03:28,239
+then you get a nice even number to
+
+119
+00:03:28,239 --> 00:03:30,159
+do this little effect with that we're
+
+120
+00:03:30,159 --> 00:03:32,000
+gonna use so we're gonna do i to inset
+
+121
+00:03:32,000 --> 00:03:33,440
+b to get the root of the boundary in the
+
+122
+00:03:33,440 --> 00:03:36,480
+center alt s to scale it down
+
+123
+00:03:36,480 --> 00:03:40,400
+and here let's do like a head so ctrl r
+
+124
+00:03:40,400 --> 00:03:44,159
+scale it out there maybe bring that down
+
+125
+00:03:44,159 --> 00:03:46,480
+and here we go i'm just gonna do some
+
+126
+00:03:46,480 --> 00:03:47,200
+sort of a
+
+127
+00:03:47,200 --> 00:03:50,959
+like spider-like body or something
+
+128
+00:03:50,959 --> 00:03:53,360
+i don't know g okay hey select
+
+129
+00:03:53,360 --> 00:03:54,400
+everything let's make it a little bit
+
+130
+00:03:54,400 --> 00:03:55,519
+darker this time
+
+131
+00:03:55,519 --> 00:03:58,879
+dark spider like in minecraft g orange
+
+132
+00:03:58,879 --> 00:04:02,239
+bit robotic no minecraft anymore g
+
+133
+00:04:02,239 --> 00:04:04,400
+to move that on i think that should do
+
+134
+00:04:04,400 --> 00:04:07,360
+and make a little bit point here
+
+135
+00:04:07,360 --> 00:04:10,400
+and we can do an i here so i to inset oh
+
+136
+00:04:10,400 --> 00:04:13,920
+i to inset the eye hilarious not really
+
+137
+00:04:13,920 --> 00:04:14,640
+g
+
+138
+00:04:14,640 --> 00:04:16,238
+red spin cycle on the washing machine is
+
+139
+00:04:16,238 --> 00:04:18,160
+going up again bear with it
+
+140
+00:04:18,160 --> 00:04:21,199
+stay with me let's see g okay
+
+141
+00:04:21,199 --> 00:04:23,120
+i haven't started the legs yet so let's
+
+142
+00:04:23,120 --> 00:04:26,000
+that's the eye let's do it like
+
+143
+00:04:26,000 --> 00:04:28,320
+scale it down archer rotate scale it
+
+144
+00:04:28,320 --> 00:04:29,360
+down i'm going to do
+
+145
+00:04:29,360 --> 00:04:32,240
+period and do uh no i'm not comma and do
+
+146
+00:04:32,240 --> 00:04:33,199
+normal so we get
+
+147
+00:04:33,199 --> 00:04:35,759
+the normal directions there e to extrude
+
+148
+00:04:35,759 --> 00:04:37,680
+e took shoot s to scale e to extrude
+
+149
+00:04:37,680 --> 00:04:39,199
+e to extrude that's the scale i'll just
+
+150
+00:04:39,199 --> 00:04:40,800
+do like a robotic leg of course
+
+151
+00:04:40,800 --> 00:04:44,479
+so that's it simple as that and
+
+152
+00:04:44,479 --> 00:04:47,759
+here let's copy this one shift d
+
+153
+00:04:47,759 --> 00:04:49,600
+scale it down e to extrude that's the
+
+154
+00:04:49,600 --> 00:04:51,040
+scale do it like internally like that
+
+155
+00:04:51,040 --> 00:04:52,800
+don't have to worry about the hydraulics
+
+156
+00:04:52,800 --> 00:04:54,080
+and stuff like that we should be getting
+
+157
+00:04:54,080 --> 00:04:55,520
+away with it low poly
+
+158
+00:04:55,520 --> 00:04:57,680
+we'll get away with it it's extrude sd
+
+159
+00:04:57,680 --> 00:04:58,880
+scale e2 extrude
+
+160
+00:04:58,880 --> 00:05:02,000
+sd scale e to extrude no i'm not going
+
+161
+00:05:02,000 --> 00:05:02,560
+to say
+
+162
+00:05:02,560 --> 00:05:05,680
+scale that one shift d scale it down e
+
+163
+00:05:05,680 --> 00:05:06,560
+to extrude
+
+164
+00:05:06,560 --> 00:05:09,440
+s to scale e takes true that's the scale
+
+165
+00:05:09,440 --> 00:05:10,479
+e to extrude
+
+166
+00:05:10,479 --> 00:05:12,080
+e texture s this game and i'm going to
+
+167
+00:05:12,080 --> 00:05:13,840
+do like spiky legs here so i don't have
+
+168
+00:05:13,840 --> 00:05:15,600
+to worry about feet 7 47 on the clock
+
+169
+00:05:15,600 --> 00:05:16,400
+here
+
+170
+00:05:16,400 --> 00:05:18,960
+i'm gonna do l to select the linked hair
+
+171
+00:05:18,960 --> 00:05:20,800
+though and rotate this
+
+172
+00:05:20,800 --> 00:05:24,080
+so the legs don't get too long
+
+173
+00:05:24,080 --> 00:05:27,199
+so g okay e to extrude i'll just
+
+174
+00:05:27,199 --> 00:05:28,800
+all the way down to the tip you know
+
+175
+00:05:28,800 --> 00:05:30,479
+scale pointy
+
+176
+00:05:30,479 --> 00:05:33,039
+feet there ctrl r but i'll chunk them up
+
+177
+00:05:33,039 --> 00:05:34,479
+a little bit here
+
+178
+00:05:34,479 --> 00:05:36,400
+put some features here now i'm gonna do
+
+179
+00:05:36,400 --> 00:05:38,160
+some shields of some sort here
+
+180
+00:05:38,160 --> 00:05:40,160
+so let's just do uh let's select that
+
+181
+00:05:40,160 --> 00:05:42,560
+one each extruder i'm going to attach it
+
+182
+00:05:42,560 --> 00:05:43,919
+to the actual leg so it's a little bit
+
+183
+00:05:43,919 --> 00:05:45,120
+easier to weight paint because we have
+
+184
+00:05:45,120 --> 00:05:46,720
+to do manual weight painting for this
+
+185
+00:05:46,720 --> 00:05:49,680
+need to extrude so let's do the shield
+
+186
+00:05:49,680 --> 00:05:50,000
+here
+
+187
+00:05:50,000 --> 00:05:52,960
+the leg shield e to extrude for the
+
+188
+00:05:52,960 --> 00:05:54,240
+spider bot
+
+189
+00:05:54,240 --> 00:05:58,000
+e to extrude r to rotate and then
+
+190
+00:05:58,000 --> 00:06:01,360
+let's shift select a few of these
+
+191
+00:06:01,360 --> 00:06:05,360
+and alt t extrude long face normals
+
+192
+00:06:05,360 --> 00:06:08,400
+g to move it down scale z no
+
+193
+00:06:08,400 --> 00:06:11,680
+x no y okay no apparently no axis
+
+194
+00:06:11,680 --> 00:06:14,720
+so let's leave it then and
+
+195
+00:06:14,720 --> 00:06:17,039
+g to move that on spiky i think the
+
+196
+00:06:17,039 --> 00:06:20,000
+washing machines don't know
+
+197
+00:06:20,000 --> 00:06:22,720
+to move that on okay this should do and
+
+198
+00:06:22,720 --> 00:06:24,720
+then uh i'll do features here as well so
+
+199
+00:06:24,720 --> 00:06:25,520
+maybe i'll
+
+200
+00:06:25,520 --> 00:06:28,720
+gg something wrong
+
+201
+00:06:28,720 --> 00:06:30,639
+oh yeah that's because that one so ctrl
+
+202
+00:06:30,639 --> 00:06:31,759
+r let's do
+
+203
+00:06:31,759 --> 00:06:34,880
+four here i'll select these
+
+204
+00:06:34,880 --> 00:06:37,919
+item set alt test to scale them down and
+
+205
+00:06:37,919 --> 00:06:39,199
+make them orange
+
+206
+00:06:39,199 --> 00:06:43,120
+and then here 621 we'll do the same type
+
+207
+00:06:43,120 --> 00:06:44,560
+of feature here
+
+208
+00:06:44,560 --> 00:06:47,199
+so b to extrude e to extrude but here
+
+209
+00:06:47,199 --> 00:06:48,800
+i'll just do one i think like this e to
+
+210
+00:06:48,800 --> 00:06:50,560
+explode like a shield here on the leg as
+
+211
+00:06:50,560 --> 00:06:51,440
+well
+
+212
+00:06:51,440 --> 00:06:54,160
+all d to extrude long face normals is
+
+213
+00:06:54,160 --> 00:06:57,440
+that even what i'm doing i hope so
+
+214
+00:06:57,759 --> 00:07:01,199
+g move that one and should we do
+
+215
+00:07:01,199 --> 00:07:04,080
+move that one up ctrl r we'll just do
+
+216
+00:07:04,080 --> 00:07:05,360
+one loop here
+
+217
+00:07:05,360 --> 00:07:07,840
+height inset all test is scaled down
+
+218
+00:07:07,840 --> 00:07:09,440
+orange
+
+219
+00:07:09,440 --> 00:07:11,199
+and here it felt like it was a bit too
+
+220
+00:07:11,199 --> 00:07:12,720
+thick so
+
+221
+00:07:12,720 --> 00:07:14,800
+let's do shift select these and spike
+
+222
+00:07:14,800 --> 00:07:17,199
+this up as well don't need to protect
+
+223
+00:07:17,199 --> 00:07:20,080
+the leg that much that should do and
+
+224
+00:07:20,080 --> 00:07:21,520
+should we do some something weird
+
+225
+00:07:21,520 --> 00:07:24,720
+no i think that should be all right
+
+226
+00:07:24,720 --> 00:07:26,720
+dude e to extrude that's the scale
+
+227
+00:07:26,720 --> 00:07:30,720
+little details here okay never mind
+
+228
+00:07:30,720 --> 00:07:33,919
+and now i'll do the torrent turret so
+
+229
+00:07:33,919 --> 00:07:35,599
+g to move that one back to there e to
+
+230
+00:07:35,599 --> 00:07:37,120
+extrude i'll just do something super
+
+231
+00:07:37,120 --> 00:07:39,039
+simple e to extrude s to scale e to
+
+232
+00:07:39,039 --> 00:07:40,240
+extrude
+
+233
+00:07:40,240 --> 00:07:43,280
+and then h extrude s to scale and then
+
+234
+00:07:43,280 --> 00:07:45,599
+here i'm just going to do like a cannon
+
+235
+00:07:45,599 --> 00:07:48,000
+or a gun let's just call it a gun shift
+
+236
+00:07:48,000 --> 00:07:50,560
+d duplicate that on the scale
+
+237
+00:07:50,560 --> 00:07:53,599
+bring it down to there and bring it in
+
+238
+00:07:53,599 --> 00:07:55,039
+because it's going to have like a recoil
+
+239
+00:07:55,039 --> 00:07:57,199
+effector e to extrude you to extrude
+
+240
+00:07:57,199 --> 00:07:58,160
+again
+
+241
+00:07:58,160 --> 00:08:03,039
+s to scale a little bit taller y
+
+242
+00:08:03,599 --> 00:08:07,599
+okay comma and do global again
+
+243
+00:08:07,599 --> 00:08:10,080
+and then e to extrude e to extrude
+
+244
+00:08:10,080 --> 00:08:11,440
+that's the scale
+
+245
+00:08:11,440 --> 00:08:14,319
+e to extrude here's just like the tip of
+
+246
+00:08:14,319 --> 00:08:14,639
+the
+
+247
+00:08:14,639 --> 00:08:17,919
+gun or something e to extrude
+
+248
+00:08:17,919 --> 00:08:21,599
+s to scale item set b for boundary and e
+
+249
+00:08:21,599 --> 00:08:22,800
+to extrude in
+
+250
+00:08:22,800 --> 00:08:25,520
+that's a big cannon big cannon hole ctrl
+
+251
+00:08:25,520 --> 00:08:27,840
+r six loop cuts
+
+252
+00:08:27,840 --> 00:08:29,759
+maybe that was too many i don't know
+
+253
+00:08:29,759 --> 00:08:31,120
+let's do those
+
+254
+00:08:31,120 --> 00:08:33,360
+like indentations here as well i'll test
+
+255
+00:08:33,360 --> 00:08:36,080
+to scale that on
+
+256
+00:08:36,320 --> 00:08:38,479
+let me bring those up and here should we
+
+257
+00:08:38,479 --> 00:08:39,839
+do like a shield in the back here as
+
+258
+00:08:39,839 --> 00:08:40,080
+well
+
+259
+00:08:40,080 --> 00:08:43,519
+all the extra long oh all the
+
+260
+00:08:43,519 --> 00:08:47,120
+extruded face normals scale z
+
+261
+00:08:47,120 --> 00:08:51,600
+rotate g e took screwed as the scale
+
+262
+00:08:51,600 --> 00:08:54,480
+and we'll do those i'll just do one here
+
+263
+00:08:54,480 --> 00:08:56,720
+as well
+
+264
+00:08:56,720 --> 00:08:59,920
+alt s scale it down g okay
+
+265
+00:08:59,920 --> 00:09:02,240
+four minutes to go let's try to rig this
+
+266
+00:09:02,240 --> 00:09:04,080
+and i have to figure out how to do this
+
+267
+00:09:04,080 --> 00:09:06,240
+now
+
+268
+00:09:06,240 --> 00:09:08,800
+because let's do some maybe dark parts
+
+269
+00:09:08,800 --> 00:09:10,160
+here too
+
+270
+00:09:10,160 --> 00:09:13,680
+okay okay uh
+
+271
+00:09:13,680 --> 00:09:16,080
+so to do this i need to do more legs
+
+272
+00:09:16,080 --> 00:09:17,120
+here
+
+273
+00:09:17,120 --> 00:09:19,200
+g to move uh i have to first of all do
+
+274
+00:09:19,200 --> 00:09:20,839
+the armature shift a
+
+275
+00:09:20,839 --> 00:09:24,240
+armature and here
+
+276
+00:09:24,240 --> 00:09:26,880
+let's go into this tab and do viewport
+
+277
+00:09:26,880 --> 00:09:28,160
+in front
+
+278
+00:09:28,160 --> 00:09:30,160
+tab in credit mode i've got three
+
+279
+00:09:30,160 --> 00:09:31,519
+minutes to to
+
+280
+00:09:31,519 --> 00:09:34,399
+awesome i was trying to call rotate
+
+281
+00:09:34,399 --> 00:09:35,200
+minus
+
+282
+00:09:35,200 --> 00:09:38,720
+90. ah can't answer now maybe that's the
+
+283
+00:09:38,720 --> 00:09:40,560
+fiber
+
+284
+00:09:40,560 --> 00:09:43,200
+uh i'll just have to decline for now and
+
+285
+00:09:43,200 --> 00:09:44,880
+pick up after
+
+286
+00:09:44,880 --> 00:09:48,320
+shift space g uh shift d that's for the
+
+287
+00:09:48,320 --> 00:09:50,160
+turret that's for the gun
+
+288
+00:09:50,160 --> 00:09:53,360
+and name this one root
+
+289
+00:09:53,360 --> 00:09:57,040
+name this one turret name this one
+
+290
+00:09:57,040 --> 00:09:59,920
+gun and then we'll do this one needs to
+
+291
+00:09:59,920 --> 00:10:00,720
+be connected
+
+292
+00:10:00,720 --> 00:10:03,040
+so control p keep offset and this one
+
+293
+00:10:03,040 --> 00:10:04,560
+needs to become vectors one
+
+294
+00:10:04,560 --> 00:10:07,040
+keep opposite and i have to do the legs
+
+295
+00:10:07,040 --> 00:10:09,839
+so e to extrude
+
+296
+00:10:09,839 --> 00:10:12,560
+g to move it g to move that one down oh
+
+297
+00:10:12,560 --> 00:10:13,760
+i have to do inverse kinematics with
+
+298
+00:10:13,760 --> 00:10:14,880
+this two two forty eight
+
+299
+00:10:14,880 --> 00:10:17,120
+this is not gonna work i'm panicking now
+
+300
+00:10:17,120 --> 00:10:18,480
+fail duck might be coming up
+
+301
+00:10:18,480 --> 00:10:21,839
+uh let's see so
+
+302
+00:10:21,839 --> 00:10:24,320
+i have to compare that one control p
+
+303
+00:10:24,320 --> 00:10:26,160
+keep offset
+
+304
+00:10:26,160 --> 00:10:30,640
+leg a dot l zero zero one
+
+305
+00:10:30,640 --> 00:10:34,320
+weird name and g to move that on down
+
+306
+00:10:34,320 --> 00:10:37,839
+e texture down up to no
+
+307
+00:10:37,839 --> 00:10:40,399
+g there i need to extrude it down to the
+
+308
+00:10:40,399 --> 00:10:42,480
+tip
+
+309
+00:10:42,480 --> 00:10:45,279
+and this needs to be segment b but leg
+
+310
+00:10:45,279 --> 00:10:47,279
+one and this one needs to be ligament
+
+311
+00:10:47,279 --> 00:10:50,800
+legacy let's see one still
+
+312
+00:10:50,800 --> 00:10:52,959
+i feel panic now two minutes to go each
+
+313
+00:10:52,959 --> 00:10:54,160
+extrude uh
+
+314
+00:10:54,160 --> 00:10:57,200
+p now alt p clear apparent
+
+315
+00:10:57,200 --> 00:10:58,959
+g to move down high up because this is
+
+316
+00:10:58,959 --> 00:11:00,800
+going to be the pole target
+
+317
+00:11:00,800 --> 00:11:04,000
+for some flippy legs i need to find the
+
+318
+00:11:04,000 --> 00:11:07,440
+d4 needs to go off and then e to extrude
+
+319
+00:11:07,440 --> 00:11:08,160
+on
+
+320
+00:11:08,160 --> 00:11:12,160
+alt p clear parent deform off
+
+321
+00:11:12,160 --> 00:11:15,200
+ik target dot l
+
+322
+00:11:15,200 --> 00:11:18,800
+dot zero zero one i k
+
+323
+00:11:18,800 --> 00:11:22,079
+poll dot l zero zero one
+
+324
+00:11:22,079 --> 00:11:23,839
+and now i do have to do the image
+
+325
+00:11:23,839 --> 00:11:26,160
+kinematics two so i have to go control
+
+326
+00:11:26,160 --> 00:11:26,640
+tab
+
+327
+00:11:26,640 --> 00:11:29,680
+pose mode did i name this correctly yeah
+
+328
+00:11:29,680 --> 00:11:32,959
+uh 132. um honeykin uh inverse
+
+329
+00:11:32,959 --> 00:11:34,000
+kinematics
+
+330
+00:11:34,000 --> 00:11:36,320
+there and we need three segments this
+
+331
+00:11:36,320 --> 00:11:37,040
+time
+
+332
+00:11:37,040 --> 00:11:41,440
+and here's the armature so armature
+
+333
+00:11:41,440 --> 00:11:44,480
+and ik target here's the armature ik
+
+334
+00:11:44,480 --> 00:11:47,839
+pole and that's flipped out i have to do
+
+335
+00:11:47,839 --> 00:11:50,639
+a to select everything shift n view axis
+
+336
+00:11:50,639 --> 00:11:52,160
+roll calculation
+
+337
+00:11:52,160 --> 00:11:54,639
+tab again and we have to do this one
+
+338
+00:11:54,639 --> 00:11:55,600
+this
+
+339
+00:11:55,600 --> 00:11:59,040
+180 because it's probably yeah that like
+
+340
+00:11:59,040 --> 00:12:00,320
+works control tab
+
+341
+00:12:00,320 --> 00:12:03,040
+okay now i need to duplicate this so
+
+342
+00:12:03,040 --> 00:12:04,320
+shift select these
+
+343
+00:12:04,320 --> 00:12:08,079
+uh 57 seconds to go this
+
+344
+00:12:08,079 --> 00:12:11,360
+uh let's see i'll move that one to
+
+345
+00:12:11,360 --> 00:12:15,120
+g minus one okay g
+
+346
+00:12:15,120 --> 00:12:18,560
+there two minus one
+
+347
+00:12:18,560 --> 00:12:21,760
+minus two okay um
+
+348
+00:12:21,760 --> 00:12:25,680
+let's move shift d two shift d
+
+349
+00:12:25,680 --> 00:12:29,600
+two okay thirty four seconds
+
+350
+00:12:29,600 --> 00:12:32,320
+uh tab inside mode l to select all the
+
+351
+00:12:32,320 --> 00:12:33,560
+links here
+
+352
+00:12:33,560 --> 00:12:35,440
+[Music]
+
+353
+00:12:35,440 --> 00:12:38,800
+and then back shift d to
+
+354
+00:12:38,800 --> 00:12:43,519
+shift d minus two oh no
+
+355
+00:12:43,519 --> 00:12:47,760
+ah top view g
+
+356
+00:12:47,760 --> 00:12:51,200
+minus four that's it
+
+357
+00:12:51,200 --> 00:12:53,600
+and here we go 10 seconds to go and i'm
+
+358
+00:12:53,600 --> 00:12:54,560
+gonna actually move these
+
+359
+00:12:54,560 --> 00:12:58,000
+a little bit closer again l
+
+360
+00:12:58,240 --> 00:13:07,839
+shift select everything and
+
+361
+00:13:09,440 --> 00:13:12,639
+great great
+
+362
+00:13:12,639 --> 00:13:15,120
+so the 10 minutes are up and i did
+
+363
+00:13:15,120 --> 00:13:17,519
+manage to sort of model a spiderbot
+
+364
+00:13:17,519 --> 00:13:21,440
+and i created the armature roughly
+
+365
+00:13:21,440 --> 00:13:23,920
+but i failed to link it up and you can't
+
+366
+00:13:23,920 --> 00:13:25,600
+do automatic weights with this anyway so
+
+367
+00:13:25,600 --> 00:13:27,120
+i don't think i was even close when it
+
+368
+00:13:27,120 --> 00:13:28,399
+came to it at the end here
+
+369
+00:13:28,399 --> 00:13:30,320
+so the idea was to do a rigged spider
+
+370
+00:13:30,320 --> 00:13:32,000
+bot in 10 minutes
+
+371
+00:13:32,000 --> 00:13:33,920
+and that sort of failed so i'm gonna
+
+372
+00:13:33,920 --> 00:13:35,600
+have to move into the bonus content now
+
+373
+00:13:35,600 --> 00:13:35,920
+and
+
+374
+00:13:35,920 --> 00:13:37,600
+rig it and we'll do a little animation
+
+375
+00:13:37,600 --> 00:13:39,199
+for this spiderbot as well
+
+376
+00:13:39,199 --> 00:13:41,440
+but when you think about it maybe was it
+
+377
+00:13:41,440 --> 00:13:43,760
+a fail or was it a huge success because
+
+378
+00:13:43,760 --> 00:13:45,120
+i managed to model
+
+379
+00:13:45,120 --> 00:13:47,680
+the spiderbot well within the 10 minutes
+
+380
+00:13:47,680 --> 00:13:48,240
+so
+
+381
+00:13:48,240 --> 00:13:49,839
+this is the bonus material now and this
+
+382
+00:13:49,839 --> 00:13:51,680
+is where we take care of the rest of the
+
+383
+00:13:51,680 --> 00:13:52,160
+rigging
+
+384
+00:13:52,160 --> 00:13:54,560
+and the animating let's try to just
+
+385
+00:13:54,560 --> 00:13:55,519
+ignore that
+
+386
+00:13:55,519 --> 00:13:57,360
+everything that just happened and let's
+
+387
+00:13:57,360 --> 00:13:59,199
+move on let's proceed okay so
+
+388
+00:13:59,199 --> 00:14:00,560
+i'm still going to try to keep the pace
+
+389
+00:14:00,560 --> 00:14:02,880
+up though a little bit
+
+390
+00:14:02,880 --> 00:14:04,800
+but it's weird without the pressure on
+
+391
+00:14:04,800 --> 00:14:06,560
+kind of keep the pace open
+
+392
+00:14:06,560 --> 00:14:07,839
+you should always work on the pressure
+
+393
+00:14:07,839 --> 00:14:09,680
+it's always a lot better
+
+394
+00:14:09,680 --> 00:14:11,519
+so what we're going to do here let's
+
+395
+00:14:11,519 --> 00:14:12,800
+take these bones here
+
+396
+00:14:12,800 --> 00:14:15,040
+shift space g i'm going to move them a
+
+397
+00:14:15,040 --> 00:14:16,480
+little bit closer together again because
+
+398
+00:14:16,480 --> 00:14:17,920
+i think they ended up a little bit far
+
+399
+00:14:17,920 --> 00:14:19,199
+apart
+
+400
+00:14:19,199 --> 00:14:22,880
+so let's shift select a bunch of those
+
+401
+00:14:22,880 --> 00:14:25,680
+and move them up okay i need to move the
+
+402
+00:14:25,680 --> 00:14:28,079
+whole bone
+
+403
+00:14:28,160 --> 00:14:30,399
+oh the the tempo significantly drops
+
+404
+00:14:30,399 --> 00:14:32,160
+after the pressure is off
+
+405
+00:14:32,160 --> 00:14:35,519
+so g um
+
+406
+00:14:35,519 --> 00:14:38,720
+let's do on this axis 0.5
+
+407
+00:14:38,720 --> 00:14:40,320
+that's a little bit better i think and
+
+408
+00:14:40,320 --> 00:14:44,560
+then we'll move this one down too
+
+409
+00:14:44,560 --> 00:14:48,000
+shift select those g minus
+
+410
+00:14:48,000 --> 00:14:50,320
+0.5 there we go and then we'll do the
+
+411
+00:14:50,320 --> 00:14:51,360
+same for the legs here
+
+412
+00:14:51,360 --> 00:14:55,839
+so l l l to select linked g
+
+413
+00:14:55,839 --> 00:14:59,199
+middle mouse button zero negative zero
+
+414
+00:14:59,199 --> 00:14:59,519
+point
+
+415
+00:14:59,519 --> 00:15:04,079
+five start ll g
+
+416
+00:15:04,079 --> 00:15:08,320
+0.5 okay so the idea now would be to
+
+417
+00:15:08,320 --> 00:15:10,480
+let's see everything's there since i
+
+418
+00:15:10,480 --> 00:15:11,519
+named them the way i did
+
+419
+00:15:11,519 --> 00:15:13,040
+we can parent these now i think
+
+420
+00:15:13,040 --> 00:15:14,720
+everything's pretty much set up i've got
+
+421
+00:15:14,720 --> 00:15:16,480
+the inverse kinematics we had that in
+
+422
+00:15:16,480 --> 00:15:17,120
+time though
+
+423
+00:15:17,120 --> 00:15:19,760
+so that worked within the time limit
+
+424
+00:15:19,760 --> 00:15:21,120
+that's pretty good
+
+425
+00:15:21,120 --> 00:15:24,000
+could've been worse so with this done i
+
+426
+00:15:24,000 --> 00:15:27,120
+think it's time to do them symmetrize so
+
+427
+00:15:27,120 --> 00:15:29,839
+a to select everything no tab into edit
+
+428
+00:15:29,839 --> 00:15:32,079
+mode on the armature a select everything
+
+429
+00:15:32,079 --> 00:15:34,639
+f3 oh that's cache since the last
+
+430
+00:15:34,639 --> 00:15:35,120
+challenge
+
+431
+00:15:35,120 --> 00:15:38,560
+symmetrize there we go and that one's
+
+432
+00:15:38,560 --> 00:15:41,040
+all symmetrized
+
+433
+00:15:41,040 --> 00:15:44,320
+and control tab post mode the inverse
+
+434
+00:15:44,320 --> 00:15:45,680
+kinematics everything works
+
+435
+00:15:45,680 --> 00:15:47,920
+for both legs yeah that works and this
+
+436
+00:15:47,920 --> 00:15:48,720
+works so
+
+437
+00:15:48,720 --> 00:15:50,959
+let's uh parent it we have to do a
+
+438
+00:15:50,959 --> 00:15:52,480
+little bit different because uh
+
+439
+00:15:52,480 --> 00:15:53,920
+now since we're outside of the 10
+
+440
+00:15:53,920 --> 00:15:55,759
+minutes bonus
+
+441
+00:15:55,759 --> 00:15:58,160
+then when we parent this i can show you
+
+442
+00:15:58,160 --> 00:15:59,519
+that we don't really want to use
+
+443
+00:15:59,519 --> 00:16:01,279
+automatic weights because if i do that
+
+444
+00:16:01,279 --> 00:16:03,440
+ctrl p so i shift select there first i
+
+445
+00:16:03,440 --> 00:16:04,480
+select the
+
+446
+00:16:04,480 --> 00:16:06,480
+mesh shift selected the armature control
+
+447
+00:16:06,480 --> 00:16:08,480
+p if i do the automatic weights
+
+448
+00:16:08,480 --> 00:16:11,519
+now it sort of works but if you look
+
+449
+00:16:11,519 --> 00:16:14,399
+here ctrl tab into post mode
+
+450
+00:16:14,399 --> 00:16:16,880
+g and see that it's moving the face and
+
+451
+00:16:16,880 --> 00:16:18,720
+it's distorting the legs a little bit
+
+452
+00:16:18,720 --> 00:16:20,079
+so you don't really get that hard
+
+453
+00:16:20,079 --> 00:16:21,759
+feeling but it did actually do a pretty
+
+454
+00:16:21,759 --> 00:16:22,000
+good
+
+455
+00:16:22,000 --> 00:16:24,800
+job but this is no good so instead of
+
+456
+00:16:24,800 --> 00:16:26,000
+doing that we want to lock
+
+457
+00:16:26,000 --> 00:16:29,040
+everything 100 in place so to do that
+
+458
+00:16:29,040 --> 00:16:31,680
+let's controls that out now i'm going to
+
+459
+00:16:31,680 --> 00:16:32,079
+do
+
+460
+00:16:32,079 --> 00:16:34,800
+again select the mesh shift select the
+
+461
+00:16:34,800 --> 00:16:35,440
+armature
+
+462
+00:16:35,440 --> 00:16:37,839
+control p and then do with empty groups
+
+463
+00:16:37,839 --> 00:16:39,279
+i've done this a few times in the past
+
+464
+00:16:39,279 --> 00:16:39,600
+for
+
+465
+00:16:39,600 --> 00:16:42,480
+like the mech warrior type thing but
+
+466
+00:16:42,480 --> 00:16:43,120
+let's do it
+
+467
+00:16:43,120 --> 00:16:45,440
+we'll start with the body here so tab
+
+468
+00:16:45,440 --> 00:16:46,240
+into edit mode
+
+469
+00:16:46,240 --> 00:16:49,440
+l to select this one ctrl g and set
+
+470
+00:16:49,440 --> 00:16:51,839
+active group okay we didn't name this
+
+471
+00:16:51,839 --> 00:16:54,240
+one apparently root so let's
+
+472
+00:16:54,240 --> 00:16:57,120
+let's do that first
+
+473
+00:16:57,519 --> 00:17:00,880
+f2 i thought it did
+
+474
+00:17:02,160 --> 00:17:05,839
+ah did i name that one okay
+
+475
+00:17:07,199 --> 00:17:09,679
+tourette's
+
+476
+00:17:10,799 --> 00:17:14,079
+uh root
+
+477
+00:17:17,599 --> 00:17:19,119
+i alright do like a programmer's
+
+478
+00:17:19,119 --> 00:17:22,000
+tourettes like singleton singleton
+
+479
+00:17:22,000 --> 00:17:23,679
+singleton garbage collection garbage
+
+480
+00:17:23,679 --> 00:17:25,119
+collection
+
+481
+00:17:25,119 --> 00:17:28,240
+let's go l select the linked purchases
+
+482
+00:17:28,240 --> 00:17:28,960
+for the body
+
+483
+00:17:28,960 --> 00:17:32,000
+and then now we'll do ctrl g set active
+
+484
+00:17:32,000 --> 00:17:36,880
+group root ctrl g assign to active group
+
+485
+00:17:36,880 --> 00:17:38,400
+l this is going to be a bit repetitive
+
+486
+00:17:38,400 --> 00:17:40,000
+control g
+
+487
+00:17:40,000 --> 00:17:43,280
+set active group turret
+
+488
+00:17:44,480 --> 00:17:46,799
+ctrl g still a side tag to group you get
+
+489
+00:17:46,799 --> 00:17:47,840
+a little bit faster when you've done it
+
+490
+00:17:47,840 --> 00:17:48,799
+a few times so
+
+491
+00:17:48,799 --> 00:17:52,160
+l control g set active group gone
+
+492
+00:17:52,160 --> 00:17:54,640
+ctrl g assigned to actually group and
+
+493
+00:17:54,640 --> 00:17:56,160
+now comes the fun part we have to do it
+
+494
+00:17:56,160 --> 00:17:57,120
+for the legs so
+
+495
+00:17:57,120 --> 00:17:59,440
+l that's why we sort of named them a
+
+496
+00:17:59,440 --> 00:18:00,559
+little bit decently
+
+497
+00:18:00,559 --> 00:18:03,679
+control g set active group
+
+498
+00:18:03,679 --> 00:18:07,280
+leg a l.001 so i'm just going to do it
+
+499
+00:18:07,280 --> 00:18:08,799
+now instead of saying all this so we'll
+
+500
+00:18:08,799 --> 00:18:10,080
+do this one
+
+501
+00:18:10,080 --> 00:18:11,280
+and you get start to get into the
+
+502
+00:18:11,280 --> 00:18:13,520
+repetitive moment here so
+
+503
+00:18:13,520 --> 00:18:18,640
+you can slow this down if you need to l
+
+504
+00:18:18,799 --> 00:18:22,960
+g and this one this one ctrl g
+
+505
+00:18:22,960 --> 00:18:25,039
+assign type group that's why it's good
+
+506
+00:18:25,039 --> 00:18:26,799
+to have all the leg components attached
+
+507
+00:18:26,799 --> 00:18:28,640
+to each other as well
+
+508
+00:18:28,640 --> 00:18:31,600
+because it makes this uh sub part a
+
+509
+00:18:31,600 --> 00:18:35,280
+little bit easier i tried with them
+
+510
+00:18:35,280 --> 00:18:36,640
+i can't really speak and do this at the
+
+511
+00:18:36,640 --> 00:18:38,480
+same time but i have tried with
+
+512
+00:18:38,480 --> 00:18:40,080
+envelopes instead of automatic weights
+
+513
+00:18:40,080 --> 00:18:41,360
+and that doesn't really work so well
+
+514
+00:18:41,360 --> 00:18:42,320
+either so this is
+
+515
+00:18:42,320 --> 00:18:43,840
+pretty much the only way i've found to
+
+516
+00:18:43,840 --> 00:18:45,919
+do the hard surface
+
+517
+00:18:45,919 --> 00:18:48,080
+stuff when i connect them up and a
+
+518
+00:18:48,080 --> 00:18:49,679
+spider shooter i have eight legs
+
+519
+00:18:49,679 --> 00:18:53,360
+i only did six legs ah that was to save
+
+520
+00:18:53,360 --> 00:18:55,760
+some time
+
+521
+00:18:55,760 --> 00:18:57,280
+and it looks cool enough i think with
+
+522
+00:18:57,280 --> 00:18:58,960
+six legs so ctrl
+
+523
+00:18:58,960 --> 00:19:01,120
+l set active group and here we go the
+
+524
+00:19:01,120 --> 00:19:02,480
+last one
+
+525
+00:19:02,480 --> 00:19:04,880
+this one control a hope i remember to
+
+526
+00:19:04,880 --> 00:19:05,760
+assign them all here
+
+527
+00:19:05,760 --> 00:19:08,640
+l control g
+
+528
+00:19:08,880 --> 00:19:11,280
+there control g active group and the
+
+529
+00:19:11,280 --> 00:19:12,000
+last one
+
+530
+00:19:12,000 --> 00:19:14,080
+l we have only have to do one side sec
+
+531
+00:19:14,080 --> 00:19:15,280
+active group
+
+532
+00:19:15,280 --> 00:19:18,640
+like oh nearly another one no it was the
+
+533
+00:19:18,640 --> 00:19:19,919
+wrong one not nearly it was the wrong
+
+534
+00:19:19,919 --> 00:19:20,240
+one
+
+535
+00:19:20,240 --> 00:19:22,400
+it was nearly the right one and a
+
+536
+00:19:22,400 --> 00:19:23,360
+scientific group
+
+537
+00:19:23,360 --> 00:19:26,720
+okay now we can check it ctrl
+
+538
+00:19:26,720 --> 00:19:30,000
+tab post mode g
+
+539
+00:19:30,000 --> 00:19:32,880
+will it move that moved this one moved
+
+540
+00:19:32,880 --> 00:19:33,520
+and
+
+541
+00:19:33,520 --> 00:19:34,960
+that one moved and these should work
+
+542
+00:19:34,960 --> 00:19:37,520
+then yep
+
+543
+00:19:37,520 --> 00:19:40,480
+success and the poll targets here will
+
+544
+00:19:40,480 --> 00:19:41,600
+aim the legs
+
+545
+00:19:41,600 --> 00:19:44,160
+so that's done um we should also try to
+
+546
+00:19:44,160 --> 00:19:45,360
+animate this one because
+
+547
+00:19:45,360 --> 00:19:47,520
+i haven't really modeled any i haven't
+
+548
+00:19:47,520 --> 00:19:49,120
+really animated stuff that's not
+
+549
+00:19:49,120 --> 00:19:52,080
+like a bipedal thing so let's go into
+
+550
+00:19:52,080 --> 00:19:53,200
+the animation tab
+
+551
+00:19:53,200 --> 00:19:55,039
+we'll do the right thing first set this
+
+552
+00:19:55,039 --> 00:19:56,480
+one to texture and
+
+553
+00:19:56,480 --> 00:19:59,840
+shadow and we'll do cavity of course
+
+554
+00:19:59,840 --> 00:20:02,640
+both so we get a pretty interface here
+
+555
+00:20:02,640 --> 00:20:04,240
+when we look so
+
+556
+00:20:04,240 --> 00:20:05,679
+here we go there's the spider with a
+
+557
+00:20:05,679 --> 00:20:08,080
+little cannon on so let's animate it
+
+558
+00:20:08,080 --> 00:20:10,559
+first of all i'll go to the action
+
+559
+00:20:10,559 --> 00:20:12,799
+editor here instead
+
+560
+00:20:12,799 --> 00:20:14,400
+bring this one up and let's create a new
+
+561
+00:20:14,400 --> 00:20:17,039
+action let's call this one
+
+562
+00:20:17,039 --> 00:20:19,200
+uh just we can't call it t-post because
+
+563
+00:20:19,200 --> 00:20:20,559
+it's not a t-pose we'll call it
+
+564
+00:20:20,559 --> 00:20:23,200
+uh just default i'll do an underscore as
+
+565
+00:20:23,200 --> 00:20:24,000
+well
+
+566
+00:20:24,000 --> 00:20:26,880
+remember your neutral pose put an
+
+567
+00:20:26,880 --> 00:20:28,240
+underscore at the top of the actions
+
+568
+00:20:28,240 --> 00:20:29,600
+because when you import it into
+
+569
+00:20:29,600 --> 00:20:31,280
+especially unity i don't know about the
+
+570
+00:20:31,280 --> 00:20:33,039
+other game engines but it inherits the
+
+571
+00:20:33,039 --> 00:20:34,000
+post from the first
+
+572
+00:20:34,000 --> 00:20:37,280
+action so tip pro tip
+
+573
+00:20:37,280 --> 00:20:41,039
+from an from an amateur so there we go
+
+574
+00:20:41,039 --> 00:20:43,200
+uh a little shield light come to protect
+
+575
+00:20:43,200 --> 00:20:45,360
+that from deletion and go back to
+
+576
+00:20:45,360 --> 00:20:48,320
+first frame here and now we'll do item
+
+577
+00:20:48,320 --> 00:20:49,120
+search
+
+578
+00:20:49,120 --> 00:20:50,960
+not inset this time and location and
+
+579
+00:20:50,960 --> 00:20:52,799
+rotation and that creates that frame so
+
+580
+00:20:52,799 --> 00:20:54,080
+we've got the default post there for
+
+581
+00:20:54,080 --> 00:20:55,120
+everything
+
+582
+00:20:55,120 --> 00:20:56,720
+now should we do like an idle post as
+
+583
+00:20:56,720 --> 00:20:58,320
+well we'll do
+
+584
+00:20:58,320 --> 00:21:00,720
+idle
+
+585
+00:21:01,440 --> 00:21:04,400
+little idol billy idol no it's a spider
+
+586
+00:21:04,400 --> 00:21:05,280
+idol
+
+587
+00:21:05,280 --> 00:21:09,039
+there we go so on the idle frame
+
+588
+00:21:09,039 --> 00:21:12,080
+i'll spread the legs out of it g to move
+
+589
+00:21:12,080 --> 00:21:13,679
+that on
+
+590
+00:21:13,679 --> 00:21:16,320
+g if you move it from the top view like
+
+591
+00:21:16,320 --> 00:21:18,000
+this with inverse kinematics the feet
+
+592
+00:21:18,000 --> 00:21:19,360
+will always be anchored
+
+593
+00:21:19,360 --> 00:21:22,320
+really well to the ground so i y you
+
+594
+00:21:22,320 --> 00:21:24,799
+move them perfectly along that axis
+
+595
+00:21:24,799 --> 00:21:26,000
+so i should have actually had the
+
+596
+00:21:26,000 --> 00:21:27,760
+animation thing take down here for
+
+597
+00:21:27,760 --> 00:21:29,840
+automatic keyframing so i don't forget
+
+598
+00:21:29,840 --> 00:21:33,600
+insert let's lower the poster there
+
+599
+00:21:33,600 --> 00:21:36,240
+and should we just do like a wobble
+
+600
+00:21:36,240 --> 00:21:36,720
+bobble
+
+601
+00:21:36,720 --> 00:21:40,000
+pose here so this one goes down a bit
+
+602
+00:21:40,000 --> 00:21:43,280
+maybe the bomb goes up and
+
+603
+00:21:43,280 --> 00:21:45,280
+and we'll just change the pole angles
+
+604
+00:21:45,280 --> 00:21:47,440
+here a little bit
+
+605
+00:21:47,440 --> 00:21:49,520
+for some movement of the legs we want
+
+606
+00:21:49,520 --> 00:21:50,720
+the feet to be anchored though
+
+607
+00:21:50,720 --> 00:21:53,039
+that's important because you don't want
+
+608
+00:21:53,039 --> 00:21:54,240
+them to move
+
+609
+00:21:54,240 --> 00:21:57,280
+around on the ground so
+
+610
+00:21:57,280 --> 00:22:00,640
+there and there and that's and as we
+
+611
+00:22:00,640 --> 00:22:02,159
+rotate the body we could
+
+612
+00:22:02,159 --> 00:22:06,480
+rotate the turret up a little bit oop
+
+613
+00:22:06,559 --> 00:22:08,480
+to compensate so it look looks like it's
+
+614
+00:22:08,480 --> 00:22:11,360
+aiming the weapon forward at all times
+
+615
+00:22:11,360 --> 00:22:14,880
+and let's see that works and then
+
+616
+00:22:14,880 --> 00:22:17,440
+we'll do a to select everything b to box
+
+617
+00:22:17,440 --> 00:22:18,240
+select down there
+
+618
+00:22:18,240 --> 00:22:20,159
+shift d to duplicate on the dope sheet
+
+619
+00:22:20,159 --> 00:22:21,840
+to frame 40 and we'll do
+
+620
+00:22:21,840 --> 00:22:25,840
+39 and 8 select everything shift e and
+
+621
+00:22:25,840 --> 00:22:26,799
+make cyclic
+
+622
+00:22:26,799 --> 00:22:28,559
+and this one will loop forever then and
+
+623
+00:22:28,559 --> 00:22:30,720
+make a pretty good
+
+624
+00:22:30,720 --> 00:22:34,000
+thing so that could be the idle pose for
+
+625
+00:22:34,000 --> 00:22:36,400
+if we can hide the armature as well now
+
+626
+00:22:36,400 --> 00:22:37,679
+that the washing machine is finished i
+
+627
+00:22:37,679 --> 00:22:38,480
+just noticed
+
+628
+00:22:38,480 --> 00:22:39,919
+i'm hearing that they're drilling in the
+
+629
+00:22:39,919 --> 00:22:41,679
+road they're cutting the road up outside
+
+630
+00:22:41,679 --> 00:22:42,240
+but
+
+631
+00:22:42,240 --> 00:22:43,840
+don't worry it's for a very very good
+
+632
+00:22:43,840 --> 00:22:46,559
+cause we're getting fiber finally so i
+
+633
+00:22:46,559 --> 00:22:47,840
+don't have to stream these things
+
+634
+00:22:47,840 --> 00:22:51,120
+during my through my 4g little sim card
+
+635
+00:22:51,120 --> 00:22:53,120
+thing that keeps running out of data
+
+636
+00:22:53,120 --> 00:22:55,440
+so finally a decent internet connection
+
+637
+00:22:55,440 --> 00:22:57,440
+all right back to the thing we'll do one
+
+638
+00:22:57,440 --> 00:22:58,799
+more animation too
+
+639
+00:22:58,799 --> 00:23:01,520
+so i'll copy this one that's the idle
+
+640
+00:23:01,520 --> 00:23:03,280
+looks like he's breathing heavily
+
+641
+00:23:03,280 --> 00:23:06,559
+so wobbling legs there but that's okay
+
+642
+00:23:06,559 --> 00:23:09,600
+so walk let's try to do a a six-legged
+
+643
+00:23:09,600 --> 00:23:10,880
+walk cycle
+
+644
+00:23:10,880 --> 00:23:13,760
+okay how's this gonna go we'll have to
+
+645
+00:23:13,760 --> 00:23:15,120
+show the armature again
+
+646
+00:23:15,120 --> 00:23:18,480
+press space to stop it let's do
+
+647
+00:23:18,480 --> 00:23:21,919
+go back to frame one and the walk here
+
+648
+00:23:21,919 --> 00:23:22,799
+and
+
+649
+00:23:22,799 --> 00:23:26,799
+okay so control tab into post mode
+
+650
+00:23:26,799 --> 00:23:29,520
+select all of them delete everything and
+
+651
+00:23:29,520 --> 00:23:31,440
+for this one i'm just going to animate
+
+652
+00:23:31,440 --> 00:23:33,280
+the left side of the spider here first
+
+653
+00:23:33,280 --> 00:23:34,720
+so i'll take this one
+
+654
+00:23:34,720 --> 00:23:38,080
+this leg let's move it forward this one
+
+655
+00:23:38,080 --> 00:23:38,640
+goes back
+
+656
+00:23:38,640 --> 00:23:40,000
+and this one goes forward i think it's
+
+657
+00:23:40,000 --> 00:23:44,000
+like a an inverted cycle when they walk
+
+658
+00:23:44,000 --> 00:23:48,559
+so that one can go forward even to there
+
+659
+00:23:48,559 --> 00:23:51,840
+and i think i'll skip the pull targets
+
+660
+00:23:51,840 --> 00:23:53,120
+for now i'll just try to animate the
+
+661
+00:23:53,120 --> 00:23:54,080
+legs
+
+662
+00:23:54,080 --> 00:23:55,919
+so i'm going to go forward four frames
+
+663
+00:23:55,919 --> 00:23:58,480
+one two three four
+
+664
+00:23:58,480 --> 00:24:00,159
+five six seven eight so i'll go forward
+
+665
+00:24:00,159 --> 00:24:01,760
+eight frames because now we need to i
+
+666
+00:24:01,760 --> 00:24:02,799
+think just
+
+667
+00:24:02,799 --> 00:24:06,159
+move this leg back g maybe to
+
+668
+00:24:06,159 --> 00:24:09,520
+there this leg goes
+
+669
+00:24:09,520 --> 00:24:12,480
+forward and this leg goes also back so
+
+670
+00:24:12,480 --> 00:24:13,840
+it's like
+
+671
+00:24:13,840 --> 00:24:16,480
+the opposite
+
+672
+00:24:17,120 --> 00:24:19,039
+and we can't have the legs sliding like
+
+673
+00:24:19,039 --> 00:24:20,880
+this that looks super weird
+
+674
+00:24:20,880 --> 00:24:23,200
+so instead of him sliding we have to
+
+675
+00:24:23,200 --> 00:24:23,919
+lift but
+
+676
+00:24:23,919 --> 00:24:25,919
+only the leg in the middle here needs to
+
+677
+00:24:25,919 --> 00:24:27,760
+lift because the ones that are moving
+
+678
+00:24:27,760 --> 00:24:29,200
+backwards are anchored to the ground
+
+679
+00:24:29,200 --> 00:24:31,120
+pushing the spider forward
+
+680
+00:24:31,120 --> 00:24:33,919
+so let's go forward halfway there so
+
+681
+00:24:33,919 --> 00:24:35,520
+four frames and this is the only leg i'm
+
+682
+00:24:35,520 --> 00:24:38,080
+going to lift up
+
+683
+00:24:38,080 --> 00:24:40,159
+let's lift it in to shield this body
+
+684
+00:24:40,159 --> 00:24:42,559
+there too
+
+685
+00:24:42,640 --> 00:24:46,080
+like this it looks like it's a different
+
+686
+00:24:46,080 --> 00:24:47,840
+number of keyframes here
+
+687
+00:24:47,840 --> 00:24:49,360
+i thought it went from four or four
+
+688
+00:24:49,360 --> 00:24:50,960
+frames one two three
+
+689
+00:24:50,960 --> 00:24:54,080
+four okay i missed it
+
+690
+00:24:54,080 --> 00:24:57,279
+so move it forward and move there
+
+691
+00:24:57,279 --> 00:25:00,400
+i think that's should work yeah
+
+692
+00:25:00,400 --> 00:25:01,840
+and then we have to go back to this of
+
+693
+00:25:01,840 --> 00:25:06,080
+course so shift select these
+
+694
+00:25:07,279 --> 00:25:08,880
+i'll actually insert the keyframes here
+
+695
+00:25:08,880 --> 00:25:10,480
+as well i think item set
+
+696
+00:25:10,480 --> 00:25:15,679
+location rotation and then here
+
+697
+00:25:15,679 --> 00:25:17,279
+i have to think now this one is going to
+
+698
+00:25:17,279 --> 00:25:18,720
+come back to this post so
+
+699
+00:25:18,720 --> 00:25:20,400
+and i have to go eight frames in one two
+
+700
+00:25:20,400 --> 00:25:22,400
+three four five six seven eight
+
+701
+00:25:22,400 --> 00:25:24,159
+oh it's on cyclic that's fine that's why
+
+702
+00:25:24,159 --> 00:25:26,240
+it's animating without the keyframe
+
+703
+00:25:26,240 --> 00:25:28,880
+shift e clear cyclic that makes more
+
+704
+00:25:28,880 --> 00:25:30,799
+sense probably
+
+705
+00:25:30,799 --> 00:25:34,559
+yeah so and i'm only needing to animate
+
+706
+00:25:34,559 --> 00:25:35,919
+these uh
+
+707
+00:25:35,919 --> 00:25:37,360
+the rotations of the bones will take
+
+708
+00:25:37,360 --> 00:25:38,640
+care of themselves since it's a merged
+
+709
+00:25:38,640 --> 00:25:40,480
+kinematic so ctrl
+
+710
+00:25:40,480 --> 00:25:42,159
+c and then here we'll skip in eight
+
+711
+00:25:42,159 --> 00:25:44,000
+frames one two three four five six seven
+
+712
+00:25:44,000 --> 00:25:44,640
+eight
+
+713
+00:25:44,640 --> 00:25:47,760
+control v we're back to there and then
+
+714
+00:25:47,760 --> 00:25:49,039
+here the only difference here now is
+
+715
+00:25:49,039 --> 00:25:50,640
+that we need to lift those two legs
+
+716
+00:25:50,640 --> 00:25:51,919
+because they're moving forward
+
+717
+00:25:51,919 --> 00:25:53,440
+so this is the only one that anchoring
+
+718
+00:25:53,440 --> 00:25:55,200
+the spider and we have to mirror it i
+
+719
+00:25:55,200 --> 00:25:56,559
+think on the other side
+
+720
+00:25:56,559 --> 00:25:59,919
+so halfway through here
+
+721
+00:26:01,520 --> 00:26:04,400
+there we go one two three four then
+
+722
+00:26:04,400 --> 00:26:05,919
+we'll lift these legs up instead
+
+723
+00:26:05,919 --> 00:26:09,520
+front view g move it
+
+724
+00:26:09,520 --> 00:26:12,320
+and let's protect the body there so that
+
+725
+00:26:12,320 --> 00:26:12,960
+should be it
+
+726
+00:26:12,960 --> 00:26:14,480
+maybe you can do this more expressive i
+
+727
+00:26:14,480 --> 00:26:17,840
+think uh if you tried
+
+728
+00:26:17,840 --> 00:26:21,039
+so there
+
+729
+00:26:21,039 --> 00:26:22,799
+i think that works and then we'll loop
+
+730
+00:26:22,799 --> 00:26:25,279
+it on frame 16 here
+
+731
+00:26:25,279 --> 00:26:29,919
+shift space that works i think
+
+732
+00:26:29,919 --> 00:26:31,279
+and now we just have to mirror this i
+
+733
+00:26:31,279 --> 00:26:32,320
+think for the other side and then make
+
+734
+00:26:32,320 --> 00:26:34,400
+the body move a little bit
+
+735
+00:26:34,400 --> 00:26:36,400
+so it doesn't look so static and i don't
+
+736
+00:26:36,400 --> 00:26:37,919
+think you can mirror we want
+
+737
+00:26:37,919 --> 00:26:40,000
+them the post is offset as well so this
+
+738
+00:26:40,000 --> 00:26:42,400
+could be a little bit tricky
+
+739
+00:26:42,400 --> 00:26:46,080
+you should insert the location rotation
+
+740
+00:26:46,080 --> 00:26:47,120
+keyframe there
+
+741
+00:26:47,120 --> 00:26:48,960
+so let's think now i have to copy the
+
+742
+00:26:48,960 --> 00:26:50,640
+mirror post i think i'll do it straight
+
+743
+00:26:50,640 --> 00:26:51,760
+forward first so
+
+744
+00:26:51,760 --> 00:26:56,559
+control let's see can i do all of this
+
+745
+00:26:56,559 --> 00:26:58,720
+let's try it on the dope sheet ctrl c
+
+746
+00:26:58,720 --> 00:27:00,400
+ctrl shift v
+
+747
+00:27:00,400 --> 00:27:03,520
+okay that didn't work i i don't know if
+
+748
+00:27:03,520 --> 00:27:04,240
+the
+
+749
+00:27:04,240 --> 00:27:05,840
+paste mirror post works so well when
+
+750
+00:27:05,840 --> 00:27:07,760
+it's not like on a humanoid so i'll have
+
+751
+00:27:07,760 --> 00:27:09,120
+to do them manually maybe
+
+752
+00:27:09,120 --> 00:27:12,240
+ctrl c ctrl shift v
+
+753
+00:27:12,240 --> 00:27:14,080
+ctrl c ctrl shift maybe it was the
+
+754
+00:27:14,080 --> 00:27:15,600
+naming scheme that i used that was
+
+755
+00:27:15,600 --> 00:27:19,360
+broken so that's mirrored
+
+756
+00:27:19,360 --> 00:27:21,120
+the poses let's just do that for all of
+
+757
+00:27:21,120 --> 00:27:23,520
+them control c ctrl shift v
+
+758
+00:27:23,520 --> 00:27:26,559
+ctrl c ctrl shift v ctrl this is a new
+
+759
+00:27:26,559 --> 00:27:26,960
+one
+
+760
+00:27:26,960 --> 00:27:30,720
+ctrl c ctrl shift b and then this one
+
+761
+00:27:30,720 --> 00:27:32,159
+control the reason why you don't see any
+
+762
+00:27:32,159 --> 00:27:33,679
+difference because when i do ctrl shift
+
+763
+00:27:33,679 --> 00:27:34,080
+v
+
+764
+00:27:34,080 --> 00:27:35,600
+it's actually i've only got this one
+
+765
+00:27:35,600 --> 00:27:37,279
+selected and when i'm pasting it
+
+766
+00:27:37,279 --> 00:27:39,520
+mirrored it's actually affecting the
+
+767
+00:27:39,520 --> 00:27:41,200
+dot r bone here that's why it doesn't
+
+768
+00:27:41,200 --> 00:27:42,640
+change down here
+
+769
+00:27:42,640 --> 00:27:45,760
+ctrl c ctrl shift v
+
+770
+00:27:45,760 --> 00:27:49,120
+ctrl c ctrl shift v and then we've only
+
+771
+00:27:49,120 --> 00:27:50,799
+got a few more
+
+772
+00:27:50,799 --> 00:27:54,000
+ctrl c ctrl shift v ctrl c
+
+773
+00:27:54,000 --> 00:27:57,039
+ctrl shift v ctrl c ctrl shift v one
+
+774
+00:27:57,039 --> 00:27:57,520
+more
+
+775
+00:27:57,520 --> 00:28:00,000
+bear with me why do i change i could
+
+776
+00:28:00,000 --> 00:28:01,200
+have stopped it from there ctrl c
+
+777
+00:28:01,200 --> 00:28:04,480
+ctrl shift v ctrl c ctrl shift d ctrl c
+
+778
+00:28:04,480 --> 00:28:07,600
+ctrl shift b i couldn't be quiet
+
+779
+00:28:07,600 --> 00:28:10,480
+but i'm not so this won't work either
+
+780
+00:28:10,480 --> 00:28:11,039
+because
+
+781
+00:28:11,039 --> 00:28:12,640
+you kind of have it so symmetrical i
+
+782
+00:28:12,640 --> 00:28:14,480
+don't think so it works works like that
+
+783
+00:28:14,480 --> 00:28:16,000
+yeah i guess it was a bit robotic
+
+784
+00:28:16,000 --> 00:28:18,240
+but i think i'll try to mirror it to see
+
+785
+00:28:18,240 --> 00:28:20,159
+if the not mirror it i'll
+
+786
+00:28:20,159 --> 00:28:23,840
+offset it so on this side select the
+
+787
+00:28:23,840 --> 00:28:26,880
+ik target bones and then i think i'll
+
+788
+00:28:26,880 --> 00:28:28,960
+just control
+
+789
+00:28:28,960 --> 00:28:31,840
+i think i only need to there ctrl c and
+
+790
+00:28:31,840 --> 00:28:32,880
+then just control v
+
+791
+00:28:32,880 --> 00:28:34,399
+now because these are already mirrored
+
+792
+00:28:34,399 --> 00:28:36,399
+correctly og og
+
+793
+00:28:36,399 --> 00:28:40,159
+move it in original gamer there we go
+
+794
+00:28:40,159 --> 00:28:43,200
+and then now i'll delete these
+
+795
+00:28:43,200 --> 00:28:46,159
+delete g to slide them down this is
+
+796
+00:28:46,159 --> 00:28:48,559
+probably an easy way to do this but
+
+797
+00:28:48,559 --> 00:28:51,120
+there oh and we've got duplicate frames
+
+798
+00:28:51,120 --> 00:28:52,720
+here need to get rid of them because
+
+799
+00:28:52,720 --> 00:28:53,760
+they were duplicate
+
+800
+00:28:53,760 --> 00:28:56,880
+copied a little bit too many and
+
+801
+00:28:56,880 --> 00:28:59,600
+there and that one should be the same as
+
+802
+00:28:59,600 --> 00:29:01,600
+this one yeah
+
+803
+00:29:01,600 --> 00:29:03,039
+that looks better i think a little bit a
+
+804
+00:29:03,039 --> 00:29:05,120
+bit more creepier but we need to do
+
+805
+00:29:05,120 --> 00:29:06,159
+something with the body too
+
+806
+00:29:06,159 --> 00:29:09,440
+so and i have no idea how to animate the
+
+807
+00:29:09,440 --> 00:29:11,840
+body when it's moving here so let's do
+
+808
+00:29:11,840 --> 00:29:13,520
+let's tilt it so let's pretend i don't
+
+809
+00:29:13,520 --> 00:29:14,880
+know there's probably some science to
+
+810
+00:29:14,880 --> 00:29:16,399
+this which we should be tilting like
+
+811
+00:29:16,399 --> 00:29:18,000
+where the weight let's put
+
+812
+00:29:18,000 --> 00:29:19,679
+the weight on this one he's moving
+
+813
+00:29:19,679 --> 00:29:21,200
+forward with two legs so i guess the
+
+814
+00:29:21,200 --> 00:29:22,559
+most weight would be on the
+
+815
+00:29:22,559 --> 00:29:25,200
+on this side so to get some sort of
+
+816
+00:29:25,200 --> 00:29:27,039
+realism you should always think about
+
+817
+00:29:27,039 --> 00:29:28,480
+like center of gravity and stuff when
+
+818
+00:29:28,480 --> 00:29:30,320
+you animate so let's not think about
+
+819
+00:29:30,320 --> 00:29:32,559
+that too much
+
+820
+00:29:32,559 --> 00:29:34,159
+no you should think about it archer
+
+821
+00:29:34,159 --> 00:29:36,559
+rotate g to move it
+
+822
+00:29:36,559 --> 00:29:38,399
+to there let's pretend he's got the
+
+823
+00:29:38,399 --> 00:29:41,440
+weight like shifted over a little bit
+
+824
+00:29:41,440 --> 00:29:44,320
+ctrl c here we can paste the shift a
+
+825
+00:29:44,320 --> 00:29:46,240
+flip one or something so one two three
+
+826
+00:29:46,240 --> 00:29:47,760
+four five six seven eight
+
+827
+00:29:47,760 --> 00:29:52,080
+ctrl shift v that moves it over
+
+828
+00:29:52,080 --> 00:29:53,679
+and then we have to duplicate this one
+
+829
+00:29:53,679 --> 00:29:57,520
+on frame 16 control v
+
+830
+00:29:58,799 --> 00:30:02,000
+okay that's too much way too much
+
+831
+00:30:02,000 --> 00:30:04,000
+let's do a little bit more subtle then
+
+832
+00:30:04,000 --> 00:30:05,120
+shall we alt r
+
+833
+00:30:05,120 --> 00:30:08,960
+alt move it rotate
+
+834
+00:30:08,960 --> 00:30:13,279
+and let's move it down to there ctrl c
+
+835
+00:30:13,279 --> 00:30:16,320
+frame 8 ctrl shift v ctrl
+
+836
+00:30:16,320 --> 00:30:19,440
+or frame 16
+
+837
+00:30:19,440 --> 00:30:23,840
+is a frame 15 that i meant to do
+
+838
+00:30:24,559 --> 00:30:29,679
+no 17 oh it's frame 17 okay
+
+839
+00:30:29,679 --> 00:30:32,960
+easy to get confused control v
+
+840
+00:30:32,960 --> 00:30:36,080
+not control shift
+
+841
+00:30:36,080 --> 00:30:39,440
+yes like it's wrong one two three four
+
+842
+00:30:39,440 --> 00:30:40,080
+five six
+
+843
+00:30:40,080 --> 00:30:43,600
+seven oh that's on the wrong frame
+
+844
+00:30:47,520 --> 00:30:50,240
+okay and then maybe we'll do drop it
+
+845
+00:30:50,240 --> 00:30:52,399
+should we go up to here
+
+846
+00:30:52,399 --> 00:30:57,440
+ctrl c ctrl v
+
+847
+00:30:58,880 --> 00:31:03,120
+okay and then we could compensate i
+
+848
+00:31:03,120 --> 00:31:06,640
+think with the turret as well
+
+849
+00:31:06,799 --> 00:31:09,039
+so it's like a gyro in here are to
+
+850
+00:31:09,039 --> 00:31:10,240
+rotate
+
+851
+00:31:10,240 --> 00:31:14,159
+control c
+
+852
+00:31:14,159 --> 00:31:17,200
+and then go to frame nine then ctrl
+
+853
+00:31:17,200 --> 00:31:22,399
+shift v go to frame 17 control v
+
+854
+00:31:22,399 --> 00:31:26,320
+all right let's hide the armature
+
+855
+00:31:26,320 --> 00:31:27,679
+okay that could probably looked a lot
+
+856
+00:31:27,679 --> 00:31:29,600
+better but i think the general movement
+
+857
+00:31:29,600 --> 00:31:31,120
+of the leg it looks a bit spiderish i
+
+858
+00:31:31,120 --> 00:31:32,720
+think
+
+859
+00:31:32,720 --> 00:31:34,159
+so you could probably spend some more it
+
+860
+00:31:34,159 --> 00:31:35,360
+should be try to slow it down a bit
+
+861
+00:31:35,360 --> 00:31:36,480
+maybe it's too fast
+
+862
+00:31:36,480 --> 00:31:38,720
+so show the armature a to select
+
+863
+00:31:38,720 --> 00:31:40,240
+everything keyframes
+
+864
+00:31:40,240 --> 00:31:43,200
+scale two oh okay apparently then select
+
+865
+00:31:43,200 --> 00:31:44,720
+all the keyframes
+
+866
+00:31:44,720 --> 00:31:49,279
+scale two g move it to here
+
+867
+00:31:50,000 --> 00:31:51,679
+frame one and then we have to cycle it
+
+868
+00:31:51,679 --> 00:31:53,200
+on frame 32 instead
+
+869
+00:31:53,200 --> 00:31:56,480
+we can see a little bit slower here
+
+870
+00:31:57,919 --> 00:31:59,760
+and it's animated in place now so you
+
+871
+00:31:59,760 --> 00:32:00,880
+won't really see that it's moving
+
+872
+00:32:00,880 --> 00:32:02,159
+forward but it should be
+
+873
+00:32:02,159 --> 00:32:03,760
+possible to animate it forward at a
+
+874
+00:32:03,760 --> 00:32:05,760
+steady pace i think uh or you could do
+
+875
+00:32:05,760 --> 00:32:07,279
+root motion and animate it into the
+
+876
+00:32:07,279 --> 00:32:07,840
+spell
+
+877
+00:32:07,840 --> 00:32:11,039
+i think that should be all right
+
+878
+00:32:11,039 --> 00:32:12,960
+but then i think i like the more rapid
+
+879
+00:32:12,960 --> 00:32:14,320
+it's a bot after all it's going to be
+
+880
+00:32:14,320 --> 00:32:16,159
+like in a quick game
+
+881
+00:32:16,159 --> 00:32:19,760
+so let's make it faster again 16. there
+
+882
+00:32:19,760 --> 00:32:21,600
+we go i like that one more
+
+883
+00:32:21,600 --> 00:32:24,399
+a bit more rapid come back next week for
+
+884
+00:32:24,399 --> 00:32:24,880
+another
+
+885
+00:32:24,880 --> 00:32:26,240
+episode of the 10 minute mauling
+
+886
+00:32:26,240 --> 00:32:29,039
+challenge it's going to be episode 72
+
+887
+00:32:29,039 --> 00:32:31,120
+and not only that i'm going to be since
+
+888
+00:32:31,120 --> 00:32:32,720
+i've had the ludum dare out of the way
+
+889
+00:32:32,720 --> 00:32:34,559
+now and my wife's birthday which was
+
+890
+00:32:34,559 --> 00:32:35,120
+wonderful
+
+891
+00:32:35,120 --> 00:32:37,919
+and it's out of the way but that's not
+
+892
+00:32:37,919 --> 00:32:38,720
+what i meant to say
+
+893
+00:32:38,720 --> 00:32:40,159
+like that sounds weird it sounds like i
+
+894
+00:32:40,159 --> 00:32:41,440
+didn't enjoy it but it was really nice
+
+895
+00:32:41,440 --> 00:32:44,000
+actually we had a really good time
+
+896
+00:32:44,000 --> 00:32:46,480
+weirdo okay i'm taking myself a little
+
+897
+00:32:46,480 --> 00:32:47,039
+bit
+
+898
+00:32:47,039 --> 00:32:50,159
+of a pity so uh ludum dares out of the
+
+899
+00:32:50,159 --> 00:32:50,640
+way
+
+900
+00:32:50,640 --> 00:32:55,679
+um no matter how i put it it sounds like
+
+901
+00:32:55,679 --> 00:32:57,840
+like out of the way now that the ludum
+
+902
+00:32:57,840 --> 00:32:59,120
+dare is out of the way and
+
+903
+00:32:59,120 --> 00:33:00,720
+we've had birthdays we're doing a little
+
+904
+00:33:00,720 --> 00:33:02,320
+bit to the house and everything but
+
+905
+00:33:02,320 --> 00:33:04,000
+now it's uh i should have some time now
+
+906
+00:33:04,000 --> 00:33:05,360
+to do the rest of those
+
+907
+00:33:05,360 --> 00:33:07,279
+narration uh segments with the little
+
+908
+00:33:07,279 --> 00:33:09,279
+wild west game the gunfighter thing
+
+909
+00:33:09,279 --> 00:33:11,039
+so that should be a little bit fun keep
+
+910
+00:33:11,039 --> 00:33:13,120
+your eyes out for those videos and uh
+
+911
+00:33:13,120 --> 00:33:14,320
+i'll see you next week i've got a
+
+912
+00:33:14,320 --> 00:33:15,600
+patreon as well if you want to go there
+
+913
+00:33:15,600 --> 00:33:17,120
+it's uh patreon.com
+
+914
+00:33:17,120 --> 00:33:19,120
+infensia and if you like this video give
+
+915
+00:33:19,120 --> 00:33:20,320
+it a thumbs up and
+
+916
+00:33:20,320 --> 00:33:21,760
+subscribe if you haven't already and
+
+917
+00:33:21,760 --> 00:33:25,840
+i'll see you next week bye for now
+
+918
+00:33:26,570 --> 00:33:51,279
+[Music]
+
+919
+00:33:51,279 --> 00:33:53,360
+you
+

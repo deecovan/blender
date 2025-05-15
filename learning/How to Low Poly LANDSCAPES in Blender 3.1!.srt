@@ -1,0 +1,1076 @@
+1
+00:00:00,000 --> 00:00:01,120
+today i'm going to teach you how to make
+
+2
+00:00:01,120 --> 00:00:02,879
+a low poly landscape inside blender
+
+3
+00:00:02,879 --> 00:00:05,120
+let's go okay so here we are over in
+
+4
+00:00:05,120 --> 00:00:06,480
+london basically what you want to do
+
+5
+00:00:06,480 --> 00:00:08,480
+first is you can have your basic
+
+6
+00:00:08,480 --> 00:00:10,559
+landscape usually what you do so i have
+
+7
+00:00:10,559 --> 00:00:11,759
+like two methods for making our
+
+8
+00:00:11,759 --> 00:00:13,920
+landscape so the first one is you'll
+
+9
+00:00:13,920 --> 00:00:16,000
+just grab like a plane we can scale it
+
+10
+00:00:16,000 --> 00:00:18,400
+like all the way up like this and then
+
+11
+00:00:18,400 --> 00:00:20,640
+go ctrl a also you see so i have our
+
+12
+00:00:20,640 --> 00:00:23,359
+scale right a random scale so you see 86
+
+13
+00:00:23,359 --> 00:00:24,880
+so it's ctrl a
+
+14
+00:00:24,880 --> 00:00:27,439
+scale and you see now system back to one
+
+15
+00:00:27,439 --> 00:00:30,720
+and the two ways that i can do is either
+
+16
+00:00:30,720 --> 00:00:32,640
+i can take this i can subdivide it so
+
+17
+00:00:32,640 --> 00:00:34,480
+i'm just going to tab to go to edit mode
+
+18
+00:00:34,480 --> 00:00:35,840
+and i go to w
+
+19
+00:00:35,840 --> 00:00:38,160
+subdivide and you can see it subdivided
+
+20
+00:00:38,160 --> 00:00:39,920
+open up this bottom middle tab and then
+
+21
+00:00:39,920 --> 00:00:43,840
+just make it like 20 or 220 uh or even
+
+22
+00:00:43,840 --> 00:00:45,280
+more let's go like 40. so we have it
+
+23
+00:00:45,280 --> 00:00:47,360
+like this now what we can do is we can
+
+24
+00:00:47,360 --> 00:00:49,840
+use the uh proportional editing let's
+
+25
+00:00:49,840 --> 00:00:51,120
+click on this little button let me turn
+
+26
+00:00:51,120 --> 00:00:53,039
+it on and what you can do with this is
+
+27
+00:00:53,039 --> 00:00:54,559
+you can just select part of the part of
+
+28
+00:00:54,559 --> 00:00:56,480
+it and you can see like drag it up and
+
+29
+00:00:56,480 --> 00:00:58,000
+then you just scroll down your mouse
+
+30
+00:00:58,000 --> 00:00:59,440
+wheel and you can see you can kind of
+
+31
+00:00:59,440 --> 00:01:01,600
+just make changes to the whole
+
+32
+00:01:01,600 --> 00:01:03,359
+kind of like landscape of it
+
+33
+00:01:03,359 --> 00:01:04,799
+so you can kind of usually just make
+
+34
+00:01:04,799 --> 00:01:07,200
+something that you want like this
+
+35
+00:01:07,200 --> 00:01:10,400
+so yeah so it doesn't work too well
+
+36
+00:01:10,400 --> 00:01:12,479
+you can also like sculpt it
+
+37
+00:01:12,479 --> 00:01:14,320
+until you get something not don't you
+
+38
+00:01:14,320 --> 00:01:15,920
+remove it too much
+
+39
+00:01:15,920 --> 00:01:17,759
+and yep and you can have it like that
+
+40
+00:01:17,759 --> 00:01:19,600
+and then usually you can just like
+
+41
+00:01:19,600 --> 00:01:21,759
+select the outside edge
+
+42
+00:01:21,759 --> 00:01:24,240
+and like extrude it out and i don't have
+
+43
+00:01:24,240 --> 00:01:26,720
+a proportionality and scale it up
+
+44
+00:01:26,720 --> 00:01:29,040
+and you could like add some air tubes
+
+45
+00:01:29,040 --> 00:01:31,600
+and like smooth it out like that so you
+
+46
+00:01:31,600 --> 00:01:33,520
+get some sort of land like this
+
+47
+00:01:33,520 --> 00:01:35,680
+and what you can do so you can have like
+
+48
+00:01:35,680 --> 00:01:38,479
+your main landscape be like around here
+
+49
+00:01:38,479 --> 00:01:40,079
+and then you'll usually have like some
+
+50
+00:01:40,079 --> 00:01:42,720
+sort of barriers around the edges and
+
+51
+00:01:42,720 --> 00:01:44,720
+what you can do also is you can make
+
+52
+00:01:44,720 --> 00:01:46,880
+like mountains and stuff so what i'd
+
+53
+00:01:46,880 --> 00:01:48,640
+usually do with this is i'll add a
+
+54
+00:01:48,640 --> 00:01:50,880
+decimate uh just to make it like look
+
+55
+00:01:50,880 --> 00:01:51,680
+more
+
+56
+00:01:51,680 --> 00:01:53,840
+nice
+
+57
+00:01:53,840 --> 00:01:56,000
+and then like depending on what you
+
+58
+00:01:56,000 --> 00:01:57,920
+specifically need so if you have like
+
+59
+00:01:57,920 --> 00:02:00,399
+small detailed spots you can have like a
+
+60
+00:02:00,399 --> 00:02:02,159
+high resolution and then like sculpt it
+
+61
+00:02:02,159 --> 00:02:02,960
+in
+
+62
+00:02:02,960 --> 00:02:04,880
+so you can have like some specific spots
+
+63
+00:02:04,880 --> 00:02:06,880
+maybe have like a river you can just go
+
+64
+00:02:06,880 --> 00:02:09,038
+sculpt mode and then just like carve
+
+65
+00:02:09,038 --> 00:02:11,760
+something out for like a river
+
+66
+00:02:11,760 --> 00:02:13,840
+maybe it like separates into like a pond
+
+67
+00:02:13,840 --> 00:02:15,599
+and carries on out the other side so you
+
+68
+00:02:15,599 --> 00:02:17,040
+can see so you can kind of just quickly
+
+69
+00:02:17,040 --> 00:02:19,520
+sculpt it and get something simple uh
+
+70
+00:02:19,520 --> 00:02:21,200
+yeah like this so you can leave the the
+
+71
+00:02:21,200 --> 00:02:22,800
+modifiers on as well if you want also
+
+72
+00:02:22,800 --> 00:02:25,160
+what you want to do is you want to maybe
+
+73
+00:02:25,160 --> 00:02:27,760
+exclusives there what you can do is you
+
+74
+00:02:27,760 --> 00:02:29,680
+can create like mountains so make sure
+
+75
+00:02:29,680 --> 00:02:32,000
+you go to edit preferences and then go
+
+76
+00:02:32,000 --> 00:02:35,680
+to add-ons a dot n so you see a dot n
+
+77
+00:02:35,680 --> 00:02:37,840
+dot t and you can see and landscape so
+
+78
+00:02:37,840 --> 00:02:40,319
+just enable arts and then you'll see you
+
+79
+00:02:40,319 --> 00:02:41,599
+have a create button or you can just go
+
+80
+00:02:41,599 --> 00:02:42,959
+shift a
+
+81
+00:02:42,959 --> 00:02:45,120
+mesh landscape and you can see it's all
+
+82
+00:02:45,120 --> 00:02:46,400
+the way down here in the middle so you
+
+83
+00:02:46,400 --> 00:02:47,599
+can see you can create monitors like
+
+84
+00:02:47,599 --> 00:02:49,280
+this so if you have something nice you
+
+85
+00:02:49,280 --> 00:02:51,599
+can just go decimate it and then just
+
+86
+00:02:51,599 --> 00:02:53,519
+shades flat and then just scale it all
+
+87
+00:02:53,519 --> 00:02:55,040
+the way up you can just like put it
+
+88
+00:02:55,040 --> 00:02:57,440
+underneath like this uh and then you can
+
+89
+00:02:57,440 --> 00:02:59,040
+just like mess around with it until it
+
+90
+00:02:59,040 --> 00:03:01,200
+like intersects properly or you can use
+
+91
+00:03:01,200 --> 00:03:03,599
+something like booleans billions so yeah
+
+92
+00:03:03,599 --> 00:03:05,200
+so you can create like map uh some stuff
+
+93
+00:03:05,200 --> 00:03:07,360
+like this uh or you could you can create
+
+94
+00:03:07,360 --> 00:03:09,440
+like custom mountain for each one this
+
+95
+00:03:09,440 --> 00:03:11,200
+river is probably a bit too big
+
+96
+00:03:11,200 --> 00:03:12,800
+especially around like a mountain here
+
+97
+00:03:12,800 --> 00:03:14,640
+but yeah so we have some like this so
+
+98
+00:03:14,640 --> 00:03:16,239
+you can carry on just like working on
+
+99
+00:03:16,239 --> 00:03:17,360
+something like this just to get
+
+100
+00:03:17,360 --> 00:03:19,760
+something pretty decent for your thing
+
+101
+00:03:19,760 --> 00:03:21,280
+uh make a custom
+
+102
+00:03:21,280 --> 00:03:24,080
+uh mountain for each part and then yeah
+
+103
+00:03:24,080 --> 00:03:25,040
+like this
+
+104
+00:03:25,040 --> 00:03:26,480
+and then you can also set up like some
+
+105
+00:03:26,480 --> 00:03:28,480
+materials let's say here we have our
+
+106
+00:03:28,480 --> 00:03:31,760
+camera here let's go at a camera i'm
+
+107
+00:03:31,760 --> 00:03:33,360
+going to use my custom keyboard you're
+
+108
+00:03:33,360 --> 00:03:35,040
+going to use control
+
+109
+00:03:35,040 --> 00:03:38,400
+uh control alt and 0 on the numpad
+
+110
+00:03:38,400 --> 00:03:41,840
+so i'll put it like here
+
+111
+00:03:42,400 --> 00:03:43,920
+you can just like sculpt the mountains
+
+112
+00:03:43,920 --> 00:03:46,560
+if you want to like have it a specific
+
+113
+00:03:46,560 --> 00:03:49,360
+way or like decimator more or less and
+
+114
+00:03:49,360 --> 00:03:51,440
+then you want to get lucky materials
+
+115
+00:03:51,440 --> 00:03:54,640
+like the mountains will be gray and then
+
+116
+00:03:54,640 --> 00:03:56,959
+you can have like your ground
+
+117
+00:03:56,959 --> 00:03:58,879
+be like a green
+
+118
+00:03:58,879 --> 00:04:02,640
+just go rendered i'll turn it to cycles
+
+119
+00:04:02,640 --> 00:04:04,480
+i'll just set it to like a low sample
+
+120
+00:04:04,480 --> 00:04:06,879
+count and then turn on render region i
+
+121
+00:04:06,879 --> 00:04:08,720
+think what i want is like a low f of e
+
+122
+00:04:08,720 --> 00:04:10,560
+so i'll do like 24
+
+123
+00:04:10,560 --> 00:04:12,720
+go 30 35
+
+124
+00:04:12,720 --> 00:04:14,640
+so it doesn't look the greatest
+
+125
+00:04:14,640 --> 00:04:16,320
+uh it doesn't look the greatest with
+
+126
+00:04:16,320 --> 00:04:17,839
+having this like little
+
+127
+00:04:17,839 --> 00:04:20,000
+like separation here
+
+128
+00:04:20,000 --> 00:04:21,918
+uh so usually
+
+129
+00:04:21,918 --> 00:04:24,080
+so they couldn't usually just like
+
+130
+00:04:24,080 --> 00:04:25,600
+figure out a way or we can add some like
+
+131
+00:04:25,600 --> 00:04:26,880
+bushes and stuff
+
+132
+00:04:26,880 --> 00:04:29,840
+so what you can do also we want to do
+
+133
+00:04:29,840 --> 00:04:31,840
+the water so you can just go add like a
+
+134
+00:04:31,840 --> 00:04:32,800
+plane
+
+135
+00:04:32,800 --> 00:04:35,680
+scale it up like this
+
+136
+00:04:35,680 --> 00:04:38,800
+and then just like extrude it out
+
+137
+00:04:38,800 --> 00:04:40,080
+and then you'll just want to drag it up
+
+138
+00:04:40,080 --> 00:04:41,440
+so you can actually see the parts
+
+139
+00:04:41,440 --> 00:04:44,320
+through and then maybe just go back and
+
+140
+00:04:44,320 --> 00:04:47,040
+skip parts and yeah
+
+141
+00:04:47,040 --> 00:04:48,240
+there
+
+142
+00:04:48,240 --> 00:04:51,199
+and then just screw it all the way along
+
+143
+00:04:51,199 --> 00:04:53,919
+and then if you want to get some better
+
+144
+00:04:53,919 --> 00:04:57,280
+looking like colors on the actual
+
+145
+00:04:57,280 --> 00:04:58,479
+um
+
+146
+00:04:58,479 --> 00:05:00,560
+also on the actual ground
+
+147
+00:05:00,560 --> 00:05:02,560
+what we can do is we can do a vertex
+
+148
+00:05:02,560 --> 00:05:04,479
+color uh paint
+
+149
+00:05:04,479 --> 00:05:05,600
+and
+
+150
+00:05:05,600 --> 00:05:08,560
+what that will do is if we go
+
+151
+00:05:08,560 --> 00:05:09,440
+there
+
+152
+00:05:09,440 --> 00:05:11,120
+i think i want to
+
+153
+00:05:11,120 --> 00:05:14,000
+fix this so we can see the water
+
+154
+00:05:14,000 --> 00:05:15,600
+so maybe we can just select everything
+
+155
+00:05:15,600 --> 00:05:16,800
+and kind of like
+
+156
+00:05:16,800 --> 00:05:18,960
+rotate it like this
+
+157
+00:05:18,960 --> 00:05:20,479
+and then we can just
+
+158
+00:05:20,479 --> 00:05:22,560
+bring this down
+
+159
+00:05:22,560 --> 00:05:24,800
+uh maybe wait
+
+160
+00:05:24,800 --> 00:05:28,000
+scope mode
+
+161
+00:05:30,080 --> 00:05:32,240
+it's like there okay cool
+
+162
+00:05:32,240 --> 00:05:35,120
+and then what you want to do
+
+163
+00:05:35,120 --> 00:05:37,199
+is we go to
+
+164
+00:05:37,199 --> 00:05:39,600
+materials give us a blue
+
+165
+00:05:39,600 --> 00:05:42,160
+you're going to select subdivide this
+
+166
+00:05:42,160 --> 00:05:44,560
+uh add a
+
+167
+00:05:44,560 --> 00:05:46,160
+displace
+
+168
+00:05:46,160 --> 00:05:47,039
+new
+
+169
+00:05:47,039 --> 00:05:50,000
+go to the texture tab changes to clouds
+
+170
+00:05:50,000 --> 00:05:51,280
+you want to make it small so it's kind
+
+171
+00:05:51,280 --> 00:05:54,240
+of just a random drag upstream slightly
+
+172
+00:05:54,240 --> 00:05:56,479
+maybe yes so the subdivisions and then
+
+173
+00:05:56,479 --> 00:05:58,639
+also decimate it again just to add a
+
+174
+00:05:58,639 --> 00:06:02,080
+nice look to the water um but let's just
+
+175
+00:06:02,080 --> 00:06:04,479
+actually just leave us an e for now you
+
+176
+00:06:04,479 --> 00:06:07,120
+can also like drag down the roughness
+
+177
+00:06:07,120 --> 00:06:08,160
+and maybe
+
+178
+00:06:08,160 --> 00:06:10,160
+transmission so with that you'll have to
+
+179
+00:06:10,160 --> 00:06:12,319
+add some alpha blend that's not great
+
+180
+00:06:12,319 --> 00:06:14,160
+just because of some internal preview
+
+181
+00:06:14,160 --> 00:06:16,000
+and yeah so you can just mess around
+
+182
+00:06:16,000 --> 00:06:17,440
+with everything and then what i'm saying
+
+183
+00:06:17,440 --> 00:06:19,919
+with them at the vertex page so
+
+184
+00:06:19,919 --> 00:06:23,039
+basically what we can do is we can go to
+
+185
+00:06:23,039 --> 00:06:25,120
+this little toolbox and black paints the
+
+186
+00:06:25,120 --> 00:06:26,400
+colors on
+
+187
+00:06:26,400 --> 00:06:28,400
+so
+
+188
+00:06:28,400 --> 00:06:29,759
+start this
+
+189
+00:06:29,759 --> 00:06:31,440
+we'll see wait what is the color let's
+
+190
+00:06:31,440 --> 00:06:34,080
+grab this color
+
+191
+00:06:34,080 --> 00:06:37,199
+and then paste it in
+
+192
+00:06:37,520 --> 00:06:39,360
+and we can paint our entire model with
+
+193
+00:06:39,360 --> 00:06:40,720
+it
+
+194
+00:06:40,720 --> 00:06:44,240
+because then what we can do is go
+
+195
+00:06:44,240 --> 00:06:47,759
+grab the color for the rocks
+
+196
+00:06:47,759 --> 00:06:50,720
+and then go away vertex paint go back to
+
+197
+00:06:50,720 --> 00:06:52,400
+the tool
+
+198
+00:06:52,400 --> 00:06:56,400
+and paint in the gray
+
+199
+00:07:00,319 --> 00:07:01,520
+vertical screen
+
+200
+00:07:01,520 --> 00:07:03,120
+so we're gonna make a color palette just
+
+201
+00:07:03,120 --> 00:07:05,520
+click new go plus
+
+202
+00:07:05,520 --> 00:07:07,360
+and then put in the gray color for the
+
+203
+00:07:07,360 --> 00:07:08,240
+rocks
+
+204
+00:07:08,240 --> 00:07:10,720
+click plus so we can make it there
+
+205
+00:07:10,720 --> 00:07:13,720
+and
+
+206
+00:07:16,240 --> 00:07:18,240
+you can like paint in the colors you can
+
+207
+00:07:18,240 --> 00:07:19,599
+drag it down the opacity if you want to
+
+208
+00:07:19,599 --> 00:07:21,599
+like blend it in so you can kind of just
+
+209
+00:07:21,599 --> 00:07:23,520
+start like blending everything in
+
+210
+00:07:23,520 --> 00:07:24,880
+so let's just get rid of the mountains
+
+211
+00:07:24,880 --> 00:07:26,240
+for now just to
+
+212
+00:07:26,240 --> 00:07:29,039
+make it easier to paint everything in
+
+213
+00:07:29,039 --> 00:07:32,000
+yeah like there so if we go unhard
+
+214
+00:07:32,000 --> 00:07:35,199
+if we go to shading and then we go
+
+215
+00:07:35,199 --> 00:07:37,120
+vertex color
+
+216
+00:07:37,120 --> 00:07:39,520
+and then choose the color
+
+217
+00:07:39,520 --> 00:07:41,680
+color to base color and you can see so
+
+218
+00:07:41,680 --> 00:07:43,440
+it actually works so you can do the same
+
+219
+00:07:43,440 --> 00:07:44,639
+thing with the mountains if you want to
+
+220
+00:07:44,639 --> 00:07:46,720
+paint a specific part onto them
+
+221
+00:07:46,720 --> 00:07:48,080
+and you can get it kind of working like
+
+222
+00:07:48,080 --> 00:07:51,840
+that if you want you can go at a
+
+223
+00:07:51,840 --> 00:07:53,840
+color ramp
+
+224
+00:07:53,840 --> 00:07:55,360
+uh
+
+225
+00:07:55,360 --> 00:07:56,560
+i don't know how well this is going to
+
+226
+00:07:56,560 --> 00:07:59,199
+work but we can do something like this
+
+227
+00:07:59,199 --> 00:08:00,639
+and then
+
+228
+00:08:00,639 --> 00:08:02,960
+this won't really work out well
+
+229
+00:08:02,960 --> 00:08:05,199
+uh
+
+230
+00:08:05,599 --> 00:08:07,919
+okay if you can come up with a way if
+
+231
+00:08:07,919 --> 00:08:09,280
+you just have like two colors whatever
+
+232
+00:08:09,280 --> 00:08:10,960
+your landscape
+
+233
+00:08:10,960 --> 00:08:12,879
+or you can if you have like black and
+
+234
+00:08:12,879 --> 00:08:14,560
+white whatever so we can set up a color
+
+235
+00:08:14,560 --> 00:08:17,039
+ramp like this and you can see we have
+
+236
+00:08:17,039 --> 00:08:18,240
+it like this and then we can actually
+
+237
+00:08:18,240 --> 00:08:20,080
+like clamp them together or just turn it
+
+238
+00:08:20,080 --> 00:08:21,759
+to constant actually
+
+239
+00:08:21,759 --> 00:08:23,440
+and then you can see we can kind of set
+
+240
+00:08:23,440 --> 00:08:25,120
+it up this and if we have multiple
+
+241
+00:08:25,120 --> 00:08:28,240
+colors um so we can have like a second
+
+242
+00:08:28,240 --> 00:08:29,360
+color maybe we have like a different
+
+243
+00:08:29,360 --> 00:08:31,599
+green like a darker green
+
+244
+00:08:31,599 --> 00:08:34,000
+or if we have like a yellow sandy color
+
+245
+00:08:34,000 --> 00:08:35,039
+kind of thing
+
+246
+00:08:35,039 --> 00:08:36,880
+um we can go
+
+247
+00:08:36,880 --> 00:08:38,159
+paint that in
+
+248
+00:08:38,159 --> 00:08:41,039
+like this around the sides yeah it's
+
+249
+00:08:41,039 --> 00:08:42,880
+like this then you can see we can kind
+
+250
+00:08:42,880 --> 00:08:44,640
+of bring it back in here
+
+251
+00:08:44,640 --> 00:08:46,080
+but then what we do
+
+252
+00:08:46,080 --> 00:08:48,160
+is if we bring three colors
+
+253
+00:08:48,160 --> 00:08:50,000
+it'll work the best but
+
+254
+00:08:50,000 --> 00:08:51,600
+you can just get it to like set up like
+
+255
+00:08:51,600 --> 00:08:52,720
+this
+
+256
+00:08:52,720 --> 00:08:54,640
+and then give it the colors so we have
+
+257
+00:08:54,640 --> 00:08:56,080
+our base color green
+
+258
+00:08:56,080 --> 00:08:57,519
+check the color palette we can put
+
+259
+00:08:57,519 --> 00:08:58,640
+around gray
+
+260
+00:08:58,640 --> 00:09:00,480
+or you can just have it like smooth over
+
+261
+00:09:00,480 --> 00:09:02,320
+and then just plug it in and then you
+
+262
+00:09:02,320 --> 00:09:03,360
+have the colors actually working
+
+263
+00:09:03,360 --> 00:09:04,959
+properly and you can change it on the
+
+264
+00:09:04,959 --> 00:09:07,200
+flower like this um and i guess if you
+
+265
+00:09:07,200 --> 00:09:08,800
+want you could i guess if we have a
+
+266
+00:09:08,800 --> 00:09:10,640
+darker green it might work so just grab
+
+267
+00:09:10,640 --> 00:09:12,240
+this color and then we can just kind of
+
+268
+00:09:12,240 --> 00:09:14,000
+give it like a variation of it and then
+
+269
+00:09:14,000 --> 00:09:19,279
+we can also start making some foliage
+

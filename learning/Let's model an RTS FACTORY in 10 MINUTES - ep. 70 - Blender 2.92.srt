@@ -1,0 +1,2415 @@
+1
+00:00:00,000 --> 00:00:03,040
+hello guys and welcome to episode 70 of
+
+2
+00:00:03,040 --> 00:00:04,640
+the 10 minute modeling challenge can you
+
+3
+00:00:04,640 --> 00:00:05,279
+believe it
+
+4
+00:00:05,279 --> 00:00:08,639
+i cannot 70 episodes 70 thursdays have
+
+5
+00:00:08,639 --> 00:00:10,160
+gone past since we started this whole
+
+6
+00:00:10,160 --> 00:00:11,440
+journey while i've been doing these
+
+7
+00:00:11,440 --> 00:00:12,480
+thursday videos
+
+8
+00:00:12,480 --> 00:00:15,679
+i've in my day job that's making a game
+
+9
+00:00:15,679 --> 00:00:17,279
+as well so i'm making a real-time
+
+10
+00:00:17,279 --> 00:00:19,680
+strategy games with a colleague of mine
+
+11
+00:00:19,680 --> 00:00:22,880
+it's me and christian we're making a
+
+12
+00:00:22,880 --> 00:00:25,840
+fully-fledged multiplayer rts game with
+
+13
+00:00:25,840 --> 00:00:26,800
+lots of ai
+
+14
+00:00:26,800 --> 00:00:28,960
+and lots of netcode a lot of procedural
+
+15
+00:00:28,960 --> 00:00:30,000
+generation
+
+16
+00:00:30,000 --> 00:00:32,399
+and in this game i'm actually been
+
+17
+00:00:32,399 --> 00:00:33,040
+making
+
+18
+00:00:33,040 --> 00:00:35,200
+some 3d objects of course well a lot of
+
+19
+00:00:35,200 --> 00:00:36,880
+my part there is actually programming
+
+20
+00:00:36,880 --> 00:00:39,360
+believe it or not so i spend maybe 80
+
+21
+00:00:39,360 --> 00:00:40,399
+percent of my time
+
+22
+00:00:40,399 --> 00:00:42,800
+developing programming and maybe 20 is
+
+23
+00:00:42,800 --> 00:00:44,559
+all the rest which is uh like graphics
+
+24
+00:00:44,559 --> 00:00:45,840
+3d stuff
+
+25
+00:00:45,840 --> 00:00:48,559
+and the game objects and doing uh sound
+
+26
+00:00:48,559 --> 00:00:50,000
+effects and things like that and music
+
+27
+00:00:50,000 --> 00:00:50,559
+of course
+
+28
+00:00:50,559 --> 00:00:52,800
+but in this game uh we're making some uh
+
+29
+00:00:52,800 --> 00:00:53,600
+like rts
+
+30
+00:00:53,600 --> 00:00:55,680
+styled buildings or structures and some
+
+31
+00:00:55,680 --> 00:00:57,680
+of them are just static buildings like a
+
+32
+00:00:57,680 --> 00:00:58,079
+city
+
+33
+00:00:58,079 --> 00:01:00,559
+or a little town for example but we also
+
+34
+00:01:00,559 --> 00:01:02,320
+have some producing buildings and that
+
+35
+00:01:02,320 --> 00:01:04,320
+could be like factories or barracks or
+
+36
+00:01:04,320 --> 00:01:05,439
+airports and i thought
+
+37
+00:01:05,439 --> 00:01:07,200
+i'd give you a little a quick show how
+
+38
+00:01:07,200 --> 00:01:09,280
+you can make a rts styled
+
+39
+00:01:09,280 --> 00:01:11,439
+building in about 10 minutes so that's
+
+40
+00:01:11,439 --> 00:01:13,200
+going to be the usual time limit of
+
+41
+00:01:13,200 --> 00:01:13,920
+course
+
+42
+00:01:13,920 --> 00:01:15,360
+and i'm going to do it just a little bit
+
+43
+00:01:15,360 --> 00:01:17,520
+modular so you can animate the
+
+44
+00:01:17,520 --> 00:01:19,119
+construction of an object like that and
+
+45
+00:01:19,119 --> 00:01:20,720
+i want to keep it simple because usually
+
+46
+00:01:20,720 --> 00:01:22,960
+in rts games especially
+
+47
+00:01:22,960 --> 00:01:24,320
+especially if you were to play on a
+
+48
+00:01:24,320 --> 00:01:26,240
+mobile we're not making a mobile game
+
+49
+00:01:26,240 --> 00:01:28,080
+but then the buildings are going to be
+
+50
+00:01:28,080 --> 00:01:30,079
+quite small and also in our game they're
+
+51
+00:01:30,079 --> 00:01:31,439
+quite small regardless because you can't
+
+52
+00:01:31,439 --> 00:01:33,280
+really zoom in too close
+
+53
+00:01:33,280 --> 00:01:35,200
+so you get away with the low poly
+
+54
+00:01:35,200 --> 00:01:36,799
+objects they'll render fast and they'll
+
+55
+00:01:36,799 --> 00:01:37,759
+look pretty good
+
+56
+00:01:37,759 --> 00:01:40,000
+from a distance let's do a low poly
+
+57
+00:01:40,000 --> 00:01:41,759
+factory building or an rts
+
+58
+00:01:41,759 --> 00:01:45,439
+style game here we go i'm using the old
+
+59
+00:01:45,439 --> 00:01:47,280
+palette today i'm not using the gradient
+
+60
+00:01:47,280 --> 00:01:49,280
+and sometimes it's actually better to
+
+61
+00:01:49,280 --> 00:01:51,520
+use this static with fewer colors
+
+62
+00:01:51,520 --> 00:01:51,920
+because
+
+63
+00:01:51,920 --> 00:01:54,000
+then you get a consistent look to all
+
+64
+00:01:54,000 --> 00:01:55,200
+your objects so you don't have
+
+65
+00:01:55,200 --> 00:01:57,280
+loads of different shades and everything
+
+66
+00:01:57,280 --> 00:01:58,960
+and sometimes you can go even fewer a
+
+67
+00:01:58,960 --> 00:02:00,799
+lot fewer colors in fact you can go down
+
+68
+00:02:00,799 --> 00:02:03,280
+to 16 colors and get that retro style
+
+69
+00:02:03,280 --> 00:02:04,960
+and it's quite cool when all the objects
+
+70
+00:02:04,960 --> 00:02:08,080
+are really fitting the same palette
+
+71
+00:02:08,080 --> 00:02:09,599
+so i'm gonna go for the old school here
+
+72
+00:02:09,599 --> 00:02:11,680
+the eight by eight so it's still 64
+
+73
+00:02:11,680 --> 00:02:12,319
+colors
+
+74
+00:02:12,319 --> 00:02:14,640
+but let's do that one and uh let's get
+
+75
+00:02:14,640 --> 00:02:16,080
+started
+
+76
+00:02:16,080 --> 00:02:19,760
+so screencast keys we need to enable and
+
+77
+00:02:19,760 --> 00:02:22,480
+we're gonna be off now hold on to your
+
+78
+00:02:22,480 --> 00:02:23,280
+hats
+
+79
+00:02:23,280 --> 00:02:25,120
+why is there no skipping oh yeah there
+
+80
+00:02:25,120 --> 00:02:26,720
+we go ready steady
+
+81
+00:02:26,720 --> 00:02:30,160
+go and we are off timer's off usually i
+
+82
+00:02:30,160 --> 00:02:31,440
+keep the base of the building
+
+83
+00:02:31,440 --> 00:02:33,440
+underground like this um it's
+
+84
+00:02:33,440 --> 00:02:35,360
+uh quite good when you have uneven
+
+85
+00:02:35,360 --> 00:02:37,040
+terrain to put it on
+
+86
+00:02:37,040 --> 00:02:38,319
+and then what i'm going to do is keep
+
+87
+00:02:38,319 --> 00:02:40,160
+just a base plate here i'll do shift d
+
+88
+00:02:40,160 --> 00:02:42,560
+to duplicate it i do a lot of this and i
+
+89
+00:02:42,560 --> 00:02:44,239
+recommend that you don't build
+
+90
+00:02:44,239 --> 00:02:46,080
+everything into the same structure in
+
+91
+00:02:46,080 --> 00:02:48,319
+fact so we'll make like a little side
+
+92
+00:02:48,319 --> 00:02:50,239
+building here for the factory
+
+93
+00:02:50,239 --> 00:02:52,000
+select this one e to extrude this one of
+
+94
+00:02:52,000 --> 00:02:53,280
+course and then
+
+95
+00:02:53,280 --> 00:02:55,680
+shift d to duplicate this one and then
+
+96
+00:02:55,680 --> 00:02:56,480
+maybe i'll let's
+
+97
+00:02:56,480 --> 00:02:59,519
+scale it down scale it on the x-axis so
+
+98
+00:02:59,519 --> 00:02:59,840
+press
+
+99
+00:02:59,840 --> 00:03:02,319
+x to force it scale it up again we'll
+
+100
+00:03:02,319 --> 00:03:04,000
+put a little side thing here angle
+
+101
+00:03:04,000 --> 00:03:06,159
+e to extrude that one so we've got two
+
+102
+00:03:06,159 --> 00:03:08,239
+basic portions of this building
+
+103
+00:03:08,239 --> 00:03:09,920
+here we can make it like an entry so
+
+104
+00:03:09,920 --> 00:03:12,640
+i'll ctrl r twice to do some loop cuts
+
+105
+00:03:12,640 --> 00:03:14,319
+ctrl r here as well
+
+106
+00:03:14,319 --> 00:03:16,640
+and ctrl r and here i'll just extrude
+
+107
+00:03:16,640 --> 00:03:18,640
+this one in
+
+108
+00:03:18,640 --> 00:03:20,400
+and here on the factory should we do
+
+109
+00:03:20,400 --> 00:03:21,840
+maybe like we'll do
+
+110
+00:03:21,840 --> 00:03:24,879
+shift d to duplicate it s to scale it s
+
+111
+00:03:24,879 --> 00:03:25,440
+to scale
+
+112
+00:03:25,440 --> 00:03:28,000
+press y to scale on the y axis e to
+
+113
+00:03:28,000 --> 00:03:29,120
+extrude this one up
+
+114
+00:03:29,120 --> 00:03:31,440
+i to inset and e to extrude it down i
+
+115
+00:03:31,440 --> 00:03:32,560
+usually like to make
+
+116
+00:03:32,560 --> 00:03:35,200
+roofs like this shift d to duplicate
+
+117
+00:03:35,200 --> 00:03:35,760
+that one
+
+118
+00:03:35,760 --> 00:03:39,519
+scale it down scale x instead of just uh
+
+119
+00:03:39,519 --> 00:03:41,120
+working from the same object i quite
+
+120
+00:03:41,120 --> 00:03:43,360
+often now separate the geometry i'm
+
+121
+00:03:43,360 --> 00:03:44,879
+still in the same object but i separate
+
+122
+00:03:44,879 --> 00:03:46,319
+the geometry like this
+
+123
+00:03:46,319 --> 00:03:47,760
+so we'll keep this one here maybe we'll
+
+124
+00:03:47,760 --> 00:03:50,080
+put ctrl r loop cut here
+
+125
+00:03:50,080 --> 00:03:52,319
+select this one on edge select a little
+
+126
+00:03:52,319 --> 00:03:53,680
+maybe
+
+127
+00:03:53,680 --> 00:03:55,840
+anything like that let's put some things
+
+128
+00:03:55,840 --> 00:03:56,959
+here as well shift d
+
+129
+00:03:56,959 --> 00:04:00,239
+first scale it up scale on the y-axis
+
+130
+00:04:00,239 --> 00:04:02,879
+and we'll do similar type of the roof
+
+131
+00:04:02,879 --> 00:04:04,319
+here e to extrude
+
+132
+00:04:04,319 --> 00:04:07,280
+eye to inset heat texture down you can
+
+133
+00:04:07,280 --> 00:04:08,480
+start to colorize this
+
+134
+00:04:08,480 --> 00:04:10,400
+l to select all these linked go for a
+
+135
+00:04:10,400 --> 00:04:12,080
+darker gray maybe even black for the
+
+136
+00:04:12,080 --> 00:04:12,959
+root here
+
+137
+00:04:12,959 --> 00:04:16,000
+or a darker green like this and let's
+
+138
+00:04:16,000 --> 00:04:17,440
+put some features on it as well like
+
+139
+00:04:17,440 --> 00:04:18,160
+chimneys
+
+140
+00:04:18,160 --> 00:04:21,199
+usually on like a like a
+
+141
+00:04:21,199 --> 00:04:23,680
+factory so shifty duplicate s scale on
+
+142
+00:04:23,680 --> 00:04:25,280
+the x-axis
+
+143
+00:04:25,280 --> 00:04:27,520
+scale x-axis again and here i'll just
+
+144
+00:04:27,520 --> 00:04:28,720
+move it into the building
+
+145
+00:04:28,720 --> 00:04:31,199
+and e to extrude it out to here then
+
+146
+00:04:31,199 --> 00:04:33,280
+i'll e to extrude this one out
+
+147
+00:04:33,280 --> 00:04:34,720
+move this one in to get like a little
+
+148
+00:04:34,720 --> 00:04:36,560
+bevel here
+
+149
+00:04:36,560 --> 00:04:39,360
+and let's move this one and here i'll
+
+150
+00:04:39,360 --> 00:04:40,880
+make that chimney and this one i'm going
+
+151
+00:04:40,880 --> 00:04:42,720
+to put in our game we've put like little
+
+152
+00:04:42,720 --> 00:04:43,120
+uh
+
+153
+00:04:43,120 --> 00:04:45,440
+color accents depending if you're like
+
+154
+00:04:45,440 --> 00:04:47,120
+depending if you're blue or red players
+
+155
+00:04:47,120 --> 00:04:48,880
+so let's just do the same here
+
+156
+00:04:48,880 --> 00:04:50,720
+create this one blue and then i'll do
+
+157
+00:04:50,720 --> 00:04:52,400
+shift d to duplicate this one
+
+158
+00:04:52,400 --> 00:04:54,000
+i'm going to put a chimney i'll offset
+
+159
+00:04:54,000 --> 00:04:56,320
+this one a little bit e to extrude it up
+
+160
+00:04:56,320 --> 00:04:59,040
+e to extrude s to scale e to extrude and
+
+161
+00:04:59,040 --> 00:05:01,759
+s to scale it down that's the chimney
+
+162
+00:05:01,759 --> 00:05:05,039
+gemini and we'll make that one gray
+
+163
+00:05:05,039 --> 00:05:07,280
+a little bit lighter maybe and here i
+
+164
+00:05:07,280 --> 00:05:08,160
+turn set
+
+165
+00:05:08,160 --> 00:05:10,320
+and e to extrude down control plus to
+
+166
+00:05:10,320 --> 00:05:11,600
+grow the selection from down there and
+
+167
+00:05:11,600 --> 00:05:13,199
+make that dark this is usually i do
+
+168
+00:05:13,199 --> 00:05:13,919
+cavities
+
+169
+00:05:13,919 --> 00:05:17,360
+inside there so maybe this could be as
+
+170
+00:05:17,360 --> 00:05:18,639
+simple as this because we're going to
+
+171
+00:05:18,639 --> 00:05:20,080
+look at it from a distance
+
+172
+00:05:20,080 --> 00:05:22,000
+so i'll copy this whole thing now shift
+
+173
+00:05:22,000 --> 00:05:24,080
+d to duplicate that chimney put another
+
+174
+00:05:24,080 --> 00:05:25,280
+one here
+
+175
+00:05:25,280 --> 00:05:27,120
+and let's just put the same type of
+
+176
+00:05:27,120 --> 00:05:29,440
+accent here on this side as well shift d
+
+177
+00:05:29,440 --> 00:05:31,520
+as if this was like a side building or
+
+178
+00:05:31,520 --> 00:05:33,120
+something
+
+179
+00:05:33,120 --> 00:05:37,840
+so scale z and e to extrude this one out
+
+180
+00:05:37,840 --> 00:05:40,560
+maybe we'll go in a little bit over the
+
+181
+00:05:40,560 --> 00:05:44,240
+building itself here and ctrl r to loop
+
+182
+00:05:44,240 --> 00:05:44,880
+cut it
+
+183
+00:05:44,880 --> 00:05:47,680
+and move this one in and l to select it
+
+184
+00:05:47,680 --> 00:05:50,240
+and here's the nice thing now with the
+
+185
+00:05:50,240 --> 00:05:52,720
+pallets because i can go for the same
+
+186
+00:05:52,720 --> 00:05:54,080
+blue and in fact i'm gonna go for the
+
+187
+00:05:54,080 --> 00:05:54,720
+same blue
+
+188
+00:05:54,720 --> 00:05:57,520
+so i don't lie let's put two accents
+
+189
+00:05:57,520 --> 00:05:59,199
+here
+
+190
+00:05:59,199 --> 00:06:01,440
+i don't know why i call them accents
+
+191
+00:06:01,440 --> 00:06:02,319
+well
+
+192
+00:06:02,319 --> 00:06:04,000
+like little trims on the side of the
+
+193
+00:06:04,000 --> 00:06:06,160
+building there we go and
+
+194
+00:06:06,160 --> 00:06:09,039
+here inside we'll do it dark so alt
+
+195
+00:06:09,039 --> 00:06:10,720
+shift select there shift like that one
+
+196
+00:06:10,720 --> 00:06:11,120
+and
+
+197
+00:06:11,120 --> 00:06:14,319
+again simulate that it's a hole there
+
+198
+00:06:14,319 --> 00:06:16,880
+and here shift the let's put some
+
+199
+00:06:16,880 --> 00:06:18,479
+accessories here as well we've got six
+
+200
+00:06:18,479 --> 00:06:20,400
+minutes on the clock there scale
+
+201
+00:06:20,400 --> 00:06:23,520
+said i'll just e to extrude this one
+
+202
+00:06:23,520 --> 00:06:25,440
+and let's pretend there's like some i
+
+203
+00:06:25,440 --> 00:06:27,680
+don't know maybe it's like some
+
+204
+00:06:27,680 --> 00:06:29,600
+i don't think they have air conditioning
+
+205
+00:06:29,600 --> 00:06:32,560
+here but shifty duplicate
+
+206
+00:06:32,560 --> 00:06:34,080
+this could be like some sort of a pipe
+
+207
+00:06:34,080 --> 00:06:35,680
+that goes up help
+
+208
+00:06:35,680 --> 00:06:39,120
+selecting there and
+
+209
+00:06:39,120 --> 00:06:40,800
+should we do like a ramp here need to
+
+210
+00:06:40,800 --> 00:06:42,160
+extrude that on
+
+211
+00:06:42,160 --> 00:06:44,160
+i need to extrude that one down and
+
+212
+00:06:44,160 --> 00:06:45,680
+maybe the base plate here could be a bit
+
+213
+00:06:45,680 --> 00:06:48,479
+darker as well
+
+214
+00:06:48,479 --> 00:06:52,160
+and here we could do maybe i'll do ctrl
+
+215
+00:06:52,160 --> 00:06:55,520
+r loop cut ctrl r loop cut we can add a
+
+216
+00:06:55,520 --> 00:06:57,440
+little bit more geometry now
+
+217
+00:06:57,440 --> 00:07:01,039
+and here here is one thing i want to
+
+218
+00:07:01,039 --> 00:07:02,080
+make these smaller so
+
+219
+00:07:02,080 --> 00:07:05,919
+scale y just compress them into there
+
+220
+00:07:05,919 --> 00:07:09,919
+ctrl r and here we'll do like
+
+221
+00:07:09,919 --> 00:07:12,080
+could be like windows or something so i
+
+222
+00:07:12,080 --> 00:07:13,680
+to inset
+
+223
+00:07:13,680 --> 00:07:15,680
+all d to extrude long phase normals
+
+224
+00:07:15,680 --> 00:07:17,520
+inwards
+
+225
+00:07:17,520 --> 00:07:20,160
+and it creates a little bit of a strange
+
+226
+00:07:20,160 --> 00:07:21,919
+thing here we can actually fix that one
+
+227
+00:07:21,919 --> 00:07:24,720
+switch this one to vertex hold the
+
+228
+00:07:24,720 --> 00:07:25,599
+control
+
+229
+00:07:25,599 --> 00:07:29,120
+key as you move this line and snap it to
+
+230
+00:07:29,120 --> 00:07:31,360
+that vertex and then do the same thing
+
+231
+00:07:31,360 --> 00:07:33,759
+here move it and snap to that vertex
+
+232
+00:07:33,759 --> 00:07:35,120
+maybe there's a better way to do this
+
+233
+00:07:35,120 --> 00:07:37,680
+but you can snap it to the axis of the
+
+234
+00:07:37,680 --> 00:07:39,280
+different vertices there
+
+235
+00:07:39,280 --> 00:07:42,400
+shifts like these and control plus let's
+
+236
+00:07:42,400 --> 00:07:45,520
+just make this slightly darker
+
+237
+00:07:45,520 --> 00:07:48,479
+there ctrl minus and then do black there
+
+238
+00:07:48,479 --> 00:07:49,440
+maybe
+
+239
+00:07:49,440 --> 00:07:51,199
+so that could be and then here i want to
+
+240
+00:07:51,199 --> 00:07:52,639
+have some feature as well ctrl
+
+241
+00:07:52,639 --> 00:07:55,440
+r to cut alt shift select that one for
+
+242
+00:07:55,440 --> 00:07:56,160
+edge select
+
+243
+00:07:56,160 --> 00:07:59,280
+all the extrude long face normals and i
+
+244
+00:07:59,280 --> 00:08:00,479
+also want to do something with this
+
+245
+00:08:00,479 --> 00:08:01,680
+corner here so 4
+
+246
+00:08:01,680 --> 00:08:04,720
+26 on the clock let's do some corner
+
+247
+00:08:04,720 --> 00:08:06,000
+stuff here
+
+248
+00:08:06,000 --> 00:08:08,879
+pick this one shift d duplicate e to
+
+249
+00:08:08,879 --> 00:08:09,840
+extrude
+
+250
+00:08:09,840 --> 00:08:12,879
+l to select the linked
+
+251
+00:08:12,879 --> 00:08:15,360
+and bring it down to there and these are
+
+252
+00:08:15,360 --> 00:08:16,160
+just going to be like
+
+253
+00:08:16,160 --> 00:08:19,199
+corner trims so we l to select linked
+
+254
+00:08:19,199 --> 00:08:20,319
+and we'll make them
+
+255
+00:08:20,319 --> 00:08:24,560
+darker as well and
+
+256
+00:08:24,560 --> 00:08:27,120
+l to select the linked let's manually
+
+257
+00:08:27,120 --> 00:08:28,960
+put this roughly on all corners here
+
+258
+00:08:28,960 --> 00:08:31,520
+shift d these will have to be taller i
+
+259
+00:08:31,520 --> 00:08:34,000
+suppose
+
+260
+00:08:34,880 --> 00:08:37,760
+so let's move that on into there and up
+
+261
+00:08:37,760 --> 00:08:39,440
+to there
+
+262
+00:08:39,440 --> 00:08:42,640
+and l to select those links shift the
+
+263
+00:08:42,640 --> 00:08:45,600
+duplicator shift d to duplicate that and
+
+264
+00:08:45,600 --> 00:08:46,480
+this one
+
+265
+00:08:46,480 --> 00:08:47,839
+obviously we can't put it all the way
+
+266
+00:08:47,839 --> 00:08:49,360
+over there but we'll stick one here on
+
+267
+00:08:49,360 --> 00:08:50,959
+this corner
+
+268
+00:08:50,959 --> 00:08:54,880
+go in a bit under the roof
+
+269
+00:08:54,880 --> 00:08:58,399
+and out a bit
+
+270
+00:08:58,399 --> 00:09:00,720
+to there and then shift the maybe we'll
+
+271
+00:09:00,720 --> 00:09:02,560
+just put one at the bottom or maybe we
+
+272
+00:09:02,560 --> 00:09:04,000
+can even leave it like that that
+
+273
+00:09:04,000 --> 00:09:07,360
+pretty cool i guess a little corner beam
+
+274
+00:09:07,360 --> 00:09:07,680
+there
+
+275
+00:09:07,680 --> 00:09:10,800
+we could keep it like that uh maybe
+
+276
+00:09:10,800 --> 00:09:12,000
+we'll do something with the roof a lot
+
+277
+00:09:12,000 --> 00:09:14,000
+of maybes here so maybe shift d
+
+278
+00:09:14,000 --> 00:09:17,040
+to duplicate it s to scale it up bro
+
+279
+00:09:17,040 --> 00:09:18,959
+bring it down all the extrude long face
+
+280
+00:09:18,959 --> 00:09:20,640
+normals this is an old school
+
+281
+00:09:20,640 --> 00:09:23,920
+roof on a modern building
+
+282
+00:09:23,920 --> 00:09:28,320
+dark and could do
+
+283
+00:09:28,320 --> 00:09:30,800
+or really do anything fancy here i think
+
+284
+00:09:30,800 --> 00:09:32,560
+but here we'll put
+
+285
+00:09:32,560 --> 00:09:36,000
+like solar panel style things so
+
+286
+00:09:36,000 --> 00:09:38,800
+e to extrude that one bring this one
+
+287
+00:09:38,800 --> 00:09:40,480
+down
+
+288
+00:09:40,480 --> 00:09:43,760
+ctrl r let's loop cut it maybe just m
+
+289
+00:09:43,760 --> 00:09:44,320
+times
+
+290
+00:09:44,320 --> 00:09:46,480
+i to insert item set again to get the
+
+291
+00:09:46,480 --> 00:09:48,320
+individual and then just do them pitch
+
+292
+00:09:48,320 --> 00:09:50,160
+black there
+
+293
+00:09:50,160 --> 00:09:52,240
+and i think i'll do this whole thing
+
+294
+00:09:52,240 --> 00:09:53,680
+brighter so
+
+295
+00:09:53,680 --> 00:09:56,800
+for some contrast even brighter maybe
+
+296
+00:09:56,800 --> 00:10:00,240
+l there we go l to select the link to
+
+297
+00:10:00,240 --> 00:10:00,800
+shift the
+
+298
+00:10:00,800 --> 00:10:04,000
+duplicator and there's another part of
+
+299
+00:10:04,000 --> 00:10:05,360
+the structure there
+
+300
+00:10:05,360 --> 00:10:07,200
+and another thing that i like to put on
+
+301
+00:10:07,200 --> 00:10:08,720
+the top of the buildings usually is just
+
+302
+00:10:08,720 --> 00:10:09,200
+some
+
+303
+00:10:09,200 --> 00:10:12,000
+small little really simple objects here
+
+304
+00:10:12,000 --> 00:10:12,399
+so
+
+305
+00:10:12,399 --> 00:10:15,519
+simple squares here eat extrude
+
+306
+00:10:15,519 --> 00:10:17,360
+out select links go a little bit
+
+307
+00:10:17,360 --> 00:10:19,839
+brighter
+
+308
+00:10:20,320 --> 00:10:22,560
+and shift d to duplicate that one and
+
+309
+00:10:22,560 --> 00:10:24,079
+we've got two minutes on the clock so we
+
+310
+00:10:24,079 --> 00:10:25,680
+can just keep working here
+
+311
+00:10:25,680 --> 00:10:28,399
+let's put a little fake ground here
+
+312
+00:10:28,399 --> 00:10:30,560
+shift d to duplicate this one
+
+313
+00:10:30,560 --> 00:10:33,440
+s to scale it up and now i think i want
+
+314
+00:10:33,440 --> 00:10:34,399
+to
+
+315
+00:10:34,399 --> 00:10:38,000
+bring it down slightly there we go
+
+316
+00:10:38,000 --> 00:10:39,839
+and we'll color right this should we do
+
+317
+00:10:39,839 --> 00:10:41,440
+green just to simulate that it was on a
+
+318
+00:10:41,440 --> 00:10:42,240
+green
+
+319
+00:10:42,240 --> 00:10:44,640
+plot of land or should we go brown no
+
+320
+00:10:44,640 --> 00:10:45,600
+green that is
+
+321
+00:10:45,600 --> 00:10:48,720
+but brighter green maybe
+
+322
+00:10:50,079 --> 00:10:52,240
+and now you can if you've got the time
+
+323
+00:10:52,240 --> 00:10:53,760
+now which we do we can add a little bit
+
+324
+00:10:53,760 --> 00:10:54,560
+more detail
+
+325
+00:10:54,560 --> 00:10:57,440
+let's slant that one maybe and to make a
+
+326
+00:10:57,440 --> 00:10:58,560
+consistence
+
+327
+00:10:58,560 --> 00:11:00,240
+i'll delete these instead of just trying
+
+328
+00:11:00,240 --> 00:11:02,000
+to do the same thing i can do the same
+
+329
+00:11:02,000 --> 00:11:03,519
+on this one maybe
+
+330
+00:11:03,519 --> 00:11:08,000
+slant this one and we've got 127 so
+
+331
+00:11:08,000 --> 00:11:09,600
+l to select the link i'll select the
+
+332
+00:11:09,600 --> 00:11:13,040
+link shift d to duplicate that
+
+333
+00:11:13,040 --> 00:11:15,600
+and here as well we've got some time so
+
+334
+00:11:15,600 --> 00:11:17,360
+should we do something here
+
+335
+00:11:17,360 --> 00:11:20,160
+i i like to keep the primitive style but
+
+336
+00:11:20,160 --> 00:11:20,800
+maybe there's
+
+337
+00:11:20,800 --> 00:11:23,279
+something lacking in here we can tilt
+
+338
+00:11:23,279 --> 00:11:26,480
+this slope a little bit
+
+339
+00:11:26,720 --> 00:11:28,240
+make a little bit more interesting and i
+
+340
+00:11:28,240 --> 00:11:30,000
+think it's lacking something in here so
+
+341
+00:11:30,000 --> 00:11:31,360
+i'll also do
+
+342
+00:11:31,360 --> 00:11:34,399
+uh shifty duplicate the face
+
+343
+00:11:34,399 --> 00:11:36,480
+move it into there just looked a little
+
+344
+00:11:36,480 --> 00:11:38,000
+bit empty here
+
+345
+00:11:38,000 --> 00:11:41,279
+so e to extrude it
+
+346
+00:11:41,279 --> 00:11:43,279
+and again i'm working with a separate
+
+347
+00:11:43,279 --> 00:11:46,079
+piece of the geometry here
+
+348
+00:11:46,079 --> 00:11:49,519
+and that should be okay control r
+
+349
+00:11:49,519 --> 00:11:53,920
+control r let's move this one into
+
+350
+00:11:53,920 --> 00:11:56,000
+just a bit a little bit more interesting
+
+351
+00:11:56,000 --> 00:11:57,279
+there maybe
+
+352
+00:11:57,279 --> 00:11:59,040
+we don't have any doors or entries
+
+353
+00:11:59,040 --> 00:12:01,920
+that's not really needed either
+
+354
+00:12:01,920 --> 00:12:03,440
+and we'll put one more object here i've
+
+355
+00:12:03,440 --> 00:12:06,959
+got 24 seconds we can just put some
+
+356
+00:12:06,959 --> 00:12:09,200
+a little bit more trimmings again super
+
+357
+00:12:09,200 --> 00:12:10,880
+primitive objects here
+
+358
+00:12:10,880 --> 00:12:12,160
+we'll see from a distance when we're
+
+359
+00:12:12,160 --> 00:12:13,440
+done now that it should look pretty good
+
+360
+00:12:13,440 --> 00:12:15,519
+i think
+
+361
+00:12:15,519 --> 00:12:17,600
+you might not think so but from a
+
+362
+00:12:17,600 --> 00:12:19,279
+distance it will look good
+
+363
+00:12:19,279 --> 00:12:22,720
+maybe or good enough at least
+
+364
+00:12:22,720 --> 00:12:25,920
+five seconds to go and
+
+365
+00:12:25,920 --> 00:12:27,680
+a bit empty there maybe but i think
+
+366
+00:12:27,680 --> 00:12:29,200
+we're okay
+
+367
+00:12:29,200 --> 00:12:32,240
+that's it time's up
+
+368
+00:12:32,240 --> 00:12:34,320
+and we've made these type of buildings
+
+369
+00:12:34,320 --> 00:12:36,000
+for the rts game and as they are
+
+370
+00:12:36,000 --> 00:12:37,120
+constructed
+
+371
+00:12:37,120 --> 00:12:39,279
+i've created a little animation for them
+
+372
+00:12:39,279 --> 00:12:41,200
+and part of the animation is that the
+
+373
+00:12:41,200 --> 00:12:42,959
+different parts of the buildings
+
+374
+00:12:42,959 --> 00:12:45,120
+sort of appear from the ground and it's
+
+375
+00:12:45,120 --> 00:12:47,360
+also creating like a scaffolding around
+
+376
+00:12:47,360 --> 00:12:48,240
+the building and
+
+377
+00:12:48,240 --> 00:12:50,480
+it's got an arm that moves around like a
+
+378
+00:12:50,480 --> 00:12:51,519
+robotic arm that
+
+379
+00:12:51,519 --> 00:12:53,600
+puts some weld sparks and i'll just show
+
+380
+00:12:53,600 --> 00:12:55,279
+a little part of how you can animate
+
+381
+00:12:55,279 --> 00:12:57,600
+something like that inside of blender
+
+382
+00:12:57,600 --> 00:12:59,279
+and one way to do it if we go to the
+
+383
+00:12:59,279 --> 00:13:01,519
+animation tab let's get the
+
+384
+00:13:01,519 --> 00:13:03,680
+look and feel here the same way shadow
+
+385
+00:13:03,680 --> 00:13:04,560
+cavity
+
+386
+00:13:04,560 --> 00:13:06,320
+you don't know what the cavity settings
+
+387
+00:13:06,320 --> 00:13:07,760
+is it's what makes this
+
+388
+00:13:07,760 --> 00:13:10,480
+little shiny edges and stuff here we'll
+
+389
+00:13:10,480 --> 00:13:11,279
+put those on
+
+390
+00:13:11,279 --> 00:13:13,519
+i usually have that when i model and now
+
+391
+00:13:13,519 --> 00:13:15,120
+that we've got that one way to do it it
+
+392
+00:13:15,120 --> 00:13:16,959
+would be to set let's set the timeline
+
+393
+00:13:16,959 --> 00:13:20,000
+to maybe like 90 frames or something
+
+394
+00:13:20,000 --> 00:13:22,560
+and we've got everything is just in one
+
+395
+00:13:22,560 --> 00:13:23,839
+object so the first thing we need to do
+
+396
+00:13:23,839 --> 00:13:24,720
+is separate it
+
+397
+00:13:24,720 --> 00:13:26,959
+so i'll select the ground here p and
+
+398
+00:13:26,959 --> 00:13:28,000
+separate that
+
+399
+00:13:28,000 --> 00:13:30,639
+let's rename that to ground and then
+
+400
+00:13:30,639 --> 00:13:31,519
+let's call this one
+
+401
+00:13:31,519 --> 00:13:35,600
+factory and now i need to
+
+402
+00:13:35,600 --> 00:13:38,720
+select everything and do p and do by
+
+403
+00:13:38,720 --> 00:13:40,639
+loose parts and now it's created all of
+
+404
+00:13:40,639 --> 00:13:42,480
+these are separate objects now
+
+405
+00:13:42,480 --> 00:13:44,800
+so one way there's the camera so one way
+
+406
+00:13:44,800 --> 00:13:45,760
+to do it
+
+407
+00:13:45,760 --> 00:13:47,920
+is to animate the different objects like
+
+408
+00:13:47,920 --> 00:13:49,519
+this and there's some
+
+409
+00:13:49,519 --> 00:13:51,519
+maybe it's one easy way to do it but
+
+410
+00:13:51,519 --> 00:13:52,880
+it's got some drawbacks but i'll show
+
+411
+00:13:52,880 --> 00:13:53,920
+you anyway
+
+412
+00:13:53,920 --> 00:13:56,000
+you could select all the objects here's
+
+413
+00:13:56,000 --> 00:13:56,959
+a little tip as well
+
+414
+00:13:56,959 --> 00:13:58,720
+if you don't want to accidentally select
+
+415
+00:13:58,720 --> 00:14:00,079
+the ground here all the time you can go
+
+416
+00:14:00,079 --> 00:14:01,120
+to this little filter
+
+417
+00:14:01,120 --> 00:14:04,560
+and enable this selectable and then for
+
+418
+00:14:04,560 --> 00:14:06,160
+the ground here we can untick this
+
+419
+00:14:06,160 --> 00:14:06,480
+little
+
+420
+00:14:06,480 --> 00:14:08,079
+now it's impossible to select this
+
+421
+00:14:08,079 --> 00:14:09,600
+unless you switch that one back on and
+
+422
+00:14:09,600 --> 00:14:11,440
+it even works if you press a to select
+
+423
+00:14:11,440 --> 00:14:12,720
+everything it excludes
+
+424
+00:14:12,720 --> 00:14:14,959
+that one it's not possible to select it
+
+425
+00:14:14,959 --> 00:14:16,079
+intentionally or by
+
+426
+00:14:16,079 --> 00:14:18,000
+mistake so with all these objects now
+
+427
+00:14:18,000 --> 00:14:20,160
+let's press a to select all of them
+
+428
+00:14:20,160 --> 00:14:22,079
+and then i'm going to put on automatic
+
+429
+00:14:22,079 --> 00:14:23,600
+keyframing here and i'm going to go to
+
+430
+00:14:23,600 --> 00:14:24,240
+the
+
+431
+00:14:24,240 --> 00:14:26,000
+let's see we'll go to the first frame
+
+432
+00:14:26,000 --> 00:14:27,600
+here i'm going to
+
+433
+00:14:27,600 --> 00:14:29,519
+do shift space and g and then i'm going
+
+434
+00:14:29,519 --> 00:14:31,360
+to move these down here
+
+435
+00:14:31,360 --> 00:14:33,680
+and that creates a state now for all of
+
+436
+00:14:33,680 --> 00:14:36,000
+these to be animated outside of view
+
+437
+00:14:36,000 --> 00:14:39,040
+and then we'll go to frame 90 here and
+
+438
+00:14:39,040 --> 00:14:39,760
+i'll do alt
+
+439
+00:14:39,760 --> 00:14:42,560
+g and alt g brings the box to brings it
+
+440
+00:14:42,560 --> 00:14:44,560
+back to the default location
+
+441
+00:14:44,560 --> 00:14:46,959
+so if we were to play this one now it'll
+
+442
+00:14:46,959 --> 00:14:48,639
+just slide the whole building up and
+
+443
+00:14:48,639 --> 00:14:50,240
+that's not really what we want we want a
+
+444
+00:14:50,240 --> 00:14:52,399
+little bit more modular
+
+445
+00:14:52,399 --> 00:14:54,160
+so one way to do that would be to go to
+
+446
+00:14:54,160 --> 00:14:56,320
+frame five for example
+
+447
+00:14:56,320 --> 00:14:58,399
+let's do alt z so we see through and
+
+448
+00:14:58,399 --> 00:15:00,000
+then we'll take this base plate down
+
+449
+00:15:00,000 --> 00:15:00,720
+here
+
+450
+00:15:00,720 --> 00:15:03,199
+and on frame five with automatic
+
+451
+00:15:03,199 --> 00:15:04,959
+keyframing i'm gonna go alt
+
+452
+00:15:04,959 --> 00:15:06,880
+g and that brings that back to the
+
+453
+00:15:06,880 --> 00:15:08,959
+proper location for this one
+
+454
+00:15:08,959 --> 00:15:11,279
+and if we were to press play now that
+
+455
+00:15:11,279 --> 00:15:12,079
+one will animate
+
+456
+00:15:12,079 --> 00:15:15,440
+up from zero or from one here to five
+
+457
+00:15:15,440 --> 00:15:16,720
+really quick
+
+458
+00:15:16,720 --> 00:15:18,320
+and then you could animate up the next
+
+459
+00:15:18,320 --> 00:15:20,399
+one so with the old set to see through
+
+460
+00:15:20,399 --> 00:15:21,120
+and let's put
+
+461
+00:15:21,120 --> 00:15:23,680
+this part to the building of frame ten
+
+462
+00:15:23,680 --> 00:15:24,560
+i'll do all g
+
+463
+00:15:24,560 --> 00:15:26,560
+on that one and that will bring it up to
+
+464
+00:15:26,560 --> 00:15:28,399
+here and if we press play now
+
+465
+00:15:28,399 --> 00:15:31,600
+old said to disable c3 we see that they
+
+466
+00:15:31,600 --> 00:15:32,079
+too
+
+467
+00:15:32,079 --> 00:15:34,240
+they're just popping up like this now
+
+468
+00:15:34,240 --> 00:15:35,519
+and what you could do to make it a
+
+469
+00:15:35,519 --> 00:15:36,959
+little bit more interesting
+
+470
+00:15:36,959 --> 00:15:38,720
+if we first of all i think i'll move
+
+471
+00:15:38,720 --> 00:15:40,000
+this keyframe a little bit further
+
+472
+00:15:40,000 --> 00:15:41,759
+in so we'll go frame 10 for that one
+
+473
+00:15:41,759 --> 00:15:43,199
+just to show you how it works
+
+474
+00:15:43,199 --> 00:15:45,759
+and this one will move to frame 20.
+
+475
+00:15:45,759 --> 00:15:47,920
+let's play that one again
+
+476
+00:15:47,920 --> 00:15:50,240
+and here what you could do then is
+
+477
+00:15:50,240 --> 00:15:51,839
+you'll see that both of them start
+
+478
+00:15:51,839 --> 00:15:52,560
+moving at this
+
+479
+00:15:52,560 --> 00:15:54,000
+point it's a bit difficult to see but
+
+480
+00:15:54,000 --> 00:15:55,759
+both of them start moving at the same
+
+481
+00:15:55,759 --> 00:15:56,320
+time
+
+482
+00:15:56,320 --> 00:15:57,920
+and if you want them to appear at the
+
+483
+00:15:57,920 --> 00:15:59,839
+same rate that's uh
+
+484
+00:15:59,839 --> 00:16:02,240
+not so ideal one way to do it is just to
+
+485
+00:16:02,240 --> 00:16:03,440
+move this keyframe
+
+486
+00:16:03,440 --> 00:16:06,160
+g to frame 10 here for this particular
+
+487
+00:16:06,160 --> 00:16:06,720
+building
+
+488
+00:16:06,720 --> 00:16:08,639
+now that one won't slide up until it
+
+489
+00:16:08,639 --> 00:16:11,279
+starts here from frame 10.
+
+490
+00:16:11,279 --> 00:16:14,000
+so let's press play we'll see appear up
+
+491
+00:16:14,000 --> 00:16:15,040
+here
+
+492
+00:16:15,040 --> 00:16:17,519
+and another thing i do to exaggerate a
+
+493
+00:16:17,519 --> 00:16:18,880
+little bit one of the
+
+494
+00:16:18,880 --> 00:16:20,560
+principles of animations is that you
+
+495
+00:16:20,560 --> 00:16:22,000
+should exaggerate
+
+496
+00:16:22,000 --> 00:16:24,399
+and uh one thing that i like to do then
+
+497
+00:16:24,399 --> 00:16:25,040
+is
+
+498
+00:16:25,040 --> 00:16:27,600
+on frame eight for example here we'll do
+
+499
+00:16:27,600 --> 00:16:29,040
+outside again to see through i should
+
+500
+00:16:29,040 --> 00:16:30,240
+actually put on the
+
+501
+00:16:30,240 --> 00:16:34,240
+screencast keys here so on frame eight
+
+502
+00:16:34,240 --> 00:16:35,680
+i'm gonna do alt g again
+
+503
+00:16:35,680 --> 00:16:38,639
+and i'm going to move it above above a
+
+504
+00:16:38,639 --> 00:16:40,079
+little bit like this
+
+505
+00:16:40,079 --> 00:16:42,079
+and same thing for this second building
+
+506
+00:16:42,079 --> 00:16:43,680
+we'll go to frame
+
+507
+00:16:43,680 --> 00:16:45,519
+so two two frames before that one's
+
+508
+00:16:45,519 --> 00:16:46,720
+finished alt g
+
+509
+00:16:46,720 --> 00:16:48,720
+and move it a little bit too high and
+
+510
+00:16:48,720 --> 00:16:50,079
+then back down
+
+511
+00:16:50,079 --> 00:16:51,680
+so now it does like a little dent like
+
+512
+00:16:51,680 --> 00:16:53,279
+this up and down
+
+513
+00:16:53,279 --> 00:16:57,199
+and if we play this back it'll go up up
+
+514
+00:16:57,199 --> 00:16:58,639
+and then you just keep doing this for
+
+515
+00:16:58,639 --> 00:17:02,240
+all the objects all said
+
+516
+00:17:02,320 --> 00:17:03,519
+we could bring this one up next for
+
+517
+00:17:03,519 --> 00:17:05,520
+example and remember now that we want to
+
+518
+00:17:05,520 --> 00:17:06,319
+move this
+
+519
+00:17:06,319 --> 00:17:08,720
+keyframe the start keyframe to frame 20
+
+520
+00:17:08,720 --> 00:17:10,400
+so it starts at the same base otherwise
+
+521
+00:17:10,400 --> 00:17:10,880
+they'll
+
+522
+00:17:10,880 --> 00:17:13,839
+gradually change their pacing so from
+
+523
+00:17:13,839 --> 00:17:14,240
+frame
+
+524
+00:17:14,240 --> 00:17:18,079
+20 here we'll go to frame 30 alt g
+
+525
+00:17:18,079 --> 00:17:20,959
+and then i'll go back two steps alt g
+
+526
+00:17:20,959 --> 00:17:21,360
+again
+
+527
+00:17:21,360 --> 00:17:23,600
+and move it a little bit too high and
+
+528
+00:17:23,600 --> 00:17:25,039
+then we should really repeat that for
+
+529
+00:17:25,039 --> 00:17:26,400
+all the objects but this is what the
+
+530
+00:17:26,400 --> 00:17:28,160
+animation would look like
+
+531
+00:17:28,160 --> 00:17:31,600
+it starts to modularly build the object
+
+532
+00:17:31,600 --> 00:17:33,440
+one of the downsides to doing this when
+
+533
+00:17:33,440 --> 00:17:35,280
+you're constructing a factory like this
+
+534
+00:17:35,280 --> 00:17:36,160
+or a structure
+
+535
+00:17:36,160 --> 00:17:38,080
+is that you'll end up with a whole bunch
+
+536
+00:17:38,080 --> 00:17:39,520
+of different actions
+
+537
+00:17:39,520 --> 00:17:41,200
+spread out over all the different
+
+538
+00:17:41,200 --> 00:17:43,280
+objects so
+
+539
+00:17:43,280 --> 00:17:45,039
+if you're going to animate it inside a
+
+540
+00:17:45,039 --> 00:17:47,200
+blender i would instead recommend that
+
+541
+00:17:47,200 --> 00:17:47,840
+you keep
+
+542
+00:17:47,840 --> 00:17:49,520
+everything here as one object like we
+
+543
+00:17:49,520 --> 00:17:51,520
+did before and then you create an
+
+544
+00:17:51,520 --> 00:17:53,120
+r mature instead like we've done with a
+
+545
+00:17:53,120 --> 00:17:55,039
+lot of the characters and then you do
+
+546
+00:17:55,039 --> 00:17:56,240
+detached bones
+
+547
+00:17:56,240 --> 00:17:57,840
+in the side of the different building
+
+548
+00:17:57,840 --> 00:18:00,240
+parts and you map the building parts to
+
+549
+00:18:00,240 --> 00:18:01,360
+those bones
+
+550
+00:18:01,360 --> 00:18:03,600
+and then you animate those up and the
+
+551
+00:18:03,600 --> 00:18:05,120
+same way as you did with this one but
+
+552
+00:18:05,120 --> 00:18:06,720
+the benefit then is that everything is
+
+553
+00:18:06,720 --> 00:18:08,640
+going to be inside of one action
+
+554
+00:18:08,640 --> 00:18:10,400
+and it's going to be one object so it's
+
+555
+00:18:10,400 --> 00:18:11,919
+a much simpler thing if you want to keep
+
+556
+00:18:11,919 --> 00:18:13,760
+it inside of unity
+
+557
+00:18:13,760 --> 00:18:15,760
+inside of blender i said unity inside of
+
+558
+00:18:15,760 --> 00:18:18,080
+blender blender blender
+
+559
+00:18:18,080 --> 00:18:20,000
+so the difference though is if you're
+
+560
+00:18:20,000 --> 00:18:21,679
+going to bring that into unity i don't
+
+561
+00:18:21,679 --> 00:18:23,520
+recommend using the armature method
+
+562
+00:18:23,520 --> 00:18:26,720
+because if you're going to use bones in
+
+563
+00:18:26,720 --> 00:18:29,440
+unity it's going to be using the skinned
+
+564
+00:18:29,440 --> 00:18:30,720
+mesh renderer and
+
+565
+00:18:30,720 --> 00:18:33,200
+that's a quite performance intensive and
+
+566
+00:18:33,200 --> 00:18:34,160
+you don't really want to waste
+
+567
+00:18:34,160 --> 00:18:35,760
+performance on on that one
+
+568
+00:18:35,760 --> 00:18:37,600
+to have the bones affect the different
+
+569
+00:18:37,600 --> 00:18:39,760
+building parts so what i've done in our
+
+570
+00:18:39,760 --> 00:18:40,559
+game is
+
+571
+00:18:40,559 --> 00:18:42,400
+that i've actually exported it as
+
+572
+00:18:42,400 --> 00:18:43,919
+separate objects
+
+573
+00:18:43,919 --> 00:18:46,960
+into one fbx file and then i animated
+
+574
+00:18:46,960 --> 00:18:48,799
+the same type of appearance here but i
+
+575
+00:18:48,799 --> 00:18:51,039
+used the unity animator instead i did
+
+576
+00:18:51,039 --> 00:18:53,039
+all the animations inside of unity
+
+577
+00:18:53,039 --> 00:18:55,039
+so it has a very similar type of a
+
+578
+00:18:55,039 --> 00:18:56,080
+timeline with a
+
+579
+00:18:56,080 --> 00:18:58,400
+dope sheet style where you can create
+
+580
+00:18:58,400 --> 00:19:00,160
+keyframes and you keyframe the
+
+581
+00:19:00,160 --> 00:19:03,200
+xyz position inside of unity so i
+
+582
+00:19:03,200 --> 00:19:04,080
+animated them
+
+583
+00:19:04,080 --> 00:19:06,559
+inside there as unity animations and i
+
+584
+00:19:06,559 --> 00:19:07,440
+kept the objects
+
+585
+00:19:07,440 --> 00:19:10,160
+separate as we have here so i think that
+
+586
+00:19:10,160 --> 00:19:10,720
+one's
+
+587
+00:19:10,720 --> 00:19:12,799
+more performant and if you don't mind
+
+588
+00:19:12,799 --> 00:19:15,039
+animating it inside of unity i prefer
+
+589
+00:19:15,039 --> 00:19:16,720
+that method a little bit quicker video
+
+590
+00:19:16,720 --> 00:19:17,600
+this week isn't it
+
+591
+00:19:17,600 --> 00:19:19,919
+so uh not too much bonus material but a
+
+592
+00:19:19,919 --> 00:19:21,679
+little see-through a little hint into
+
+593
+00:19:21,679 --> 00:19:22,720
+the game development
+
+594
+00:19:22,720 --> 00:19:24,799
+that we're making for line war and for
+
+595
+00:19:24,799 --> 00:19:25,840
+the rts game
+
+596
+00:19:25,840 --> 00:19:27,760
+and hopefully gave you a little few tips
+
+597
+00:19:27,760 --> 00:19:28,960
+and tricks to
+
+598
+00:19:28,960 --> 00:19:31,039
+get you along the way to model your own
+
+599
+00:19:31,039 --> 00:19:32,160
+buildings
+
+600
+00:19:32,160 --> 00:19:35,200
+so until next video take care and i'll
+
+601
+00:19:35,200 --> 00:19:36,080
+see you then
+
+602
+00:19:36,080 --> 00:19:39,840
+bye for now
+
+603
+00:19:40,680 --> 00:20:05,360
+[Music]
+
+604
+00:20:05,360 --> 00:20:07,440
+you

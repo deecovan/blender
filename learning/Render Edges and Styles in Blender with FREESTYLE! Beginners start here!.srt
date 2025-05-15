@@ -1,0 +1,1831 @@
+1
+00:00:00,480 --> 00:00:03,160
+what's up guys justin here with the
+
+2
+00:00:03,160 --> 00:00:04,880
+cgessentials.com back with another
+
+3
+00:00:04,880 --> 00:00:07,040
+blender rendering tutorial for you
+
+4
+00:00:07,040 --> 00:00:08,720
+so in today's video we're going to check
+
+5
+00:00:08,720 --> 00:00:10,880
+out how to use freestyle in order to
+
+6
+00:00:10,880 --> 00:00:11,920
+render out the
+
+7
+00:00:11,920 --> 00:00:14,480
+edges so they actually show up inside
+
+8
+00:00:14,480 --> 00:00:15,360
+your renders
+
+9
+00:00:15,360 --> 00:00:16,880
+in blender so let's go ahead and get
+
+10
+00:00:16,880 --> 00:00:18,640
+started alright so i will link to the
+
+11
+00:00:18,640 --> 00:00:20,560
+information about freestyle
+
+12
+00:00:20,560 --> 00:00:23,039
+in the blender documentation so that you
+
+13
+00:00:23,039 --> 00:00:24,640
+can check that out and take a look but
+
+14
+00:00:24,640 --> 00:00:25,920
+in this video we're going to
+
+15
+00:00:25,920 --> 00:00:28,720
+start by looking at how to render out
+
+16
+00:00:28,720 --> 00:00:29,679
+our image
+
+17
+00:00:29,679 --> 00:00:32,800
+with different line styles so
+
+18
+00:00:32,800 --> 00:00:34,719
+first things first if we were to render
+
+19
+00:00:34,719 --> 00:00:36,880
+this right now so if we just render the
+
+20
+00:00:36,880 --> 00:00:38,320
+image it's going to look something like
+
+21
+00:00:38,320 --> 00:00:38,960
+this
+
+22
+00:00:38,960 --> 00:00:41,360
+right so depending on if you have ev
+
+23
+00:00:41,360 --> 00:00:43,200
+activated or cycles you might get some
+
+24
+00:00:43,200 --> 00:00:44,559
+shadows in here
+
+25
+00:00:44,559 --> 00:00:47,120
+but you can see how right now um this is
+
+26
+00:00:47,120 --> 00:00:48,879
+a very kind of blocky shape
+
+27
+00:00:48,879 --> 00:00:51,039
+with not a lot of definition what we
+
+28
+00:00:51,039 --> 00:00:52,239
+might want to do is we might want to
+
+29
+00:00:52,239 --> 00:00:53,760
+come in here and render this out
+
+30
+00:00:53,760 --> 00:00:56,559
+so that the edges actually show up as
+
+31
+00:00:56,559 --> 00:00:57,199
+lines
+
+32
+00:00:57,199 --> 00:00:58,879
+in our rendering and so the way that
+
+33
+00:00:58,879 --> 00:01:00,719
+we're going to do that is we're going to
+
+34
+00:01:00,719 --> 00:01:01,440
+jump over
+
+35
+00:01:01,440 --> 00:01:04,400
+into our let's see we're going to jump
+
+36
+00:01:04,400 --> 00:01:06,880
+over into our render properties
+
+37
+00:01:06,880 --> 00:01:08,640
+and so the easiest way to start adding
+
+38
+00:01:08,640 --> 00:01:10,720
+freestyle is just to come down here
+
+39
+00:01:10,720 --> 00:01:13,360
+and just check the box for freestyle and
+
+40
+00:01:13,360 --> 00:01:15,360
+so when we activate freestyle
+
+41
+00:01:15,360 --> 00:01:16,799
+if we run a render so i'm just going to
+
+42
+00:01:16,799 --> 00:01:19,200
+tap f12 in order to do this
+
+43
+00:01:19,200 --> 00:01:20,320
+you can see how you're going to get a
+
+44
+00:01:20,320 --> 00:01:22,960
+rendering in here that now has
+
+45
+00:01:22,960 --> 00:01:25,200
+edges highlighted inside of our
+
+46
+00:01:25,200 --> 00:01:26,000
+rendering
+
+47
+00:01:26,000 --> 00:01:27,840
+so you can use this to quickly add those
+
+48
+00:01:27,840 --> 00:01:30,000
+edges inside of your scenes
+
+49
+00:01:30,000 --> 00:01:32,880
+so now let's take a look at this if we
+
+50
+00:01:32,880 --> 00:01:35,040
+were to adjust the line thickness
+
+51
+00:01:35,040 --> 00:01:36,320
+so i'm just going to come in here and
+
+52
+00:01:36,320 --> 00:01:38,079
+set my line thickness to 3
+
+53
+00:01:38,079 --> 00:01:40,240
+instead of 1. so if i set my line
+
+54
+00:01:40,240 --> 00:01:42,159
+thickness to three
+
+55
+00:01:42,159 --> 00:01:45,360
+and then we were to rerun this render
+
+56
+00:01:45,360 --> 00:01:47,520
+so i'm just going to tap f12 you can see
+
+57
+00:01:47,520 --> 00:01:49,759
+how these edges are going to be thicker
+
+58
+00:01:49,759 --> 00:01:51,520
+so you can control the thickness of
+
+59
+00:01:51,520 --> 00:01:53,680
+those edges from this section
+
+60
+00:01:53,680 --> 00:01:56,000
+right here but let's say we wanted to
+
+61
+00:01:56,000 --> 00:01:57,840
+get a little more in depth on what's
+
+62
+00:01:57,840 --> 00:01:59,040
+actually being created
+
+63
+00:01:59,040 --> 00:02:00,719
+right so that's great but it doesn't
+
+64
+00:02:00,719 --> 00:02:02,320
+really give us any control
+
+65
+00:02:02,320 --> 00:02:03,920
+over anything other than there's some
+
+66
+00:02:03,920 --> 00:02:06,719
+edges in here so what we want to do
+
+67
+00:02:06,719 --> 00:02:09,840
+is we want to jump over into our view
+
+68
+00:02:09,840 --> 00:02:11,120
+layer properties
+
+69
+00:02:11,120 --> 00:02:13,680
+and we want to scroll down to our
+
+70
+00:02:13,680 --> 00:02:14,720
+freestyle
+
+71
+00:02:14,720 --> 00:02:17,280
+line sets and so what our freestyle line
+
+72
+00:02:17,280 --> 00:02:18,480
+sets is going to do is that's going to
+
+73
+00:02:18,480 --> 00:02:20,239
+let us control
+
+74
+00:02:20,239 --> 00:02:22,959
+the kind of lines that are being created
+
+75
+00:02:22,959 --> 00:02:24,319
+notice how you can add multiple
+
+76
+00:02:24,319 --> 00:02:25,920
+different line sets in here
+
+77
+00:02:25,920 --> 00:02:28,000
+if you were to run this render without a
+
+78
+00:02:28,000 --> 00:02:30,239
+line set in here so if i was to delete
+
+79
+00:02:30,239 --> 00:02:30,800
+this
+
+80
+00:02:30,800 --> 00:02:32,879
+even though we have freestyle enabled if
+
+81
+00:02:32,879 --> 00:02:34,319
+we were to run this
+
+82
+00:02:34,319 --> 00:02:36,160
+you can see how no edges are going to
+
+83
+00:02:36,160 --> 00:02:38,560
+show up so you need to have a line set
+
+84
+00:02:38,560 --> 00:02:40,319
+in here because that's what this is
+
+85
+00:02:40,319 --> 00:02:41,840
+going to reference in order to create
+
+86
+00:02:41,840 --> 00:02:42,959
+those edges
+
+87
+00:02:42,959 --> 00:02:44,160
+and so there's a lot of different
+
+88
+00:02:44,160 --> 00:02:46,080
+options in here for
+
+89
+00:02:46,080 --> 00:02:47,360
+different things that you can do with
+
+90
+00:02:47,360 --> 00:02:49,200
+this and so there's some different
+
+91
+00:02:49,200 --> 00:02:50,000
+options in here
+
+92
+00:02:50,000 --> 00:02:51,760
+for things that you can do in order to
+
+93
+00:02:51,760 --> 00:02:53,040
+change the way
+
+94
+00:02:53,040 --> 00:02:55,760
+that your edges look inside of freestyle
+
+95
+00:02:55,760 --> 00:02:56,160
+so
+
+96
+00:02:56,160 --> 00:02:58,480
+um we'll look at these i'm not going to
+
+97
+00:02:58,480 --> 00:03:00,480
+worry too much about these right here
+
+98
+00:03:00,480 --> 00:03:04,000
+um so we may take a look take a look at
+
+99
+00:03:04,000 --> 00:03:05,680
+the render pass option a little bit
+
+100
+00:03:05,680 --> 00:03:06,319
+later
+
+101
+00:03:06,319 --> 00:03:07,440
+but for right now we're just going to
+
+102
+00:03:07,440 --> 00:03:09,599
+leave it as is so you can use this to
+
+103
+00:03:09,599 --> 00:03:10,959
+render this as a separate
+
+104
+00:03:10,959 --> 00:03:13,920
+pass instead of on the combined pass
+
+105
+00:03:13,920 --> 00:03:15,920
+which gives you some interesting options
+
+106
+00:03:15,920 --> 00:03:18,080
+but for now let's take a look first at
+
+107
+00:03:18,080 --> 00:03:19,360
+this option right here
+
+108
+00:03:19,360 --> 00:03:21,599
+so your edge detection option your
+
+109
+00:03:21,599 --> 00:03:22,879
+crease angle
+
+110
+00:03:22,879 --> 00:03:25,440
+that's going to control what edges are
+
+111
+00:03:25,440 --> 00:03:26,799
+being picked up
+
+112
+00:03:26,799 --> 00:03:28,319
+that are actually getting those darkened
+
+113
+00:03:28,319 --> 00:03:30,159
+edges so right now we have a crease
+
+114
+00:03:30,159 --> 00:03:32,480
+angle of 134 degrees well if we were to
+
+115
+00:03:32,480 --> 00:03:33,519
+bump this up
+
+116
+00:03:33,519 --> 00:03:36,480
+to 180 degrees and then re-run this so
+
+117
+00:03:36,480 --> 00:03:38,080
+if we're to do an f12
+
+118
+00:03:38,080 --> 00:03:41,519
+notice how you're going to get freestyle
+
+119
+00:03:41,519 --> 00:03:42,000
+edges
+
+120
+00:03:42,000 --> 00:03:44,400
+basically on all of the different edges
+
+121
+00:03:44,400 --> 00:03:45,040
+inside
+
+122
+00:03:45,040 --> 00:03:47,599
+of your model so now i'm seeing all of
+
+123
+00:03:47,599 --> 00:03:48,959
+the geometry in here
+
+124
+00:03:48,959 --> 00:03:50,959
+so you can control how heavy that is by
+
+125
+00:03:50,959 --> 00:03:52,000
+adjusting the
+
+126
+00:03:52,000 --> 00:03:54,239
+degrees of your edge detection so if i
+
+127
+00:03:54,239 --> 00:03:56,000
+were to drop that down to 90
+
+128
+00:03:56,000 --> 00:03:57,439
+for example you're going to get a lot
+
+129
+00:03:57,439 --> 00:03:59,599
+less edges in here you're really only
+
+130
+00:03:59,599 --> 00:04:01,599
+getting the edges around the perimeter
+
+131
+00:04:01,599 --> 00:04:03,680
+at that point so you can use that to
+
+132
+00:04:03,680 --> 00:04:05,519
+kind of adjust the overall
+
+133
+00:04:05,519 --> 00:04:07,360
+in here to whatever you want i'm going
+
+134
+00:04:07,360 --> 00:04:09,439
+to put it back to 134 degrees for right
+
+135
+00:04:09,439 --> 00:04:10,000
+now
+
+136
+00:04:10,000 --> 00:04:12,000
+so culling is helpful because it can
+
+137
+00:04:12,000 --> 00:04:13,280
+hide the out of view
+
+138
+00:04:13,280 --> 00:04:14,799
+edges so you're not doing that extra
+
+139
+00:04:14,799 --> 00:04:16,720
+processing work and so there's also some
+
+140
+00:04:16,720 --> 00:04:18,239
+advanced options in here which i don't
+
+141
+00:04:18,239 --> 00:04:20,239
+want to focus on too much for right now
+
+142
+00:04:20,239 --> 00:04:21,600
+so we can mess around with that in the
+
+143
+00:04:21,600 --> 00:04:23,520
+future if you're really interested in it
+
+144
+00:04:23,520 --> 00:04:24,560
+but i don't think we're going to use
+
+145
+00:04:24,560 --> 00:04:24,960
+those
+
+146
+00:04:24,960 --> 00:04:27,759
+too much so as of right now though
+
+147
+00:04:27,759 --> 00:04:28,800
+what's happening
+
+148
+00:04:28,800 --> 00:04:32,080
+is the system is kind of dictating
+
+149
+00:04:32,080 --> 00:04:33,919
+the way that our edges are showing up
+
+150
+00:04:33,919 --> 00:04:35,919
+right so it's finding them for us
+
+151
+00:04:35,919 --> 00:04:37,919
+using its algorithm and so there's
+
+152
+00:04:37,919 --> 00:04:39,440
+different things in here
+
+153
+00:04:39,440 --> 00:04:42,160
+that can adjust that and affect that and
+
+154
+00:04:42,160 --> 00:04:43,199
+so you can use
+
+155
+00:04:43,199 --> 00:04:45,199
+these options down below to get a little
+
+156
+00:04:45,199 --> 00:04:47,199
+bit more specific about what's being
+
+157
+00:04:47,199 --> 00:04:48,400
+shown in here
+
+158
+00:04:48,400 --> 00:04:50,080
+and so i'm going to stay kind of high
+
+159
+00:04:50,080 --> 00:04:52,320
+level on this um just note that these
+
+160
+00:04:52,320 --> 00:04:53,280
+different options
+
+161
+00:04:53,280 --> 00:04:55,120
+are going to are going to bring in
+
+162
+00:04:55,120 --> 00:04:56,400
+different edges
+
+163
+00:04:56,400 --> 00:04:58,080
+when you render this so for example if
+
+164
+00:04:58,080 --> 00:04:59,840
+you were to select ridge and valley
+
+165
+00:04:59,840 --> 00:05:02,639
+and then rerun this notice how you're
+
+166
+00:05:02,639 --> 00:05:03,440
+getting some
+
+167
+00:05:03,440 --> 00:05:06,720
+different edges in here than you were
+
+168
+00:05:06,720 --> 00:05:07,520
+before
+
+169
+00:05:07,520 --> 00:05:09,360
+in some different areas but it's a
+
+170
+00:05:09,360 --> 00:05:10,720
+little bit clunky so you're going to
+
+171
+00:05:10,720 --> 00:05:11,840
+have to do a little bit of trial and
+
+172
+00:05:11,840 --> 00:05:13,680
+error in here to figure out the
+
+173
+00:05:13,680 --> 00:05:15,840
+exact view that you really want or the
+
+174
+00:05:15,840 --> 00:05:17,520
+exact settings that really work
+
+175
+00:05:17,520 --> 00:05:19,759
+but what i do want to focus on right now
+
+176
+00:05:19,759 --> 00:05:21,759
+is at the moment
+
+177
+00:05:21,759 --> 00:05:25,120
+we're currently set to do this based on
+
+178
+00:05:25,120 --> 00:05:26,240
+our crease edges
+
+179
+00:05:26,240 --> 00:05:28,160
+right so it's using the crease angle in
+
+180
+00:05:28,160 --> 00:05:30,880
+here in order to generate those edges
+
+181
+00:05:30,880 --> 00:05:32,320
+and so let's say for example that we
+
+182
+00:05:32,320 --> 00:05:34,320
+were to uncheck this box for crease
+
+183
+00:05:34,320 --> 00:05:34,800
+edges
+
+184
+00:05:34,800 --> 00:05:37,039
+and then rerun this well notice how now
+
+185
+00:05:37,039 --> 00:05:38,880
+you're really only getting the border
+
+186
+00:05:38,880 --> 00:05:41,039
+or the silhouette of the object and
+
+187
+00:05:41,039 --> 00:05:42,639
+that's being added based on the
+
+188
+00:05:42,639 --> 00:05:44,080
+silhouette and border options
+
+189
+00:05:44,080 --> 00:05:46,560
+right here so if i was to uncheck those
+
+190
+00:05:46,560 --> 00:05:47,919
+notice how we start getting some kind of
+
+191
+00:05:47,919 --> 00:05:49,280
+weird results in here
+
+192
+00:05:49,280 --> 00:05:51,360
+so we want to leave this to include the
+
+193
+00:05:51,360 --> 00:05:52,880
+silhouette and the border
+
+194
+00:05:52,880 --> 00:05:55,120
+but let's say that we wanted some edges
+
+195
+00:05:55,120 --> 00:05:57,280
+that were running along the bonnie model
+
+196
+00:05:57,280 --> 00:06:00,960
+to be highlighted right so let's say for
+
+197
+00:06:00,960 --> 00:06:02,560
+example and we're going to tab
+
+198
+00:06:02,560 --> 00:06:05,039
+into edit mode real quick let's say that
+
+199
+00:06:05,039 --> 00:06:06,000
+we wanted
+
+200
+00:06:06,000 --> 00:06:09,440
+these edges right here to show up
+
+201
+00:06:09,440 --> 00:06:11,440
+in our freestyle well what we could do
+
+202
+00:06:11,440 --> 00:06:13,199
+is we could select the edges that we
+
+203
+00:06:13,199 --> 00:06:13,840
+want
+
+204
+00:06:13,840 --> 00:06:15,440
+but then you can right click in edit
+
+205
+00:06:15,440 --> 00:06:17,440
+mode and there's an option here for mark
+
+206
+00:06:17,440 --> 00:06:20,000
+freestyle edge so if you mark this as a
+
+207
+00:06:20,000 --> 00:06:21,360
+freestyle edge
+
+208
+00:06:21,360 --> 00:06:23,680
+and you check the box for edge mark in
+
+209
+00:06:23,680 --> 00:06:25,520
+here what that's going to do is that's
+
+210
+00:06:25,520 --> 00:06:26,880
+going to include that
+
+211
+00:06:26,880 --> 00:06:29,520
+in your rendered image so notice how now
+
+212
+00:06:29,520 --> 00:06:31,039
+this edge right here
+
+213
+00:06:31,039 --> 00:06:34,319
+is being included inside of our image
+
+214
+00:06:34,319 --> 00:06:36,479
+so you can use that to be more specific
+
+215
+00:06:36,479 --> 00:06:38,160
+about what exactly you want the
+
+216
+00:06:38,160 --> 00:06:39,919
+freestyle edges to show in here
+
+217
+00:06:39,919 --> 00:06:41,520
+if you decide you don't want that to
+
+218
+00:06:41,520 --> 00:06:43,600
+show up then you could just come in here
+
+219
+00:06:43,600 --> 00:06:44,720
+and select it
+
+220
+00:06:44,720 --> 00:06:46,240
+and then right click and you can just
+
+221
+00:06:46,240 --> 00:06:48,080
+clear the freestyle edge
+
+222
+00:06:48,080 --> 00:06:49,840
+if you clear the freestyle edge it's not
+
+223
+00:06:49,840 --> 00:06:51,199
+going to show up in your rendering
+
+224
+00:06:51,199 --> 00:06:55,599
+anymore so you can also down below
+
+225
+00:06:55,599 --> 00:06:58,880
+set your freestyle line styles as well
+
+226
+00:06:58,880 --> 00:07:00,880
+so up till now we've been basically
+
+227
+00:07:00,880 --> 00:07:02,000
+setting what's going
+
+228
+00:07:02,000 --> 00:07:04,479
+to show up as a part of that freestyle
+
+229
+00:07:04,479 --> 00:07:06,560
+but if you go down into your line style
+
+230
+00:07:06,560 --> 00:07:08,400
+you can also set the way
+
+231
+00:07:08,400 --> 00:07:11,280
+that this is going to show up so for
+
+232
+00:07:11,280 --> 00:07:12,000
+example
+
+233
+00:07:12,000 --> 00:07:13,759
+you can set the kind of line strokes
+
+234
+00:07:13,759 --> 00:07:16,479
+that are in here you can set the color
+
+235
+00:07:16,479 --> 00:07:19,199
+of your edges so for example let's say i
+
+236
+00:07:19,199 --> 00:07:20,319
+wanted these to render out
+
+237
+00:07:20,319 --> 00:07:22,800
+something other than black i could come
+
+238
+00:07:22,800 --> 00:07:25,759
+in here and set this to maybe like blue
+
+239
+00:07:25,759 --> 00:07:28,400
+then if we were to do an f12 our edges
+
+240
+00:07:28,400 --> 00:07:30,160
+are going to render out as blue
+
+241
+00:07:30,160 --> 00:07:31,599
+and so you could set the color by
+
+242
+00:07:31,599 --> 00:07:32,880
+clicking in here but if we were to go
+
+243
+00:07:32,880 --> 00:07:34,080
+back into the strokes
+
+244
+00:07:34,080 --> 00:07:35,919
+setting there's an option down here for
+
+245
+00:07:35,919 --> 00:07:37,199
+things like dashed line
+
+246
+00:07:37,199 --> 00:07:39,520
+so if you wanted your lines to be dashed
+
+247
+00:07:39,520 --> 00:07:40,560
+you could set this
+
+248
+00:07:40,560 --> 00:07:42,720
+so that your first dash is has a length
+
+249
+00:07:42,720 --> 00:07:44,560
+of 5 and then the gap has a length of
+
+250
+00:07:44,560 --> 00:07:45,199
+five
+
+251
+00:07:45,199 --> 00:07:47,039
+so i just checked the box and then
+
+252
+00:07:47,039 --> 00:07:49,039
+entered some values in here well now if
+
+253
+00:07:49,039 --> 00:07:50,400
+i was to render this out
+
+254
+00:07:50,400 --> 00:07:51,840
+instead of having straight lines what
+
+255
+00:07:51,840 --> 00:07:52,560
+we're going to have is we're going to
+
+256
+00:07:52,560 --> 00:07:54,319
+have dotted lines in here
+
+257
+00:07:54,319 --> 00:07:55,680
+so you could use this to create some
+
+258
+00:07:55,680 --> 00:07:57,199
+kind of a blueprint view or a
+
+259
+00:07:57,199 --> 00:07:58,400
+highlighted view
+
+260
+00:07:58,400 --> 00:08:00,000
+or something like that alright so your
+
+261
+00:08:00,000 --> 00:08:03,360
+alpha is going to allow you to adjust
+
+262
+00:08:03,360 --> 00:08:06,560
+how solid the lines are so for example
+
+263
+00:08:06,560 --> 00:08:09,360
+right now if i render this right and we
+
+264
+00:08:09,360 --> 00:08:10,479
+look at it right here i've got some
+
+265
+00:08:10,479 --> 00:08:11,680
+thicker edges
+
+266
+00:08:11,680 --> 00:08:12,720
+and they're all kind of just like
+
+267
+00:08:12,720 --> 00:08:15,039
+uniform black lines but
+
+268
+00:08:15,039 --> 00:08:16,639
+if you were to come in here and adjust
+
+269
+00:08:16,639 --> 00:08:19,199
+your alpha transparency down
+
+270
+00:08:19,199 --> 00:08:22,240
+notice how your lines are much less
+
+271
+00:08:22,240 --> 00:08:23,039
+defined
+
+272
+00:08:23,039 --> 00:08:24,639
+right it's like you kind of drew them on
+
+273
+00:08:24,639 --> 00:08:26,319
+here with a pencil or something like
+
+274
+00:08:26,319 --> 00:08:26,879
+that
+
+275
+00:08:26,879 --> 00:08:30,160
+so there's also options in here to do
+
+276
+00:08:30,160 --> 00:08:31,759
+things like add modifiers
+
+277
+00:08:31,759 --> 00:08:33,680
+to that as well so you could add some
+
+278
+00:08:33,680 --> 00:08:35,279
+noise
+
+279
+00:08:35,279 --> 00:08:38,800
+to your alpha so if you add noise what
+
+280
+00:08:38,800 --> 00:08:39,919
+that's going to do is that's going to
+
+281
+00:08:39,919 --> 00:08:40,959
+randomly give you
+
+282
+00:08:40,959 --> 00:08:43,919
+darker and lighter areas those are all
+
+283
+00:08:43,919 --> 00:08:45,279
+adjustable based on things like
+
+284
+00:08:45,279 --> 00:08:46,399
+amplitude
+
+285
+00:08:46,399 --> 00:08:47,519
+other things like that they're just
+
+286
+00:08:47,519 --> 00:08:49,600
+going to give you different effects
+
+287
+00:08:49,600 --> 00:08:51,200
+so you can use that to make this more
+
+288
+00:08:51,200 --> 00:08:52,640
+like a noisy
+
+289
+00:08:52,640 --> 00:08:55,839
+like hand drawn stroke type thing so
+
+290
+00:08:55,839 --> 00:08:57,680
+you can also adjust your thickness of
+
+291
+00:08:57,680 --> 00:08:59,600
+your edges in the thickness tab
+
+292
+00:08:59,600 --> 00:09:01,519
+so if i bring this down notice how my
+
+293
+00:09:01,519 --> 00:09:03,200
+edges are going to be more narrow
+
+294
+00:09:03,200 --> 00:09:05,200
+if i bring this up my edges are going to
+
+295
+00:09:05,200 --> 00:09:07,200
+be a lot thicker so you can use that to
+
+296
+00:09:07,200 --> 00:09:08,080
+adjust the thickness
+
+297
+00:09:08,080 --> 00:09:11,200
+in here and you can also
+
+298
+00:09:11,200 --> 00:09:14,240
+set this with a modifier so for example
+
+299
+00:09:14,240 --> 00:09:15,600
+you could come in here and add a noise
+
+300
+00:09:15,600 --> 00:09:16,399
+modifier
+
+301
+00:09:16,399 --> 00:09:18,480
+to your thickness and what that's going
+
+302
+00:09:18,480 --> 00:09:20,320
+to do is that's going to adjust your
+
+303
+00:09:20,320 --> 00:09:21,200
+thickness
+
+304
+00:09:21,200 --> 00:09:23,519
+randomly and so you can adjust like how
+
+305
+00:09:23,519 --> 00:09:24,320
+strong that
+
+306
+00:09:24,320 --> 00:09:29,200
+that is by adjusting these settings
+
+307
+00:09:32,720 --> 00:09:35,040
+so you can adjust that thickness down
+
+308
+00:09:35,040 --> 00:09:37,200
+for example
+
+309
+00:09:37,200 --> 00:09:38,800
+in order to just give like a little bit
+
+310
+00:09:38,800 --> 00:09:40,320
+of wobble to these lines
+
+311
+00:09:40,320 --> 00:09:42,000
+so you could couple that with maybe
+
+312
+00:09:42,000 --> 00:09:44,399
+something like
+
+313
+00:09:44,399 --> 00:09:45,600
+so you could couple that with something
+
+314
+00:09:45,600 --> 00:09:47,519
+like your alpha transparency to create
+
+315
+00:09:47,519 --> 00:09:48,839
+some really interesting
+
+316
+00:09:48,839 --> 00:09:51,519
+results all right so one last thing i
+
+317
+00:09:51,519 --> 00:09:52,320
+wanted to show you
+
+318
+00:09:52,320 --> 00:09:53,680
+for right now we can talk about this
+
+319
+00:09:53,680 --> 00:09:55,519
+more in the future but
+
+320
+00:09:55,519 --> 00:09:56,880
+um what i wanted to do is i wanted to
+
+321
+00:09:56,880 --> 00:09:58,640
+show you how to create
+
+322
+00:09:58,640 --> 00:10:01,519
+this image so this is just some cabinets
+
+323
+00:10:01,519 --> 00:10:03,519
+i created in the piclone build of
+
+324
+00:10:03,519 --> 00:10:05,920
+blender and i wanted to show you how to
+
+325
+00:10:05,920 --> 00:10:07,200
+render out just the
+
+326
+00:10:07,200 --> 00:10:10,399
+edges from this image so right now right
+
+327
+00:10:10,399 --> 00:10:11,920
+we have this just set up a standard
+
+328
+00:10:11,920 --> 00:10:13,440
+freestyle so it's going to create our
+
+329
+00:10:13,440 --> 00:10:14,320
+rendered view
+
+330
+00:10:14,320 --> 00:10:16,240
+then it's going to add the edges over
+
+331
+00:10:16,240 --> 00:10:17,839
+here what we want to do is we want to
+
+332
+00:10:17,839 --> 00:10:19,600
+use the compositor to create an
+
+333
+00:10:19,600 --> 00:10:23,279
+image that only includes the edges and a
+
+334
+00:10:23,279 --> 00:10:23,760
+color
+
+335
+00:10:23,760 --> 00:10:25,760
+background and so the first thing i want
+
+336
+00:10:25,760 --> 00:10:27,279
+to do is i'm going to go back
+
+337
+00:10:27,279 --> 00:10:30,240
+into my view layer properties under
+
+338
+00:10:30,240 --> 00:10:31,120
+freestyle
+
+339
+00:10:31,120 --> 00:10:33,360
+and i want to check the box for as
+
+340
+00:10:33,360 --> 00:10:34,720
+render pass
+
+341
+00:10:34,720 --> 00:10:36,320
+and so what we're going to do when uh
+
+342
+00:10:36,320 --> 00:10:38,399
+this is rendered as a render pass
+
+343
+00:10:38,399 --> 00:10:40,800
+what that means is that means that now
+
+344
+00:10:40,800 --> 00:10:42,480
+instead of this using this as a
+
+345
+00:10:42,480 --> 00:10:43,760
+composite
+
+346
+00:10:43,760 --> 00:10:45,360
+like this if we were to go into our view
+
+347
+00:10:45,360 --> 00:10:47,519
+layer and look at our freestyle
+
+348
+00:10:47,519 --> 00:10:49,120
+you can see how those edges are being
+
+349
+00:10:49,120 --> 00:10:51,680
+created as a completely separate pass
+
+350
+00:10:51,680 --> 00:10:55,040
+in your rendering engine so now
+
+351
+00:10:55,040 --> 00:10:56,800
+what i want to do is i want to jump over
+
+352
+00:10:56,800 --> 00:10:58,839
+into the compositing
+
+353
+00:10:58,839 --> 00:11:01,839
+tab
+
+354
+00:11:01,839 --> 00:11:04,000
+and what i've done is i've just created
+
+355
+00:11:04,000 --> 00:11:05,519
+a view
+
+356
+00:11:05,519 --> 00:11:08,480
+with my image editor up above and then
+
+357
+00:11:08,480 --> 00:11:09,760
+my compositor
+
+358
+00:11:09,760 --> 00:11:11,839
+down below we'll go ahead and drag this
+
+359
+00:11:11,839 --> 00:11:13,600
+up a little bit so we can zoom in
+
+360
+00:11:13,600 --> 00:11:15,680
+a little bit more and so right now what
+
+361
+00:11:15,680 --> 00:11:17,839
+this has is this has our render layers
+
+362
+00:11:17,839 --> 00:11:20,640
+and it has our composite and so what we
+
+363
+00:11:20,640 --> 00:11:21,519
+want to do
+
+364
+00:11:21,519 --> 00:11:23,680
+is we want to go in here and so what
+
+365
+00:11:23,680 --> 00:11:26,079
+this has is this has a check box for as
+
+366
+00:11:26,079 --> 00:11:27,120
+render pass
+
+367
+00:11:27,120 --> 00:11:28,959
+well notice how when i check the box for
+
+368
+00:11:28,959 --> 00:11:30,320
+as render pass
+
+369
+00:11:30,320 --> 00:11:32,079
+right here what that's doing is that's
+
+370
+00:11:32,079 --> 00:11:34,640
+adding a node to my render layers
+
+371
+00:11:34,640 --> 00:11:37,120
+that i can drag into my composite so
+
+372
+00:11:37,120 --> 00:11:38,640
+instead having my freestyle
+
+373
+00:11:38,640 --> 00:11:40,640
+in here right now or instead of having
+
+374
+00:11:40,640 --> 00:11:42,320
+my image dragged in here right now i'm
+
+375
+00:11:42,320 --> 00:11:43,440
+just going to drag
+
+376
+00:11:43,440 --> 00:11:46,240
+the line for my freestyle over here so
+
+377
+00:11:46,240 --> 00:11:47,920
+you can see how what that's doing
+
+378
+00:11:47,920 --> 00:11:50,160
+is that's creating this image right here
+
+379
+00:11:50,160 --> 00:11:52,000
+that only has my freestyle
+
+380
+00:11:52,000 --> 00:11:54,639
+edges but we also need a color
+
+381
+00:11:54,639 --> 00:11:55,440
+background
+
+382
+00:11:55,440 --> 00:11:57,200
+so what we want to do is we just want to
+
+383
+00:11:57,200 --> 00:11:59,279
+do a shift a and we want to add
+
+384
+00:11:59,279 --> 00:12:01,680
+a mix node so i'm just going to type in
+
+385
+00:12:01,680 --> 00:12:02,959
+search i'm going to type in
+
+386
+00:12:02,959 --> 00:12:05,440
+mix we're going to click right here and
+
+387
+00:12:05,440 --> 00:12:06,639
+what we want
+
+388
+00:12:06,639 --> 00:12:09,279
+is we want this freestyle running into
+
+389
+00:12:09,279 --> 00:12:10,000
+this mix node
+
+390
+00:12:10,000 --> 00:12:11,760
+and then the image running out to the
+
+391
+00:12:11,760 --> 00:12:13,680
+composite but what we want to do is
+
+392
+00:12:13,680 --> 00:12:15,200
+we're going to drag the freestyle
+
+393
+00:12:15,200 --> 00:12:17,760
+into the bottom box and undrag it from
+
+394
+00:12:17,760 --> 00:12:19,279
+the top box
+
+395
+00:12:19,279 --> 00:12:21,040
+and so what that's going to do is that's
+
+396
+00:12:21,040 --> 00:12:22,399
+going to give us a black screen
+
+397
+00:12:22,399 --> 00:12:24,079
+right so we don't have anything in here
+
+398
+00:12:24,079 --> 00:12:25,839
+right now so what we want to do is we
+
+399
+00:12:25,839 --> 00:12:27,360
+want to click on the button right here
+
+400
+00:12:27,360 --> 00:12:30,000
+for alpha in order to include the alpha
+
+401
+00:12:30,000 --> 00:12:30,720
+of the second
+
+402
+00:12:30,720 --> 00:12:33,279
+input what that means is that means that
+
+403
+00:12:33,279 --> 00:12:34,480
+we're basically going to use the
+
+404
+00:12:34,480 --> 00:12:36,399
+transparent background for the second
+
+405
+00:12:36,399 --> 00:12:38,160
+input so when you click on this
+
+406
+00:12:38,160 --> 00:12:40,320
+notice how now what you're getting is
+
+407
+00:12:40,320 --> 00:12:41,360
+you're getting an
+
+408
+00:12:41,360 --> 00:12:43,839
+image in here with a white background
+
+409
+00:12:43,839 --> 00:12:45,360
+and your edges
+
+410
+00:12:45,360 --> 00:12:47,680
+over top of it and so one thing to note
+
+411
+00:12:47,680 --> 00:12:49,279
+about this is if we were to go back for
+
+412
+00:12:49,279 --> 00:12:49,839
+example
+
+413
+00:12:49,839 --> 00:12:52,399
+and adjust our line thickness so if we
+
+414
+00:12:52,399 --> 00:12:54,000
+were to scroll into our freestyle line
+
+415
+00:12:54,000 --> 00:12:54,800
+style
+
+416
+00:12:54,800 --> 00:12:58,000
+and adjust this so our thickness
+
+417
+00:12:58,000 --> 00:13:00,079
+is bigger so maybe to a value of like
+
+418
+00:13:00,079 --> 00:13:01,279
+six and then
+
+419
+00:13:01,279 --> 00:13:03,920
+if we were to type the f12 key what
+
+420
+00:13:03,920 --> 00:13:04,959
+that's going to do is that's going to
+
+421
+00:13:04,959 --> 00:13:06,639
+re-render this
+
+422
+00:13:06,639 --> 00:13:08,240
+and notice how then this update's in
+
+423
+00:13:08,240 --> 00:13:09,760
+here i've not figured out how to get the
+
+424
+00:13:09,760 --> 00:13:10,959
+image editor to
+
+425
+00:13:10,959 --> 00:13:13,440
+update automatically so if anyone knows
+
+426
+00:13:13,440 --> 00:13:14,320
+let me know
+
+427
+00:13:14,320 --> 00:13:16,000
+but now what this is going to allow us
+
+428
+00:13:16,000 --> 00:13:17,600
+to do is that's going to allow us
+
+429
+00:13:17,600 --> 00:13:20,720
+from our 3d model so if i was to drag
+
+430
+00:13:20,720 --> 00:13:21,040
+this
+
+431
+00:13:21,040 --> 00:13:24,399
+over and have a 3d viewport node
+
+432
+00:13:24,399 --> 00:13:27,519
+right here you can see our 3d image
+
+433
+00:13:27,519 --> 00:13:29,519
+is over here but we're generating this
+
+434
+00:13:29,519 --> 00:13:30,720
+2d
+
+435
+00:13:30,720 --> 00:13:34,079
+line style image inside a blender so
+
+436
+00:13:34,079 --> 00:13:36,160
+then if we were to type f12
+
+437
+00:13:36,160 --> 00:13:38,480
+and then export this notice how this is
+
+438
+00:13:38,480 --> 00:13:40,079
+exporting this is a render result that
+
+439
+00:13:40,079 --> 00:13:41,199
+we can then save
+
+440
+00:13:41,199 --> 00:13:43,600
+as an image so that's from in this video
+
+441
+00:13:43,600 --> 00:13:44,639
+leave a comment below and let me know
+
+442
+00:13:44,639 --> 00:13:46,320
+what you thought was this helpful to you
+
+443
+00:13:46,320 --> 00:13:48,320
+have you used freestyle before it's love
+
+444
+00:13:48,320 --> 00:13:49,920
+having that conversation with you guys
+
+445
+00:13:49,920 --> 00:13:51,279
+if you like this video please remember
+
+446
+00:13:51,279 --> 00:13:52,959
+to click that like button down below
+
+447
+00:13:52,959 --> 00:13:54,160
+if you're new around here remember to
+
+448
+00:13:54,160 --> 00:13:56,000
+click that subscribe button for new
+
+449
+00:13:56,000 --> 00:13:56,959
+blender content
+
+450
+00:13:56,959 --> 00:13:58,639
+every week if you like what i'm doing on
+
+451
+00:13:58,639 --> 00:14:00,000
+this channel please consider supporting
+
+452
+00:14:00,000 --> 00:14:00,959
+me on patreon
+
+453
+00:14:00,959 --> 00:14:02,160
+every little bit helps so make sure you
+
+454
+00:14:02,160 --> 00:14:03,519
+check out that link in the notes down
+
+455
+00:14:03,519 --> 00:14:05,279
+below but in any case thank you so much
+
+456
+00:14:05,279 --> 00:14:06,720
+for taking the time to watch this
+
+457
+00:14:06,720 --> 00:14:08,160
+i really appreciate it and i will catch
+
+458
+00:14:08,160 --> 00:14:11,760
+you in the next video thanks guys

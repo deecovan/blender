@@ -1,0 +1,10868 @@
+1
+00:00:00,080 --> 00:00:01,920
+welcome my name is esther from passion
+
+2
+00:00:01,920 --> 00:00:03,600
+also known as infensia you might have
+
+3
+00:00:03,600 --> 00:00:05,040
+seen my 10 minutes build before for
+
+4
+00:00:05,040 --> 00:00:06,560
+example where i made 10 cars in 10
+
+5
+00:00:06,560 --> 00:00:07,279
+minutes or
+
+6
+00:00:07,279 --> 00:00:09,519
+maybe a rigged dragon or a rigged pirate
+
+7
+00:00:09,519 --> 00:00:11,759
+or a star destroyer i've had quite a few
+
+8
+00:00:11,759 --> 00:00:13,120
+comments from my 10 minute modeling
+
+9
+00:00:13,120 --> 00:00:14,719
+challenge where people say well this is
+
+10
+00:00:14,719 --> 00:00:16,320
+too fast for me to learn from this is
+
+11
+00:00:16,320 --> 00:00:17,359
+not a good tutorial
+
+12
+00:00:17,359 --> 00:00:19,359
+and i wanted to make this video to
+
+13
+00:00:19,359 --> 00:00:21,199
+really cover everything that i know at a
+
+14
+00:00:21,199 --> 00:00:22,320
+slow enough pace
+
+15
+00:00:22,320 --> 00:00:24,000
+so for those of you who thinks that 10
+
+16
+00:00:24,000 --> 00:00:25,439
+minute modeling is too fast and you
+
+17
+00:00:25,439 --> 00:00:25,840
+don't
+
+18
+00:00:25,840 --> 00:00:27,199
+have a clue what i'm going on about
+
+19
+00:00:27,199 --> 00:00:28,720
+hopefully this video will give you a lot
+
+20
+00:00:28,720 --> 00:00:30,560
+of insight and details
+
+21
+00:00:30,560 --> 00:00:32,880
+in a step-by-step fashion so we could
+
+22
+00:00:32,880 --> 00:00:34,559
+help you out in your modeling skills
+
+23
+00:00:34,559 --> 00:00:36,079
+you could even start using this tutorial
+
+24
+00:00:36,079 --> 00:00:37,440
+if you're brand new to blender because
+
+25
+00:00:37,440 --> 00:00:38,559
+i'm going to go through everything in
+
+26
+00:00:38,559 --> 00:00:39,280
+detail
+
+27
+00:00:39,280 --> 00:00:41,120
+if you're experienced in blender maybe
+
+28
+00:00:41,120 --> 00:00:43,040
+this first few minutes won't be so
+
+29
+00:00:43,040 --> 00:00:44,800
+necessary for you to watch but you
+
+30
+00:00:44,800 --> 00:00:46,399
+should be able to pick up a few tips
+
+31
+00:00:46,399 --> 00:00:47,200
+because i've found
+
+32
+00:00:47,200 --> 00:00:48,719
+a lot even though i've done this for
+
+33
+00:00:48,719 --> 00:00:50,800
+quite a few years i find out stuff all
+
+34
+00:00:50,800 --> 00:00:52,480
+the time about new nifty ways to do
+
+35
+00:00:52,480 --> 00:00:54,000
+things so maybe you'll find something
+
+36
+00:00:54,000 --> 00:00:58,000
+out of this video too
+
+37
+00:00:58,000 --> 00:00:59,920
+you navigate just press the middle mouse
+
+38
+00:00:59,920 --> 00:01:01,520
+button to rotate
+
+39
+00:01:01,520 --> 00:01:03,359
+you hold the shift key and the middle
+
+40
+00:01:03,359 --> 00:01:05,920
+mouse button to pan around in a scene
+
+41
+00:01:05,920 --> 00:01:08,000
+and you use the scroll wheel to zoom in
+
+42
+00:01:08,000 --> 00:01:10,000
+and out there's also a few shortcuts
+
+43
+00:01:10,000 --> 00:01:11,520
+that you should know in the viewport and
+
+44
+00:01:11,520 --> 00:01:13,360
+on the keypad you can press 1
+
+45
+00:01:13,360 --> 00:01:15,840
+to see the front view press 3 to get a
+
+46
+00:01:15,840 --> 00:01:16,479
+side view
+
+47
+00:01:16,479 --> 00:01:18,799
+and 7 to get a top view you can also
+
+48
+00:01:18,799 --> 00:01:19,600
+toggle between
+
+49
+00:01:19,600 --> 00:01:22,320
+orthographic and perspective mode using
+
+50
+00:01:22,320 --> 00:01:24,720
+5 on the keypad basically that removes
+
+51
+00:01:24,720 --> 00:01:26,640
+the perspective and that's useful
+
+52
+00:01:26,640 --> 00:01:28,080
+sometimes to do as well up here you've
+
+53
+00:01:28,080 --> 00:01:29,520
+got something called the outliner and
+
+54
+00:01:29,520 --> 00:01:30,880
+this will show you which object you've
+
+55
+00:01:30,880 --> 00:01:31,920
+got in your scene
+
+56
+00:01:31,920 --> 00:01:34,000
+and down here is a properties area and
+
+57
+00:01:34,000 --> 00:01:35,600
+we'll only be using this
+
+58
+00:01:35,600 --> 00:01:37,360
+spanner looking thing here which is
+
+59
+00:01:37,360 --> 00:01:39,280
+modifier properties the rest we can
+
+60
+00:01:39,280 --> 00:01:40,000
+ignore for now
+
+61
+00:01:40,000 --> 00:01:42,479
+i also like to use the n key to bring
+
+62
+00:01:42,479 --> 00:01:43,759
+this numbers panel up
+
+63
+00:01:43,759 --> 00:01:45,360
+in where we can type in details
+
+64
+00:01:45,360 --> 00:01:47,360
+sometimes in blender we use the left
+
+65
+00:01:47,360 --> 00:01:48,880
+click to select nowadays it used to be
+
+66
+00:01:48,880 --> 00:01:50,320
+right click but nowadays it's left
+
+67
+00:01:50,320 --> 00:01:50,799
+clicking
+
+68
+00:01:50,799 --> 00:01:52,479
+thank god for that if you use the right
+
+69
+00:01:52,479 --> 00:01:54,079
+mouse button you get a context menu
+
+70
+00:01:54,079 --> 00:01:55,680
+up i don't really use that one so much
+
+71
+00:01:55,680 --> 00:01:56,960
+maybe you'll find use of it but there
+
+72
+00:01:56,960 --> 00:01:58,240
+are a few things i do if you want to
+
+73
+00:01:58,240 --> 00:01:59,759
+delete things you press the delete key
+
+74
+00:01:59,759 --> 00:02:01,280
+and we can get rid of this light here
+
+75
+00:02:01,280 --> 00:02:02,399
+for example and this
+
+76
+00:02:02,399 --> 00:02:03,759
+camera we don't need those when we do
+
+77
+00:02:03,759 --> 00:02:05,200
+modeling if you accidentally delete
+
+78
+00:02:05,200 --> 00:02:05,759
+something
+
+79
+00:02:05,759 --> 00:02:07,600
+then you can press ctrl z like in most
+
+80
+00:02:07,600 --> 00:02:10,640
+programs to bring it back
+
+81
+00:02:12,959 --> 00:02:14,480
+one of the most common questions that i
+
+82
+00:02:14,480 --> 00:02:16,879
+get asked is how i colorize my low poly
+
+83
+00:02:16,879 --> 00:02:18,560
+objects colorizing your objects is
+
+84
+00:02:18,560 --> 00:02:20,160
+essential to get those low poly
+
+85
+00:02:20,160 --> 00:02:22,000
+objects look just right i go to the
+
+86
+00:02:22,000 --> 00:02:24,000
+shading tab and if you go to the
+
+87
+00:02:24,000 --> 00:02:24,640
+description
+
+88
+00:02:24,640 --> 00:02:26,239
+you can download this file as well i've
+
+89
+00:02:26,239 --> 00:02:27,760
+created a palette for you and you can
+
+90
+00:02:27,760 --> 00:02:30,239
+just drag this png file right into this
+
+91
+00:02:30,239 --> 00:02:32,800
+section of your shading view material
+
+92
+00:02:32,800 --> 00:02:34,800
+editor window here you can also download
+
+93
+00:02:34,800 --> 00:02:35,120
+the
+
+94
+00:02:35,120 --> 00:02:36,879
+palettes from lowspec.com for example
+
+95
+00:02:36,879 --> 00:02:38,000
+they've got loads of palettes or you
+
+96
+00:02:38,000 --> 00:02:39,599
+could create your own ones in
+
+97
+00:02:39,599 --> 00:02:41,440
+any drawing program like photoshop i use
+
+98
+00:02:41,440 --> 00:02:42,959
+for example but you can use free ones as
+
+99
+00:02:42,959 --> 00:02:43,280
+well
+
+100
+00:02:43,280 --> 00:02:45,360
+and be aware that my textures i do them
+
+101
+00:02:45,360 --> 00:02:47,519
+in extremely low resolution this one is
+
+102
+00:02:47,519 --> 00:02:49,280
+only eight by eight pixels because it
+
+103
+00:02:49,280 --> 00:02:50,000
+saves a lot of
+
+104
+00:02:50,000 --> 00:02:52,080
+texture space when you do import it into
+
+105
+00:02:52,080 --> 00:02:53,040
+a game engine
+
+106
+00:02:53,040 --> 00:02:54,720
+but we need to collect this color node
+
+107
+00:02:54,720 --> 00:02:56,480
+here to the base color and you can see
+
+108
+00:02:56,480 --> 00:02:58,080
+that it's really blurry here now and
+
+109
+00:02:58,080 --> 00:03:00,000
+it's because it's so low resolution so
+
+110
+00:03:00,000 --> 00:03:02,080
+we also need to change from linear here
+
+111
+00:03:02,080 --> 00:03:04,159
+to closest and that'll bring make it
+
+112
+00:03:04,159 --> 00:03:06,000
+crisp and nice i actually use the
+
+113
+00:03:06,000 --> 00:03:08,000
+uv editing tab to do most of my modeling
+
+114
+00:03:08,000 --> 00:03:09,680
+because if i zoom in here with the mouse
+
+115
+00:03:09,680 --> 00:03:11,120
+wheel on the left you can see i've got
+
+116
+00:03:11,120 --> 00:03:13,200
+quick access now to these colors that
+
+117
+00:03:13,200 --> 00:03:15,200
+are in that texture if i resize this as
+
+118
+00:03:15,200 --> 00:03:15,920
+well
+
+119
+00:03:15,920 --> 00:03:17,599
+now the cube here as you can see is
+
+120
+00:03:17,599 --> 00:03:19,360
+unfolded onto this texture
+
+121
+00:03:19,360 --> 00:03:21,760
+and it's basically representing the 3d
+
+122
+00:03:21,760 --> 00:03:24,480
+cube in 2d texture space
+
+123
+00:03:24,480 --> 00:03:26,000
+if i use this little drop down here we
+
+124
+00:03:26,000 --> 00:03:27,760
+can switch the texture and that shows
+
+125
+00:03:27,760 --> 00:03:29,200
+you exactly how these
+
+126
+00:03:29,200 --> 00:03:31,599
+uvs are laid out so this front side for
+
+127
+00:03:31,599 --> 00:03:32,480
+example is
+
+128
+00:03:32,480 --> 00:03:34,319
+represented right here we've got quick
+
+129
+00:03:34,319 --> 00:03:36,400
+access now to colorize this object
+
+130
+00:03:36,400 --> 00:03:38,879
+if i select all of these faces with a
+
+131
+00:03:38,879 --> 00:03:39,599
+key
+
+132
+00:03:39,599 --> 00:03:41,280
+and then on the left side here now i
+
+133
+00:03:41,280 --> 00:03:43,440
+press a and then i scale it down
+
+134
+00:03:43,440 --> 00:03:46,000
+to zero and then i can press g on the
+
+135
+00:03:46,000 --> 00:03:47,440
+left side here to move it
+
+136
+00:03:47,440 --> 00:03:50,959
+g for grab or move g as in move and if i
+
+137
+00:03:50,959 --> 00:03:52,560
+place it over green here now
+
+138
+00:03:52,560 --> 00:03:54,640
+the cube becomes green and if i wanted
+
+139
+00:03:54,640 --> 00:03:56,400
+to change this face color here
+
+140
+00:03:56,400 --> 00:03:58,879
+i select the face and i press g on the
+
+141
+00:03:58,879 --> 00:04:00,400
+left side here and i can change that
+
+142
+00:04:00,400 --> 00:04:00,959
+face
+
+143
+00:04:00,959 --> 00:04:04,080
+to orange and this is a really fast way
+
+144
+00:04:04,080 --> 00:04:05,920
+to colorize your low poly objects and
+
+145
+00:04:05,920 --> 00:04:07,840
+make them look really crisp and clean
+
+146
+00:04:07,840 --> 00:04:09,280
+don't worry i'll cover the hotkeys as
+
+147
+00:04:09,280 --> 00:04:11,120
+well about moving and scaling and things
+
+148
+00:04:11,120 --> 00:04:12,640
+like that in detail this was just to
+
+149
+00:04:12,640 --> 00:04:14,239
+demonstrate the coloring process
+
+150
+00:04:14,239 --> 00:04:15,280
+there are a few things that you need to
+
+151
+00:04:15,280 --> 00:04:16,798
+be aware of when you do this when i
+
+152
+00:04:16,798 --> 00:04:18,320
+scale down this uv here down to
+
+153
+00:04:18,320 --> 00:04:20,079
+basically zero as you can see it's just
+
+154
+00:04:20,079 --> 00:04:21,440
+a little dot when you import these
+
+155
+00:04:21,440 --> 00:04:22,880
+objects into a game engine like
+
+156
+00:04:22,880 --> 00:04:25,440
+unity or unreal they might require a uv
+
+157
+00:04:25,440 --> 00:04:26,000
+layout
+
+158
+00:04:26,000 --> 00:04:28,240
+to render for example shadows correctly
+
+159
+00:04:28,240 --> 00:04:29,360
+in unity you can
+
+160
+00:04:29,360 --> 00:04:32,320
+enable unity to generate a second set of
+
+161
+00:04:32,320 --> 00:04:34,479
+uvs or you can create a second set of
+
+162
+00:04:34,479 --> 00:04:36,639
+uvs in blender here we don't need to do
+
+163
+00:04:36,639 --> 00:04:37,840
+that at this point because
+
+164
+00:04:37,840 --> 00:04:39,040
+i'm just going to show you the coloring
+
+165
+00:04:39,040 --> 00:04:40,960
+process but be aware that there might be
+
+166
+00:04:40,960 --> 00:04:42,320
+some tweaks that you need to do
+
+167
+00:04:42,320 --> 00:04:43,680
+when you're going to start using these
+
+168
+00:04:43,680 --> 00:04:46,800
+assets in a game engine
+
+169
+00:04:48,720 --> 00:04:50,479
+the second most common question i get in
+
+170
+00:04:50,479 --> 00:04:51,759
+all my comments is
+
+171
+00:04:51,759 --> 00:04:53,360
+i change my viewport settings a little
+
+172
+00:04:53,360 --> 00:04:54,880
+bit and people are asking how i get
+
+173
+00:04:54,880 --> 00:04:56,800
+about to do that so if you use this drop
+
+174
+00:04:56,800 --> 00:04:57,520
+down here
+
+175
+00:04:57,520 --> 00:05:00,479
+i often model with shadows enabled and
+
+176
+00:05:00,479 --> 00:05:02,800
+especially this cavity feature here
+
+177
+00:05:02,800 --> 00:05:05,440
+and if i change type here to both world
+
+178
+00:05:05,440 --> 00:05:06,080
+and screen
+
+179
+00:05:06,080 --> 00:05:08,400
+or as a world in screen i select both
+
+180
+00:05:08,400 --> 00:05:09,919
+here and i ramp these
+
+181
+00:05:09,919 --> 00:05:12,639
+up then you get glowing edges onto your
+
+182
+00:05:12,639 --> 00:05:13,199
+objects
+
+183
+00:05:13,199 --> 00:05:14,720
+and when you make low poly art for
+
+184
+00:05:14,720 --> 00:05:16,639
+example like a car or a tree or
+
+185
+00:05:16,639 --> 00:05:17,840
+something whatever a
+
+186
+00:05:17,840 --> 00:05:20,320
+character even then having this cavity
+
+187
+00:05:20,320 --> 00:05:21,680
+enabled can make the
+
+188
+00:05:21,680 --> 00:05:23,759
+low poly objects really stand out nicely
+
+189
+00:05:23,759 --> 00:05:25,919
+so i usually do this when i model
+
+190
+00:05:25,919 --> 00:05:27,840
+you can also use the workbench render to
+
+191
+00:05:27,840 --> 00:05:29,840
+render objects using the cavity settings
+
+192
+00:05:29,840 --> 00:05:31,680
+if you want there's one final setting
+
+193
+00:05:31,680 --> 00:05:33,280
+that i like to recommend and if you use
+
+194
+00:05:33,280 --> 00:05:35,039
+this drop down again you should enable
+
+195
+00:05:35,039 --> 00:05:36,000
+this backface
+
+196
+00:05:36,000 --> 00:05:38,080
+culling feature and that will tell you
+
+197
+00:05:38,080 --> 00:05:40,000
+if you have faces that are facing the
+
+198
+00:05:40,000 --> 00:05:40,880
+wrong direction
+
+199
+00:05:40,880 --> 00:05:43,039
+sometimes you can have a face that's
+
+200
+00:05:43,039 --> 00:05:45,120
+facing inwards like this one for example
+
+201
+00:05:45,120 --> 00:05:46,639
+if i go into the cube now you can see
+
+202
+00:05:46,639 --> 00:05:48,639
+that this face here is facing inwards
+
+203
+00:05:48,639 --> 00:05:50,160
+and most game engines don't
+
+204
+00:05:50,160 --> 00:05:52,240
+render the back side of a face you can
+
+205
+00:05:52,240 --> 00:05:53,840
+enable that but most of the time they
+
+206
+00:05:53,840 --> 00:05:54,479
+don't render
+
+207
+00:05:54,479 --> 00:05:56,400
+and in blender if you don't have back
+
+208
+00:05:56,400 --> 00:05:58,000
+face culling then you won't really be
+
+209
+00:05:58,000 --> 00:05:59,680
+aware that you have some holes like this
+
+210
+00:05:59,680 --> 00:06:01,199
+in your mesh so i recommend that you
+
+211
+00:06:01,199 --> 00:06:02,639
+enable back face calling
+
+212
+00:06:02,639 --> 00:06:04,240
+that way you can see when something is
+
+213
+00:06:04,240 --> 00:06:06,000
+broken and you can fix it there's
+
+214
+00:06:06,000 --> 00:06:07,199
+something called for example
+
+215
+00:06:07,199 --> 00:06:10,240
+if you press f3 and type in flip normals
+
+216
+00:06:10,240 --> 00:06:11,520
+then you can flip that back but there
+
+217
+00:06:11,520 --> 00:06:12,800
+are other ways as well i'll tell you
+
+218
+00:06:12,800 --> 00:06:15,199
+about that
+
+219
+00:06:16,160 --> 00:06:17,919
+there's something called object mode in
+
+220
+00:06:17,919 --> 00:06:19,199
+edit mode in blender
+
+221
+00:06:19,199 --> 00:06:21,120
+and by default when you come in it's in
+
+222
+00:06:21,120 --> 00:06:22,639
+object mode and
+
+223
+00:06:22,639 --> 00:06:24,400
+basically you can click click on an
+
+224
+00:06:24,400 --> 00:06:26,000
+object and it'll select it here in the
+
+225
+00:06:26,000 --> 00:06:27,919
+outliner but to edit an object we need
+
+226
+00:06:27,919 --> 00:06:28,560
+to press
+
+227
+00:06:28,560 --> 00:06:30,479
+tab on it because that will give us
+
+228
+00:06:30,479 --> 00:06:34,639
+access to the geometry
+
+229
+00:06:34,639 --> 00:06:36,639
+and up here you can switch between
+
+230
+00:06:36,639 --> 00:06:37,680
+vertex
+
+231
+00:06:37,680 --> 00:06:40,400
+edge and face select you should learn
+
+232
+00:06:40,400 --> 00:06:42,080
+these hotkeys it's one
+
+233
+00:06:42,080 --> 00:06:44,560
+two and three to select between those
+
+234
+00:06:44,560 --> 00:06:46,080
+you could also hold the shift key and
+
+235
+00:06:46,080 --> 00:06:47,759
+select multiple
+
+236
+00:06:47,759 --> 00:06:49,520
+i often don't do that because i think
+
+237
+00:06:49,520 --> 00:06:51,280
+it's a little bit confusing but just be
+
+238
+00:06:51,280 --> 00:06:52,560
+aware that you can do that if you want
+
+239
+00:06:52,560 --> 00:06:53,360
+and you can press
+
+240
+00:06:53,360 --> 00:06:55,919
+a on your keyboard to select everything
+
+241
+00:06:55,919 --> 00:06:57,199
+and double click a
+
+242
+00:06:57,199 --> 00:06:59,120
+to deselect everything you can also
+
+243
+00:06:59,120 --> 00:07:01,440
+press alt a to deselect everything
+
+244
+00:07:01,440 --> 00:07:03,680
+and you can hold the shift key to select
+
+245
+00:07:03,680 --> 00:07:04,479
+multiple
+
+246
+00:07:04,479 --> 00:07:06,319
+and if it works as a toggle so if you
+
+247
+00:07:06,319 --> 00:07:08,479
+click again on them with shift pressed
+
+248
+00:07:08,479 --> 00:07:10,240
+it toggles between the selection okay
+
+249
+00:07:10,240 --> 00:07:11,599
+finally we're going to start editing
+
+250
+00:07:11,599 --> 00:07:12,639
+this mesh a little bit
+
+251
+00:07:12,639 --> 00:07:15,280
+so if we're in edit mode here i press 3
+
+252
+00:07:15,280 --> 00:07:16,160
+to go into
+
+253
+00:07:16,160 --> 00:07:18,880
+face select mode and i click on a face
+
+254
+00:07:18,880 --> 00:07:19,680
+and i can press
+
+255
+00:07:19,680 --> 00:07:22,479
+g now to move it in 3d space it's quite
+
+256
+00:07:22,479 --> 00:07:24,080
+difficult to play something if you just
+
+257
+00:07:24,080 --> 00:07:26,080
+press g and move it so you can press
+
+258
+00:07:26,080 --> 00:07:29,840
+shift space and g to enable this little
+
+259
+00:07:29,840 --> 00:07:30,880
+gizmo here
+
+260
+00:07:30,880 --> 00:07:33,120
+and this way you can basically just drag
+
+261
+00:07:33,120 --> 00:07:34,080
+it like this instead
+
+262
+00:07:34,080 --> 00:07:36,080
+to place it and then if you drag on one
+
+263
+00:07:36,080 --> 00:07:38,240
+of these axis it'll really make it easy
+
+264
+00:07:38,240 --> 00:07:40,000
+to move something up or down or
+
+265
+00:07:40,000 --> 00:07:43,360
+left or right back and forth pressing
+
+266
+00:07:43,360 --> 00:07:45,199
+shift space and g all the time is a bit
+
+267
+00:07:45,199 --> 00:07:47,199
+tedious so you can also use this drop
+
+268
+00:07:47,199 --> 00:07:49,039
+down up here and enable the
+
+269
+00:07:49,039 --> 00:07:52,000
+object gizmo move by default so now when
+
+270
+00:07:52,000 --> 00:07:52,879
+we select something
+
+271
+00:07:52,879 --> 00:07:54,319
+you'll always have the option to be able
+
+272
+00:07:54,319 --> 00:07:56,400
+to drag it out like this drag it up
+
+273
+00:07:56,400 --> 00:07:58,879
+and drag it out one more thing about
+
+274
+00:07:58,879 --> 00:07:59,520
+movement
+
+275
+00:07:59,520 --> 00:08:01,199
+is if we press one on the keyboard to
+
+276
+00:08:01,199 --> 00:08:02,960
+get into vertex select here and i pick
+
+277
+00:08:02,960 --> 00:08:04,400
+this vertex here if i press
+
+278
+00:08:04,400 --> 00:08:06,879
+g it'll move it anywhere but if i press
+
+279
+00:08:06,879 --> 00:08:08,639
+g again
+
+280
+00:08:08,639 --> 00:08:10,720
+it'll actually slide it it's a sliding
+
+281
+00:08:10,720 --> 00:08:12,080
+method that's really handy
+
+282
+00:08:12,080 --> 00:08:13,440
+to do if you want to just slide this
+
+283
+00:08:13,440 --> 00:08:15,759
+vertex along here or this one
+
+284
+00:08:15,759 --> 00:08:17,840
+you want to slide it you press g again
+
+285
+00:08:17,840 --> 00:08:19,599
+and that makes it easy to slide it along
+
+286
+00:08:19,599 --> 00:08:20,160
+one edge
+
+287
+00:08:20,160 --> 00:08:22,879
+the next one is scaling so if i select
+
+288
+00:08:22,879 --> 00:08:24,479
+three on the keyboard and i press this
+
+289
+00:08:24,479 --> 00:08:28,160
+face here i can press s to scale it
+
+290
+00:08:28,160 --> 00:08:30,319
+and you can press this one scale it up
+
+291
+00:08:30,319 --> 00:08:31,759
+and down and when you scale it
+
+292
+00:08:31,759 --> 00:08:33,679
+if it really moves like this quick it's
+
+293
+00:08:33,679 --> 00:08:34,958
+because you press scale when you're
+
+294
+00:08:34,958 --> 00:08:36,320
+right near the center of it so i
+
+295
+00:08:36,320 --> 00:08:37,760
+recommend that you move your mouse out a
+
+296
+00:08:37,760 --> 00:08:38,320
+little bit
+
+297
+00:08:38,320 --> 00:08:39,679
+press scale because then you'll have
+
+298
+00:08:39,679 --> 00:08:41,440
+more control when you scale it up and
+
+299
+00:08:41,440 --> 00:08:42,240
+down
+
+300
+00:08:42,240 --> 00:08:44,080
+also when you scale something if i
+
+301
+00:08:44,080 --> 00:08:46,000
+select these two faces i hold the shift
+
+302
+00:08:46,000 --> 00:08:47,600
+key and select both of these and i press
+
+303
+00:08:47,600 --> 00:08:49,200
+scale you can see that it scales pretty
+
+304
+00:08:49,200 --> 00:08:50,959
+much the whole cube maybe that's not
+
+305
+00:08:50,959 --> 00:08:52,160
+always what you want
+
+306
+00:08:52,160 --> 00:08:53,920
+you can then press period on your
+
+307
+00:08:53,920 --> 00:08:56,080
+keyboard and by default it's using
+
+308
+00:08:56,080 --> 00:08:58,080
+medium point which is in the center here
+
+309
+00:08:58,080 --> 00:08:59,920
+but we'll switch this one to individual
+
+310
+00:08:59,920 --> 00:09:00,959
+origins
+
+311
+00:09:00,959 --> 00:09:03,360
+and now when you scale it it just scales
+
+312
+00:09:03,360 --> 00:09:04,080
+it along
+
+313
+00:09:04,080 --> 00:09:06,720
+its own individual phase origin here so
+
+314
+00:09:06,720 --> 00:09:08,160
+maybe that's what you're after sometimes
+
+315
+00:09:08,160 --> 00:09:09,839
+if it doesn't work the way you want
+
+316
+00:09:09,839 --> 00:09:11,519
+but let's go back to medium point which
+
+317
+00:09:11,519 --> 00:09:12,959
+is also common to use
+
+318
+00:09:12,959 --> 00:09:16,080
+the next hotkey is e to extrude and if i
+
+319
+00:09:16,080 --> 00:09:17,839
+select this face and i press e to
+
+320
+00:09:17,839 --> 00:09:18,480
+extrude
+
+321
+00:09:18,480 --> 00:09:20,800
+basically it just takes that whole face
+
+322
+00:09:20,800 --> 00:09:22,240
+and it extrudes it up
+
+323
+00:09:22,240 --> 00:09:24,320
+this is really useful when it comes to
+
+324
+00:09:24,320 --> 00:09:25,440
+low poly modelling
+
+325
+00:09:25,440 --> 00:09:27,519
+you can click on any face and press e to
+
+326
+00:09:27,519 --> 00:09:29,519
+extrude it e to extrude it again
+
+327
+00:09:29,519 --> 00:09:33,440
+e to extrude e to extrude e to extrude
+
+328
+00:09:33,440 --> 00:09:35,440
+you can go crazy with this e to extrude
+
+329
+00:09:35,440 --> 00:09:36,959
+e to extrude
+
+330
+00:09:36,959 --> 00:09:38,399
+and when you combine this with s to
+
+331
+00:09:38,399 --> 00:09:40,640
+scale you can quickly start shaping out
+
+332
+00:09:40,640 --> 00:09:41,200
+objects
+
+333
+00:09:41,200 --> 00:09:44,000
+so you e to extrude s to scale e to
+
+334
+00:09:44,000 --> 00:09:45,680
+extrude e to extrude
+
+335
+00:09:45,680 --> 00:09:48,320
+s to scale and the more you become
+
+336
+00:09:48,320 --> 00:09:49,680
+comfortable with this method
+
+337
+00:09:49,680 --> 00:09:51,920
+of just scaling and extruding you'll be
+
+338
+00:09:51,920 --> 00:09:53,519
+able to create something let's go all
+
+339
+00:09:53,519 --> 00:09:55,360
+the way back down here
+
+340
+00:09:55,360 --> 00:09:57,120
+to a small object let's colorize the
+
+341
+00:09:57,120 --> 00:09:59,519
+whole object i'll press a here
+
+342
+00:09:59,519 --> 00:10:02,560
+s to scale it to 0 here on the left
+
+343
+00:10:02,560 --> 00:10:04,480
+the mouse has to be over the uv here to
+
+344
+00:10:04,480 --> 00:10:05,600
+scale this uv
+
+345
+00:10:05,600 --> 00:10:08,399
+2d space here to zero i press g to move
+
+346
+00:10:08,399 --> 00:10:09,920
+it let's move it back to a gray color
+
+347
+00:10:09,920 --> 00:10:10,320
+here
+
+348
+00:10:10,320 --> 00:10:13,200
+so recolor the whole object now to gray
+
+349
+00:10:13,200 --> 00:10:14,720
+and let's say i just wanted to create
+
+350
+00:10:14,720 --> 00:10:16,000
+something like
+
+351
+00:10:16,000 --> 00:10:18,320
+a skyscraper or something then basically
+
+352
+00:10:18,320 --> 00:10:19,200
+if i just
+
+353
+00:10:19,200 --> 00:10:20,640
+what we've learned so far let's move
+
+354
+00:10:20,640 --> 00:10:22,560
+these out a little bit
+
+355
+00:10:22,560 --> 00:10:24,800
+and then here let's select this one drag
+
+356
+00:10:24,800 --> 00:10:25,920
+it up a little bit
+
+357
+00:10:25,920 --> 00:10:28,959
+and now press e to extrude s to scale it
+
+358
+00:10:28,959 --> 00:10:29,519
+down
+
+359
+00:10:29,519 --> 00:10:31,920
+e to extrude again e to extrude s to
+
+360
+00:10:31,920 --> 00:10:33,680
+scale e to extrude
+
+361
+00:10:33,680 --> 00:10:36,000
+e to extrude s to scale and then we
+
+362
+00:10:36,000 --> 00:10:37,440
+could just narrow it off here
+
+363
+00:10:37,440 --> 00:10:40,240
+e to extrude s to scale e to extrude s
+
+364
+00:10:40,240 --> 00:10:41,760
+to scale e to extrude
+
+365
+00:10:41,760 --> 00:10:43,440
+let's make a little ball here e to
+
+366
+00:10:43,440 --> 00:10:45,680
+extrude s to scale e to extrude
+
+367
+00:10:45,680 --> 00:10:47,200
+that's the scale you can also type in
+
+368
+00:10:47,200 --> 00:10:49,200
+values if you wanted to scale this
+
+369
+00:10:49,200 --> 00:10:50,240
+infinitely down
+
+370
+00:10:50,240 --> 00:10:52,800
+you can type zero now and that basically
+
+371
+00:10:52,800 --> 00:10:54,480
+scales this phase now
+
+372
+00:10:54,480 --> 00:10:57,519
+that we learned before down to zero and
+
+373
+00:10:57,519 --> 00:10:59,200
+now we've created something that could
+
+374
+00:10:59,200 --> 00:11:01,120
+be turned into a skyscraper by just
+
+375
+00:11:01,120 --> 00:11:02,959
+extruding and scaling and moving a
+
+376
+00:11:02,959 --> 00:11:04,399
+little bit let's say we selected a few
+
+377
+00:11:04,399 --> 00:11:06,640
+of these faces now like this
+
+378
+00:11:06,640 --> 00:11:08,320
+there's also some tricks with extrusion
+
+379
+00:11:08,320 --> 00:11:10,640
+here and if i were to press e to extrude
+
+380
+00:11:10,640 --> 00:11:11,920
+now you can see that it just
+
+381
+00:11:11,920 --> 00:11:13,279
+doesn't really know what to do it just
+
+382
+00:11:13,279 --> 00:11:15,519
+slides it up and
+
+383
+00:11:15,519 --> 00:11:17,519
+basically nothing really happened there
+
+384
+00:11:17,519 --> 00:11:19,600
+so let's press ctrl z and try that again
+
+385
+00:11:19,600 --> 00:11:20,720
+and this time we press
+
+386
+00:11:20,720 --> 00:11:24,000
+alt e instead and then we do extrude
+
+387
+00:11:24,000 --> 00:11:27,200
+faces along normals and now magically it
+
+388
+00:11:27,200 --> 00:11:28,000
+just expands
+
+389
+00:11:28,000 --> 00:11:30,800
+outwards the normal of a face is a line
+
+390
+00:11:30,800 --> 00:11:31,600
+that faces
+
+391
+00:11:31,600 --> 00:11:33,440
+perpendicular to the surface of the
+
+392
+00:11:33,440 --> 00:11:35,600
+object and by using extrude along
+
+393
+00:11:35,600 --> 00:11:37,920
+normals it takes each face and goes oh
+
+394
+00:11:37,920 --> 00:11:39,680
+my normal is this way well my normal is
+
+395
+00:11:39,680 --> 00:11:41,440
+this way mineral is this way and mine
+
+396
+00:11:41,440 --> 00:11:43,120
+and then it extrudes it that way instead
+
+397
+00:11:43,120 --> 00:11:44,560
+there was another thing we spotted and
+
+398
+00:11:44,560 --> 00:11:45,600
+that's if you do alt
+
+399
+00:11:45,600 --> 00:11:48,240
+e again and then you do extrude
+
+400
+00:11:48,240 --> 00:11:48,880
+individual
+
+401
+00:11:48,880 --> 00:11:52,000
+faces and now suddenly it takes all four
+
+402
+00:11:52,000 --> 00:11:53,519
+of those faces and extrudes them
+
+403
+00:11:53,519 --> 00:11:54,399
+individually
+
+404
+00:11:54,399 --> 00:11:58,079
+also really good now if we scale it
+
+405
+00:11:58,079 --> 00:11:59,920
+remember now we've got the medium point
+
+406
+00:11:59,920 --> 00:12:02,000
+which is why it scales it down
+
+407
+00:12:02,000 --> 00:12:03,200
+so if you wanted to get rid of that
+
+408
+00:12:03,200 --> 00:12:05,279
+remember we press period and switch to
+
+409
+00:12:05,279 --> 00:12:06,480
+individual origins
+
+410
+00:12:06,480 --> 00:12:08,560
+and now when i press scale it scales
+
+411
+00:12:08,560 --> 00:12:09,839
+those down this would be a really
+
+412
+00:12:09,839 --> 00:12:11,120
+strange skyscraper
+
+413
+00:12:11,120 --> 00:12:12,720
+so we're not going to make a skyscraper
+
+414
+00:12:12,720 --> 00:12:14,240
+out of this one there is one more method
+
+415
+00:12:14,240 --> 00:12:15,600
+that you can use to extrude
+
+416
+00:12:15,600 --> 00:12:18,000
+and if you select any face here i press
+
+417
+00:12:18,000 --> 00:12:19,360
+three on the keyboard into face select
+
+418
+00:12:19,360 --> 00:12:20,320
+and i
+
+419
+00:12:20,320 --> 00:12:22,720
+get this face here i can hold the ctrl
+
+420
+00:12:22,720 --> 00:12:24,160
+key down and right click
+
+421
+00:12:24,160 --> 00:12:26,160
+and that'll extrude it automatically to
+
+422
+00:12:26,160 --> 00:12:28,399
+that location just hold the ctrl key
+
+423
+00:12:28,399 --> 00:12:30,880
+and right click and that'll follow along
+
+424
+00:12:30,880 --> 00:12:32,399
+one good thing to keep in mind here is
+
+425
+00:12:32,399 --> 00:12:32,959
+if i
+
+426
+00:12:32,959 --> 00:12:35,040
+select this face here and i press one on
+
+427
+00:12:35,040 --> 00:12:37,200
+the keypad to go into front view
+
+428
+00:12:37,200 --> 00:12:39,120
+now if i hold the ctrl key and right
+
+429
+00:12:39,120 --> 00:12:40,639
+click i know that everything will be
+
+430
+00:12:40,639 --> 00:12:41,839
+aligned
+
+431
+00:12:41,839 --> 00:12:43,839
+perfectly let's rotate with the middle
+
+432
+00:12:43,839 --> 00:12:45,440
+mouse button you can see that
+
+433
+00:12:45,440 --> 00:12:48,079
+and we can even go to the side view here
+
+434
+00:12:48,079 --> 00:12:49,680
+you can see that it's perfectly straight
+
+435
+00:12:49,680 --> 00:12:50,560
+this one behind
+
+436
+00:12:50,560 --> 00:12:52,000
+be aware though that when you do this
+
+437
+00:12:52,000 --> 00:12:53,680
+method you can
+
+438
+00:12:53,680 --> 00:12:55,360
+so you don't go too sharp if i were to
+
+439
+00:12:55,360 --> 00:12:57,040
+go too sharp here
+
+440
+00:12:57,040 --> 00:12:58,800
+then you can see we have this back face
+
+441
+00:12:58,800 --> 00:13:01,120
+problem that we described before
+
+442
+00:13:01,120 --> 00:13:02,800
+let's cancel out of this one controls
+
+443
+00:13:02,800 --> 00:13:04,399
+that a whole bunch of times so we go
+
+444
+00:13:04,399 --> 00:13:05,760
+back to here
+
+445
+00:13:05,760 --> 00:13:07,519
+there's another hotkey that's really
+
+446
+00:13:07,519 --> 00:13:10,240
+useful and that's to rotate things and r
+
+447
+00:13:10,240 --> 00:13:11,920
+is the hotkey for that so if you just
+
+448
+00:13:11,920 --> 00:13:12,480
+press
+
+449
+00:13:12,480 --> 00:13:14,240
+r on a face here you can see that you
+
+450
+00:13:14,240 --> 00:13:16,320
+can twist it
+
+451
+00:13:16,320 --> 00:13:18,800
+here i'll select this one r to rotate it
+
+452
+00:13:18,800 --> 00:13:19,440
+and
+
+453
+00:13:19,440 --> 00:13:22,000
+if i have multiple ones selected here
+
+454
+00:13:22,000 --> 00:13:22,880
+and press r
+
+455
+00:13:22,880 --> 00:13:25,360
+it'll rotate it you can combine r to
+
+456
+00:13:25,360 --> 00:13:27,200
+rotate so if if we select this one and
+
+457
+00:13:27,200 --> 00:13:28,720
+you do e to extrude
+
+458
+00:13:28,720 --> 00:13:31,279
+and you press r to rotate e to extrude r
+
+459
+00:13:31,279 --> 00:13:32,959
+to rotate e to extrude
+
+460
+00:13:32,959 --> 00:13:35,360
+or to rotate this is also quite useful
+
+461
+00:13:35,360 --> 00:13:37,600
+you can also rotate around a fixed axis
+
+462
+00:13:37,600 --> 00:13:40,240
+so if i select this face i press e to
+
+463
+00:13:40,240 --> 00:13:40,959
+extrude it
+
+464
+00:13:40,959 --> 00:13:42,880
+and then i press r to rotate it this
+
+465
+00:13:42,880 --> 00:13:45,199
+also works for moving and scaling things
+
+466
+00:13:45,199 --> 00:13:46,880
+but if i press the keyboard now to
+
+467
+00:13:46,880 --> 00:13:48,399
+represent one of the axes like
+
+468
+00:13:48,399 --> 00:13:50,639
+y for example to represent the green y
+
+469
+00:13:50,639 --> 00:13:52,000
+axis you can see that it created a
+
+470
+00:13:52,000 --> 00:13:52,959
+guideline here
+
+471
+00:13:52,959 --> 00:13:55,199
+and now it forces rotation around that
+
+472
+00:13:55,199 --> 00:13:56,639
+axis if i were to
+
+473
+00:13:56,639 --> 00:13:59,199
+switch to x it'll rotate around the
+
+474
+00:13:59,199 --> 00:14:00,639
+x-axis and if i press
+
+475
+00:14:00,639 --> 00:14:03,199
+z it'll rotate around the z axis and
+
+476
+00:14:03,199 --> 00:14:04,720
+this is a really useful way
+
+477
+00:14:04,720 --> 00:14:06,560
+to force rotations if you want to do it
+
+478
+00:14:06,560 --> 00:14:08,160
+around one axis
+
+479
+00:14:08,160 --> 00:14:10,880
+also when you rotate you can type in the
+
+480
+00:14:10,880 --> 00:14:12,320
+amount that you want to rotate if i
+
+481
+00:14:12,320 --> 00:14:14,160
+press r to rotate
+
+482
+00:14:14,160 --> 00:14:17,040
+i press y to rotate it around the y axis
+
+483
+00:14:17,040 --> 00:14:17,920
+and then i just
+
+484
+00:14:17,920 --> 00:14:21,120
+let go of the mouse now and i type 90.
+
+485
+00:14:21,120 --> 00:14:23,839
+then it twists that face but be aware
+
+486
+00:14:23,839 --> 00:14:25,120
+you don't want to rotate that much
+
+487
+00:14:25,120 --> 00:14:27,120
+because it breaks the geometry so if we
+
+488
+00:14:27,120 --> 00:14:28,639
+redo that one
+
+489
+00:14:28,639 --> 00:14:31,600
+r to rotate y on the y axis and then
+
+490
+00:14:31,600 --> 00:14:32,160
+type in
+
+491
+00:14:32,160 --> 00:14:35,519
+45 degrees okay another useful hotkey
+
+492
+00:14:35,519 --> 00:14:37,760
+for hard surface modeling is
+
+493
+00:14:37,760 --> 00:14:40,079
+eye to inset so if i select this face
+
+494
+00:14:40,079 --> 00:14:42,160
+and i press i to inset you can see that
+
+495
+00:14:42,160 --> 00:14:43,279
+it just creates an
+
+496
+00:14:43,279 --> 00:14:46,399
+inset face here and if i wanted to
+
+497
+00:14:46,399 --> 00:14:47,760
+now we could extrude that one for
+
+498
+00:14:47,760 --> 00:14:50,079
+example and you can also after you do i
+
+499
+00:14:50,079 --> 00:14:50,880
+to inset
+
+500
+00:14:50,880 --> 00:14:53,120
+you can also extrude downwards to sync
+
+501
+00:14:53,120 --> 00:14:54,800
+into the object
+
+502
+00:14:54,800 --> 00:14:59,120
+i to inset b to extrude s to scale
+
+503
+00:14:59,120 --> 00:15:03,040
+e to extrude i to inset e to extrude
+
+504
+00:15:03,040 --> 00:15:04,959
+and you could create like a sci-fi
+
+505
+00:15:04,959 --> 00:15:06,959
+skyscraper or a building
+
+506
+00:15:06,959 --> 00:15:08,959
+really fast doing this method so
+
+507
+00:15:08,959 --> 00:15:10,079
+remember we've got
+
+508
+00:15:10,079 --> 00:15:13,360
+g to move s to scale
+
+509
+00:15:13,360 --> 00:15:16,959
+e to extrude i to inset and these keys
+
+510
+00:15:16,959 --> 00:15:17,279
+are
+
+511
+00:15:17,279 --> 00:15:19,199
+lethal when it comes to low poly
+
+512
+00:15:19,199 --> 00:15:20,639
+modeling so you should really get the
+
+513
+00:15:20,639 --> 00:15:21,360
+hang of those
+
+514
+00:15:21,360 --> 00:15:23,120
+do it as much as possible when it comes
+
+515
+00:15:23,120 --> 00:15:24,399
+to in setting as well
+
+516
+00:15:24,399 --> 00:15:26,560
+let's say you select multiple faces like
+
+517
+00:15:26,560 --> 00:15:28,560
+these i hold the shift key to select
+
+518
+00:15:28,560 --> 00:15:29,920
+multiple one
+
+519
+00:15:29,920 --> 00:15:31,839
+if i press i to inset now you can see
+
+520
+00:15:31,839 --> 00:15:33,040
+that it creates
+
+521
+00:15:33,040 --> 00:15:35,360
+one single insert for all of these faces
+
+522
+00:15:35,360 --> 00:15:37,040
+quite often this is the way you want it
+
+523
+00:15:37,040 --> 00:15:39,120
+like let's say we wanted to extrude that
+
+524
+00:15:39,120 --> 00:15:40,880
+could be quite common maybe you have a
+
+525
+00:15:40,880 --> 00:15:42,800
+building complex or a
+
+526
+00:15:42,800 --> 00:15:45,120
+pentagon or something like that then you
+
+527
+00:15:45,120 --> 00:15:45,920
+want to do that
+
+528
+00:15:45,920 --> 00:15:48,560
+but sometimes when you do i to inset you
+
+529
+00:15:48,560 --> 00:15:49,360
+can press i
+
+530
+00:15:49,360 --> 00:15:51,920
+again and that makes individual
+
+531
+00:15:51,920 --> 00:15:53,199
+insetting
+
+532
+00:15:53,199 --> 00:15:55,199
+and if you extrude those then suddenly
+
+533
+00:15:55,199 --> 00:15:57,279
+you've created individual faces
+
+534
+00:15:57,279 --> 00:16:00,079
+delete this one now i'll do shift a and
+
+535
+00:16:00,079 --> 00:16:01,680
+create a new cube so we're back to where
+
+536
+00:16:01,680 --> 00:16:02,639
+we started
+
+537
+00:16:02,639 --> 00:16:04,480
+let's say we wanted to make a skyscraper
+
+538
+00:16:04,480 --> 00:16:06,240
+out of this one now i do go tab into
+
+539
+00:16:06,240 --> 00:16:07,279
+edit mode
+
+540
+00:16:07,279 --> 00:16:09,839
+maybe slide this one up let's press
+
+541
+00:16:09,839 --> 00:16:10,959
+these two
+
+542
+00:16:10,959 --> 00:16:12,639
+with the shift key scale and then i
+
+543
+00:16:12,639 --> 00:16:15,440
+press x to scale it on the x axis
+
+544
+00:16:15,440 --> 00:16:17,360
+here let's move this one up a little bit
+
+545
+00:16:17,360 --> 00:16:19,920
+e to extrude s to scale e to extrude e
+
+546
+00:16:19,920 --> 00:16:20,560
+to extrude
+
+547
+00:16:20,560 --> 00:16:22,720
+s to scale e to extrude e to extrude s
+
+548
+00:16:22,720 --> 00:16:24,160
+to scale e to extrude
+
+549
+00:16:24,160 --> 00:16:26,240
+e to extrude s to scale let's say we
+
+550
+00:16:26,240 --> 00:16:27,680
+just have it like this now instead
+
+551
+00:16:27,680 --> 00:16:29,440
+now you could create for example if you
+
+552
+00:16:29,440 --> 00:16:31,519
+wanted to expand here e to extrude
+
+553
+00:16:31,519 --> 00:16:34,560
+b to extrude e to extrude
+
+554
+00:16:34,560 --> 00:16:38,079
+e to extrude and remember with inset now
+
+555
+00:16:38,079 --> 00:16:38,480
+as well
+
+556
+00:16:38,480 --> 00:16:41,600
+if i select a few of these faces i to
+
+557
+00:16:41,600 --> 00:16:42,720
+inset
+
+558
+00:16:42,720 --> 00:16:44,399
+and i've already got individual you can
+
+559
+00:16:44,399 --> 00:16:46,880
+see at the top there individual is on
+
+560
+00:16:46,880 --> 00:16:48,639
+so you toggle with the i again if you
+
+561
+00:16:48,639 --> 00:16:50,320
+wanted to just inset it like this
+
+562
+00:16:50,320 --> 00:16:52,399
+and you can inset it again and s to
+
+563
+00:16:52,399 --> 00:16:54,320
+scale it you can start creating a lot of
+
+564
+00:16:54,320 --> 00:16:56,240
+details on your objects by doing it this
+
+565
+00:16:56,240 --> 00:16:57,360
+way
+
+566
+00:16:57,360 --> 00:16:59,600
+and here let's say we wanted to create
+
+567
+00:16:59,600 --> 00:17:00,880
+an indentation for
+
+568
+00:17:00,880 --> 00:17:03,040
+something that could look like a roof i
+
+569
+00:17:03,040 --> 00:17:04,559
+hold the shift key and select these two
+
+570
+00:17:04,559 --> 00:17:05,359
+faces
+
+571
+00:17:05,359 --> 00:17:08,880
+press i to inset e to extrude it down
+
+572
+00:17:08,880 --> 00:17:11,119
+select these two with the shift key i to
+
+573
+00:17:11,119 --> 00:17:13,919
+inset and e to extrude it down
+
+574
+00:17:13,919 --> 00:17:15,199
+so now we're starting to be able to
+
+575
+00:17:15,199 --> 00:17:17,199
+model maybe a sci-fi city really fast
+
+576
+00:17:17,199 --> 00:17:18,720
+this way i also want to show if you've
+
+577
+00:17:18,720 --> 00:17:19,119
+got
+
+578
+00:17:19,119 --> 00:17:20,799
+the mirror modifier on this is another
+
+579
+00:17:20,799 --> 00:17:22,480
+question i get a lot a lot
+
+580
+00:17:22,480 --> 00:17:25,280
+and you press i to inset sometimes you
+
+581
+00:17:25,280 --> 00:17:25,919
+want
+
+582
+00:17:25,919 --> 00:17:29,120
+this center face here not to appear and
+
+583
+00:17:29,120 --> 00:17:30,400
+there's a hotkey for that
+
+584
+00:17:30,400 --> 00:17:32,400
+and if you press i to inset and then you
+
+585
+00:17:32,400 --> 00:17:34,080
+press b on your keyboard
+
+586
+00:17:34,080 --> 00:17:35,840
+it'll magically remove that one if
+
+587
+00:17:35,840 --> 00:17:37,360
+you're using the mirror modifier we're
+
+588
+00:17:37,360 --> 00:17:38,799
+going to cover the mirror modifier later
+
+589
+00:17:38,799 --> 00:17:39,120
+on
+
+590
+00:17:39,120 --> 00:17:41,120
+just so you know now though that b is
+
+591
+00:17:41,120 --> 00:17:42,720
+the hotkey for boundary
+
+592
+00:17:42,720 --> 00:17:44,559
+and that way you'll get rid of that
+
+593
+00:17:44,559 --> 00:17:46,160
+center face if
+
+594
+00:17:46,160 --> 00:17:48,640
+b doesn't work for you like this it
+
+595
+00:17:48,640 --> 00:17:50,080
+could be because you've selected
+
+596
+00:17:50,080 --> 00:17:51,360
+individual faces
+
+597
+00:17:51,360 --> 00:17:53,520
+so if i have these two selected i do i
+
+598
+00:17:53,520 --> 00:17:54,720
+to inset
+
+599
+00:17:54,720 --> 00:17:58,400
+i to inset again now suddenly i do it in
+
+600
+00:17:58,400 --> 00:17:59,440
+set and then i want to do
+
+601
+00:17:59,440 --> 00:18:03,120
+b it doesn't work and no matter how hard
+
+602
+00:18:03,120 --> 00:18:03,760
+you press b
+
+603
+00:18:03,760 --> 00:18:05,280
+it won't work and that's because you've
+
+604
+00:18:05,280 --> 00:18:07,280
+got individual on so toggle off
+
+605
+00:18:07,280 --> 00:18:08,240
+individual first
+
+606
+00:18:08,240 --> 00:18:10,720
+and now b works so just a little side
+
+607
+00:18:10,720 --> 00:18:11,360
+note
+
+608
+00:18:11,360 --> 00:18:12,799
+one more thing that's useful is
+
+609
+00:18:12,799 --> 00:18:14,799
+proportional editing and that's a little
+
+610
+00:18:14,799 --> 00:18:15,919
+thing up here
+
+611
+00:18:15,919 --> 00:18:17,919
+you can press o which is a hotkey for
+
+612
+00:18:17,919 --> 00:18:19,520
+proportional editing
+
+613
+00:18:19,520 --> 00:18:20,960
+you should really learn these hotkeys by
+
+614
+00:18:20,960 --> 00:18:22,320
+the way they'll save you a lot of time
+
+615
+00:18:22,320 --> 00:18:24,160
+but you can also press up here
+
+616
+00:18:24,160 --> 00:18:26,160
+and now when i press g you can see i've
+
+617
+00:18:26,160 --> 00:18:28,080
+got a little circle around here and you
+
+618
+00:18:28,080 --> 00:18:30,000
+can use the scroll wheel now to change
+
+619
+00:18:30,000 --> 00:18:30,960
+the circle
+
+620
+00:18:30,960 --> 00:18:34,000
+and this way we can proportionally edit
+
+621
+00:18:34,000 --> 00:18:35,440
+the whole object here which is really
+
+622
+00:18:35,440 --> 00:18:37,200
+useful maybe not for a skyscraper but
+
+623
+00:18:37,200 --> 00:18:38,400
+there will be many times
+
+624
+00:18:38,400 --> 00:18:40,480
+especially if i want to make some let's
+
+625
+00:18:40,480 --> 00:18:41,760
+say you had a little building and you
+
+626
+00:18:41,760 --> 00:18:43,360
+wanted to make some more character on it
+
+627
+00:18:43,360 --> 00:18:44,559
+or you were creating an
+
+628
+00:18:44,559 --> 00:18:45,919
+island and you want to drag up the
+
+629
+00:18:45,919 --> 00:18:47,600
+surface or you're creating stones or
+
+630
+00:18:47,600 --> 00:18:48,480
+something like that
+
+631
+00:18:48,480 --> 00:18:50,960
+you can switch up here from different uh
+
+632
+00:18:50,960 --> 00:18:52,720
+the default one here is smooth you could
+
+633
+00:18:52,720 --> 00:18:54,400
+also do random for example
+
+634
+00:18:54,400 --> 00:18:55,919
+and now when you move it'll start moving
+
+635
+00:18:55,919 --> 00:18:57,840
+things randomly so that's also very
+
+636
+00:18:57,840 --> 00:18:58,480
+useful
+
+637
+00:18:58,480 --> 00:18:59,919
+let's put this a little bit to the test
+
+638
+00:18:59,919 --> 00:19:01,919
+now if i hide that one i
+
+639
+00:19:01,919 --> 00:19:04,320
+do shift a to add a new cube here and
+
+640
+00:19:04,320 --> 00:19:05,360
+let's start fresh
+
+641
+00:19:05,360 --> 00:19:07,679
+i'd like to go in fresh let's say you
+
+642
+00:19:07,679 --> 00:19:09,360
+want to make a crate now let's make an
+
+643
+00:19:09,360 --> 00:19:10,000
+actual object
+
+644
+00:19:10,000 --> 00:19:12,799
+that we could be proud of when i create
+
+645
+00:19:12,799 --> 00:19:13,600
+a new object
+
+646
+00:19:13,600 --> 00:19:14,880
+often you have to go back into the
+
+647
+00:19:14,880 --> 00:19:16,960
+shading tab by the way and then
+
+648
+00:19:16,960 --> 00:19:18,880
+when the object is selected you switch
+
+649
+00:19:18,880 --> 00:19:21,120
+back to material if it disappears you
+
+650
+00:19:21,120 --> 00:19:22,000
+know why
+
+651
+00:19:22,000 --> 00:19:23,360
+it's because when you create a new
+
+652
+00:19:23,360 --> 00:19:24,960
+object it won't have that material by
+
+653
+00:19:24,960 --> 00:19:25,760
+default
+
+654
+00:19:25,760 --> 00:19:27,280
+now let's see what we've learned we
+
+655
+00:19:27,280 --> 00:19:29,200
+press tab into edit mode
+
+656
+00:19:29,200 --> 00:19:31,280
+a just make sure a to select everything
+
+657
+00:19:31,280 --> 00:19:34,480
+here on the left side here i press a
+
+658
+00:19:34,480 --> 00:19:37,600
+scale 0 and enter
+
+659
+00:19:37,600 --> 00:19:40,559
+and i press g here to move these uvs
+
+660
+00:19:40,559 --> 00:19:41,360
+it's called
+
+661
+00:19:41,360 --> 00:19:44,640
+to here to make a brown box like a wood
+
+662
+00:19:44,640 --> 00:19:45,679
+box
+
+663
+00:19:45,679 --> 00:19:48,080
+i press three on the keyboard now and
+
+664
+00:19:48,080 --> 00:19:48,720
+now i've got
+
+665
+00:19:48,720 --> 00:19:50,400
+face select that's what we switched to
+
+666
+00:19:50,400 --> 00:19:53,360
+with three here now we press i to inset
+
+667
+00:19:53,360 --> 00:19:55,280
+and we had individual on from before
+
+668
+00:19:55,280 --> 00:19:56,720
+normally you'd probably get to this
+
+669
+00:19:56,720 --> 00:19:58,000
+where nothing is happening
+
+670
+00:19:58,000 --> 00:20:00,320
+but when you press i again to switch on
+
+671
+00:20:00,320 --> 00:20:01,039
+individual
+
+672
+00:20:01,039 --> 00:20:03,280
+you get this magic here and then
+
+673
+00:20:03,280 --> 00:20:04,640
+remember what we learned something else
+
+674
+00:20:04,640 --> 00:20:05,200
+we did
+
+675
+00:20:05,200 --> 00:20:08,559
+alt e to extrude along face normals
+
+676
+00:20:08,559 --> 00:20:10,559
+and i drag it in a little bit and now
+
+677
+00:20:10,559 --> 00:20:11,919
+we've already created something that
+
+678
+00:20:11,919 --> 00:20:13,440
+looks a little bit like a crate
+
+679
+00:20:13,440 --> 00:20:15,200
+a box that brings us to another
+
+680
+00:20:15,200 --> 00:20:16,640
+technique that we could do and
+
+681
+00:20:16,640 --> 00:20:18,960
+if i select i press two on the keyboard
+
+682
+00:20:18,960 --> 00:20:20,000
+and i hold the shift
+
+683
+00:20:20,000 --> 00:20:22,080
+key to multiple select these edges here
+
+684
+00:20:22,080 --> 00:20:23,919
+now here's another thing
+
+685
+00:20:23,919 --> 00:20:27,440
+ctrl b is bevel and if i press that and
+
+686
+00:20:27,440 --> 00:20:28,480
+drag a little bit
+
+687
+00:20:28,480 --> 00:20:30,640
+it bevels the edges that i selected
+
+688
+00:20:30,640 --> 00:20:32,480
+there is also a way to do if i select
+
+689
+00:20:32,480 --> 00:20:33,840
+these at the bottom here i hold the
+
+690
+00:20:33,840 --> 00:20:34,559
+shift key
+
+691
+00:20:34,559 --> 00:20:37,360
+ctrl b to bevel if you expand this
+
+692
+00:20:37,360 --> 00:20:38,720
+little one at the bottom here
+
+693
+00:20:38,720 --> 00:20:40,240
+you could actually increase the number
+
+694
+00:20:40,240 --> 00:20:41,760
+of segments
+
+695
+00:20:41,760 --> 00:20:44,159
+if you wanted it to be rounder when
+
+696
+00:20:44,159 --> 00:20:46,159
+doing low poly i rarely use that but
+
+697
+00:20:46,159 --> 00:20:47,280
+it's good to know that you could
+
+698
+00:20:47,280 --> 00:20:48,080
+actually have more
+
+699
+00:20:48,080 --> 00:20:50,320
+levels to this if you wanted to there's
+
+700
+00:20:50,320 --> 00:20:52,880
+also something called shrink and flatten
+
+701
+00:20:52,880 --> 00:20:55,360
+if i press three to get into uh face
+
+702
+00:20:55,360 --> 00:20:58,400
+selector i select these faces
+
+703
+00:20:58,400 --> 00:21:01,280
+and then i do alt s to shrink and
+
+704
+00:21:01,280 --> 00:21:02,480
+flatten
+
+705
+00:21:02,480 --> 00:21:03,760
+that's another method that you could do
+
+706
+00:21:03,760 --> 00:21:05,440
+we've got actually proportional editing
+
+707
+00:21:05,440 --> 00:21:07,200
+on random here now which is why it
+
+708
+00:21:07,200 --> 00:21:08,640
+turned out a little bit weird so let's
+
+709
+00:21:08,640 --> 00:21:09,919
+deselect and do alt
+
+710
+00:21:09,919 --> 00:21:12,159
+s and this basically shrinks and
+
+711
+00:21:12,159 --> 00:21:14,240
+flattens these faces that i do it's
+
+712
+00:21:14,240 --> 00:21:16,080
+different from scale because if i press
+
+713
+00:21:16,080 --> 00:21:18,799
+s to scale it'll scale those faces only
+
+714
+00:21:18,799 --> 00:21:19,919
+but if i do alt
+
+715
+00:21:19,919 --> 00:21:22,559
+s it'll take and shrink and flatten the
+
+716
+00:21:22,559 --> 00:21:24,080
+whole mesh if i do it inwards it'll
+
+717
+00:21:24,080 --> 00:21:25,600
+shrink it i've already mentioned it a
+
+718
+00:21:25,600 --> 00:21:26,400
+few times but
+
+719
+00:21:26,400 --> 00:21:28,720
+you can also create additional geometry
+
+720
+00:21:28,720 --> 00:21:30,400
+so i've got this cube here
+
+721
+00:21:30,400 --> 00:21:33,360
+selected and then if i do shift a when
+
+722
+00:21:33,360 --> 00:21:33,679
+i've
+
+723
+00:21:33,679 --> 00:21:36,240
+when i'm in edit mode remember i do
+
+724
+00:21:36,240 --> 00:21:39,120
+shift a then i can add a cube
+
+725
+00:21:39,120 --> 00:21:40,960
+and i'm still in the same object here
+
+726
+00:21:40,960 --> 00:21:42,159
+but we've got
+
+727
+00:21:42,159 --> 00:21:44,159
+additional geometry this is why it's
+
+728
+00:21:44,159 --> 00:21:45,600
+already colored because we're in the
+
+729
+00:21:45,600 --> 00:21:46,720
+same object now
+
+730
+00:21:46,720 --> 00:21:48,799
+but we've got more geometry more mesh
+
+731
+00:21:48,799 --> 00:21:50,480
+data in here if i do shift a
+
+732
+00:21:50,480 --> 00:21:52,880
+again i could add an icosphere for
+
+733
+00:21:52,880 --> 00:21:54,559
+example and let's move that one to the
+
+734
+00:21:54,559 --> 00:21:54,960
+side
+
+735
+00:21:54,960 --> 00:21:56,799
+often when i model even if i do an
+
+736
+00:21:56,799 --> 00:21:58,640
+entire island or a car or
+
+737
+00:21:58,640 --> 00:22:00,880
+with loads of different parts i often
+
+738
+00:22:00,880 --> 00:22:02,720
+model it in the same object
+
+739
+00:22:02,720 --> 00:22:04,720
+but i have these different meshes and
+
+740
+00:22:04,720 --> 00:22:05,919
+when you press shift a
+
+741
+00:22:05,919 --> 00:22:07,919
+it'll create the geometry wherever this
+
+742
+00:22:07,919 --> 00:22:09,600
+3d cursor is i haven't really mentioned
+
+743
+00:22:09,600 --> 00:22:11,360
+this 3d cursor it's just been sitting
+
+744
+00:22:11,360 --> 00:22:12,960
+there in the center all the time you can
+
+745
+00:22:12,960 --> 00:22:14,000
+place that one by
+
+746
+00:22:14,000 --> 00:22:15,679
+holding shift and right clicking
+
+747
+00:22:15,679 --> 00:22:17,440
+somewhere and that'll move this cursor
+
+748
+00:22:17,440 --> 00:22:19,120
+if you click on an object it'll actually
+
+749
+00:22:19,120 --> 00:22:20,559
+figure out that you wanted it on that
+
+750
+00:22:20,559 --> 00:22:21,360
+surface
+
+751
+00:22:21,360 --> 00:22:23,520
+so when you add something let's shift
+
+752
+00:22:23,520 --> 00:22:24,640
+right click there
+
+753
+00:22:24,640 --> 00:22:27,120
+and then i do shift a and i add another
+
+754
+00:22:27,120 --> 00:22:29,440
+cube it'll place the center of that cube
+
+755
+00:22:29,440 --> 00:22:30,880
+right there sometimes you want to have
+
+756
+00:22:30,880 --> 00:22:32,720
+really specific control of where you
+
+757
+00:22:32,720 --> 00:22:35,120
+place this cursor so if i want it to be
+
+758
+00:22:35,120 --> 00:22:36,880
+right in the center of this face here i
+
+759
+00:22:36,880 --> 00:22:39,200
+have face select on here which is three
+
+760
+00:22:39,200 --> 00:22:40,640
+on the keyboard then you can press
+
+761
+00:22:40,640 --> 00:22:43,760
+shift s and do cursor to selected
+
+762
+00:22:43,760 --> 00:22:45,440
+and that'll place that cursor right
+
+763
+00:22:45,440 --> 00:22:47,520
+there and i often use that to place it
+
+764
+00:22:47,520 --> 00:22:48,799
+exactly where i want it
+
+765
+00:22:48,799 --> 00:22:51,200
+before i do a shift a and maybe i wanted
+
+766
+00:22:51,200 --> 00:22:53,200
+to add a cone there
+
+767
+00:22:53,200 --> 00:22:54,960
+also when you add stuff like this like
+
+768
+00:22:54,960 --> 00:22:56,720
+the icosphere for example let's create a
+
+769
+00:22:56,720 --> 00:22:57,679
+new icosphere
+
+770
+00:22:57,679 --> 00:23:00,159
+shift right click over here shift a
+
+771
+00:23:00,159 --> 00:23:00,960
+let's create
+
+772
+00:23:00,960 --> 00:23:03,760
+an ico sphere then you have often when
+
+773
+00:23:03,760 --> 00:23:05,120
+you create something you have the for
+
+774
+00:23:05,120 --> 00:23:06,880
+example subdivisions here you can
+
+775
+00:23:06,880 --> 00:23:08,640
+step this up if you want more or less
+
+776
+00:23:08,640 --> 00:23:10,559
+detail and if you don't see this one
+
+777
+00:23:10,559 --> 00:23:11,919
+it's probably because it's collapsed
+
+778
+00:23:11,919 --> 00:23:13,280
+down here so you have to click on this
+
+779
+00:23:13,280 --> 00:23:14,480
+expansion thing
+
+780
+00:23:14,480 --> 00:23:16,320
+now we can use what we've learned let's
+
+781
+00:23:16,320 --> 00:23:18,480
+delete everything that we've done so far
+
+782
+00:23:18,480 --> 00:23:20,960
+this building gone if you want to
+
+783
+00:23:20,960 --> 00:23:23,200
+re-center this 3d cursor to the center
+
+784
+00:23:23,200 --> 00:23:23,760
+you can press
+
+785
+00:23:23,760 --> 00:23:25,840
+shift c to re-center it down here in
+
+786
+00:23:25,840 --> 00:23:26,880
+this scene let's
+
+787
+00:23:26,880 --> 00:23:29,919
+shift a add a cube we're going to make a
+
+788
+00:23:29,919 --> 00:23:30,880
+tree now
+
+789
+00:23:30,880 --> 00:23:33,760
+so i tab into edit mode or first we need
+
+790
+00:23:33,760 --> 00:23:35,200
+to go into the shading tab because this
+
+791
+00:23:35,200 --> 00:23:36,880
+time we created a whole new object so we
+
+792
+00:23:36,880 --> 00:23:38,960
+lost this material setting so i
+
+793
+00:23:38,960 --> 00:23:41,360
+switch back to the material go back into
+
+794
+00:23:41,360 --> 00:23:43,200
+this uv editing here
+
+795
+00:23:43,200 --> 00:23:46,799
+let's do a on the left side scale 0
+
+796
+00:23:46,799 --> 00:23:49,200
+press enter g to move this little dot
+
+797
+00:23:49,200 --> 00:23:50,080
+here as well
+
+798
+00:23:50,080 --> 00:23:53,360
+onto brown and now let's create a tree
+
+799
+00:23:53,360 --> 00:23:55,039
+how we learned we scale this down a
+
+800
+00:23:55,039 --> 00:23:56,240
+little bit
+
+801
+00:23:56,240 --> 00:23:57,919
+maybe i view a little bit from the side
+
+802
+00:23:57,919 --> 00:24:00,080
+i press control and i right click
+
+803
+00:24:00,080 --> 00:24:02,400
+s to scale ctrl to right click s to
+
+804
+00:24:02,400 --> 00:24:04,240
+scale control to right click
+
+805
+00:24:04,240 --> 00:24:06,960
+s to scale g to move it if you want
+
+806
+00:24:06,960 --> 00:24:09,520
+purposely i made a small step here
+
+807
+00:24:09,520 --> 00:24:11,840
+because now when i select a side face
+
+808
+00:24:11,840 --> 00:24:12,960
+here i can press
+
+809
+00:24:12,960 --> 00:24:15,200
+either e to extrude it or i can look
+
+810
+00:24:15,200 --> 00:24:16,880
+from the side here and control
+
+811
+00:24:16,880 --> 00:24:19,279
+right click and then s to scale it to
+
+812
+00:24:19,279 --> 00:24:20,640
+extrude that one
+
+813
+00:24:20,640 --> 00:24:22,320
+you can even do two branches at the same
+
+814
+00:24:22,320 --> 00:24:24,159
+time with what we've learned if i select
+
+815
+00:24:24,159 --> 00:24:27,440
+a shift select these two and i do alt e
+
+816
+00:24:27,440 --> 00:24:30,480
+and extrude individual faces and s to
+
+817
+00:24:30,480 --> 00:24:32,159
+scale them
+
+818
+00:24:32,159 --> 00:24:33,440
+and remember if you don't want it to
+
+819
+00:24:33,440 --> 00:24:35,039
+scale down towards the medium point here
+
+820
+00:24:35,039 --> 00:24:35,840
+in the center
+
+821
+00:24:35,840 --> 00:24:37,520
+you press period and you go to
+
+822
+00:24:37,520 --> 00:24:39,200
+individual origins and then you try
+
+823
+00:24:39,200 --> 00:24:40,880
+scaling again
+
+824
+00:24:40,880 --> 00:24:42,080
+and when you have these two phases
+
+825
+00:24:42,080 --> 00:24:43,600
+selected you can actually move them up
+
+826
+00:24:43,600 --> 00:24:45,279
+at the same time you could press r to
+
+827
+00:24:45,279 --> 00:24:47,279
+rotate them together
+
+828
+00:24:47,279 --> 00:24:49,440
+and you could press alt e to extrude
+
+829
+00:24:49,440 --> 00:24:52,320
+this time we'll do along face normals
+
+830
+00:24:52,320 --> 00:24:54,720
+and g to move it up so now we've created
+
+831
+00:24:54,720 --> 00:24:56,159
+a basic stem of a tree
+
+832
+00:24:56,159 --> 00:24:58,240
+and then i wanted to create some leaves
+
+833
+00:24:58,240 --> 00:24:59,679
+here as well and we've learned
+
+834
+00:24:59,679 --> 00:25:01,919
+most of that as well so if i shift and
+
+835
+00:25:01,919 --> 00:25:04,080
+right click at the tip here of that face
+
+836
+00:25:04,080 --> 00:25:06,880
+it placed my 3d cursor up here and then
+
+837
+00:25:06,880 --> 00:25:07,360
+we do
+
+838
+00:25:07,360 --> 00:25:09,440
+shift a because we want to we're still
+
+839
+00:25:09,440 --> 00:25:10,960
+in this object remember now
+
+840
+00:25:10,960 --> 00:25:13,360
+but i do shift a and let's add that ico
+
+841
+00:25:13,360 --> 00:25:14,799
+sphere again
+
+842
+00:25:14,799 --> 00:25:16,320
+and we can play around with how many
+
+843
+00:25:16,320 --> 00:25:18,240
+subdivisions we want but let's keep it
+
+844
+00:25:18,240 --> 00:25:20,640
+low poly looking so we'll keep it at two
+
+845
+00:25:20,640 --> 00:25:21,440
+and then i can press
+
+846
+00:25:21,440 --> 00:25:24,240
+s to scale this whole thing up now and
+
+847
+00:25:24,240 --> 00:25:25,760
+here's the beauty thing that we learned
+
+848
+00:25:25,760 --> 00:25:26,400
+before about
+
+849
+00:25:26,400 --> 00:25:28,320
+quick colorization now if i go to the
+
+850
+00:25:28,320 --> 00:25:30,240
+left side here hover with the mouse
+
+851
+00:25:30,240 --> 00:25:33,039
+press a to select everything here s to
+
+852
+00:25:33,039 --> 00:25:33,840
+scale it
+
+853
+00:25:33,840 --> 00:25:36,880
+and 0 press enter and then
+
+854
+00:25:36,880 --> 00:25:39,840
+still over here g to move it and move it
+
+855
+00:25:39,840 --> 00:25:40,480
+to green
+
+856
+00:25:40,480 --> 00:25:42,159
+now we're coming to a really important
+
+857
+00:25:42,159 --> 00:25:43,760
+method when we want to select something
+
+858
+00:25:43,760 --> 00:25:45,279
+since we're in this same
+
+859
+00:25:45,279 --> 00:25:47,440
+cube object here but we've got two sets
+
+860
+00:25:47,440 --> 00:25:49,279
+of geometries we've got the tree trunk
+
+861
+00:25:49,279 --> 00:25:51,120
+and we've got this ball of leaves here
+
+862
+00:25:51,120 --> 00:25:52,559
+instead of selecting all of this
+
+863
+00:25:52,559 --> 00:25:54,400
+individually with shift now
+
+864
+00:25:54,400 --> 00:25:57,200
+there's an extremely extremely extremely
+
+865
+00:25:57,200 --> 00:25:58,799
+useful thing you should definitely learn
+
+866
+00:25:58,799 --> 00:25:59,360
+this one
+
+867
+00:25:59,360 --> 00:26:02,240
+and that's the l hotkey if i hover the
+
+868
+00:26:02,240 --> 00:26:02,720
+mouse
+
+869
+00:26:02,720 --> 00:26:04,720
+over this ball of leaves and then i
+
+870
+00:26:04,720 --> 00:26:05,840
+press l
+
+871
+00:26:05,840 --> 00:26:08,320
+it'll magically select all of those and
+
+872
+00:26:08,320 --> 00:26:09,120
+that that's
+
+873
+00:26:09,120 --> 00:26:11,840
+select linked since all of these
+
+874
+00:26:11,840 --> 00:26:14,000
+vertices are connected to each other
+
+875
+00:26:14,000 --> 00:26:16,080
+if i press one on the keyboard you can
+
+876
+00:26:16,080 --> 00:26:17,120
+see all of these have
+
+877
+00:26:17,120 --> 00:26:19,760
+lines connecting to each other but none
+
+878
+00:26:19,760 --> 00:26:21,600
+of them have any lines that connect or
+
+879
+00:26:21,600 --> 00:26:23,600
+vertices that connect to this tree trunk
+
+880
+00:26:23,600 --> 00:26:25,440
+and that's how blender will know that if
+
+881
+00:26:25,440 --> 00:26:27,440
+you press l while hovering over one of
+
+882
+00:26:27,440 --> 00:26:28,000
+these
+
+883
+00:26:28,000 --> 00:26:30,000
+it'll select all of these and as i said
+
+884
+00:26:30,000 --> 00:26:31,520
+i often model in
+
+885
+00:26:31,520 --> 00:26:33,440
+the same object here but with multiple
+
+886
+00:26:33,440 --> 00:26:34,799
+features like on the tree here for
+
+887
+00:26:34,799 --> 00:26:35,600
+example
+
+888
+00:26:35,600 --> 00:26:38,240
+and this is by far the most effective
+
+889
+00:26:38,240 --> 00:26:38,960
+way i've
+
+890
+00:26:38,960 --> 00:26:41,360
+found to uh to quickly model things in
+
+891
+00:26:41,360 --> 00:26:42,320
+the same object
+
+892
+00:26:42,320 --> 00:26:43,840
+that'll bring us to another hotkey and
+
+893
+00:26:43,840 --> 00:26:46,240
+that's shift d to duplicate things
+
+894
+00:26:46,240 --> 00:26:46,720
+because
+
+895
+00:26:46,720 --> 00:26:48,320
+we want to have a ball of leaves here
+
+896
+00:26:48,320 --> 00:26:50,559
+and here as well and now if i press
+
+897
+00:26:50,559 --> 00:26:53,039
+shift d i can duplicate this and it'll
+
+898
+00:26:53,039 --> 00:26:54,720
+follow my mouse now and we can try to
+
+899
+00:26:54,720 --> 00:26:55,919
+place it a little bit here
+
+900
+00:26:55,919 --> 00:26:57,440
+but sometimes we have to tweak a little
+
+901
+00:26:57,440 --> 00:26:59,200
+bit but let's place it there
+
+902
+00:26:59,200 --> 00:27:00,880
+and we can use this gizmo remember we
+
+903
+00:27:00,880 --> 00:27:02,240
+enabled that one up here so it's
+
+904
+00:27:02,240 --> 00:27:03,360
+permanent
+
+905
+00:27:03,360 --> 00:27:05,760
+we up here we've got the move object
+
+906
+00:27:05,760 --> 00:27:06,640
+gizmo
+
+907
+00:27:06,640 --> 00:27:08,320
+so we can move it just along these
+
+908
+00:27:08,320 --> 00:27:10,400
+axises here to make sure that it's
+
+909
+00:27:10,400 --> 00:27:13,120
+pretty good and then again shift d we
+
+910
+00:27:13,120 --> 00:27:14,880
+move it to here
+
+911
+00:27:14,880 --> 00:27:17,520
+okay we need to align it a little bit so
+
+912
+00:27:17,520 --> 00:27:20,000
+let's move it into place
+
+913
+00:27:20,000 --> 00:27:23,039
+like that and now we could press l
+
+914
+00:27:23,039 --> 00:27:25,120
+to select these and if i press l over
+
+915
+00:27:25,120 --> 00:27:26,320
+that one it'll add that one
+
+916
+00:27:26,320 --> 00:27:28,960
+and l over that one and now you can also
+
+917
+00:27:28,960 --> 00:27:30,159
+you can actually press shift
+
+918
+00:27:30,159 --> 00:27:32,080
+l to deselect that works the opposite
+
+919
+00:27:32,080 --> 00:27:33,520
+way
+
+920
+00:27:33,520 --> 00:27:36,000
+and if i press l here now and s to scale
+
+921
+00:27:36,000 --> 00:27:36,559
+it
+
+922
+00:27:36,559 --> 00:27:40,080
+r to rotate here i press l to select it
+
+923
+00:27:40,080 --> 00:27:42,799
+s to scale it r to rotate just randomize
+
+924
+00:27:42,799 --> 00:27:44,640
+it a little bit l to select it
+
+925
+00:27:44,640 --> 00:27:47,120
+s to scale it and r to rotate remember
+
+926
+00:27:47,120 --> 00:27:48,080
+we also learned this
+
+927
+00:27:48,080 --> 00:27:50,000
+proportional thing that was quite useful
+
+928
+00:27:50,000 --> 00:27:51,279
+so we press o
+
+929
+00:27:51,279 --> 00:27:53,360
+or click up here o toggles the
+
+930
+00:27:53,360 --> 00:27:54,799
+proportional editing
+
+931
+00:27:54,799 --> 00:27:56,880
+and if i select this vertex now and
+
+932
+00:27:56,880 --> 00:27:58,240
+press g
+
+933
+00:27:58,240 --> 00:27:59,679
+you can see that i can move this and it
+
+934
+00:27:59,679 --> 00:28:01,600
+proportionally edits the tree trino so
+
+935
+00:28:01,600 --> 00:28:02,080
+remember
+
+936
+00:28:02,080 --> 00:28:03,919
+you can use the scroll wheel now to
+
+937
+00:28:03,919 --> 00:28:05,600
+scroll this in and out
+
+938
+00:28:05,600 --> 00:28:07,679
+and see how much it should affect and
+
+939
+00:28:07,679 --> 00:28:09,440
+here we see something that when i scale
+
+940
+00:28:09,440 --> 00:28:11,279
+this one up it starts dragging the tree
+
+941
+00:28:11,279 --> 00:28:13,279
+branches or the tree trunk as well
+
+942
+00:28:13,279 --> 00:28:15,360
+sometimes you don't want that and with
+
+943
+00:28:15,360 --> 00:28:17,120
+proportional there's something called
+
+944
+00:28:17,120 --> 00:28:19,120
+connected if we click on this one again
+
+945
+00:28:19,120 --> 00:28:21,120
+you can select connected only here and
+
+946
+00:28:21,120 --> 00:28:22,640
+that's pretty similar to how
+
+947
+00:28:22,640 --> 00:28:25,840
+l uses to select things now when we do g
+
+948
+00:28:25,840 --> 00:28:28,080
+to move it and you see that there's a
+
+949
+00:28:28,080 --> 00:28:30,159
+hollow point here in the center and that
+
+950
+00:28:30,159 --> 00:28:31,760
+means that it will only affect
+
+951
+00:28:31,760 --> 00:28:34,080
+the vertices that are linked together so
+
+952
+00:28:34,080 --> 00:28:35,440
+that are not connected
+
+953
+00:28:35,440 --> 00:28:37,039
+so if you just wanted to change this
+
+954
+00:28:37,039 --> 00:28:38,640
+ball of leaves and nothing else
+
+955
+00:28:38,640 --> 00:28:40,399
+then you can use that method so let's
+
+956
+00:28:40,399 --> 00:28:42,960
+use this one to g to move it
+
+957
+00:28:42,960 --> 00:28:45,200
+g to move it and now remember you could
+
+958
+00:28:45,200 --> 00:28:47,279
+also toggle here to random
+
+959
+00:28:47,279 --> 00:28:48,960
+and that's becoming quite useful because
+
+960
+00:28:48,960 --> 00:28:50,399
+now when we drag it it'll do a little
+
+961
+00:28:50,399 --> 00:28:52,799
+bit random
+
+962
+00:28:52,799 --> 00:28:54,720
+be careful so you don't move it too far
+
+963
+00:28:54,720 --> 00:28:56,640
+so you start breaking the geometry you
+
+964
+00:28:56,640 --> 00:28:58,080
+see you have some overlapping
+
+965
+00:28:58,080 --> 00:29:00,000
+lines here so ctrl z you'll have to
+
+966
+00:29:00,000 --> 00:29:01,760
+avoid that at all times you don't ever
+
+967
+00:29:01,760 --> 00:29:02,159
+want
+
+968
+00:29:02,159 --> 00:29:03,679
+intersecting lines like that you can
+
+969
+00:29:03,679 --> 00:29:05,440
+also do proportional editing with
+
+970
+00:29:05,440 --> 00:29:07,919
+r to rotate and then remember you could
+
+971
+00:29:07,919 --> 00:29:08,720
+press z
+
+972
+00:29:08,720 --> 00:29:10,559
+to lock it on the z scale here and then
+
+973
+00:29:10,559 --> 00:29:12,320
+scroll down with the scroll wheel
+
+974
+00:29:12,320 --> 00:29:14,640
+you can add some twists to the trees
+
+975
+00:29:14,640 --> 00:29:15,440
+here as well
+
+976
+00:29:15,440 --> 00:29:18,320
+archer rotates
+
+977
+00:29:20,000 --> 00:29:23,520
+or to rotate and set sometimes you still
+
+978
+00:29:23,520 --> 00:29:25,200
+want to have if you do alt o is the
+
+979
+00:29:25,200 --> 00:29:26,880
+hotkey for this connected thing if you
+
+980
+00:29:26,880 --> 00:29:28,399
+still wanted it to affect the tree trunk
+
+981
+00:29:28,399 --> 00:29:29,039
+again
+
+982
+00:29:29,039 --> 00:29:31,200
+then g to move it and you could totally
+
+983
+00:29:31,200 --> 00:29:33,360
+reshape this tree
+
+984
+00:29:33,360 --> 00:29:35,919
+all together
+
+985
+00:29:37,600 --> 00:29:39,120
+now we're going to deep dive into some
+
+986
+00:29:39,120 --> 00:29:40,960
+more selection methods because
+
+987
+00:29:40,960 --> 00:29:42,480
+we've learned some of the basic modeling
+
+988
+00:29:42,480 --> 00:29:44,399
+techniques now so i'd say
+
+989
+00:29:44,399 --> 00:29:46,480
+most important of all in addition to the
+
+990
+00:29:46,480 --> 00:29:47,440
+modeling techniques
+
+991
+00:29:47,440 --> 00:29:49,279
+is the different selection methods
+
+992
+00:29:49,279 --> 00:29:50,480
+because you're going to be spending a
+
+993
+00:29:50,480 --> 00:29:52,399
+lot of time selecting and deselecting
+
+994
+00:29:52,399 --> 00:29:52,799
+things
+
+995
+00:29:52,799 --> 00:29:54,559
+in order to do some operations on them
+
+996
+00:29:54,559 --> 00:29:56,399
+in fact you'll save immense
+
+997
+00:29:56,399 --> 00:29:58,159
+insane incredible amounts of time by
+
+998
+00:29:58,159 --> 00:29:59,279
+learning these different selection
+
+999
+00:29:59,279 --> 00:29:59,919
+methods
+
+1000
+00:29:59,919 --> 00:30:01,840
+when you do low poly modeling everything
+
+1001
+00:30:01,840 --> 00:30:03,520
+is about to finding a quick selection
+
+1002
+00:30:03,520 --> 00:30:04,880
+method to select what you want and
+
+1003
+00:30:04,880 --> 00:30:06,320
+figuring out the right operation to
+
+1004
+00:30:06,320 --> 00:30:08,000
+modify those selections
+
+1005
+00:30:08,000 --> 00:30:10,320
+either to extrude or scale or modify
+
+1006
+00:30:10,320 --> 00:30:11,919
+them flatten them or something like that
+
+1007
+00:30:11,919 --> 00:30:14,240
+so a few things we already did l to
+
+1008
+00:30:14,240 --> 00:30:15,360
+select the linked
+
+1009
+00:30:15,360 --> 00:30:17,520
+very useful we know how to already click
+
+1010
+00:30:17,520 --> 00:30:18,559
+on things like this
+
+1011
+00:30:18,559 --> 00:30:20,159
+and holding shift to click on them to
+
+1012
+00:30:20,159 --> 00:30:22,320
+select and toggle multiple selections
+
+1013
+00:30:22,320 --> 00:30:23,760
+the next thing i want to show you is
+
+1014
+00:30:23,760 --> 00:30:26,399
+loop select and if i go into
+
+1015
+00:30:26,399 --> 00:30:28,000
+face select here which is three on the
+
+1016
+00:30:28,000 --> 00:30:30,559
+keyboard i can hold the alt key now
+
+1017
+00:30:30,559 --> 00:30:31,600
+which is a loop select
+
+1018
+00:30:31,600 --> 00:30:33,760
+and i click on this edge here and now
+
+1019
+00:30:33,760 --> 00:30:36,080
+it's selected everything around here so
+
+1020
+00:30:36,080 --> 00:30:37,760
+instead of having to click here
+
+1021
+00:30:37,760 --> 00:30:39,360
+and holding the shift key and rotating
+
+1022
+00:30:39,360 --> 00:30:41,600
+around instead of doing that
+
+1023
+00:30:41,600 --> 00:30:43,360
+hold the alt key and just click on one
+
+1024
+00:30:43,360 --> 00:30:44,880
+of these edges in between
+
+1025
+00:30:44,880 --> 00:30:46,720
+and that loops selects around and that
+
+1026
+00:30:46,720 --> 00:30:48,159
+also works in this direction
+
+1027
+00:30:48,159 --> 00:30:49,760
+it selects the whole loop around the
+
+1028
+00:30:49,760 --> 00:30:51,760
+tree here another method
+
+1029
+00:30:51,760 --> 00:30:54,799
+is to press c for circle select
+
+1030
+00:30:54,799 --> 00:30:56,320
+and that brings this little circle up
+
+1031
+00:30:56,320 --> 00:30:57,679
+that you can change the size of with the
+
+1032
+00:30:57,679 --> 00:30:58,559
+scroll wheel
+
+1033
+00:30:58,559 --> 00:31:00,559
+and then basically just paint over which
+
+1034
+00:31:00,559 --> 00:31:02,159
+ones you want to select
+
+1035
+00:31:02,159 --> 00:31:03,360
+and then you press the middle mouse
+
+1036
+00:31:03,360 --> 00:31:04,960
+button if you want to deselect things so
+
+1037
+00:31:04,960 --> 00:31:06,240
+you could just paint a little bit there
+
+1038
+00:31:06,240 --> 00:31:07,440
+paint a little bit there
+
+1039
+00:31:07,440 --> 00:31:08,799
+paint a little bit there oop maybe not
+
+1040
+00:31:08,799 --> 00:31:10,080
+that so you press the middle mouse
+
+1041
+00:31:10,080 --> 00:31:10,559
+button
+
+1042
+00:31:10,559 --> 00:31:12,080
+and then you have to remember that when
+
+1043
+00:31:12,080 --> 00:31:13,519
+you're finished with this you press
+
+1044
+00:31:13,519 --> 00:31:14,159
+enter
+
+1045
+00:31:14,159 --> 00:31:15,840
+and then that selection is remembered
+
+1046
+00:31:15,840 --> 00:31:17,600
+for you so if you wanted to do
+
+1047
+00:31:17,600 --> 00:31:19,279
+something like extrude that for example
+
+1048
+00:31:19,279 --> 00:31:21,519
+e to extrude it or s to scale it now
+
+1049
+00:31:21,519 --> 00:31:22,960
+we've got proportional that's why it's
+
+1050
+00:31:22,960 --> 00:31:24,720
+do not let's disable that
+
+1051
+00:31:24,720 --> 00:31:28,000
+scale it so circle select is very useful
+
+1052
+00:31:28,000 --> 00:31:28,640
+as well
+
+1053
+00:31:28,640 --> 00:31:30,480
+in edge mode you can also do something
+
+1054
+00:31:30,480 --> 00:31:31,760
+called ring select
+
+1055
+00:31:31,760 --> 00:31:34,640
+and if i go here i have two pressed or
+
+1056
+00:31:34,640 --> 00:31:35,919
+go into edge select
+
+1057
+00:31:35,919 --> 00:31:39,279
+and then i do alt control and i click on
+
+1058
+00:31:39,279 --> 00:31:39,840
+one of these
+
+1059
+00:31:39,840 --> 00:31:42,799
+it selects the ring around these you can
+
+1060
+00:31:42,799 --> 00:31:43,519
+also do
+
+1061
+00:31:43,519 --> 00:31:46,159
+loop select which is alt and click on
+
+1062
+00:31:46,159 --> 00:31:46,640
+that one
+
+1063
+00:31:46,640 --> 00:31:49,120
+and that selects the loop round you can
+
+1064
+00:31:49,120 --> 00:31:50,480
+also use the control key
+
+1065
+00:31:50,480 --> 00:31:53,120
+to select the shortest path to something
+
+1066
+00:31:53,120 --> 00:31:53,760
+if i have
+
+1067
+00:31:53,760 --> 00:31:55,519
+edge select here i press two to make
+
+1068
+00:31:55,519 --> 00:31:56,880
+sure i'm in edge select and i select
+
+1069
+00:31:56,880 --> 00:31:57,760
+that edge
+
+1070
+00:31:57,760 --> 00:31:59,519
+and then i select an edge over here and
+
+1071
+00:31:59,519 --> 00:32:01,760
+i press ctrl it'll select the shortest
+
+1072
+00:32:01,760 --> 00:32:02,480
+path
+
+1073
+00:32:02,480 --> 00:32:05,039
+to that one here i select this one
+
+1074
+00:32:05,039 --> 00:32:05,760
+control
+
+1075
+00:32:05,760 --> 00:32:08,000
+and select so shortest path also very
+
+1076
+00:32:08,000 --> 00:32:10,240
+useful another one i use a lot is box
+
+1077
+00:32:10,240 --> 00:32:11,039
+select
+
+1078
+00:32:11,039 --> 00:32:13,279
+so if i go into one here to see the
+
+1079
+00:32:13,279 --> 00:32:14,480
+vertex mode
+
+1080
+00:32:14,480 --> 00:32:16,480
+double click a to deselect everything
+
+1081
+00:32:16,480 --> 00:32:18,720
+press b on the keyboard to box select
+
+1082
+00:32:18,720 --> 00:32:19,679
+things
+
+1083
+00:32:19,679 --> 00:32:21,519
+really fast way to get and see that it
+
+1084
+00:32:21,519 --> 00:32:23,360
+doesn't pick the back faces here
+
+1085
+00:32:23,360 --> 00:32:24,799
+if you wanted to include all the back
+
+1086
+00:32:24,799 --> 00:32:26,799
+purchases i do that quite often
+
+1087
+00:32:26,799 --> 00:32:29,279
+i'll double click a maybe i'll go into
+
+1088
+00:32:29,279 --> 00:32:30,159
+front view
+
+1089
+00:32:30,159 --> 00:32:32,240
+with one on the keypad and then i press
+
+1090
+00:32:32,240 --> 00:32:34,720
+alt z to enable x-ray
+
+1091
+00:32:34,720 --> 00:32:37,279
+and now when i press b to box select and
+
+1092
+00:32:37,279 --> 00:32:38,000
+i slice
+
+1093
+00:32:38,000 --> 00:32:39,760
+something like that for example then you
+
+1094
+00:32:39,760 --> 00:32:41,440
+can toggle back from alt set
+
+1095
+00:32:41,440 --> 00:32:42,880
+and now it's selected all of those
+
+1096
+00:32:42,880 --> 00:32:44,960
+vertices around there so maybe you
+
+1097
+00:32:44,960 --> 00:32:47,039
+wanted to just select those to do
+
+1098
+00:32:47,039 --> 00:32:49,440
+maybe you wanted to g to move them up or
+
+1099
+00:32:49,440 --> 00:32:51,279
+e to extrude them and has to scale them
+
+1100
+00:32:51,279 --> 00:32:52,080
+down
+
+1101
+00:32:52,080 --> 00:32:54,159
+for whatever reason b to box select is
+
+1102
+00:32:54,159 --> 00:32:55,760
+very useful that's very useful
+
+1103
+00:32:55,760 --> 00:32:57,600
+especially from an orthographic
+
+1104
+00:32:57,600 --> 00:32:59,519
+side view like this where you really
+
+1105
+00:32:59,519 --> 00:33:01,200
+want to select if you had a
+
+1106
+00:33:01,200 --> 00:33:02,960
+like an island for example with loads of
+
+1107
+00:33:02,960 --> 00:33:04,640
+vertices across the ground
+
+1108
+00:33:04,640 --> 00:33:06,399
+then it's useful to use that method
+
+1109
+00:33:06,399 --> 00:33:08,000
+another one useful is
+
+1110
+00:33:08,000 --> 00:33:11,279
+lasso select again if i do alt z
+
+1111
+00:33:11,279 --> 00:33:13,679
+to see through here the x-ray double
+
+1112
+00:33:13,679 --> 00:33:14,880
+click a to make sure everything is
+
+1113
+00:33:14,880 --> 00:33:16,159
+deselected
+
+1114
+00:33:16,159 --> 00:33:18,640
+now i hold the control key and i use the
+
+1115
+00:33:18,640 --> 00:33:21,039
+right mouse button to draw around here
+
+1116
+00:33:21,039 --> 00:33:22,960
+this is lasso select if you want it to
+
+1117
+00:33:22,960 --> 00:33:24,880
+really be precise like this
+
+1118
+00:33:24,880 --> 00:33:26,559
+well i do it often and quite fast like
+
+1119
+00:33:26,559 --> 00:33:28,960
+this as well even if you wanted to just
+
+1120
+00:33:28,960 --> 00:33:32,240
+select a few regions if i double click a
+
+1121
+00:33:32,240 --> 00:33:32,960
+here
+
+1122
+00:33:32,960 --> 00:33:36,000
+alt z you can use ctrl right click
+
+1123
+00:33:36,000 --> 00:33:37,760
+to just lasso select a few of these
+
+1124
+00:33:37,760 --> 00:33:39,440
+vertices if you wanted to
+
+1125
+00:33:39,440 --> 00:33:42,159
+just select a few of them another useful
+
+1126
+00:33:42,159 --> 00:33:45,039
+one is to grow and shrink your selection
+
+1127
+00:33:45,039 --> 00:33:47,440
+if i press 3 on the keypad i select
+
+1128
+00:33:47,440 --> 00:33:49,279
+maybe i select that face alone if i
+
+1129
+00:33:49,279 --> 00:33:49,600
+press
+
+1130
+00:33:49,600 --> 00:33:52,880
+ctrl plus on the keypad now it'll grow
+
+1131
+00:33:52,880 --> 00:33:53,919
+that selection by
+
+1132
+00:33:53,919 --> 00:33:55,360
+everything that's enabling that
+
+1133
+00:33:55,360 --> 00:33:57,760
+selection if i press ctrl plus again
+
+1134
+00:33:57,760 --> 00:33:59,679
+it'll expand it again
+
+1135
+00:33:59,679 --> 00:34:01,279
+this is a quick method let's say i
+
+1136
+00:34:01,279 --> 00:34:02,960
+wanted to select i hold the shift key
+
+1137
+00:34:02,960 --> 00:34:04,559
+select a few of these top ones
+
+1138
+00:34:04,559 --> 00:34:06,799
+ctrl plus a few times and now we've
+
+1139
+00:34:06,799 --> 00:34:08,480
+magically selected all the top
+
+1140
+00:34:08,480 --> 00:34:10,399
+parts here if i wanted to e to extrude
+
+1141
+00:34:10,399 --> 00:34:12,719
+it or maybe s to scale it
+
+1142
+00:34:12,719 --> 00:34:14,480
+e to extrude it maybe i wanted to create
+
+1143
+00:34:14,480 --> 00:34:16,560
+snow cap here
+
+1144
+00:34:16,560 --> 00:34:19,199
+like this yeah that's very useful to
+
+1145
+00:34:19,199 --> 00:34:20,000
+grow and shrink
+
+1146
+00:34:20,000 --> 00:34:21,520
+the selection oh wait i said shrink
+
+1147
+00:34:21,520 --> 00:34:23,839
+selection now because you can equally do
+
+1148
+00:34:23,839 --> 00:34:26,879
+control minus here to shrink it so
+
+1149
+00:34:26,879 --> 00:34:28,800
+control plus expands it and control
+
+1150
+00:34:28,800 --> 00:34:30,639
+minus shrinks it
+
+1151
+00:34:30,639 --> 00:34:32,239
+since we're on the topic of selection
+
+1152
+00:34:32,239 --> 00:34:33,918
+here's another tip you can select the
+
+1153
+00:34:33,918 --> 00:34:35,199
+random stuff as well
+
+1154
+00:34:35,199 --> 00:34:37,119
+so if we double click a nothing is
+
+1155
+00:34:37,119 --> 00:34:39,599
+selected i go to select here
+
+1156
+00:34:39,599 --> 00:34:41,918
+and then select random it selects a
+
+1157
+00:34:41,918 --> 00:34:43,359
+random number of faces
+
+1158
+00:34:43,359 --> 00:34:45,040
+and here you can increase and decrease
+
+1159
+00:34:45,040 --> 00:34:46,800
+the number of percent of randomness that
+
+1160
+00:34:46,800 --> 00:34:48,480
+you want maybe you only wanted a quarter
+
+1161
+00:34:48,480 --> 00:34:50,719
+of them selected or maybe you wanted
+
+1162
+00:34:50,719 --> 00:34:53,199
+75 selected another thing we can do is
+
+1163
+00:34:53,199 --> 00:34:54,719
+select similar ones
+
+1164
+00:34:54,719 --> 00:34:58,079
+so if i select this one and do shift g
+
+1165
+00:34:58,079 --> 00:35:00,400
+we can select similar faces let's do for
+
+1166
+00:35:00,400 --> 00:35:02,560
+example polygon sites now it's selected
+
+1167
+00:35:02,560 --> 00:35:03,599
+everything that had
+
+1168
+00:35:03,599 --> 00:35:05,760
+three three edges to the polygon so it
+
+1169
+00:35:05,760 --> 00:35:07,280
+didn't select anything on the tree trunk
+
+1170
+00:35:07,280 --> 00:35:08,079
+because that's
+
+1171
+00:35:08,079 --> 00:35:11,119
+got more four it's uh four edges
+
+1172
+00:35:11,119 --> 00:35:13,280
+we could also do shift g we have to have
+
+1173
+00:35:13,280 --> 00:35:14,480
+one selected by the way
+
+1174
+00:35:14,480 --> 00:35:16,560
+at least before you press shift g for
+
+1175
+00:35:16,560 --> 00:35:17,760
+the similar one
+
+1176
+00:35:17,760 --> 00:35:20,720
+maybe we wanted to do normal okay
+
+1177
+00:35:20,720 --> 00:35:21,839
+nothing was selected
+
+1178
+00:35:21,839 --> 00:35:24,000
+so maybe we increased this threshold and
+
+1179
+00:35:24,000 --> 00:35:25,680
+now we can see that it's selected faces
+
+1180
+00:35:25,680 --> 00:35:27,200
+that were facing this one
+
+1181
+00:35:27,200 --> 00:35:28,960
+so again if we wanted to do the snow cap
+
+1182
+00:35:28,960 --> 00:35:31,200
+i could just select one face here
+
+1183
+00:35:31,200 --> 00:35:34,640
+press shift g normal and then use the
+
+1184
+00:35:34,640 --> 00:35:36,480
+slider here for the threshold to say
+
+1185
+00:35:36,480 --> 00:35:38,000
+okay that's how much we want to be snow
+
+1186
+00:35:38,000 --> 00:35:39,760
+covered now it also picked some of this
+
+1187
+00:35:39,760 --> 00:35:41,119
+tree trunk here as well but maybe we
+
+1188
+00:35:41,119 --> 00:35:42,079
+wanted
+
+1189
+00:35:42,079 --> 00:35:45,359
+something there i do alt e extrude along
+
+1190
+00:35:45,359 --> 00:35:47,599
+phase normals
+
+1191
+00:35:47,599 --> 00:35:49,440
+and let's say we also see that didn't
+
+1192
+00:35:49,440 --> 00:35:51,200
+actually when we extruded now we didn't
+
+1193
+00:35:51,200 --> 00:35:53,119
+have this edge selected but we want this
+
+1194
+00:35:53,119 --> 00:35:54,320
+to be snow as well
+
+1195
+00:35:54,320 --> 00:35:56,320
+then remember here's where control plus
+
+1196
+00:35:56,320 --> 00:35:58,480
+is really useful now it added that
+
+1197
+00:35:58,480 --> 00:36:00,720
+it expanded the selection to include all
+
+1198
+00:36:00,720 --> 00:36:02,160
+the neighboring ones
+
+1199
+00:36:02,160 --> 00:36:04,160
+and then here on the left now you can
+
+1200
+00:36:04,160 --> 00:36:05,760
+see that it's combined we've got some
+
+1201
+00:36:05,760 --> 00:36:07,280
+faces that are brown
+
+1202
+00:36:07,280 --> 00:36:09,520
+and some that are green so to fix that
+
+1203
+00:36:09,520 --> 00:36:11,280
+one we can do a quick operation on the
+
+1204
+00:36:11,280 --> 00:36:12,079
+left here
+
+1205
+00:36:12,079 --> 00:36:13,680
+so while the mouse is over here on the
+
+1206
+00:36:13,680 --> 00:36:15,200
+left press
+
+1207
+00:36:15,200 --> 00:36:16,960
+s to scale it while they're selected and
+
+1208
+00:36:16,960 --> 00:36:18,480
+then zero
+
+1209
+00:36:18,480 --> 00:36:20,000
+and now it shrunk it down to yellow
+
+1210
+00:36:20,000 --> 00:36:21,520
+because that was the medium point here
+
+1211
+00:36:21,520 --> 00:36:22,400
+but i can press
+
+1212
+00:36:22,400 --> 00:36:25,119
+g to move it to white and now we've snow
+
+1213
+00:36:25,119 --> 00:36:26,000
+covered everything
+
+1214
+00:36:26,000 --> 00:36:28,640
+that was similar facing to what we
+
+1215
+00:36:28,640 --> 00:36:29,680
+selected before
+
+1216
+00:36:29,680 --> 00:36:31,599
+so play around with shift g and you can
+
+1217
+00:36:31,599 --> 00:36:33,520
+select different things here try to find
+
+1218
+00:36:33,520 --> 00:36:35,200
+methods that work there's also something
+
+1219
+00:36:35,200 --> 00:36:37,680
+called checker deselect which is useful
+
+1220
+00:36:37,680 --> 00:36:39,440
+if i press l here to select all of these
+
+1221
+00:36:39,440 --> 00:36:41,440
+linked ones and then i do f3
+
+1222
+00:36:41,440 --> 00:36:44,400
+and i type in checker deselect then you
+
+1223
+00:36:44,400 --> 00:36:46,000
+can see that it
+
+1224
+00:36:46,000 --> 00:36:47,760
+deselected pretty much every other one
+
+1225
+00:36:47,760 --> 00:36:49,680
+so maybe if you're doing like a castle
+
+1226
+00:36:49,680 --> 00:36:50,960
+wall or something with
+
+1227
+00:36:50,960 --> 00:36:54,000
+all these little firing holes or if
+
+1228
+00:36:54,000 --> 00:36:55,280
+you're doing a kitchen floor or
+
+1229
+00:36:55,280 --> 00:36:56,079
+something like that
+
+1230
+00:36:56,079 --> 00:36:58,079
+check your deselect will be able to uh
+
+1231
+00:36:58,079 --> 00:36:59,599
+to do that really quickly
+
+1232
+00:36:59,599 --> 00:37:00,640
+one more thing when it comes to
+
+1233
+00:37:00,640 --> 00:37:02,160
+selecting and deselecting things it
+
+1234
+00:37:02,160 --> 00:37:04,320
+sometimes is a bit tricky to see
+
+1235
+00:37:04,320 --> 00:37:06,560
+so i want to show you how to hide and
+
+1236
+00:37:06,560 --> 00:37:08,880
+show things so if i press l to select
+
+1237
+00:37:08,880 --> 00:37:09,920
+all of these
+
+1238
+00:37:09,920 --> 00:37:11,920
+leaves here and then i press h on the
+
+1239
+00:37:11,920 --> 00:37:13,760
+keyboard then it hides those
+
+1240
+00:37:13,760 --> 00:37:16,000
+but they're still here if i tap out of
+
+1241
+00:37:16,000 --> 00:37:17,359
+edit mode you can see that it's still in
+
+1242
+00:37:17,359 --> 00:37:18,079
+the object
+
+1243
+00:37:18,079 --> 00:37:19,599
+but while we're in edit mode here with
+
+1244
+00:37:19,599 --> 00:37:21,520
+tab they're gone and now you could do
+
+1245
+00:37:21,520 --> 00:37:22,000
+stuff like
+
+1246
+00:37:22,000 --> 00:37:24,000
+here you could fix and maybe you wanted
+
+1247
+00:37:24,000 --> 00:37:25,520
+to tweak this one maybe you wanted to
+
+1248
+00:37:25,520 --> 00:37:27,280
+rotate this one a little bit or
+
+1249
+00:37:27,280 --> 00:37:28,880
+say maybe it was a bit too wonky there
+
+1250
+00:37:28,880 --> 00:37:30,960
+so we fixed that one maybe we wanted to
+
+1251
+00:37:30,960 --> 00:37:32,880
+extrude it a little bit more there
+
+1252
+00:37:32,880 --> 00:37:35,119
+do some final tweaks and now to bring
+
+1253
+00:37:35,119 --> 00:37:36,800
+the geometry back that's hidden you do
+
+1254
+00:37:36,800 --> 00:37:37,200
+alt
+
+1255
+00:37:37,200 --> 00:37:40,000
+h and that brings it back you can also
+
+1256
+00:37:40,000 --> 00:37:40,720
+do this for
+
+1257
+00:37:40,720 --> 00:37:42,480
+certain faces let's say you only wanted
+
+1258
+00:37:42,480 --> 00:37:44,079
+to hide these faces here so i hold the
+
+1259
+00:37:44,079 --> 00:37:44,880
+shift key
+
+1260
+00:37:44,880 --> 00:37:46,720
+and then i press h to hide that because
+
+1261
+00:37:46,720 --> 00:37:48,240
+sometimes you want to be able to see
+
+1262
+00:37:48,240 --> 00:37:50,400
+stuff especially if you in old z with
+
+1263
+00:37:50,400 --> 00:37:52,320
+x-ray here sometimes you want to hide
+
+1264
+00:37:52,320 --> 00:37:54,400
+some geometry and then you can always
+
+1265
+00:37:54,400 --> 00:37:55,520
+bring it back with alt
+
+1266
+00:37:55,520 --> 00:37:58,079
+h when you're done i do this very much
+
+1267
+00:37:58,079 --> 00:37:59,839
+if i model cars for example and i want
+
+1268
+00:37:59,839 --> 00:38:00,480
+to
+
+1269
+00:38:00,480 --> 00:38:01,839
+hide a bunch of cars that are in the
+
+1270
+00:38:01,839 --> 00:38:04,079
+same object i just hide them
+
+1271
+00:38:04,079 --> 00:38:06,320
+h key out of sight out of mind and then
+
+1272
+00:38:06,320 --> 00:38:09,680
+i bring it back with alt h again
+
+1273
+00:38:11,040 --> 00:38:12,320
+okay now we're going to go into some
+
+1274
+00:38:12,320 --> 00:38:14,320
+more mesh editing details here this is
+
+1275
+00:38:14,320 --> 00:38:15,200
+fun stuff so
+
+1276
+00:38:15,200 --> 00:38:16,880
+don't snooze off on me now let's hide
+
+1277
+00:38:16,880 --> 00:38:18,960
+this tree i press h to hide the whole
+
+1278
+00:38:18,960 --> 00:38:20,160
+object this time
+
+1279
+00:38:20,160 --> 00:38:21,920
+let's add a new one we want to bring
+
+1280
+00:38:21,920 --> 00:38:24,400
+this 3d cursor back so shift
+
+1281
+00:38:24,400 --> 00:38:26,560
+c to bring it back into the center here
+
+1282
+00:38:26,560 --> 00:38:28,079
+let's revisit that crate that we did
+
+1283
+00:38:28,079 --> 00:38:28,560
+before
+
+1284
+00:38:28,560 --> 00:38:31,680
+so we do shift a we add a cube and
+
+1285
+00:38:31,680 --> 00:38:32,000
+remember
+
+1286
+00:38:32,000 --> 00:38:34,640
+we added a new object now let's double
+
+1287
+00:38:34,640 --> 00:38:35,680
+click on it and name it
+
+1288
+00:38:35,680 --> 00:38:37,680
+create this time since it's a new object
+
+1289
+00:38:37,680 --> 00:38:39,200
+here i could have to go back to the
+
+1290
+00:38:39,200 --> 00:38:41,680
+shading tab while it's selected
+
+1291
+00:38:41,680 --> 00:38:43,200
+click this little drop down here and
+
+1292
+00:38:43,200 --> 00:38:45,200
+select the material again and here's our
+
+1293
+00:38:45,200 --> 00:38:46,000
+colors back
+
+1294
+00:38:46,000 --> 00:38:48,320
+remember we do on the left side here a
+
+1295
+00:38:48,320 --> 00:38:49,119
+scale
+
+1296
+00:38:49,119 --> 00:38:52,160
+0 and then g to move the colors
+
+1297
+00:38:52,160 --> 00:38:54,400
+back here and we're going to repeat what
+
+1298
+00:38:54,400 --> 00:38:56,079
+we did before now i'm going to do
+
+1299
+00:38:56,079 --> 00:38:58,720
+i to inset and remember we still have
+
+1300
+00:38:58,720 --> 00:38:59,760
+individual on
+
+1301
+00:38:59,760 --> 00:39:01,280
+if it looks like this for you just press
+
+1302
+00:39:01,280 --> 00:39:03,119
+i again and then alt e
+
+1303
+00:39:03,119 --> 00:39:05,040
+to bring these faces in here let's say
+
+1304
+00:39:05,040 --> 00:39:06,960
+we wanted to create some planks now here
+
+1305
+00:39:06,960 --> 00:39:10,079
+we can do control r to do a loop cut and
+
+1306
+00:39:10,079 --> 00:39:11,440
+we can use the scroll wheel
+
+1307
+00:39:11,440 --> 00:39:13,359
+to scroll up and down the number of loop
+
+1308
+00:39:13,359 --> 00:39:14,480
+cuts we should have
+
+1309
+00:39:14,480 --> 00:39:15,920
+and when i press the left mouse button
+
+1310
+00:39:15,920 --> 00:39:17,680
+now it also offers us to place it
+
+1311
+00:39:17,680 --> 00:39:18,320
+somewhere
+
+1312
+00:39:18,320 --> 00:39:19,839
+but i want it to be in the center now so
+
+1313
+00:39:19,839 --> 00:39:21,839
+i just right click and it'll snap it
+
+1314
+00:39:21,839 --> 00:39:22,800
+back into center
+
+1315
+00:39:22,800 --> 00:39:24,400
+and just like that we've created a bunch
+
+1316
+00:39:24,400 --> 00:39:26,400
+of loop cuts and it's extremely useful
+
+1317
+00:39:26,400 --> 00:39:27,359
+to do loop cuts
+
+1318
+00:39:27,359 --> 00:39:29,440
+i do it all the time if you wanted to
+
+1319
+00:39:29,440 --> 00:39:31,359
+not have these to be wonky like this
+
+1320
+00:39:31,359 --> 00:39:33,599
+you could hold the alt key and remember
+
+1321
+00:39:33,599 --> 00:39:35,680
+we learned how to select all the way
+
+1322
+00:39:35,680 --> 00:39:37,520
+around like this like a loop
+
+1323
+00:39:37,520 --> 00:39:39,599
+and then we learned how to press s to
+
+1324
+00:39:39,599 --> 00:39:40,720
+scale
+
+1325
+00:39:40,720 --> 00:39:42,160
+but we don't want to shrink it like this
+
+1326
+00:39:42,160 --> 00:39:43,760
+but we also learned that we can press
+
+1327
+00:39:43,760 --> 00:39:47,359
+z on the keyboard to only scale it in
+
+1328
+00:39:47,359 --> 00:39:48,560
+one direction and we also
+
+1329
+00:39:48,560 --> 00:39:51,760
+know that we can type in zero and so
+
+1330
+00:39:51,760 --> 00:39:53,440
+just like that we've actually flattened
+
+1331
+00:39:53,440 --> 00:39:55,520
+this whole thing if we wanted to do that
+
+1332
+00:39:55,520 --> 00:39:56,160
+for all of them
+
+1333
+00:39:56,160 --> 00:40:00,960
+just hold the alt key select scale zero
+
+1334
+00:40:00,960 --> 00:40:02,560
+we can probably do it for these at the
+
+1335
+00:40:02,560 --> 00:40:04,480
+same time if i do alt here and then i
+
+1336
+00:40:04,480 --> 00:40:06,079
+have to hold the shift key and alt to
+
+1337
+00:40:06,079 --> 00:40:07,200
+select this one as well
+
+1338
+00:40:07,200 --> 00:40:09,599
+but now if i press scale z and now
+
+1339
+00:40:09,599 --> 00:40:11,599
+because we have individual origin here
+
+1340
+00:40:11,599 --> 00:40:13,119
+on on period selected
+
+1341
+00:40:13,119 --> 00:40:16,640
+now when we do scale z 0 we flattened
+
+1342
+00:40:16,640 --> 00:40:18,240
+those as well
+
+1343
+00:40:18,240 --> 00:40:20,160
+if i'll just control that out of that
+
+1344
+00:40:20,160 --> 00:40:21,520
+one and i'll do period
+
+1345
+00:40:21,520 --> 00:40:23,200
+if you're on medium point and you press
+
+1346
+00:40:23,200 --> 00:40:25,440
+s to scale z and then zero
+
+1347
+00:40:25,440 --> 00:40:26,960
+it actually brings it into the center
+
+1348
+00:40:26,960 --> 00:40:28,480
+like this so
+
+1349
+00:40:28,480 --> 00:40:29,839
+what you want to do these if you want to
+
+1350
+00:40:29,839 --> 00:40:31,839
+flatten them is that you want to be in
+
+1351
+00:40:31,839 --> 00:40:34,640
+individual origins here on period scale
+
+1352
+00:40:34,640 --> 00:40:35,280
+set
+
+1353
+00:40:35,280 --> 00:40:37,200
+zero and now we've flattened those okay
+
+1354
+00:40:37,200 --> 00:40:38,800
+what more did we learn we learned that
+
+1355
+00:40:38,800 --> 00:40:40,160
+we can select uh
+
+1356
+00:40:40,160 --> 00:40:42,160
+we can press three on the keyboard to
+
+1357
+00:40:42,160 --> 00:40:43,839
+get this face select and we can hold the
+
+1358
+00:40:43,839 --> 00:40:45,520
+shift key and select multiple faces and
+
+1359
+00:40:45,520 --> 00:40:47,040
+we can extrude these in
+
+1360
+00:40:47,040 --> 00:40:49,119
+and i can select two more here e to
+
+1361
+00:40:49,119 --> 00:40:50,240
+extrude those in
+
+1362
+00:40:50,240 --> 00:40:52,319
+and we'll select two more here as well
+
+1363
+00:40:52,319 --> 00:40:53,920
+and we can actually do this at the same
+
+1364
+00:40:53,920 --> 00:40:55,920
+time so select those and do alt t
+
+1365
+00:40:55,920 --> 00:40:57,839
+extrude long phase normals got a few
+
+1366
+00:40:57,839 --> 00:40:59,520
+more planks there so now we've started
+
+1367
+00:40:59,520 --> 00:41:00,319
+to create some
+
+1368
+00:41:00,319 --> 00:41:02,960
+low poly planks in our objects let's add
+
+1369
+00:41:02,960 --> 00:41:04,800
+some loop cuffs here as well ctrl r
+
+1370
+00:41:04,800 --> 00:41:07,280
+scroll it up with a wheel maybe to same
+
+1371
+00:41:07,280 --> 00:41:08,160
+amount of planks
+
+1372
+00:41:08,160 --> 00:41:09,920
+right click to snap them back i've got
+
+1373
+00:41:09,920 --> 00:41:12,000
+individual origins here on period
+
+1374
+00:41:12,000 --> 00:41:14,079
+set so i can do scale but this time
+
+1375
+00:41:14,079 --> 00:41:16,000
+we're going to scale it on the x-axis
+
+1376
+00:41:16,000 --> 00:41:17,920
+the red one and then zero and that
+
+1377
+00:41:17,920 --> 00:41:20,160
+flattened all of those as well
+
+1378
+00:41:20,160 --> 00:41:21,920
+and i press three on the keyboard to go
+
+1379
+00:41:21,920 --> 00:41:23,599
+into face select and i select a whole
+
+1380
+00:41:23,599 --> 00:41:25,200
+bunch of these planks here on the top
+
+1381
+00:41:25,200 --> 00:41:25,839
+and the bottom
+
+1382
+00:41:25,839 --> 00:41:28,800
+like this alt e extrude long face
+
+1383
+00:41:28,800 --> 00:41:30,160
+normals
+
+1384
+00:41:30,160 --> 00:41:32,079
+and now we've created some more planks
+
+1385
+00:41:32,079 --> 00:41:33,520
+that brings us to another one that's
+
+1386
+00:41:33,520 --> 00:41:34,160
+quite useful
+
+1387
+00:41:34,160 --> 00:41:36,800
+and that's k which is the knife tool it
+
+1388
+00:41:36,800 --> 00:41:38,319
+doesn't matter if it's like this as well
+
+1389
+00:41:38,319 --> 00:41:40,079
+see that this one i didn't extrude that
+
+1390
+00:41:40,079 --> 00:41:41,599
+one you can extrude that one manually a
+
+1391
+00:41:41,599 --> 00:41:43,200
+little bit like this if you wanted to
+
+1392
+00:41:43,200 --> 00:41:45,200
+you don't have to be so uniform with
+
+1393
+00:41:45,200 --> 00:41:46,640
+everything but let's select a few of
+
+1394
+00:41:46,640 --> 00:41:48,160
+these as well hold the shift key
+
+1395
+00:41:48,160 --> 00:41:50,079
+e to extrude that one in so let's bring
+
+1396
+00:41:50,079 --> 00:41:51,599
+out the knife tool we press
+
+1397
+00:41:51,599 --> 00:41:53,599
+k on the keyboard get this little green
+
+1398
+00:41:53,599 --> 00:41:55,280
+dot and a knife and then we can start
+
+1399
+00:41:55,280 --> 00:41:56,319
+slicing stuff
+
+1400
+00:41:56,319 --> 00:41:59,119
+so let's just click here on the edges
+
+1401
+00:41:59,119 --> 00:42:00,480
+and let's create something that is
+
+1402
+00:42:00,480 --> 00:42:03,119
+shaped a little bit like
+
+1403
+00:42:03,119 --> 00:42:05,760
+the texture of wood so k here we can
+
+1404
+00:42:05,760 --> 00:42:07,599
+even begin in the center here
+
+1405
+00:42:07,599 --> 00:42:09,839
+go here there let's make some
+
+1406
+00:42:09,839 --> 00:42:11,839
+interesting shape here
+
+1407
+00:42:11,839 --> 00:42:13,680
+maybe like this we can do like another
+
+1408
+00:42:13,680 --> 00:42:15,440
+loop down there to there
+
+1409
+00:42:15,440 --> 00:42:18,319
+to there and then k let's do one here as
+
+1410
+00:42:18,319 --> 00:42:19,920
+well we can even begin in the center of
+
+1411
+00:42:19,920 --> 00:42:21,520
+the face here and just slice it like
+
+1412
+00:42:21,520 --> 00:42:23,200
+this
+
+1413
+00:42:23,200 --> 00:42:25,599
+and see that it added two lines here
+
+1414
+00:42:25,599 --> 00:42:27,520
+because it can't exist a phase within a
+
+1415
+00:42:27,520 --> 00:42:29,119
+phase without connecting edges
+
+1416
+00:42:29,119 --> 00:42:30,800
+so it actually added these little lines
+
+1417
+00:42:30,800 --> 00:42:33,119
+here for me as well automatically
+
+1418
+00:42:33,119 --> 00:42:38,079
+okay let's do another one here okay
+
+1419
+00:42:38,079 --> 00:42:40,720
+here as well
+
+1420
+00:42:41,280 --> 00:42:43,680
+and now if i go three to get make sure
+
+1421
+00:42:43,680 --> 00:42:46,960
+i'm in face select i hold the shift key
+
+1422
+00:42:46,960 --> 00:42:51,119
+and i select these ones that i created
+
+1423
+00:42:51,520 --> 00:42:53,280
+now on the left side here we're still on
+
+1424
+00:42:53,280 --> 00:42:54,720
+the same brown but if press g
+
+1425
+00:42:54,720 --> 00:42:56,960
+now i can move the color of this to
+
+1426
+00:42:56,960 --> 00:42:59,440
+maybe a darker brown
+
+1427
+00:42:59,440 --> 00:43:01,119
+and if i tap out of edit mode we've
+
+1428
+00:43:01,119 --> 00:43:03,440
+started to create some colors for this
+
+1429
+00:43:03,440 --> 00:43:05,440
+and here's where i mentioned before that
+
+1430
+00:43:05,440 --> 00:43:06,880
+doing this method could add a lot of
+
+1431
+00:43:06,880 --> 00:43:08,319
+geometry or it will add a lot of
+
+1432
+00:43:08,319 --> 00:43:09,680
+geometry to your meshes so you have to
+
+1433
+00:43:09,680 --> 00:43:12,319
+be aware if it becomes too many polygons
+
+1434
+00:43:12,319 --> 00:43:14,160
+maybe it'll affect your performance in
+
+1435
+00:43:14,160 --> 00:43:15,839
+that case it could be better to
+
+1436
+00:43:15,839 --> 00:43:18,400
+to do a texture map but again i like to
+
+1437
+00:43:18,400 --> 00:43:19,599
+keep this crisp look
+
+1438
+00:43:19,599 --> 00:43:22,400
+and for my purposes often it doesn't add
+
+1439
+00:43:22,400 --> 00:43:24,160
+so many polygons that becomes a problem
+
+1440
+00:43:24,160 --> 00:43:24,560
+because
+
+1441
+00:43:24,560 --> 00:43:26,480
+pcs especially they're used to handling
+
+1442
+00:43:26,480 --> 00:43:27,760
+millions of polygons
+
+1443
+00:43:27,760 --> 00:43:29,599
+so these extra few aren't going to be a
+
+1444
+00:43:29,599 --> 00:43:31,520
+problem if we reselect these now
+
+1445
+00:43:31,520 --> 00:43:33,839
+you can even do an extrusion here to get
+
+1446
+00:43:33,839 --> 00:43:37,040
+this even more detailed
+
+1447
+00:43:38,000 --> 00:43:39,520
+so let's select those again and press
+
+1448
+00:43:39,520 --> 00:43:41,680
+just b to extrude them in a little bit
+
+1449
+00:43:41,680 --> 00:43:43,839
+and that added some texture and tab out
+
+1450
+00:43:43,839 --> 00:43:45,520
+and this is what it suddenly looks like
+
+1451
+00:43:45,520 --> 00:43:46,720
+you can also do someone that are
+
+1452
+00:43:46,720 --> 00:43:50,400
+brighter so if i press k here
+
+1453
+00:43:50,800 --> 00:43:52,480
+slice a little bit there maybe something
+
+1454
+00:43:52,480 --> 00:43:55,839
+here as well
+
+1455
+00:43:56,240 --> 00:43:59,040
+three to select the faces here and then
+
+1456
+00:43:59,040 --> 00:43:59,359
+g
+
+1457
+00:43:59,359 --> 00:44:00,800
+and let's move it to a brighter one and
+
+1458
+00:44:00,800 --> 00:44:03,040
+let's move those out so e to extrude out
+
+1459
+00:44:03,040 --> 00:44:04,560
+a little bit
+
+1460
+00:44:04,560 --> 00:44:06,240
+tab out of object mode there so we can
+
+1461
+00:44:06,240 --> 00:44:07,440
+see it there's something called the
+
+1462
+00:44:07,440 --> 00:44:08,160
+topology
+
+1463
+00:44:08,160 --> 00:44:10,480
+of meshes as well and this is breaking a
+
+1464
+00:44:10,480 --> 00:44:11,520
+few of the rules
+
+1465
+00:44:11,520 --> 00:44:12,960
+and i'll probably get some a few
+
+1466
+00:44:12,960 --> 00:44:14,800
+comments about this because
+
+1467
+00:44:14,800 --> 00:44:16,319
+when you're modeling characters and
+
+1468
+00:44:16,319 --> 00:44:18,000
+things like that you should really avoid
+
+1469
+00:44:18,000 --> 00:44:19,280
+to do what i just did here
+
+1470
+00:44:19,280 --> 00:44:22,240
+with creating basically meshes that are
+
+1471
+00:44:22,240 --> 00:44:23,760
+have vertices that are in the middle of
+
+1472
+00:44:23,760 --> 00:44:24,800
+a face here
+
+1473
+00:44:24,800 --> 00:44:26,640
+because especially if you animate
+
+1474
+00:44:26,640 --> 00:44:28,160
+objects like a body or something like
+
+1475
+00:44:28,160 --> 00:44:29,599
+that where you're bending limbs
+
+1476
+00:44:29,599 --> 00:44:31,440
+it'll look really weird if i were to
+
+1477
+00:44:31,440 --> 00:44:33,280
+move this vertex out now you can see
+
+1478
+00:44:33,280 --> 00:44:35,440
+that it looks totally broken
+
+1479
+00:44:35,440 --> 00:44:37,200
+so that's something you have to be aware
+
+1480
+00:44:37,200 --> 00:44:38,800
+of but i don't want to rule out this
+
+1481
+00:44:38,800 --> 00:44:40,560
+method to do stuff because it's really
+
+1482
+00:44:40,560 --> 00:44:41,599
+useful if you have
+
+1483
+00:44:41,599 --> 00:44:43,599
+static objects like a crate for example
+
+1484
+00:44:43,599 --> 00:44:46,000
+or like a stone or whatever it is
+
+1485
+00:44:46,000 --> 00:44:47,599
+then it's not really a problem i'd say
+
+1486
+00:44:47,599 --> 00:44:49,440
+you could use it i use it all the time
+
+1487
+00:44:49,440 --> 00:44:51,119
+so if i wanted to add some character to
+
+1488
+00:44:51,119 --> 00:44:52,400
+this box now we could
+
+1489
+00:44:52,400 --> 00:44:54,960
+select the face here and then press g to
+
+1490
+00:44:54,960 --> 00:44:55,920
+move it
+
+1491
+00:44:55,920 --> 00:44:58,560
+or o to enable proportional editing g to
+
+1492
+00:44:58,560 --> 00:44:59,200
+move it
+
+1493
+00:44:59,200 --> 00:45:01,119
+scroll the scroll wheel down and then we
+
+1494
+00:45:01,119 --> 00:45:03,440
+can start making some
+
+1495
+00:45:03,440 --> 00:45:04,960
+some shapes to this object we haven't
+
+1496
+00:45:04,960 --> 00:45:06,480
+colorized this part here but let's move
+
+1497
+00:45:06,480 --> 00:45:07,359
+that one down
+
+1498
+00:45:07,359 --> 00:45:08,800
+just be aware though that when you've
+
+1499
+00:45:08,800 --> 00:45:10,880
+used this method to colorize object or
+
+1500
+00:45:10,880 --> 00:45:12,560
+make some details then you have to be
+
+1501
+00:45:12,560 --> 00:45:14,079
+really careful with the proportional
+
+1502
+00:45:14,079 --> 00:45:15,839
+editing because it could really easily
+
+1503
+00:45:15,839 --> 00:45:17,200
+break here if i press
+
+1504
+00:45:17,200 --> 00:45:18,800
+if i have proportional editing enabled
+
+1505
+00:45:18,800 --> 00:45:20,480
+there i press g to move it
+
+1506
+00:45:20,480 --> 00:45:22,240
+you can see that we run into problems so
+
+1507
+00:45:22,240 --> 00:45:23,520
+that's something you that you need to be
+
+1508
+00:45:23,520 --> 00:45:25,119
+aware of the knife tool as i mentioned
+
+1509
+00:45:25,119 --> 00:45:26,720
+as well it's got a few more tricks up
+
+1510
+00:45:26,720 --> 00:45:27,359
+its sleeve
+
+1511
+00:45:27,359 --> 00:45:29,200
+and if i tab into edit mode again i
+
+1512
+00:45:29,200 --> 00:45:31,200
+press k to go to the knife tool
+
+1513
+00:45:31,200 --> 00:45:32,560
+sometimes you want to make sure that
+
+1514
+00:45:32,560 --> 00:45:34,079
+you're in the center here and you can
+
+1515
+00:45:34,079 --> 00:45:36,160
+just hold the ctrl key and it'll snap
+
+1516
+00:45:36,160 --> 00:45:37,920
+you to the center so then you know that
+
+1517
+00:45:37,920 --> 00:45:39,680
+you snap from one edge to the other
+
+1518
+00:45:39,680 --> 00:45:40,079
+there
+
+1519
+00:45:40,079 --> 00:45:42,000
+and then press enter so that's a good
+
+1520
+00:45:42,000 --> 00:45:43,440
+thing about the knife tool
+
+1521
+00:45:43,440 --> 00:45:45,520
+another one is the the angle constraint
+
+1522
+00:45:45,520 --> 00:45:47,599
+so if i press k on the knife tool
+
+1523
+00:45:47,599 --> 00:45:50,640
+i press there and then i press c then i
+
+1524
+00:45:50,640 --> 00:45:52,240
+can angle constraint it to
+
+1525
+00:45:52,240 --> 00:45:56,240
+an axis here which could also be useful
+
+1526
+00:45:56,400 --> 00:45:58,240
+okay that was our crate let's hide that
+
+1527
+00:45:58,240 --> 00:45:59,599
+one for a second and
+
+1528
+00:45:59,599 --> 00:46:01,520
+let's do shift a now to create a new
+
+1529
+00:46:01,520 --> 00:46:02,640
+mesh a cube
+
+1530
+00:46:02,640 --> 00:46:04,560
+and let's bring the shading here we need
+
+1531
+00:46:04,560 --> 00:46:06,079
+to switch the material back here as we
+
+1532
+00:46:06,079 --> 00:46:06,800
+did before
+
+1533
+00:46:06,800 --> 00:46:09,520
+go back here a on the left side scale
+
+1534
+00:46:09,520 --> 00:46:10,480
+zero
+
+1535
+00:46:10,480 --> 00:46:13,280
+enter g to move it to gray let's make a
+
+1536
+00:46:13,280 --> 00:46:14,240
+stone this time
+
+1537
+00:46:14,240 --> 00:46:15,520
+now we're going to do something called
+
+1538
+00:46:15,520 --> 00:46:17,599
+subdivision surface if i have this
+
+1539
+00:46:17,599 --> 00:46:20,240
+object selected now i have to be out of
+
+1540
+00:46:20,240 --> 00:46:21,760
+not in this edit mode but out here in
+
+1541
+00:46:21,760 --> 00:46:22,880
+the object mode
+
+1542
+00:46:22,880 --> 00:46:25,839
+and then i can press ctrl between 1 and
+
+1543
+00:46:25,839 --> 00:46:26,319
+5.
+
+1544
+00:46:26,319 --> 00:46:29,040
+if i press ctrl 2 here it applies a
+
+1545
+00:46:29,040 --> 00:46:31,680
+modifier called the subdivision modifier
+
+1546
+00:46:31,680 --> 00:46:34,160
+and basically that just takes an object
+
+1547
+00:46:34,160 --> 00:46:36,000
+and adds geometry and smooths out the
+
+1548
+00:46:36,000 --> 00:46:37,680
+edges so this cube nearly became a
+
+1549
+00:46:37,680 --> 00:46:39,440
+perfect sphere now suddenly if i were to
+
+1550
+00:46:39,440 --> 00:46:40,079
+press ctrl
+
+1551
+00:46:40,079 --> 00:46:41,839
+1 instead it would have been the same as
+
+1552
+00:46:41,839 --> 00:46:43,119
+having one level here
+
+1553
+00:46:43,119 --> 00:46:44,880
+and if i were to press ctrl 3 it would
+
+1554
+00:46:44,880 --> 00:46:46,880
+have or 4 it would have added a lot more
+
+1555
+00:46:46,880 --> 00:46:47,599
+detail here
+
+1556
+00:46:47,599 --> 00:46:49,440
+if i wanted to make a stone here let's
+
+1557
+00:46:49,440 --> 00:46:50,800
+go back here and press ctrl
+
+1558
+00:46:50,800 --> 00:46:52,880
+2. i have to enable my screencast keys
+
+1559
+00:46:52,880 --> 00:46:54,800
+again so you can see and now let's apply
+
+1560
+00:46:54,800 --> 00:46:56,160
+this modifier it's in this
+
+1561
+00:46:56,160 --> 00:46:57,920
+wrench tool thing here we apply this
+
+1562
+00:46:57,920 --> 00:46:59,520
+modifier because otherwise
+
+1563
+00:46:59,520 --> 00:47:01,280
+this is actually still a cube here but
+
+1564
+00:47:01,280 --> 00:47:03,760
+this modifier when it's enabled shows it
+
+1565
+00:47:03,760 --> 00:47:05,359
+the way the result should be but we want
+
+1566
+00:47:05,359 --> 00:47:06,960
+to actually apply this one all together
+
+1567
+00:47:06,960 --> 00:47:07,920
+now and now it's
+
+1568
+00:47:07,920 --> 00:47:09,839
+applied this modifier and transform this
+
+1569
+00:47:09,839 --> 00:47:11,280
+so this is actually a
+
+1570
+00:47:11,280 --> 00:47:13,119
+instead of a cube now it's a subdivided
+
+1571
+00:47:13,119 --> 00:47:14,800
+cube that rounded it off like this
+
+1572
+00:47:14,800 --> 00:47:16,640
+subdivision is really useful you can use
+
+1573
+00:47:16,640 --> 00:47:18,319
+it when you make characters you can make
+
+1574
+00:47:18,319 --> 00:47:19,040
+them
+
+1575
+00:47:19,040 --> 00:47:21,280
+from blocky to really round and smooth
+
+1576
+00:47:21,280 --> 00:47:22,079
+and if i
+
+1577
+00:47:22,079 --> 00:47:23,760
+uh let's say we wanted to model a stone
+
+1578
+00:47:23,760 --> 00:47:25,920
+here now in fact let's control z
+
+1579
+00:47:25,920 --> 00:47:28,160
+and even apply more of a modifier here
+
+1580
+00:47:28,160 --> 00:47:29,680
+let's go back all the way to the cube
+
+1581
+00:47:29,680 --> 00:47:30,079
+here
+
+1582
+00:47:30,079 --> 00:47:32,079
+control four let's make it really
+
+1583
+00:47:32,079 --> 00:47:33,839
+detailed like this and then apply this
+
+1584
+00:47:33,839 --> 00:47:34,720
+one
+
+1585
+00:47:34,720 --> 00:47:37,839
+tab into edit mode one into vertex mode
+
+1586
+00:47:37,839 --> 00:47:39,440
+and then we have proportional editing
+
+1587
+00:47:39,440 --> 00:47:40,319
+very important here
+
+1588
+00:47:40,319 --> 00:47:43,440
+remember the o key and then g to move it
+
+1589
+00:47:43,440 --> 00:47:45,920
+and now we can start squashing the stone
+
+1590
+00:47:45,920 --> 00:47:47,599
+so g to move let's just take some
+
+1591
+00:47:47,599 --> 00:47:49,040
+different maybe we want it flat at the
+
+1592
+00:47:49,040 --> 00:47:50,079
+bottom so i pick a
+
+1593
+00:47:50,079 --> 00:47:52,720
+vertex down here g to move it up scroll
+
+1594
+00:47:52,720 --> 00:47:54,559
+wheel to round it off
+
+1595
+00:47:54,559 --> 00:47:56,559
+and this is not so low poly anymore as
+
+1596
+00:47:56,559 --> 00:47:58,079
+you can see but that's okay we're going
+
+1597
+00:47:58,079 --> 00:48:00,000
+to make it back into low poly
+
+1598
+00:48:00,000 --> 00:48:02,000
+so let's just use the scroll wheel and
+
+1599
+00:48:02,000 --> 00:48:03,520
+proportional editing to get some
+
+1600
+00:48:03,520 --> 00:48:05,040
+interesting shapes to the stone here
+
+1601
+00:48:05,040 --> 00:48:07,839
+like this maybe
+
+1602
+00:48:09,920 --> 00:48:13,040
+there and maybe some more shapes like
+
+1603
+00:48:13,040 --> 00:48:14,000
+that
+
+1604
+00:48:14,000 --> 00:48:15,280
+now we've got something but we still
+
+1605
+00:48:15,280 --> 00:48:17,119
+want to bring it down now again so that
+
+1606
+00:48:17,119 --> 00:48:17,680
+brings us
+
+1607
+00:48:17,680 --> 00:48:19,760
+in another modifier and that's we can
+
+1608
+00:48:19,760 --> 00:48:20,880
+apply this one called
+
+1609
+00:48:20,880 --> 00:48:22,559
+decimate that we just did for the box
+
+1610
+00:48:22,559 --> 00:48:24,079
+before as well so we
+
+1611
+00:48:24,079 --> 00:48:25,839
+click on decimate and we have to be in
+
+1612
+00:48:25,839 --> 00:48:28,079
+object mode now so not in edit mode
+
+1613
+00:48:28,079 --> 00:48:29,760
+and then i bring this ratio down on the
+
+1614
+00:48:29,760 --> 00:48:32,079
+slider you could also type in something
+
+1615
+00:48:32,079 --> 00:48:34,079
+but now we've decimated geometry down
+
+1616
+00:48:34,079 --> 00:48:36,400
+back into low poly so the combination of
+
+1617
+00:48:36,400 --> 00:48:38,800
+subdividing objects adding details so
+
+1618
+00:48:38,800 --> 00:48:40,480
+you can reshape them and then using
+
+1619
+00:48:40,480 --> 00:48:41,119
+decimate
+
+1620
+00:48:41,119 --> 00:48:43,040
+to decimate them again can really get
+
+1621
+00:48:43,040 --> 00:48:44,800
+some interesting low poly results for
+
+1622
+00:48:44,800 --> 00:48:46,400
+you so keep that in mind
+
+1623
+00:48:46,400 --> 00:48:49,440
+subdivide modify and then decimate
+
+1624
+00:48:49,440 --> 00:48:51,040
+working on this rock now as well we can
+
+1625
+00:48:51,040 --> 00:48:52,960
+turn it into more of a stylistic rock
+
+1626
+00:48:52,960 --> 00:48:54,480
+here as well with something called
+
+1627
+00:48:54,480 --> 00:48:56,960
+flatten if i tab into edit mode i press
+
+1628
+00:48:56,960 --> 00:48:58,079
+three to go into face
+
+1629
+00:48:58,079 --> 00:48:59,920
+select we could use anything here but
+
+1630
+00:48:59,920 --> 00:49:02,079
+let's do c to circle select a few faces
+
+1631
+00:49:02,079 --> 00:49:02,480
+here
+
+1632
+00:49:02,480 --> 00:49:06,240
+like that press enter now i can press
+
+1633
+00:49:06,240 --> 00:49:10,400
+f3 here and type in flatten
+
+1634
+00:49:10,559 --> 00:49:13,599
+and suddenly it's turned this into a
+
+1635
+00:49:13,599 --> 00:49:15,359
+flat surface let's do that a few times
+
+1636
+00:49:15,359 --> 00:49:16,079
+so i do
+
+1637
+00:49:16,079 --> 00:49:19,599
+seat circle select maybe those ones
+
+1638
+00:49:19,599 --> 00:49:22,240
+enter f3 and we've already typed flat in
+
+1639
+00:49:22,240 --> 00:49:24,240
+there so i press enter
+
+1640
+00:49:24,240 --> 00:49:26,079
+c to circle select or first we want to
+
+1641
+00:49:26,079 --> 00:49:28,079
+actually press escape and double click a
+
+1642
+00:49:28,079 --> 00:49:29,359
+to deselect
+
+1643
+00:49:29,359 --> 00:49:32,640
+c to circle select a few of these
+
+1644
+00:49:32,640 --> 00:49:35,920
+f3 flatten and here becomes a bit of a
+
+1645
+00:49:35,920 --> 00:49:37,760
+problem maybe so we could think about
+
+1646
+00:49:37,760 --> 00:49:39,760
+ways to fix that but let's do a few more
+
+1647
+00:49:39,760 --> 00:49:41,680
+things first let's do flatten this part
+
+1648
+00:49:41,680 --> 00:49:42,960
+as well
+
+1649
+00:49:42,960 --> 00:49:46,880
+f3 flatten and maybe here
+
+1650
+00:49:46,880 --> 00:49:50,640
+enter f3 flatten we learned before that
+
+1651
+00:49:50,640 --> 00:49:51,599
+we could
+
+1652
+00:49:51,599 --> 00:49:55,040
+use scaling on on a certain axis
+
+1653
+00:49:55,040 --> 00:49:58,880
+so for example if i do c to select here
+
+1654
+00:49:58,880 --> 00:50:00,960
+enter if i were to scale this now it
+
+1655
+00:50:00,960 --> 00:50:02,480
+just scales it up and down
+
+1656
+00:50:02,480 --> 00:50:04,319
+and if i were to scale it on an axis
+
+1657
+00:50:04,319 --> 00:50:07,040
+like z it would flatten it and widen it
+
+1658
+00:50:07,040 --> 00:50:09,040
+but here we can actually go into press
+
+1659
+00:50:09,040 --> 00:50:10,880
+comma and here we have a whole new
+
+1660
+00:50:10,880 --> 00:50:11,520
+selection of
+
+1661
+00:50:11,520 --> 00:50:12,880
+something called orientation that we
+
+1662
+00:50:12,880 --> 00:50:15,119
+haven't covered yet and by default it's
+
+1663
+00:50:15,119 --> 00:50:16,960
+set to global so when i scale on the
+
+1664
+00:50:16,960 --> 00:50:17,680
+z-axis
+
+1665
+00:50:17,680 --> 00:50:20,720
+it's the vertical blue z-axis here
+
+1666
+00:50:20,720 --> 00:50:23,839
+but if we do scale or if i do comma
+
+1667
+00:50:23,839 --> 00:50:26,079
+and then select normal here remember the
+
+1668
+00:50:26,079 --> 00:50:27,200
+normal is the
+
+1669
+00:50:27,200 --> 00:50:29,599
+face the perpendicular angle to a face
+
+1670
+00:50:29,599 --> 00:50:30,960
+so if you have a flat face like this
+
+1671
+00:50:30,960 --> 00:50:32,559
+it's 90 degrees
+
+1672
+00:50:32,559 --> 00:50:35,359
+in the center going up that's the normal
+
+1673
+00:50:35,359 --> 00:50:37,839
+and when we have multiple faces selected
+
+1674
+00:50:37,839 --> 00:50:40,480
+it'll be the averaged normal so now when
+
+1675
+00:50:40,480 --> 00:50:41,920
+i you can see this blue arrow is
+
+1676
+00:50:41,920 --> 00:50:42,800
+pointing
+
+1677
+00:50:42,800 --> 00:50:45,520
+away from an average of these normals
+
+1678
+00:50:45,520 --> 00:50:46,000
+here
+
+1679
+00:50:46,000 --> 00:50:48,720
+so now when i press s to scale i can do
+
+1680
+00:50:48,720 --> 00:50:49,440
+z
+
+1681
+00:50:49,440 --> 00:50:51,119
+to flatten it like this and we've got
+
+1682
+00:50:51,119 --> 00:50:52,720
+proportional editing on now as well
+
+1683
+00:50:52,720 --> 00:50:53,359
+which is why
+
+1684
+00:50:53,359 --> 00:50:54,960
+it's moving the surrounding one if we
+
+1685
+00:50:54,960 --> 00:50:57,200
+then want that we can deselect that one
+
+1686
+00:50:57,200 --> 00:50:58,000
+with o
+
+1687
+00:50:58,000 --> 00:50:59,839
+press s to scale again and then force it
+
+1688
+00:50:59,839 --> 00:51:01,040
+on the z axis
+
+1689
+00:51:01,040 --> 00:51:03,040
+and then you can type zero as well and
+
+1690
+00:51:03,040 --> 00:51:05,359
+that's basically the same as flattening
+
+1691
+00:51:05,359 --> 00:51:06,880
+but if you don't want to fully flatten
+
+1692
+00:51:06,880 --> 00:51:09,040
+it you can press s to scale and then
+
+1693
+00:51:09,040 --> 00:51:11,599
+do z to like bring those faces a little
+
+1694
+00:51:11,599 --> 00:51:12,559
+bit more
+
+1695
+00:51:12,559 --> 00:51:14,960
+into the shape that you want sometimes
+
+1696
+00:51:14,960 --> 00:51:16,559
+you have little squiggly bits like this
+
+1697
+00:51:16,559 --> 00:51:17,680
+that you want to get rid of
+
+1698
+00:51:17,680 --> 00:51:19,839
+and let's say we wanted to fix this one
+
+1699
+00:51:19,839 --> 00:51:21,680
+let's say this face is annoying us
+
+1700
+00:51:21,680 --> 00:51:23,839
+a lot like this face is annoying most
+
+1701
+00:51:23,839 --> 00:51:25,119
+people probably
+
+1702
+00:51:25,119 --> 00:51:28,240
+but here i can switch this little thing
+
+1703
+00:51:28,240 --> 00:51:29,760
+we haven't talked about this one but but
+
+1704
+00:51:29,760 --> 00:51:32,160
+snap two i can change to vertex if i
+
+1705
+00:51:32,160 --> 00:51:34,240
+wanted to move this vertex now onto
+
+1706
+00:51:34,240 --> 00:51:36,160
+exactly the location of that vertex
+
+1707
+00:51:36,160 --> 00:51:38,079
+i can press g to move it and since we
+
+1708
+00:51:38,079 --> 00:51:40,160
+had switched to vertex at the top now if
+
+1709
+00:51:40,160 --> 00:51:41,599
+i hold the ctrl key
+
+1710
+00:51:41,599 --> 00:51:43,440
+i can actually magically snap it onto
+
+1711
+00:51:43,440 --> 00:51:44,720
+any other vertex here
+
+1712
+00:51:44,720 --> 00:51:46,400
+but we have to be careful because when i
+
+1713
+00:51:46,400 --> 00:51:47,920
+did that now it looked like we fixed
+
+1714
+00:51:47,920 --> 00:51:48,480
+everything
+
+1715
+00:51:48,480 --> 00:51:50,800
+but if i press g to move it you can see
+
+1716
+00:51:50,800 --> 00:51:52,640
+that it's actually two vertices there
+
+1717
+00:51:52,640 --> 00:51:54,079
+and that's a problem you don't really
+
+1718
+00:51:54,079 --> 00:51:55,440
+want to have overlapping vertices
+
+1719
+00:51:55,440 --> 00:51:56,880
+because you have faces there now that
+
+1720
+00:51:56,880 --> 00:51:58,720
+are basically non-existent but it'll
+
+1721
+00:51:58,720 --> 00:52:01,040
+cause problems there's two ways to fix
+
+1722
+00:52:01,040 --> 00:52:01,920
+that
+
+1723
+00:52:01,920 --> 00:52:03,520
+first one you can do instead i press
+
+1724
+00:52:03,520 --> 00:52:05,520
+ctrl z and we can enable this little
+
+1725
+00:52:05,520 --> 00:52:06,640
+thing up here called
+
+1726
+00:52:06,640 --> 00:52:08,800
+auto merge vertices so if i click on
+
+1727
+00:52:08,800 --> 00:52:09,680
+that one
+
+1728
+00:52:09,680 --> 00:52:12,400
+i press g to move it and now if i hold
+
+1729
+00:52:12,400 --> 00:52:13,599
+the ctrl key
+
+1730
+00:52:13,599 --> 00:52:15,760
+and i snap it onto there since auto
+
+1731
+00:52:15,760 --> 00:52:17,599
+merge vertices is on now it'll detect
+
+1732
+00:52:17,599 --> 00:52:19,280
+that oh these vertices are in the exact
+
+1733
+00:52:19,280 --> 00:52:21,040
+same location so i'll merge those into
+
+1734
+00:52:21,040 --> 00:52:21,920
+one
+
+1735
+00:52:21,920 --> 00:52:23,680
+so now when i press g to move it it's
+
+1736
+00:52:23,680 --> 00:52:25,839
+already magically fixed that for us
+
+1737
+00:52:25,839 --> 00:52:27,440
+the other way to do it is if you don't
+
+1738
+00:52:27,440 --> 00:52:29,040
+have auto merge vertices
+
+1739
+00:52:29,040 --> 00:52:32,160
+you press g to move it hold the ctrl key
+
+1740
+00:52:32,160 --> 00:52:35,359
+snap it onto that vertex then now
+
+1741
+00:52:35,359 --> 00:52:37,839
+i can do a to select everything and
+
+1742
+00:52:37,839 --> 00:52:39,599
+there's a hotkey it's changed now so in
+
+1743
+00:52:39,599 --> 00:52:41,119
+2.83 it's just the
+
+1744
+00:52:41,119 --> 00:52:43,440
+m key it used to be different one it
+
+1745
+00:52:43,440 --> 00:52:45,040
+used to be alt m but now it's
+
+1746
+00:52:45,040 --> 00:52:48,559
+m and then you do merge by distance and
+
+1747
+00:52:48,559 --> 00:52:50,400
+you can see down there it says removed
+
+1748
+00:52:50,400 --> 00:52:53,599
+one vertices or one vertex it's because
+
+1749
+00:52:53,599 --> 00:52:54,800
+it goes through the whole mesh and
+
+1750
+00:52:54,800 --> 00:52:56,400
+detects if there are duplicates one so
+
+1751
+00:52:56,400 --> 00:52:57,680
+that's pretty good to do every now and
+
+1752
+00:52:57,680 --> 00:52:59,680
+then if you've got a complex mesh
+
+1753
+00:52:59,680 --> 00:53:02,640
+just select all the vertices do m and
+
+1754
+00:53:02,640 --> 00:53:04,559
+then merge by distance and remove all
+
+1755
+00:53:04,559 --> 00:53:06,079
+those doubles so you don't run into
+
+1756
+00:53:06,079 --> 00:53:07,359
+problems with them i don't know if i've
+
+1757
+00:53:07,359 --> 00:53:08,800
+covered this but i'll give you this one
+
+1758
+00:53:08,800 --> 00:53:09,359
+as well
+
+1759
+00:53:09,359 --> 00:53:11,359
+let's say we wanted to create a bit of a
+
+1760
+00:53:11,359 --> 00:53:13,520
+worn edge to this stone and i press two
+
+1761
+00:53:13,520 --> 00:53:15,200
+to make sure i'm in the edge select and
+
+1762
+00:53:15,200 --> 00:53:16,800
+let's hold the shift key now and
+
+1763
+00:53:16,800 --> 00:53:18,480
+select a few of these edges here and
+
+1764
+00:53:18,480 --> 00:53:20,640
+then now you can press ctrl
+
+1765
+00:53:20,640 --> 00:53:23,280
+b to do the bevel again and we've
+
+1766
+00:53:23,280 --> 00:53:24,559
+actually done this before because i've
+
+1767
+00:53:24,559 --> 00:53:26,079
+got loads of lines here we don't really
+
+1768
+00:53:26,079 --> 00:53:27,599
+want that many so let's bring segments
+
+1769
+00:53:27,599 --> 00:53:28,079
+down to
+
+1770
+00:53:28,079 --> 00:53:31,040
+one and now when we tab out of object
+
+1771
+00:53:31,040 --> 00:53:32,640
+mode we can see that it's created quite
+
+1772
+00:53:32,640 --> 00:53:33,119
+a nice
+
+1773
+00:53:33,119 --> 00:53:35,040
+little beveled edge to this and then if
+
+1774
+00:53:35,040 --> 00:53:36,160
+we go one
+
+1775
+00:53:36,160 --> 00:53:38,160
+into vertex edit here we can select a
+
+1776
+00:53:38,160 --> 00:53:39,839
+few of these vertices and press
+
+1777
+00:53:39,839 --> 00:53:42,640
+s to scale them and then here maybe we
+
+1778
+00:53:42,640 --> 00:53:45,200
+want it smaller as to scale it down
+
+1779
+00:53:45,200 --> 00:53:47,359
+here maybe we want to scale it up again
+
+1780
+00:53:47,359 --> 00:53:48,960
+you can control
+
+1781
+00:53:48,960 --> 00:53:50,720
+through scaling here how much you want
+
+1782
+00:53:50,720 --> 00:53:53,040
+those beveled edges to be on the rock so
+
+1783
+00:53:53,040 --> 00:53:53,839
+that's quite good
+
+1784
+00:53:53,839 --> 00:53:56,079
+for stones low polystones okay let's
+
+1785
+00:53:56,079 --> 00:53:57,040
+double click and
+
+1786
+00:53:57,040 --> 00:54:00,160
+name this one stone
+
+1787
+00:54:00,160 --> 00:54:01,839
+sometimes you want to start getting
+
+1788
+00:54:01,839 --> 00:54:03,520
+nitty gritty with your editing so
+
+1789
+00:54:03,520 --> 00:54:05,359
+sometimes you want to delete faces let's
+
+1790
+00:54:05,359 --> 00:54:07,119
+say we wanted to shift select a few of
+
+1791
+00:54:07,119 --> 00:54:08,000
+these
+
+1792
+00:54:08,000 --> 00:54:09,920
+and then we wanted to press delete for
+
+1793
+00:54:09,920 --> 00:54:11,200
+whatever reason
+
+1794
+00:54:11,200 --> 00:54:13,520
+then it's a big hole here that could be
+
+1795
+00:54:13,520 --> 00:54:14,880
+a bit scary in the first time that
+
+1796
+00:54:14,880 --> 00:54:15,359
+happens
+
+1797
+00:54:15,359 --> 00:54:17,119
+but don't be too worried about it you
+
+1798
+00:54:17,119 --> 00:54:18,800
+can actually fix holes like this
+
+1799
+00:54:18,800 --> 00:54:21,200
+by if you have a hole in your mesh in
+
+1800
+00:54:21,200 --> 00:54:21,839
+edit mode
+
+1801
+00:54:21,839 --> 00:54:24,319
+click a for everything and press f on
+
+1802
+00:54:24,319 --> 00:54:25,200
+the keyboard
+
+1803
+00:54:25,200 --> 00:54:27,280
+that fills this hole automatically but
+
+1804
+00:54:27,280 --> 00:54:29,440
+it creates one big mesh like this
+
+1805
+00:54:29,440 --> 00:54:31,359
+so sometimes you can get into some
+
+1806
+00:54:31,359 --> 00:54:33,119
+alignment issues let's say we had these
+
+1807
+00:54:33,119 --> 00:54:34,880
+gone
+
+1808
+00:54:34,880 --> 00:54:37,040
+over the edge here like that let's
+
+1809
+00:54:37,040 --> 00:54:38,559
+select those press delete
+
+1810
+00:54:38,559 --> 00:54:40,960
+faces select everything and press f you
+
+1811
+00:54:40,960 --> 00:54:42,799
+can see that it fixes the hole
+
+1812
+00:54:42,799 --> 00:54:44,640
+but it's got some weird stuff going on
+
+1813
+00:54:44,640 --> 00:54:45,920
+here with the shading
+
+1814
+00:54:45,920 --> 00:54:48,160
+and that's because it's created one face
+
+1815
+00:54:48,160 --> 00:54:50,319
+so it's really finding it difficult here
+
+1816
+00:54:50,319 --> 00:54:51,599
+but there's a way to fix it
+
+1817
+00:54:51,599 --> 00:54:52,960
+either we can do it manually by
+
+1818
+00:54:52,960 --> 00:54:54,720
+selecting we know that we want the line
+
+1819
+00:54:54,720 --> 00:54:57,040
+between that vertex and that vertex and
+
+1820
+00:54:57,040 --> 00:54:57,839
+then we can press
+
+1821
+00:54:57,839 --> 00:55:00,480
+j and that fixes pretty much everything
+
+1822
+00:55:00,480 --> 00:55:02,160
+there because then you tell
+
+1823
+00:55:02,160 --> 00:55:04,720
+the mesh that i want a distinct edge
+
+1824
+00:55:04,720 --> 00:55:06,000
+here so that's fixed
+
+1825
+00:55:06,000 --> 00:55:08,400
+another thing you could do is if we
+
+1826
+00:55:08,400 --> 00:55:10,640
+control z out of that one
+
+1827
+00:55:10,640 --> 00:55:12,559
+you could select that face and press
+
+1828
+00:55:12,559 --> 00:55:13,680
+ctrl t
+
+1829
+00:55:13,680 --> 00:55:15,520
+to triangulate it that's another way to
+
+1830
+00:55:15,520 --> 00:55:17,680
+fix that one also if you want to say
+
+1831
+00:55:17,680 --> 00:55:19,440
+exactly how faces should be created
+
+1832
+00:55:19,440 --> 00:55:20,000
+actually let's
+
+1833
+00:55:20,000 --> 00:55:21,680
+do ctrl t to triangulate that one as
+
+1834
+00:55:21,680 --> 00:55:23,440
+well let's say we had this one deleted
+
+1835
+00:55:23,440 --> 00:55:24,400
+again like this
+
+1836
+00:55:24,400 --> 00:55:26,880
+delete faces if you want to have control
+
+1837
+00:55:26,880 --> 00:55:28,640
+while you create this instead of marking
+
+1838
+00:55:28,640 --> 00:55:29,920
+everything you can press
+
+1839
+00:55:29,920 --> 00:55:32,000
+2 to select the edges here and let's say
+
+1840
+00:55:32,000 --> 00:55:32,960
+i want to select this
+
+1841
+00:55:32,960 --> 00:55:35,200
+edge that edge and that edge and now
+
+1842
+00:55:35,200 --> 00:55:36,079
+when i press f
+
+1843
+00:55:36,079 --> 00:55:38,240
+it'll create a face between those lines
+
+1844
+00:55:38,240 --> 00:55:39,119
+that i set
+
+1845
+00:55:39,119 --> 00:55:40,880
+here same thing here if i wanted to
+
+1846
+00:55:40,880 --> 00:55:42,960
+control i could select
+
+1847
+00:55:42,960 --> 00:55:46,079
+exactly which lines and f to create them
+
+1848
+00:55:46,079 --> 00:55:47,760
+sometimes you'll run into a problem here
+
+1849
+00:55:47,760 --> 00:55:49,520
+where the face is created maybe
+
+1850
+00:55:49,520 --> 00:55:51,440
+inwards i'll just flip it manually now
+
+1851
+00:55:51,440 --> 00:55:53,680
+so you can see what i mean
+
+1852
+00:55:53,680 --> 00:55:56,240
+flip normals so this face actually
+
+1853
+00:55:56,240 --> 00:55:57,680
+exists here if we do old said
+
+1854
+00:55:57,680 --> 00:55:59,040
+you can see that there's like a center
+
+1855
+00:55:59,040 --> 00:56:01,200
+point here you can see it
+
+1856
+00:56:01,200 --> 00:56:04,720
+that one an old set again to
+
+1857
+00:56:04,720 --> 00:56:06,880
+disable x-ray so there is a face here
+
+1858
+00:56:06,880 --> 00:56:08,559
+but remember that we have the back face
+
+1859
+00:56:08,559 --> 00:56:09,359
+culling on
+
+1860
+00:56:09,359 --> 00:56:11,200
+so if if we can see the back face it
+
+1861
+00:56:11,200 --> 00:56:12,880
+looks like there's a face there
+
+1862
+00:56:12,880 --> 00:56:14,960
+but if we enable backface culling this
+
+1863
+00:56:14,960 --> 00:56:16,720
+is what most game edges would see
+
+1864
+00:56:16,720 --> 00:56:19,920
+a big gaping hole here sounded weird
+
+1865
+00:56:19,920 --> 00:56:23,599
+okay but we can fix that in a few ways
+
+1866
+00:56:23,599 --> 00:56:25,200
+one of them is manually by selecting
+
+1867
+00:56:25,200 --> 00:56:26,880
+this face that we know exists there
+
+1868
+00:56:26,880 --> 00:56:29,280
+pressing f3 and typing flip normals so
+
+1869
+00:56:29,280 --> 00:56:30,799
+that was one way to do it
+
+1870
+00:56:30,799 --> 00:56:32,400
+the other way to do it is that you can
+
+1871
+00:56:32,400 --> 00:56:34,640
+actually recalculate the normals for the
+
+1872
+00:56:34,640 --> 00:56:36,240
+whole mesh so let's say we flipped
+
+1873
+00:56:36,240 --> 00:56:38,079
+we let's say we have a few of them let's
+
+1874
+00:56:38,079 --> 00:56:41,280
+flip like this i'll select a few bunch
+
+1875
+00:56:41,280 --> 00:56:43,040
+flip normals if you don't want to select
+
+1876
+00:56:43,040 --> 00:56:44,720
+all these manually and flip them you can
+
+1877
+00:56:44,720 --> 00:56:46,160
+do a to select everything
+
+1878
+00:56:46,160 --> 00:56:49,200
+and then press alt n and then
+
+1879
+00:56:49,200 --> 00:56:52,240
+recalculate outside and now blender will
+
+1880
+00:56:52,240 --> 00:56:53,920
+sort of detect which ones are facing
+
+1881
+00:56:53,920 --> 00:56:55,680
+outside and try to fix it for you so
+
+1882
+00:56:55,680 --> 00:56:56,240
+that
+
+1883
+00:56:56,240 --> 00:56:58,079
+works quite often not all the time but
+
+1884
+00:56:58,079 --> 00:56:59,599
+quite often and equally
+
+1885
+00:56:59,599 --> 00:57:01,920
+there's this thing called alt n and you
+
+1886
+00:57:01,920 --> 00:57:04,160
+could do recalculate inside
+
+1887
+00:57:04,160 --> 00:57:06,960
+so if you made a cave for example then
+
+1888
+00:57:06,960 --> 00:57:08,480
+you can certainly be inside of it but
+
+1889
+00:57:08,480 --> 00:57:09,440
+let's flip them back
+
+1890
+00:57:09,440 --> 00:57:12,720
+alt n recalculate outside
+
+1891
+00:57:12,720 --> 00:57:14,720
+and back to our stone here you can also
+
+1892
+00:57:14,720 --> 00:57:16,400
+remove individual edges here
+
+1893
+00:57:16,400 --> 00:57:18,559
+so if i press two to edge select and
+
+1894
+00:57:18,559 --> 00:57:20,079
+let's say we wanted to
+
+1895
+00:57:20,079 --> 00:57:22,079
+it's called dissolve so if i wanted to
+
+1896
+00:57:22,079 --> 00:57:24,000
+remove these edges here but not
+
+1897
+00:57:24,000 --> 00:57:26,880
+delete them i can press x or delete and
+
+1898
+00:57:26,880 --> 00:57:28,160
+then dissolve edges
+
+1899
+00:57:28,160 --> 00:57:29,520
+and sometimes you want to do this as
+
+1900
+00:57:29,520 --> 00:57:31,440
+well because sometimes you don't
+
+1901
+00:57:31,440 --> 00:57:32,640
+let's say you have a bit of a
+
+1902
+00:57:32,640 --> 00:57:35,119
+triangulation going on like this
+
+1903
+00:57:35,119 --> 00:57:37,680
+which might be just this like this
+
+1904
+00:57:37,680 --> 00:57:39,040
+sometimes you want to select all of
+
+1905
+00:57:39,040 --> 00:57:40,000
+these
+
+1906
+00:57:40,000 --> 00:57:43,119
+like that press x and dissolve edges
+
+1907
+00:57:43,119 --> 00:57:44,640
+and that will dissolve those and just
+
+1908
+00:57:44,640 --> 00:57:46,799
+create one face but be aware that when
+
+1909
+00:57:46,799 --> 00:57:48,640
+you subdivide and things like that okay
+
+1910
+00:57:48,640 --> 00:57:49,760
+another thing we can do is
+
+1911
+00:57:49,760 --> 00:57:51,520
+something called bridge edge loops which
+
+1912
+00:57:51,520 --> 00:57:52,960
+could be quite useful
+
+1913
+00:57:52,960 --> 00:57:55,280
+let's hide this one the stone and let's
+
+1914
+00:57:55,280 --> 00:57:56,160
+bring a new one
+
+1915
+00:57:56,160 --> 00:57:59,359
+shift a create a new cube
+
+1916
+00:57:59,359 --> 00:58:01,280
+tab into edit mode first we'll switch
+
+1917
+00:58:01,280 --> 00:58:02,720
+the shading again back to
+
+1918
+00:58:02,720 --> 00:58:06,160
+the material here a
+
+1919
+00:58:06,160 --> 00:58:09,440
+scale 0 on the uvs you know this by now
+
+1920
+00:58:09,440 --> 00:58:12,000
+g to move it onto gray l to select this
+
+1921
+00:58:12,000 --> 00:58:12,880
+one
+
+1922
+00:58:12,880 --> 00:58:14,319
+actually let's just create something
+
+1923
+00:58:14,319 --> 00:58:16,400
+here um let's
+
+1924
+00:58:16,400 --> 00:58:17,839
+do the old school stuff what we learned
+
+1925
+00:58:17,839 --> 00:58:19,520
+a long time ago now e takes true d to
+
+1926
+00:58:19,520 --> 00:58:21,200
+extrude s to scale e to extrude to
+
+1927
+00:58:21,200 --> 00:58:23,760
+extrude s to scale
+
+1928
+00:58:23,760 --> 00:58:26,480
+maybe i to inset let's say we had
+
+1929
+00:58:26,480 --> 00:58:28,079
+something like this now
+
+1930
+00:58:28,079 --> 00:58:30,799
+and inset that one and then let's
+
+1931
+00:58:30,799 --> 00:58:32,880
+duplicate this whole object now shift d
+
+1932
+00:58:32,880 --> 00:58:34,240
+these are facing in the wrong direction
+
+1933
+00:58:34,240 --> 00:58:35,760
+now because before remember we pressed
+
+1934
+00:58:35,760 --> 00:58:36,480
+comma
+
+1935
+00:58:36,480 --> 00:58:38,400
+to go into normal but we're going to go
+
+1936
+00:58:38,400 --> 00:58:40,079
+back into global now so everything makes
+
+1937
+00:58:40,079 --> 00:58:42,000
+sense i'll slide it on this red axis
+
+1938
+00:58:42,000 --> 00:58:44,000
+and let's do something here item set
+
+1939
+00:58:44,000 --> 00:58:45,440
+this one e to extrude
+
+1940
+00:58:45,440 --> 00:58:47,280
+let's say we wanted to connect these two
+
+1941
+00:58:47,280 --> 00:58:48,880
+now so we're in the same
+
+1942
+00:58:48,880 --> 00:58:50,720
+object here now the cube here but we've
+
+1943
+00:58:50,720 --> 00:58:52,480
+got two sets of geometries and sometimes
+
+1944
+00:58:52,480 --> 00:58:54,160
+you want to connect this one here let's
+
+1945
+00:58:54,160 --> 00:58:56,000
+slide this one out instead
+
+1946
+00:58:56,000 --> 00:58:57,920
+so how do i go about connecting these
+
+1947
+00:58:57,920 --> 00:59:00,400
+into one single mesh here you could just
+
+1948
+00:59:00,400 --> 00:59:03,920
+select this face select that face type
+
+1949
+00:59:03,920 --> 00:59:04,240
+press
+
+1950
+00:59:04,240 --> 00:59:07,200
+f3 and type in bridge and then select
+
+1951
+00:59:07,200 --> 00:59:09,040
+bridge edge loops here
+
+1952
+00:59:09,040 --> 00:59:11,119
+and that links those together and we can
+
+1953
+00:59:11,119 --> 00:59:12,480
+do alt z to make sure
+
+1954
+00:59:12,480 --> 00:59:14,079
+it actually took away the center phase
+
+1955
+00:59:14,079 --> 00:59:15,920
+that was in here as well so there's
+
+1956
+00:59:15,920 --> 00:59:17,760
+no more center phase in there we can
+
+1957
+00:59:17,760 --> 00:59:19,119
+actually double check here as well i'll
+
+1958
+00:59:19,119 --> 00:59:19,680
+select
+
+1959
+00:59:19,680 --> 00:59:21,440
+the loop around there and press h to
+
+1960
+00:59:21,440 --> 00:59:22,480
+hide it and you can see that there are
+
+1961
+00:59:22,480 --> 00:59:23,760
+no faces here as well
+
+1962
+00:59:23,760 --> 00:59:25,920
+and then alt h on hide so if you wanted
+
+1963
+00:59:25,920 --> 00:59:27,200
+to link these together
+
+1964
+00:59:27,200 --> 00:59:30,400
+just select those two f3 bridge edge
+
+1965
+00:59:30,400 --> 00:59:31,040
+loops
+
+1966
+00:59:31,040 --> 00:59:32,960
+if you wanted to select these two up
+
+1967
+00:59:32,960 --> 00:59:34,960
+here you can link those together as well
+
+1968
+00:59:34,960 --> 00:59:38,000
+f3 bridge edge loops like that let's say
+
+1969
+00:59:38,000 --> 00:59:38,880
+i wanted to model
+
+1970
+00:59:38,880 --> 00:59:41,599
+top of a table with a computer a monitor
+
+1971
+00:59:41,599 --> 00:59:42,240
+and a
+
+1972
+00:59:42,240 --> 00:59:44,400
+keyboard on it let's do shift a as we've
+
+1973
+00:59:44,400 --> 00:59:46,160
+done before we'll add a cube
+
+1974
+00:59:46,160 --> 00:59:48,400
+and we'll go here bring shading make
+
+1975
+00:59:48,400 --> 00:59:49,920
+sure we have the material selected
+
+1976
+00:59:49,920 --> 00:59:51,680
+go back to uv editing i'll select
+
+1977
+00:59:51,680 --> 00:59:53,280
+everything i'm in edit mode now so i've
+
+1978
+00:59:53,280 --> 00:59:53,920
+pressed tab
+
+1979
+00:59:53,920 --> 00:59:56,000
+very important scale z and then we
+
+1980
+00:59:56,000 --> 00:59:57,599
+flatten it down maybe like this
+
+1981
+00:59:57,599 --> 00:59:59,920
+scale on the x axis make it wider so
+
+1982
+00:59:59,920 --> 01:00:00,720
+we'll just make the
+
+1983
+01:00:00,720 --> 01:00:02,079
+i'll skip the legs for now i'll just
+
+1984
+01:00:02,079 --> 01:00:03,839
+make a table top here a
+
+1985
+01:00:03,839 --> 01:00:06,720
+on the left side on the uv here scale 0
+
+1986
+01:00:06,720 --> 01:00:07,359
+enter
+
+1987
+01:00:07,359 --> 01:00:09,280
+and make a brown table top again so now
+
+1988
+01:00:09,280 --> 01:00:10,480
+we're going to put a computer here and
+
+1989
+01:00:10,480 --> 01:00:12,079
+this is something i do quite often to
+
+1990
+01:00:12,079 --> 01:00:13,280
+save a lot of time
+
+1991
+01:00:13,280 --> 01:00:15,599
+i select this table top just this face
+
+1992
+01:00:15,599 --> 01:00:16,559
+here i'm three
+
+1993
+01:00:16,559 --> 01:00:18,720
+in phase select here shift d to
+
+1994
+01:00:18,720 --> 01:00:19,760
+duplicate it
+
+1995
+01:00:19,760 --> 01:00:21,520
+and you can see that it's loose here but
+
+1996
+01:00:21,520 --> 01:00:23,440
+if i press right mouse button now it'll
+
+1997
+01:00:23,440 --> 01:00:25,040
+snap it back to where it was
+
+1998
+01:00:25,040 --> 01:00:27,200
+but now we've got a separate face here
+
+1999
+01:00:27,200 --> 01:00:29,599
+so i can press s to scale that face
+
+2000
+01:00:29,599 --> 01:00:32,160
+and s again and press x and scale it on
+
+2001
+01:00:32,160 --> 01:00:32,960
+the x axis
+
+2002
+01:00:32,960 --> 01:00:35,280
+and then move it to here and then now
+
+2003
+01:00:35,280 --> 01:00:37,200
+when i press e to extrude it
+
+2004
+01:00:37,200 --> 01:00:39,200
+we've got a computer here and remember
+
+2005
+01:00:39,200 --> 01:00:40,960
+that i can press l on this one to select
+
+2006
+01:00:40,960 --> 01:00:42,559
+it we're still in the same object here
+
+2007
+01:00:42,559 --> 01:00:45,040
+but since these vertices are only linked
+
+2008
+01:00:45,040 --> 01:00:47,520
+to this face and the extruded part of it
+
+2009
+01:00:47,520 --> 01:00:49,440
+it's not linked to the tabletop anymore
+
+2010
+01:00:49,440 --> 01:00:51,119
+so we can control this separate
+
+2011
+01:00:51,119 --> 01:00:53,119
+and then i'll press on the left here g
+
+2012
+01:00:53,119 --> 01:00:55,119
+and move it to black so we make a black
+
+2013
+01:00:55,119 --> 01:00:56,720
+computer always cool to have a black
+
+2014
+01:00:56,720 --> 01:00:58,240
+computer let's make a monitor
+
+2015
+01:00:58,240 --> 01:00:59,839
+so in the same way i'll take the
+
+2016
+01:00:59,839 --> 01:01:02,160
+tabletop here again shift d duplicate it
+
+2017
+01:01:02,160 --> 01:01:06,079
+right click scale it down e to extrude
+
+2018
+01:01:06,079 --> 01:01:08,880
+e to extrude again s to scale e to
+
+2019
+01:01:08,880 --> 01:01:09,760
+extrude
+
+2020
+01:01:09,760 --> 01:01:11,280
+let's actually press l here and move it
+
+2021
+01:01:11,280 --> 01:01:13,040
+all the way to the side so we get some
+
+2022
+01:01:13,040 --> 01:01:13,920
+space
+
+2023
+01:01:13,920 --> 01:01:16,720
+e to extrude s to scale s to scale again
+
+2024
+01:01:16,720 --> 01:01:17,680
+on the x axis
+
+2025
+01:01:17,680 --> 01:01:20,960
+e to extrude and press l
+
+2026
+01:01:20,960 --> 01:01:24,000
+to select all the links g here on the
+
+2027
+01:01:24,000 --> 01:01:26,079
+left side move it to black
+
+2028
+01:01:26,079 --> 01:01:29,680
+let's do i to inset and e to extrude
+
+2029
+01:01:29,680 --> 01:01:31,680
+and let's change g here and change this
+
+2030
+01:01:31,680 --> 01:01:33,200
+to a blue screen of that
+
+2031
+01:01:33,200 --> 01:01:35,440
+and let's make a keyboard so same i'll
+
+2032
+01:01:35,440 --> 01:01:36,640
+pick this one shift d
+
+2033
+01:01:36,640 --> 01:01:39,920
+to duplicate it scale it maybe move it
+
+2034
+01:01:39,920 --> 01:01:41,680
+to here
+
+2035
+01:01:41,680 --> 01:01:45,040
+scale e to extrude it l to select the
+
+2036
+01:01:45,040 --> 01:01:45,520
+length
+
+2037
+01:01:45,520 --> 01:01:47,440
+and g to move it maybe it's a great
+
+2038
+01:01:47,440 --> 01:01:49,280
+keyboard say we wanted to make a chord
+
+2039
+01:01:49,280 --> 01:01:49,920
+here as well
+
+2040
+01:01:49,920 --> 01:01:52,079
+we could do the same here thing with lu
+
+2041
+01:01:52,079 --> 01:01:53,760
+we can do the same thing i'll do shift d
+
+2042
+01:01:53,760 --> 01:01:54,640
+to duplicate it
+
+2043
+01:01:54,640 --> 01:01:57,359
+scale it down maybe scale it on the z
+
+2044
+01:01:57,359 --> 01:01:58,400
+axis
+
+2045
+01:01:58,400 --> 01:02:00,160
+let's look from the top now and then
+
+2046
+01:02:00,160 --> 01:02:02,480
+just remember we could hold the ctrl key
+
+2047
+01:02:02,480 --> 01:02:06,079
+and then just right click
+
+2048
+01:02:06,079 --> 01:02:09,839
+like this and then connect it to the
+
+2049
+01:02:09,839 --> 01:02:11,119
+monitor
+
+2050
+01:02:11,119 --> 01:02:14,240
+there maybe move it into the monitor
+
+2051
+01:02:14,240 --> 01:02:16,000
+and it's hanging in the air now so maybe
+
+2052
+01:02:16,000 --> 01:02:17,920
+we want to fix that i'll go into
+
+2053
+01:02:17,920 --> 01:02:20,559
+two to edge select select any edge here
+
+2054
+01:02:20,559 --> 01:02:21,200
+let's
+
+2055
+01:02:21,200 --> 01:02:23,839
+press o to enable proportional editing
+
+2056
+01:02:23,839 --> 01:02:25,440
+and g to move it down
+
+2057
+01:02:25,440 --> 01:02:26,960
+scroll it up a bit see that we're
+
+2058
+01:02:26,960 --> 01:02:28,640
+distorting the computer now we don't
+
+2059
+01:02:28,640 --> 01:02:30,000
+really want to do that so let's right
+
+2060
+01:02:30,000 --> 01:02:30,480
+click
+
+2061
+01:02:30,480 --> 01:02:33,680
+to cancel that and do alt o to make sure
+
+2062
+01:02:33,680 --> 01:02:35,440
+we only have the connected here
+
+2063
+01:02:35,440 --> 01:02:37,039
+this one remember that it's connected
+
+2064
+01:02:37,039 --> 01:02:38,960
+only now g to move it now we're only
+
+2065
+01:02:38,960 --> 01:02:40,799
+affecting the chord no matter how big we
+
+2066
+01:02:40,799 --> 01:02:41,599
+go
+
+2067
+01:02:41,599 --> 01:02:43,200
+so we can hang the chord down to maybe
+
+2068
+01:02:43,200 --> 01:02:45,280
+there select that one
+
+2069
+01:02:45,280 --> 01:02:49,440
+scroll it down that one scroll it down
+
+2070
+01:02:49,440 --> 01:02:52,799
+so now we've created a low poly cord
+
+2071
+01:02:52,799 --> 01:02:54,240
+that's hanging maybe we wanted to even
+
+2072
+01:02:54,240 --> 01:02:55,920
+hang off the table a little bit
+
+2073
+01:02:55,920 --> 01:02:57,359
+have to be careful maybe we want to
+
+2074
+01:02:57,359 --> 01:02:59,760
+rotate it bring it down
+
+2075
+01:02:59,760 --> 01:03:02,240
+move that one there just make sure you
+
+2076
+01:03:02,240 --> 01:03:02,799
+don't
+
+2077
+01:03:02,799 --> 01:03:05,280
+twist the the stuff too much i probably
+
+2078
+01:03:05,280 --> 01:03:07,440
+went a little bit overboard here
+
+2079
+01:03:07,440 --> 01:03:09,440
+so be careful with that so this is still
+
+2080
+01:03:09,440 --> 01:03:11,200
+again the same object but let's say we
+
+2081
+01:03:11,200 --> 01:03:12,880
+wanted to detach this now into a
+
+2082
+01:03:12,880 --> 01:03:14,400
+separate let's say we wanted to detach
+
+2083
+01:03:14,400 --> 01:03:15,200
+the monitor
+
+2084
+01:03:15,200 --> 01:03:17,039
+we can actually double click a to make
+
+2085
+01:03:17,039 --> 01:03:18,799
+sure nothing is selected
+
+2086
+01:03:18,799 --> 01:03:20,960
+press l over the monitor here and now
+
+2087
+01:03:20,960 --> 01:03:22,240
+there's a hotkey called
+
+2088
+01:03:22,240 --> 01:03:26,160
+p and then separate selection
+
+2089
+01:03:26,160 --> 01:03:27,680
+and now we've created a separate one
+
+2090
+01:03:27,680 --> 01:03:29,920
+here and that's our monitor and this one
+
+2091
+01:03:29,920 --> 01:03:30,960
+first here is the
+
+2092
+01:03:30,960 --> 01:03:33,440
+other combined if i control z that you
+
+2093
+01:03:33,440 --> 01:03:35,039
+could actually do this as well
+
+2094
+01:03:35,039 --> 01:03:38,720
+you can select everything p and separate
+
+2095
+01:03:38,720 --> 01:03:40,960
+by loose parts and now it's created all
+
+2096
+01:03:40,960 --> 01:03:43,039
+of these for us so i can go to this one
+
+2097
+01:03:43,039 --> 01:03:47,440
+name this one monitor here is our
+
+2098
+01:03:47,440 --> 01:03:49,920
+computer
+
+2099
+01:03:50,799 --> 01:03:54,160
+here's our very basic keyboard
+
+2100
+01:03:54,160 --> 01:03:59,359
+and here's our tabletop
+
+2101
+01:03:59,359 --> 01:04:00,960
+maybe we wanted some legs on this table
+
+2102
+01:04:00,960 --> 01:04:02,480
+as well after all
+
+2103
+01:04:02,480 --> 01:04:04,079
+so we can do the same thing here i do
+
+2104
+01:04:04,079 --> 01:04:05,520
+shift d to duplicate it
+
+2105
+01:04:05,520 --> 01:04:08,559
+scale it down scale it on the x axis
+
+2106
+01:04:08,559 --> 01:04:10,720
+move it into move it into the place of a
+
+2107
+01:04:10,720 --> 01:04:12,400
+leg here maybe
+
+2108
+01:04:12,400 --> 01:04:15,680
+so we slide it on these axis and then e
+
+2109
+01:04:15,680 --> 01:04:17,680
+to extrude it down
+
+2110
+01:04:17,680 --> 01:04:19,839
+maybe we do ctrl 7 to go to the bottom
+
+2111
+01:04:19,839 --> 01:04:20,799
+view because
+
+2112
+01:04:20,799 --> 01:04:22,880
+i didn't mention that before but 7 is
+
+2113
+01:04:22,880 --> 01:04:25,359
+the top view but control 7 is the bottom
+
+2114
+01:04:25,359 --> 01:04:26,160
+view
+
+2115
+01:04:26,160 --> 01:04:29,280
+press l to select the link here shift d
+
+2116
+01:04:29,280 --> 01:04:31,680
+to duplicate it right click to snap it
+
+2117
+01:04:31,680 --> 01:04:32,480
+back
+
+2118
+01:04:32,480 --> 01:04:35,200
+move it on this axis and let's press l
+
+2119
+01:04:35,200 --> 01:04:37,520
+over this one so we select both legs
+
+2120
+01:04:37,520 --> 01:04:40,000
+shift d to duplicate it and then move it
+
+2121
+01:04:40,000 --> 01:04:41,839
+roughly today
+
+2122
+01:04:41,839 --> 01:04:43,760
+and then now we've got some legs on that
+
+2123
+01:04:43,760 --> 01:04:45,520
+table as well equally like we did with
+
+2124
+01:04:45,520 --> 01:04:46,960
+separate before you can actually bring
+
+2125
+01:04:46,960 --> 01:04:48,559
+them back into the same object again if
+
+2126
+01:04:48,559 --> 01:04:49,680
+you want to we could
+
+2127
+01:04:49,680 --> 01:04:51,760
+select this one hold the shift key to
+
+2128
+01:04:51,760 --> 01:04:53,520
+all of these for example
+
+2129
+01:04:53,520 --> 01:04:56,559
+and that one and then do control j
+
+2130
+01:04:56,559 --> 01:04:58,799
+and that merges it into it'll pick the
+
+2131
+01:04:58,799 --> 01:04:59,599
+latest name
+
+2132
+01:04:59,599 --> 01:05:04,160
+here that you had computer
+
+2133
+01:05:04,160 --> 01:05:06,559
+stuff and i think the chord is still a
+
+2134
+01:05:06,559 --> 01:05:08,000
+separate one here so we can
+
+2135
+01:05:08,000 --> 01:05:10,559
+click that one click that one and do
+
+2136
+01:05:10,559 --> 01:05:12,000
+control
+
+2137
+01:05:12,000 --> 01:05:13,520
+j to join that one as well and now
+
+2138
+01:05:13,520 --> 01:05:15,119
+suddenly it's in one object again so
+
+2139
+01:05:15,119 --> 01:05:16,799
+remember that you can separate it with p
+
+2140
+01:05:16,799 --> 01:05:18,559
+into separate objects if you want to
+
+2141
+01:05:18,559 --> 01:05:19,839
+export it for the game and have
+
+2142
+01:05:19,839 --> 01:05:21,839
+everything separate that's fine and you
+
+2143
+01:05:21,839 --> 01:05:24,559
+can join stuff together again with the
+
+2144
+01:05:24,559 --> 01:05:28,400
+control j also very useful
+
+2145
+01:05:29,280 --> 01:05:30,559
+now we're going to get into some
+
+2146
+01:05:30,559 --> 01:05:32,559
+modifiers are you still with me are you
+
+2147
+01:05:32,559 --> 01:05:33,200
+still awake
+
+2148
+01:05:33,200 --> 01:05:35,520
+i'm barely what time is it 3 15 in the
+
+2149
+01:05:35,520 --> 01:05:36,880
+morning i love this stuff
+
+2150
+01:05:36,880 --> 01:05:38,160
+can't get enough of it that's why i'm
+
+2151
+01:05:38,160 --> 01:05:40,079
+going to keep going so we're going to do
+
+2152
+01:05:40,079 --> 01:05:41,039
+a modifier here
+
+2153
+01:05:41,039 --> 01:05:43,200
+and it's going to be the mirror modifier
+
+2154
+01:05:43,200 --> 01:05:44,559
+very useful if you want to model a
+
+2155
+01:05:44,559 --> 01:05:46,559
+spaceship for example and so you go
+
+2156
+01:05:46,559 --> 01:05:47,760
+on the right side here with the object
+
+2157
+01:05:47,760 --> 01:05:49,839
+selected in object mode you go to this
+
+2158
+01:05:49,839 --> 01:05:50,319
+wrench
+
+2159
+01:05:50,319 --> 01:05:52,960
+icon and then add modifier and mirror
+
+2160
+01:05:52,960 --> 01:05:54,640
+and it'll look a bit weird here because
+
+2161
+01:05:54,640 --> 01:05:56,480
+it doesn't really know how to mirror it
+
+2162
+01:05:56,480 --> 01:05:58,400
+it's mirroring it on the x-axis here by
+
+2163
+01:05:58,400 --> 01:06:00,000
+default you can control which axis you
+
+2164
+01:06:00,000 --> 01:06:00,799
+do i always
+
+2165
+01:06:00,799 --> 01:06:02,480
+use the x-axis for mirroring but it
+
+2166
+01:06:02,480 --> 01:06:04,079
+doesn't look mirrored now so we don't
+
+2167
+01:06:04,079 --> 01:06:05,920
+know what's going on and that's because
+
+2168
+01:06:05,920 --> 01:06:08,640
+this geometry is going past the center
+
+2169
+01:06:08,640 --> 01:06:09,200
+here
+
+2170
+01:06:09,200 --> 01:06:11,760
+if i take this face and move it you can
+
+2171
+01:06:11,760 --> 01:06:12,880
+see that it's still there
+
+2172
+01:06:12,880 --> 01:06:14,799
+which is really strange but it's because
+
+2173
+01:06:14,799 --> 01:06:16,640
+it's mirroring this part of the green
+
+2174
+01:06:16,640 --> 01:06:17,039
+side
+
+2175
+01:06:17,039 --> 01:06:20,079
+of the y-axis here on the x-axis it's
+
+2176
+01:06:20,079 --> 01:06:21,200
+mirroring that part
+
+2177
+01:06:21,200 --> 01:06:23,839
+so in order to to get into a cube that's
+
+2178
+01:06:23,839 --> 01:06:24,480
+mirrored
+
+2179
+01:06:24,480 --> 01:06:25,920
+you'd have to if you do it manually
+
+2180
+01:06:25,920 --> 01:06:27,680
+you'd have to delete that face
+
+2181
+01:06:27,680 --> 01:06:30,559
+and then press two maybe and alt select
+
+2182
+01:06:30,559 --> 01:06:32,079
+this ring and then bring it back and
+
+2183
+01:06:32,079 --> 01:06:34,240
+it's difficult to know exactly how far
+
+2184
+01:06:34,240 --> 01:06:36,079
+but you can enable this clipping feature
+
+2185
+01:06:36,079 --> 01:06:37,440
+here because
+
+2186
+01:06:37,440 --> 01:06:39,039
+then it'll detect that when you hit the
+
+2187
+01:06:39,039 --> 01:06:40,640
+center here it won't allow you to go
+
+2188
+01:06:40,640 --> 01:06:41,359
+past it
+
+2189
+01:06:41,359 --> 01:06:42,880
+but we've got proportional editing on
+
+2190
+01:06:42,880 --> 01:06:44,400
+still so disable that
+
+2191
+01:06:44,400 --> 01:06:46,319
+so when i move it now it'll detect that
+
+2192
+01:06:46,319 --> 01:06:47,920
+oh i'm going to glue you together now
+
+2193
+01:06:47,920 --> 01:06:49,839
+because we've hit the center so now if i
+
+2194
+01:06:49,839 --> 01:06:51,359
+try to move this one it doesn't work
+
+2195
+01:06:51,359 --> 01:06:52,160
+because clipping
+
+2196
+01:06:52,160 --> 01:06:53,760
+is preventing us from doing that so most
+
+2197
+01:06:53,760 --> 01:06:55,200
+of the time that's what you want to do
+
+2198
+01:06:55,200 --> 01:06:56,559
+saying all of this there's actually a
+
+2199
+01:06:56,559 --> 01:06:57,760
+great way that you should do this
+
+2200
+01:06:57,760 --> 01:06:59,200
+instead
+
+2201
+01:06:59,200 --> 01:07:00,640
+so instead of applying this mirror
+
+2202
+01:07:00,640 --> 01:07:02,400
+modifier here you go to
+
+2203
+01:07:02,400 --> 01:07:05,839
+edit preferences and then here you go to
+
+2204
+01:07:05,839 --> 01:07:06,640
+add-ons
+
+2205
+01:07:06,640 --> 01:07:09,920
+and then type here you can type in auto
+
+2206
+01:07:09,920 --> 01:07:11,599
+mirror i have this one enabled by
+
+2207
+01:07:11,599 --> 01:07:13,039
+default because i love this one
+
+2208
+01:07:13,039 --> 01:07:14,960
+so make sure you have that one enabled
+
+2209
+01:07:14,960 --> 01:07:17,200
+and now when you click on the object
+
+2210
+01:07:17,200 --> 01:07:19,280
+you can press n on your keyboard to get
+
+2211
+01:07:19,280 --> 01:07:22,160
+this little menu here and go to edit
+
+2212
+01:07:22,160 --> 01:07:23,839
+and now you have this magic one called
+
+2213
+01:07:23,839 --> 01:07:25,680
+auto mirror so click on that one
+
+2214
+01:07:25,680 --> 01:07:27,359
+and that just did everything that i did
+
+2215
+01:07:27,359 --> 01:07:29,520
+manually if i tab into now it's already
+
+2216
+01:07:29,520 --> 01:07:31,039
+got the perfect slit here it's got
+
+2217
+01:07:31,039 --> 01:07:32,319
+clipping enabled
+
+2218
+01:07:32,319 --> 01:07:34,319
+everything is ready to go so save
+
+2219
+01:07:34,319 --> 01:07:36,079
+yourself a lot of time and hassle by
+
+2220
+01:07:36,079 --> 01:07:36,720
+doing that
+
+2221
+01:07:36,720 --> 01:07:38,799
+use auto mirror another useful modifier
+
+2222
+01:07:38,799 --> 01:07:40,799
+is the displays modifier if i do
+
+2223
+01:07:40,799 --> 01:07:43,119
+shift a here this time let's add a plane
+
+2224
+01:07:43,119 --> 01:07:44,480
+tab into edit mode
+
+2225
+01:07:44,480 --> 01:07:46,400
+scale it up a lot tab out of edit mode
+
+2226
+01:07:46,400 --> 01:07:48,000
+and ctrl 5
+
+2227
+01:07:48,000 --> 01:07:49,520
+and now we can actually go into simple
+
+2228
+01:07:49,520 --> 01:07:50,960
+now because we just want to subdivide
+
+2229
+01:07:50,960 --> 01:07:52,240
+this one it doesn't look any different
+
+2230
+01:07:52,240 --> 01:07:52,799
+now
+
+2231
+01:07:52,799 --> 01:07:55,039
+but if i apply this one and tab into
+
+2232
+01:07:55,039 --> 01:07:56,880
+edit mode you can see that it subdivided
+
+2233
+01:07:56,880 --> 01:07:57,119
+it
+
+2234
+01:07:57,119 --> 01:07:59,119
+a lot of times here to create this grid
+
+2235
+01:07:59,119 --> 01:08:00,880
+instead let's actually subdivide this
+
+2236
+01:08:00,880 --> 01:08:02,079
+one one more time so
+
+2237
+01:08:02,079 --> 01:08:04,720
+i select the object press control two
+
+2238
+01:08:04,720 --> 01:08:05,520
+simple
+
+2239
+01:08:05,520 --> 01:08:07,520
+and apply it and now we've got even more
+
+2240
+01:08:07,520 --> 01:08:09,359
+geometry here so if you wanted to create
+
+2241
+01:08:09,359 --> 01:08:10,799
+a low poly island or
+
+2242
+01:08:10,799 --> 01:08:12,799
+you could uh enable this proportional
+
+2243
+01:08:12,799 --> 01:08:15,200
+editing and then select the vertex
+
+2244
+01:08:15,200 --> 01:08:16,960
+press g to move it and then use the
+
+2245
+01:08:16,960 --> 01:08:18,238
+mouse wheel to start
+
+2246
+01:08:18,238 --> 01:08:19,839
+changing this you could also what we
+
+2247
+01:08:19,839 --> 01:08:22,080
+learned before ctrl right click to lasso
+
+2248
+01:08:22,080 --> 01:08:23,120
+select something
+
+2249
+01:08:23,120 --> 01:08:25,839
+and press g and then use proportional
+
+2250
+01:08:25,839 --> 01:08:28,000
+editing here to start creating
+
+2251
+01:08:28,000 --> 01:08:29,679
+different shapes to your island that's
+
+2252
+01:08:29,679 --> 01:08:31,759
+one way to do it but i wanted to show
+
+2253
+01:08:31,759 --> 01:08:32,158
+this
+
+2254
+01:08:32,158 --> 01:08:34,000
+displays modifier so if i go to add
+
+2255
+01:08:34,000 --> 01:08:35,679
+modifier here displace
+
+2256
+01:08:35,679 --> 01:08:37,198
+and i have to tab out of edit mode to
+
+2257
+01:08:37,198 --> 01:08:39,040
+see it now i can click new here on
+
+2258
+01:08:39,040 --> 01:08:40,158
+texture
+
+2259
+01:08:40,158 --> 01:08:42,080
+and on this little icon here and let's
+
+2260
+01:08:42,080 --> 01:08:43,279
+switch the type here
+
+2261
+01:08:43,279 --> 01:08:45,920
+to clouds for example and change the
+
+2262
+01:08:45,920 --> 01:08:47,040
+scale
+
+2263
+01:08:47,040 --> 01:08:50,080
+to this maybe two and then we can go
+
+2264
+01:08:50,080 --> 01:08:51,040
+back into
+
+2265
+01:08:51,040 --> 01:08:53,279
+this modifier tab here and change the
+
+2266
+01:08:53,279 --> 01:08:54,960
+strength maybe we wanted to
+
+2267
+01:08:54,960 --> 01:08:56,560
+tweak this one even more maybe we wanted
+
+2268
+01:08:56,560 --> 01:08:58,000
+this one to scale
+
+2269
+01:08:58,000 --> 01:09:01,839
+4 or 10. increase the scale even more
+
+2270
+01:09:01,839 --> 01:09:03,920
+so here's a useful thing and if you
+
+2271
+01:09:03,920 --> 01:09:05,040
+wanted to make it
+
+2272
+01:09:05,040 --> 01:09:06,640
+maybe you wanted to add something like a
+
+2273
+01:09:06,640 --> 01:09:08,319
+water thing there you could go into this
+
+2274
+01:09:08,319 --> 01:09:09,120
+color one
+
+2275
+01:09:09,120 --> 01:09:12,159
+and do color ramp
+
+2276
+01:09:12,399 --> 01:09:16,158
+and then you slide this bottom one
+
+2277
+01:09:16,479 --> 01:09:18,399
+it takes away details from the lower
+
+2278
+01:09:18,399 --> 01:09:20,238
+part of the of the randomness so it
+
+2279
+01:09:20,238 --> 01:09:21,198
+creates like
+
+2280
+01:09:21,198 --> 01:09:22,799
+the surface of a c here and if you're
+
+2281
+01:09:22,799 --> 01:09:24,399
+happy with this you could
+
+2282
+01:09:24,399 --> 01:09:26,080
+go back to this modifier here and just
+
+2283
+01:09:26,080 --> 01:09:28,319
+click apply and now we've created
+
+2284
+01:09:28,319 --> 01:09:29,600
+something that looks a little bit like a
+
+2285
+01:09:29,600 --> 01:09:31,198
+low poly landscape we could decimate
+
+2286
+01:09:31,198 --> 01:09:32,640
+this one again because it still doesn't
+
+2287
+01:09:32,640 --> 01:09:34,479
+look very low poly so we can go add
+
+2288
+01:09:34,479 --> 01:09:35,359
+modifier
+
+2289
+01:09:35,359 --> 01:09:37,520
+decimate it like we did before and slide
+
+2290
+01:09:37,520 --> 01:09:38,799
+this one down
+
+2291
+01:09:38,799 --> 01:09:40,640
+and that brings it into like a low poly
+
+2292
+01:09:40,640 --> 01:09:42,399
+landscape and then apply that one we
+
+2293
+01:09:42,399 --> 01:09:43,839
+have some issues here as well
+
+2294
+01:09:43,839 --> 01:09:45,198
+if we wanted to fix that we could do
+
+2295
+01:09:45,198 --> 01:09:47,359
+that we can select those two vertices
+
+2296
+01:09:47,359 --> 01:09:50,719
+press x and dissolve vertices so if you
+
+2297
+01:09:50,719 --> 01:09:52,960
+have some problem areas like that
+
+2298
+01:09:52,960 --> 01:09:55,760
+x this is all vertices we could do one
+
+2299
+01:09:55,760 --> 01:09:56,239
+to get
+
+2300
+01:09:56,239 --> 01:09:59,360
+the side view alt z
+
+2301
+01:09:59,360 --> 01:10:01,840
+to see all of this trickiness b to box
+
+2302
+01:10:01,840 --> 01:10:02,800
+select
+
+2303
+01:10:02,800 --> 01:10:04,320
+and then just select the very bottom
+
+2304
+01:10:04,320 --> 01:10:06,960
+here as slow down as we can
+
+2305
+01:10:06,960 --> 01:10:09,199
+and now we've selected all the bottom
+
+2306
+01:10:09,199 --> 01:10:10,159
+faces more or less
+
+2307
+01:10:10,159 --> 01:10:12,239
+alt said to snap out of that on and we
+
+2308
+01:10:12,239 --> 01:10:13,679
+haven't actually changed the
+
+2309
+01:10:13,679 --> 01:10:15,040
+material here so let's change the
+
+2310
+01:10:15,040 --> 01:10:17,840
+material go back into uv editing
+
+2311
+01:10:17,840 --> 01:10:19,199
+a to select everything on the left that
+
+2312
+01:10:19,199 --> 01:10:21,120
+we selected scale
+
+2313
+01:10:21,120 --> 01:10:23,679
+0 and now we can select that one to blue
+
+2314
+01:10:23,679 --> 01:10:24,880
+if we wanted
+
+2315
+01:10:24,880 --> 01:10:26,320
+but what about the rest well we can
+
+2316
+01:10:26,320 --> 01:10:29,199
+press ctrl i to flip the selection
+
+2317
+01:10:29,199 --> 01:10:32,960
+and then a on the left side scale 0
+
+2318
+01:10:32,960 --> 01:10:35,199
+g to move it maybe to green so that's
+
+2319
+01:10:35,199 --> 01:10:36,800
+one way to create something that looks a
+
+2320
+01:10:36,800 --> 01:10:38,400
+little bit like a low poly landscape
+
+2321
+01:10:38,400 --> 01:10:40,239
+if it's too steep for example you can
+
+2322
+01:10:40,239 --> 01:10:41,440
+select everything
+
+2323
+01:10:41,440 --> 01:10:44,320
+scale z to flatten it again let's say we
+
+2324
+01:10:44,320 --> 01:10:45,040
+wanted some
+
+2325
+01:10:45,040 --> 01:10:48,239
+uh white snow capped tops here make sure
+
+2326
+01:10:48,239 --> 01:10:50,000
+we're in edit mode here maybe press
+
+2327
+01:10:50,000 --> 01:10:52,560
+uh one to vertex select double click a
+
+2328
+01:10:52,560 --> 01:10:53,840
+to deselect everything
+
+2329
+01:10:53,840 --> 01:10:57,360
+b to box select and let's go like this
+
+2330
+01:10:57,360 --> 01:10:58,880
+switch into face selector mode with
+
+2331
+01:10:58,880 --> 01:11:01,040
+three again maybe we still want
+
+2332
+01:11:01,040 --> 01:11:03,360
+let's say we wanted some uh gray
+
+2333
+01:11:03,360 --> 01:11:05,120
+mountains first we could do control plus
+
+2334
+01:11:05,120 --> 01:11:06,159
+a few times
+
+2335
+01:11:06,159 --> 01:11:07,760
+maybe to there on the left side here
+
+2336
+01:11:07,760 --> 01:11:09,760
+we've also got some water selected now
+
+2337
+01:11:09,760 --> 01:11:11,679
+if we didn't want that to be selected we
+
+2338
+01:11:11,679 --> 01:11:13,520
+could see it's these we could maybe
+
+2339
+01:11:13,520 --> 01:11:16,880
+deselect these manually like this
+
+2340
+01:11:16,880 --> 01:11:18,880
+if it's tricky to see where the water is
+
+2341
+01:11:18,880 --> 01:11:20,400
+selected and stuff you can actually
+
+2342
+01:11:20,400 --> 01:11:21,760
+click on this little thing here called
+
+2343
+01:11:21,760 --> 01:11:23,440
+uv sync selection
+
+2344
+01:11:23,440 --> 01:11:26,560
+because now if i do be shift select that
+
+2345
+01:11:26,560 --> 01:11:28,480
+one it'll deselect edit anything that
+
+2346
+01:11:28,480 --> 01:11:29,199
+had
+
+2347
+01:11:29,199 --> 01:11:31,280
+that blue color and then we can switch
+
+2348
+01:11:31,280 --> 01:11:32,640
+this back on again so now we
+
+2349
+01:11:32,640 --> 01:11:34,000
+we've ensured that we don't have any
+
+2350
+01:11:34,000 --> 01:11:35,920
+water selected and then i can do
+
+2351
+01:11:35,920 --> 01:11:38,080
+g here and go to gray maybe and then
+
+2352
+01:11:38,080 --> 01:11:38,960
+ctrl minus
+
+2353
+01:11:38,960 --> 01:11:41,760
+maybe three times and then g and move
+
+2354
+01:11:41,760 --> 01:11:42,800
+that to byte
+
+2355
+01:11:42,800 --> 01:11:44,960
+and tab out of edit mode and now we've
+
+2356
+01:11:44,960 --> 01:11:46,239
+created something that looks a little
+
+2357
+01:11:46,239 --> 01:11:46,880
+bit like a
+
+2358
+01:11:46,880 --> 01:11:48,880
+low poly landscape one more modifier
+
+2359
+01:11:48,880 --> 01:11:50,960
+that's quite useful and that is the skin
+
+2360
+01:11:50,960 --> 01:11:51,760
+modifier
+
+2361
+01:11:51,760 --> 01:11:53,600
+if you wanted to create a tree again for
+
+2362
+01:11:53,600 --> 01:11:55,760
+example you could do here we can
+
+2363
+01:11:55,760 --> 01:11:58,080
+there's actually another useful thing
+
+2364
+01:11:58,080 --> 01:12:00,320
+here you can go to preferences
+
+2365
+01:12:00,320 --> 01:12:02,880
+and then here we type extra objects
+
+2366
+01:12:02,880 --> 01:12:04,159
+enable that one
+
+2367
+01:12:04,159 --> 01:12:06,719
+because now when we press shift a we can
+
+2368
+01:12:06,719 --> 01:12:08,560
+actually add a mesh but we can add
+
+2369
+01:12:08,560 --> 01:12:11,040
+a single vert it'll bring us into vertex
+
+2370
+01:12:11,040 --> 01:12:11,840
+edit mode here
+
+2371
+01:12:11,840 --> 01:12:13,920
+and now zoom out a little bit and i hold
+
+2372
+01:12:13,920 --> 01:12:15,040
+the ctrl key and i
+
+2373
+01:12:15,040 --> 01:12:18,719
+just right click a bit like this
+
+2374
+01:12:18,719 --> 01:12:20,560
+and then i select this vertex right
+
+2375
+01:12:20,560 --> 01:12:22,640
+click select that vertex
+
+2376
+01:12:22,640 --> 01:12:24,640
+right click a few times with the control
+
+2377
+01:12:24,640 --> 01:12:27,199
+key by the way
+
+2378
+01:12:27,199 --> 01:12:29,360
+so control key right click right click
+
+2379
+01:12:29,360 --> 01:12:31,440
+right click i'll hold the ctrl key
+
+2380
+01:12:31,440 --> 01:12:33,199
+right click right click and i rotate the
+
+2381
+01:12:33,199 --> 01:12:34,800
+viewport a little bit now when we've got
+
+2382
+01:12:34,800 --> 01:12:35,280
+this
+
+2383
+01:12:35,280 --> 01:12:36,719
+that looks a bit like a tree trunk we
+
+2384
+01:12:36,719 --> 01:12:38,480
+can add the modifier here
+
+2385
+01:12:38,480 --> 01:12:40,880
+and add the skin modifier see that it's
+
+2386
+01:12:40,880 --> 01:12:42,320
+a little bit too thick now
+
+2387
+01:12:42,320 --> 01:12:44,159
+tab into make sure you're in edit mode
+
+2388
+01:12:44,159 --> 01:12:45,840
+so you see these vertices
+
+2389
+01:12:45,840 --> 01:12:47,679
+press a to select all of them and then
+
+2390
+01:12:47,679 --> 01:12:50,640
+ctrl a and that's the hotkey to scale
+
+2391
+01:12:50,640 --> 01:12:52,560
+vertices for skinning for the skinning
+
+2392
+01:12:52,560 --> 01:12:55,280
+modifier here shift deselect that one
+
+2393
+01:12:55,280 --> 01:12:58,000
+let's enable proportional with o we
+
+2394
+01:12:58,000 --> 01:12:59,440
+can't do scale remember we have to do
+
+2395
+01:12:59,440 --> 01:13:00,320
+ctrl a
+
+2396
+01:13:00,320 --> 01:13:02,640
+for the skinning one and then scale it
+
+2397
+01:13:02,640 --> 01:13:04,080
+down and we don't want symmetry on
+
+2398
+01:13:04,080 --> 01:13:04,640
+either
+
+2399
+01:13:04,640 --> 01:13:08,000
+and then this one ctrl a
+
+2400
+01:13:08,000 --> 01:13:10,159
+to scale and then roll up proportional
+
+2401
+01:13:10,159 --> 01:13:11,520
+so this is how you could create
+
+2402
+01:13:11,520 --> 01:13:14,239
+three branches
+
+2403
+01:13:15,199 --> 01:13:16,960
+if you remember before we enable this
+
+2404
+01:13:16,960 --> 01:13:18,960
+thing called vertex snapping and we used
+
+2405
+01:13:18,960 --> 01:13:21,280
+it to snap one of these vertices
+
+2406
+01:13:21,280 --> 01:13:23,600
+onto another one like this pow but one
+
+2407
+01:13:23,600 --> 01:13:25,040
+thing that's really really useful let's
+
+2408
+01:13:25,040 --> 01:13:25,760
+say you had
+
+2409
+01:13:25,760 --> 01:13:27,360
+another line there and let's say that
+
+2410
+01:13:27,360 --> 01:13:29,120
+one was a bit wonky that one was a bit
+
+2411
+01:13:29,120 --> 01:13:29,600
+wonky
+
+2412
+01:13:29,600 --> 01:13:31,360
+you can actually use the vertex snap on
+
+2413
+01:13:31,360 --> 01:13:32,960
+an axis as well click
+
+2414
+01:13:32,960 --> 01:13:35,199
+on this axis here that we have before
+
+2415
+01:13:35,199 --> 01:13:36,560
+again if that's not enabled
+
+2416
+01:13:36,560 --> 01:13:38,719
+you can go up here drop down and have
+
+2417
+01:13:38,719 --> 01:13:40,640
+this one enabled or you can press
+
+2418
+01:13:40,640 --> 01:13:43,120
+shift space and g to enable it as well
+
+2419
+01:13:43,120 --> 01:13:44,560
+that's the same as clicking on this move
+
+2420
+01:13:44,560 --> 01:13:46,239
+tool here and now if i move
+
+2421
+01:13:46,239 --> 01:13:48,400
+on this axis and then i hold the ctrl
+
+2422
+01:13:48,400 --> 01:13:49,360
+key
+
+2423
+01:13:49,360 --> 01:13:51,280
+and then snap it to there it'll only
+
+2424
+01:13:51,280 --> 01:13:53,440
+snap it on the x axis to that one
+
+2425
+01:13:53,440 --> 01:13:54,960
+and this is really really good if you
+
+2426
+01:13:54,960 --> 01:13:56,719
+want to align to make sure that they're
+
+2427
+01:13:56,719 --> 01:13:57,360
+on the same
+
+2428
+01:13:57,360 --> 01:14:00,159
+on the same distance on the on one axis
+
+2429
+01:14:00,159 --> 01:14:01,040
+similarly
+
+2430
+01:14:01,040 --> 01:14:02,320
+if i wanted to bring this one up and
+
+2431
+01:14:02,320 --> 01:14:03,920
+make sure it's the same height as this
+
+2432
+01:14:03,920 --> 01:14:04,239
+one
+
+2433
+01:14:04,239 --> 01:14:06,400
+move it on this one hold the ctrl key
+
+2434
+01:14:06,400 --> 01:14:07,360
+and move it
+
+2435
+01:14:07,360 --> 01:14:09,120
+and move it so you get that little
+
+2436
+01:14:09,120 --> 01:14:10,719
+circle and then we can see here that
+
+2437
+01:14:10,719 --> 01:14:12,320
+that one's poking out we wanted to bring
+
+2438
+01:14:12,320 --> 01:14:14,239
+that one into the same as there move it
+
+2439
+01:14:14,239 --> 01:14:15,199
+on the green axis
+
+2440
+01:14:15,199 --> 01:14:17,679
+on the y axis hold the ctrl key and snap
+
+2441
+01:14:17,679 --> 01:14:19,120
+it to that one so if you want to do
+
+2442
+01:14:19,120 --> 01:14:20,159
+aligning
+
+2443
+01:14:20,159 --> 01:14:22,400
+vertex snapping on an axis is really
+
+2444
+01:14:22,400 --> 01:14:24,719
+useful
+
+2445
+01:14:25,679 --> 01:14:27,920
+we've already enabled automator here but
+
+2446
+01:14:27,920 --> 01:14:29,360
+there are a couple of more ones i'd like
+
+2447
+01:14:29,360 --> 01:14:30,000
+to mention
+
+2448
+01:14:30,000 --> 01:14:33,360
+so in preferences under add-ons one good
+
+2449
+01:14:33,360 --> 01:14:34,000
+is
+
+2450
+01:14:34,000 --> 01:14:36,640
+loop tools so make sure you enable that
+
+2451
+01:14:36,640 --> 01:14:37,840
+one
+
+2452
+01:14:37,840 --> 01:14:40,880
+and another one while i'm here is f2
+
+2453
+01:14:40,880 --> 01:14:44,719
+we'll enable that one too and one more
+
+2454
+01:14:44,719 --> 01:14:47,840
+is bool tools let's enable that one
+
+2455
+01:14:47,840 --> 01:14:49,760
+and i'll show you what these two as well
+
+2456
+01:14:49,760 --> 01:14:51,040
+so if i do shift
+
+2457
+01:14:51,040 --> 01:14:54,840
+a mesh cube here we've got a normal cube
+
+2458
+01:14:54,840 --> 01:14:56,000
+again
+
+2459
+01:14:56,000 --> 01:14:59,440
+let's subdivide this one ctrl 3 maybe
+
+2460
+01:14:59,440 --> 01:15:01,760
+and apply that one and let's say you
+
+2461
+01:15:01,760 --> 01:15:02,719
+wanted to make
+
+2462
+01:15:02,719 --> 01:15:04,800
+these if you wanted to extrude these but
+
+2463
+01:15:04,800 --> 01:15:05,760
+you wanted them to be
+
+2464
+01:15:05,760 --> 01:15:07,679
+circle shape so if i shift select these
+
+2465
+01:15:07,679 --> 01:15:09,520
+and extrude it's like a square thing
+
+2466
+01:15:09,520 --> 01:15:10,400
+that i'm doing
+
+2467
+01:15:10,400 --> 01:15:12,480
+so ctrl z on that one and then we've got
+
+2468
+01:15:12,480 --> 01:15:13,440
+loop tools here
+
+2469
+01:15:13,440 --> 01:15:14,719
+you've got a few things i won't go
+
+2470
+01:15:14,719 --> 01:15:15,679
+through all of them now you can
+
+2471
+01:15:15,679 --> 01:15:16,960
+experiment with these
+
+2472
+01:15:16,960 --> 01:15:18,960
+but one for example is circle here and
+
+2473
+01:15:18,960 --> 01:15:20,800
+that just basically takes that square
+
+2474
+01:15:20,800 --> 01:15:21,360
+and
+
+2475
+01:15:21,360 --> 01:15:23,520
+makes it a circle and now when i extrude
+
+2476
+01:15:23,520 --> 01:15:25,280
+it's more like a round thing so that's
+
+2477
+01:15:25,280 --> 01:15:26,560
+very useful but there are some other
+
+2478
+01:15:26,560 --> 01:15:26,880
+good
+
+2479
+01:15:26,880 --> 01:15:28,480
+things here as well like flatten that we
+
+2480
+01:15:28,480 --> 01:15:30,159
+did before we've got uh
+
+2481
+01:15:30,159 --> 01:15:32,480
+bridge and all sorts of stuff the other
+
+2482
+01:15:32,480 --> 01:15:34,239
+thing which is really good is the bull
+
+2483
+01:15:34,239 --> 01:15:35,040
+tools one
+
+2484
+01:15:35,040 --> 01:15:37,920
+and again if i edit here it's a bool
+
+2485
+01:15:37,920 --> 01:15:38,800
+tool here
+
+2486
+01:15:38,800 --> 01:15:41,440
+if i do shift d to duplicate this and
+
+2487
+01:15:41,440 --> 01:15:42,640
+then i select this one
+
+2488
+01:15:42,640 --> 01:15:44,560
+shift select that one and then i'll do
+
+2489
+01:15:44,560 --> 01:15:46,159
+control shift
+
+2490
+01:15:46,159 --> 01:15:49,280
+minus on the keypad then it basically
+
+2491
+01:15:49,280 --> 01:15:50,560
+cuts that first mesh
+
+2492
+01:15:50,560 --> 01:15:52,640
+out of this one again very useful maybe
+
+2493
+01:15:52,640 --> 01:15:54,000
+you wanted to create a moon or something
+
+2494
+01:15:54,000 --> 01:15:54,880
+like that
+
+2495
+01:15:54,880 --> 01:15:58,159
+so maybe we scale this one
+
+2496
+01:15:58,159 --> 01:16:01,840
+off with proportional scale it down
+
+2497
+01:16:02,000 --> 01:16:05,360
+do a few of these i'll select this one
+
+2498
+01:16:05,360 --> 01:16:07,760
+shift to like this one ctrl shift minus
+
+2499
+01:16:07,760 --> 01:16:08,560
+on the keypad
+
+2500
+01:16:08,560 --> 01:16:11,679
+i'll select this one this one
+
+2501
+01:16:11,679 --> 01:16:14,880
+ctrl minus select this one remember
+
+2502
+01:16:14,880 --> 01:16:17,760
+shift select that one ctrl shift minus
+
+2503
+01:16:17,760 --> 01:16:20,000
+on the keypad
+
+2504
+01:16:20,000 --> 01:16:21,920
+so bool tool very useful especially to
+
+2505
+01:16:21,920 --> 01:16:23,199
+do subtractive
+
+2506
+01:16:23,199 --> 01:16:25,440
+boolean operations and then the next one
+
+2507
+01:16:25,440 --> 01:16:26,960
+is the f2 that i did
+
+2508
+01:16:26,960 --> 01:16:29,920
+and for example if you have let's say we
+
+2509
+01:16:29,920 --> 01:16:32,400
+have a bunch of these cutaway
+
+2510
+01:16:32,400 --> 01:16:35,760
+press delete faces f2 will do this for
+
+2511
+01:16:35,760 --> 01:16:36,239
+you
+
+2512
+01:16:36,239 --> 01:16:38,640
+remember that we created faces before uh
+
+2513
+01:16:38,640 --> 01:16:39,520
+we could do
+
+2514
+01:16:39,520 --> 01:16:41,360
+everything and press f to create one big
+
+2515
+01:16:41,360 --> 01:16:42,880
+weird face
+
+2516
+01:16:42,880 --> 01:16:45,199
+but f2 add-on will do this for you
+
+2517
+01:16:45,199 --> 01:16:46,080
+select this one
+
+2518
+01:16:46,080 --> 01:16:49,760
+press f ffff it'll automatically fill
+
+2519
+01:16:49,760 --> 01:16:51,280
+that together for you into
+
+2520
+01:16:51,280 --> 01:16:54,960
+usually a quite a good sequence
+
+2521
+01:16:56,320 --> 01:16:58,480
+all right i want to finish off this uh
+
+2522
+01:16:58,480 --> 01:17:00,480
+lengthy video with a few tips as well if
+
+2523
+01:17:00,480 --> 01:17:01,840
+you run into issues
+
+2524
+01:17:01,840 --> 01:17:03,280
+there could be a few tips maybe that you
+
+2525
+01:17:03,280 --> 01:17:04,719
+can look into so one thing that you
+
+2526
+01:17:04,719 --> 01:17:06,719
+might run into is parallel faces
+
+2527
+01:17:06,719 --> 01:17:09,760
+and if you select this one and then if
+
+2528
+01:17:09,760 --> 01:17:10,000
+you
+
+2529
+01:17:10,000 --> 01:17:13,360
+extrude now up then you've actually got
+
+2530
+01:17:13,360 --> 01:17:15,360
+this face here is sliding down between
+
+2531
+01:17:15,360 --> 01:17:16,400
+and that's not really good
+
+2532
+01:17:16,400 --> 01:17:17,760
+you don't want that so there's a few
+
+2533
+01:17:17,760 --> 01:17:19,679
+things that you could do to fix this
+
+2534
+01:17:19,679 --> 01:17:22,080
+one way to do it is if we've got this
+
+2535
+01:17:22,080 --> 01:17:23,920
+auto merge vertices here i could do
+
+2536
+01:17:23,920 --> 01:17:26,159
+control r add a loop cut here and slide
+
+2537
+01:17:26,159 --> 01:17:29,040
+it down roughly to that place
+
+2538
+01:17:29,040 --> 01:17:31,280
+and if i made it close enough which i
+
+2539
+01:17:31,280 --> 01:17:32,719
+didn't because they're still separate
+
+2540
+01:17:32,719 --> 01:17:34,159
+there then it's uh
+
+2541
+01:17:34,159 --> 01:17:35,679
+it would have fixed it i'll select this
+
+2542
+01:17:35,679 --> 01:17:38,159
+vertex press g to move it
+
+2543
+01:17:38,159 --> 01:17:40,480
+ctrl and snap it onto that one since
+
+2544
+01:17:40,480 --> 01:17:41,280
+i've got this
+
+2545
+01:17:41,280 --> 01:17:43,679
+vertex snapping on here same thing for
+
+2546
+01:17:43,679 --> 01:17:45,040
+this one select that
+
+2547
+01:17:45,040 --> 01:17:47,040
+and that vertex is actually dug into
+
+2548
+01:17:47,040 --> 01:17:49,120
+here so i do alt z to see through
+
+2549
+01:17:49,120 --> 01:17:52,159
+select that one alt set g to move it and
+
+2550
+01:17:52,159 --> 01:17:53,760
+snap it on to there
+
+2551
+01:17:53,760 --> 01:17:56,159
+and now and then if i move this vertex
+
+2552
+01:17:56,159 --> 01:17:57,840
+now you can see that we don't have any
+
+2553
+01:17:57,840 --> 01:17:59,679
+double faces there anymore and if i do
+
+2554
+01:17:59,679 --> 01:18:01,199
+old set i can also see
+
+2555
+01:18:01,199 --> 01:18:03,760
+on three here we've got an issue still
+
+2556
+01:18:03,760 --> 01:18:04,320
+we've got an
+
+2557
+01:18:04,320 --> 01:18:06,480
+internal face here that was created due
+
+2558
+01:18:06,480 --> 01:18:08,400
+to this you can only see that with old
+
+2559
+01:18:08,400 --> 01:18:10,000
+said here and i've got that selected
+
+2560
+01:18:10,000 --> 01:18:10,880
+there
+
+2561
+01:18:10,880 --> 01:18:12,560
+and then you can just press delete and
+
+2562
+01:18:12,560 --> 01:18:14,480
+delete that face and now we see that
+
+2563
+01:18:14,480 --> 01:18:15,440
+there is no dot
+
+2564
+01:18:15,440 --> 01:18:18,159
+here anymore in the center alt z so
+
+2565
+01:18:18,159 --> 01:18:19,920
+everything's fixed we've now fixed that
+
+2566
+01:18:19,920 --> 01:18:20,400
+double
+
+2567
+01:18:20,400 --> 01:18:22,159
+alignment the other thing that we had is
+
+2568
+01:18:22,159 --> 01:18:24,159
+if we don't have this enabled we could
+
+2569
+01:18:24,159 --> 01:18:25,600
+have some duplicate vertices
+
+2570
+01:18:25,600 --> 01:18:28,800
+sometimes so if i do control r loop cut
+
+2571
+01:18:28,800 --> 01:18:29,600
+that one
+
+2572
+01:18:29,600 --> 01:18:32,159
+move that one up to there roughly let's
+
+2573
+01:18:32,159 --> 01:18:34,560
+actually snap it
+
+2574
+01:18:34,560 --> 01:18:37,679
+let's do this all together
+
+2575
+01:18:38,320 --> 01:18:42,719
+and snap all of these up with uh here
+
+2576
+01:18:42,719 --> 01:18:45,040
+now it looks like this is just a normal
+
+2577
+01:18:45,040 --> 01:18:45,760
+mesh here
+
+2578
+01:18:45,760 --> 01:18:48,320
+but if i try to tab here and move this
+
+2579
+01:18:48,320 --> 01:18:50,080
+one you can see that it goes all weird
+
+2580
+01:18:50,080 --> 01:18:51,760
+and the best way to fix this one is just
+
+2581
+01:18:51,760 --> 01:18:52,080
+do
+
+2582
+01:18:52,080 --> 01:18:55,199
+a for everything m and then
+
+2583
+01:18:55,199 --> 01:18:57,840
+merge by distance and suddenly six
+
+2584
+01:18:57,840 --> 01:18:59,280
+vertices were removed and now
+
+2585
+01:18:59,280 --> 01:19:00,640
+everything's back to normal the other
+
+2586
+01:19:00,640 --> 01:19:02,080
+thing that we had is that faces are
+
+2587
+01:19:02,080 --> 01:19:03,440
+facing the wrong direction
+
+2588
+01:19:03,440 --> 01:19:05,120
+so remember if you have something that
+
+2589
+01:19:05,120 --> 01:19:06,719
+looks like a gap but there's actually a
+
+2590
+01:19:06,719 --> 01:19:07,360
+face here
+
+2591
+01:19:07,360 --> 01:19:11,199
+you could either do alt n to flip it
+
+2592
+01:19:11,199 --> 01:19:13,040
+or you can do it for the whole mesh and
+
+2593
+01:19:13,040 --> 01:19:14,239
+do everything
+
+2594
+01:19:14,239 --> 01:19:16,800
+alt n and recalculate outside that will
+
+2595
+01:19:16,800 --> 01:19:18,239
+usually fix that one then you have the
+
+2596
+01:19:18,239 --> 01:19:20,560
+misaligned vertices like this
+
+2597
+01:19:20,560 --> 01:19:22,239
+you wanted to have those aligned
+
+2598
+01:19:22,239 --> 01:19:24,640
+remember make sure that vertex snapping
+
+2599
+01:19:24,640 --> 01:19:25,840
+is on
+
+2600
+01:19:25,840 --> 01:19:27,920
+move it on this axis hold the control
+
+2601
+01:19:27,920 --> 01:19:29,840
+key and snap these
+
+2602
+01:19:29,840 --> 01:19:32,400
+into edge same for the height and the
+
+2603
+01:19:32,400 --> 01:19:33,760
+width you could do
+
+2604
+01:19:33,760 --> 01:19:36,480
+control snap it ctrl snap it height wise
+
+2605
+01:19:36,480 --> 01:19:37,280
+to that one
+
+2606
+01:19:37,280 --> 01:19:39,199
+and height wise to that one so that's
+
+2607
+01:19:39,199 --> 01:19:40,880
+one way to really align everything back
+
+2608
+01:19:40,880 --> 01:19:41,679
+into shape
+
+2609
+01:19:41,679 --> 01:19:43,920
+if in setting is behaving really strange
+
+2610
+01:19:43,920 --> 01:19:45,440
+for you let's say we wanted to inset
+
+2611
+01:19:45,440 --> 01:19:46,320
+this one
+
+2612
+01:19:46,320 --> 01:19:49,440
+like this eye to inset if for some
+
+2613
+01:19:49,440 --> 01:19:50,640
+reason you have
+
+2614
+01:19:50,640 --> 01:19:53,440
+accidentally scaled your objects outside
+
+2615
+01:19:53,440 --> 01:19:55,120
+of edit mode let's say you're in object
+
+2616
+01:19:55,120 --> 01:19:55,520
+mode
+
+2617
+01:19:55,520 --> 01:19:58,719
+you scale your object along the x-axis
+
+2618
+01:19:58,719 --> 01:20:02,000
+or let's do the y-axis like this now
+
+2619
+01:20:02,000 --> 01:20:03,840
+if you look here on the item you can see
+
+2620
+01:20:03,840 --> 01:20:05,840
+that the scale here is
+
+2621
+01:20:05,840 --> 01:20:09,040
+string it's not 1 1 1. so now if i try
+
+2622
+01:20:09,040 --> 01:20:10,000
+to inset this one
+
+2623
+01:20:10,000 --> 01:20:12,000
+it's not scaling it uniformly it's
+
+2624
+01:20:12,000 --> 01:20:13,760
+scaling a lot more on the y
+
+2625
+01:20:13,760 --> 01:20:15,760
+axis and that's because this y axis
+
+2626
+01:20:15,760 --> 01:20:16,800
+scale is more
+
+2627
+01:20:16,800 --> 01:20:18,960
+and to fix that you have to just select
+
+2628
+01:20:18,960 --> 01:20:20,560
+the object in object mode
+
+2629
+01:20:20,560 --> 01:20:23,760
+click control a and apply scale and that
+
+2630
+01:20:23,760 --> 01:20:25,520
+brings it back the scale to 1 1
+
+2631
+01:20:25,520 --> 01:20:27,440
+1 and then i to insert now you can see
+
+2632
+01:20:27,440 --> 01:20:29,120
+that the insetting is working correctly
+
+2633
+01:20:29,120 --> 01:20:30,639
+let's say you wanted to work on this
+
+2634
+01:20:30,639 --> 01:20:31,520
+vertex here
+
+2635
+01:20:31,520 --> 01:20:33,440
+but when you rotate you're not really
+
+2636
+01:20:33,440 --> 01:20:34,960
+rotating around that vertex
+
+2637
+01:20:34,960 --> 01:20:37,120
+just press delete on the keypad or the
+
+2638
+01:20:37,120 --> 01:20:38,480
+period or the comma key
+
+2639
+01:20:38,480 --> 01:20:40,400
+and that'll recenter everything you
+
+2640
+01:20:40,400 --> 01:20:42,320
+scroll out again and now when you rotate
+
+2641
+01:20:42,320 --> 01:20:44,320
+you'll work nicely around that object so
+
+2642
+01:20:44,320 --> 01:20:46,320
+it frames it to that object
+
+2643
+01:20:46,320 --> 01:20:47,920
+another thing that you might run into is
+
+2644
+01:20:47,920 --> 01:20:49,679
+if you add the subdivision modifier by
+
+2645
+01:20:49,679 --> 01:20:50,639
+pressing ctrl
+
+2646
+01:20:50,639 --> 01:20:52,400
+3 for example and everything looks too
+
+2647
+01:20:52,400 --> 01:20:54,320
+round let's say you wanted the base not
+
+2648
+01:20:54,320 --> 01:20:55,679
+to be rounded
+
+2649
+01:20:55,679 --> 01:20:58,000
+ctrl z out of that one then you could
+
+2650
+01:20:58,000 --> 01:20:58,960
+press ctrl
+
+2651
+01:20:58,960 --> 01:21:01,120
+r in edit mode here add a loop cut quite
+
+2652
+01:21:01,120 --> 01:21:02,400
+close to the base
+
+2653
+01:21:02,400 --> 01:21:04,480
+so it's doubled up here and now if i tap
+
+2654
+01:21:04,480 --> 01:21:06,239
+out of it into object mode and press
+
+2655
+01:21:06,239 --> 01:21:08,239
+ctrl 2 again then you can see that
+
+2656
+01:21:08,239 --> 01:21:10,800
+it kept a nice solid edge around the
+
+2657
+01:21:10,800 --> 01:21:12,320
+bottom here so that's one way to get
+
+2658
+01:21:12,320 --> 01:21:13,760
+around if you want to keep some edges
+
+2659
+01:21:13,760 --> 01:21:14,000
+when
+
+2660
+01:21:14,000 --> 01:21:15,920
+you subdivide it the other thing that we
+
+2661
+01:21:15,920 --> 01:21:18,080
+had remember when we did the center line
+
+2662
+01:21:18,080 --> 01:21:20,639
+when we subdivided for example for a car
+
+2663
+01:21:20,639 --> 01:21:21,199
+window
+
+2664
+01:21:21,199 --> 01:21:23,120
+or something like that if you have
+
+2665
+01:21:23,120 --> 01:21:24,800
+mirror modifier on and the inset
+
+2666
+01:21:24,800 --> 01:21:26,400
+produces a face in the center that you
+
+2667
+01:21:26,400 --> 01:21:26,960
+don't want
+
+2668
+01:21:26,960 --> 01:21:29,760
+make sure you press b for boundary and
+
+2669
+01:21:29,760 --> 01:21:31,040
+that'll remove that little
+
+2670
+01:21:31,040 --> 01:21:33,120
+center face for you and if b doesn't
+
+2671
+01:21:33,120 --> 01:21:34,960
+work it's because you have individual
+
+2672
+01:21:34,960 --> 01:21:36,159
+faces on so press
+
+2673
+01:21:36,159 --> 01:21:38,400
+i again first to disable individual
+
+2674
+01:21:38,400 --> 01:21:39,280
+faces and then
+
+2675
+01:21:39,280 --> 01:21:41,040
+b for boundary should work again all
+
+2676
+01:21:41,040 --> 01:21:42,480
+right guys so that sums up
+
+2677
+01:21:42,480 --> 01:21:43,840
+it was a long video and a lot of
+
+2678
+01:21:43,840 --> 01:21:45,520
+information but it's pretty much
+
+2679
+01:21:45,520 --> 01:21:47,120
+everything that i do when i low poly
+
+2680
+01:21:47,120 --> 01:21:48,719
+model stuff this is what i've learned
+
+2681
+01:21:48,719 --> 01:21:50,400
+over the course of the last four to five
+
+2682
+01:21:50,400 --> 01:21:52,080
+years that i've been using blender
+
+2683
+01:21:52,080 --> 01:21:54,480
+i used a bit of 3ds max before that but
+
+2684
+01:21:54,480 --> 01:21:56,239
+not really at a serious level
+
+2685
+01:21:56,239 --> 01:21:58,560
+but i think it's mostly the two most
+
+2686
+01:21:58,560 --> 01:22:00,080
+recent years that i've done on a lot of
+
+2687
+01:22:00,080 --> 01:22:02,159
+low poly stuff and especially this year
+
+2688
+01:22:02,159 --> 01:22:04,000
+with my 10 minute modeling challenge i'm
+
+2689
+01:22:04,000 --> 01:22:05,760
+really trying to find the most efficient
+
+2690
+01:22:05,760 --> 01:22:06,400
+workflows
+
+2691
+01:22:06,400 --> 01:22:08,400
+and good fast techniques to do low poly
+
+2692
+01:22:08,400 --> 01:22:09,920
+modelling come back to the video
+
+2693
+01:22:09,920 --> 01:22:11,760
+re-watch certain parts
+
+2694
+01:22:11,760 --> 01:22:14,639
+break it down practice practice practice
+
+2695
+01:22:14,639 --> 01:22:16,639
+make a lot of low poly stuff i do that
+
+2696
+01:22:16,639 --> 01:22:18,080
+all the time i basically jump into
+
+2697
+01:22:18,080 --> 01:22:19,199
+blender and i just
+
+2698
+01:22:19,199 --> 01:22:21,440
+model anything i can think of houses
+
+2699
+01:22:21,440 --> 01:22:22,400
+islands
+
+2700
+01:22:22,400 --> 01:22:25,040
+cars dragons i haven't even covered in
+
+2701
+01:22:25,040 --> 01:22:26,239
+this video i haven't covered so much
+
+2702
+01:22:26,239 --> 01:22:27,600
+about character modelling
+
+2703
+01:22:27,600 --> 01:22:29,760
+same technique applies but when it comes
+
+2704
+01:22:29,760 --> 01:22:30,800
+to rigging it'll be
+
+2705
+01:22:30,800 --> 01:22:32,960
+a few more things and animating those i
+
+2706
+01:22:32,960 --> 01:22:34,480
+should make some videos about that
+
+2707
+01:22:34,480 --> 01:22:35,920
+so thanks a lot guys for sticking with
+
+2708
+01:22:35,920 --> 01:22:37,520
+me give it a thumbs up if you like this
+
+2709
+01:22:37,520 --> 01:22:38,960
+video and subscribe if you haven't
+
+2710
+01:22:38,960 --> 01:22:40,480
+already and i've also got a patreon so
+
+2711
+01:22:40,480 --> 01:22:41,760
+if you want to give that a little bit of
+
+2712
+01:22:41,760 --> 01:22:42,639
+extra support
+
+2713
+01:22:42,639 --> 01:22:45,199
+head over to patreon.com infensia until
+
+2714
+01:22:45,199 --> 01:22:46,320
+next time have a good one
+
+2715
+01:22:46,320 --> 01:22:52,510
+take care bye for now
+
+2716
+01:22:52,510 --> 01:23:15,360
+[Music]
+
+2717
+01:23:15,360 --> 01:23:17,440
+you
+

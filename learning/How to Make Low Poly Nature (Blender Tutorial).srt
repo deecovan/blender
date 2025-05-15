@@ -1,0 +1,8860 @@
+1
+00:00:00,080 --> 00:00:01,439
+so i've been getting some tutorial
+
+2
+00:00:01,439 --> 00:00:03,439
+requests to make some more low poly
+
+3
+00:00:03,439 --> 00:00:05,359
+blender tutorials and so i decided to
+
+4
+00:00:05,359 --> 00:00:07,440
+make a tutorial on how to make low poly
+
+5
+00:00:07,440 --> 00:00:09,920
+nature in blender so in this tutorial
+
+6
+00:00:09,920 --> 00:00:11,200
+we're going to be making all of these
+
+7
+00:00:11,200 --> 00:00:12,719
+different nature assets and if you'd
+
+8
+00:00:12,719 --> 00:00:14,320
+just like to follow a certain part and
+
+9
+00:00:14,320 --> 00:00:16,239
+just model a certain nature asset i'm
+
+10
+00:00:16,239 --> 00:00:17,600
+gonna have time stamps in the video
+
+11
+00:00:17,600 --> 00:00:18,880
+description so you can just go down
+
+12
+00:00:18,880 --> 00:00:21,039
+there and click on a timestamp and it'll
+
+13
+00:00:21,039 --> 00:00:22,800
+jump you to the part in the video where
+
+14
+00:00:22,800 --> 00:00:24,640
+i make the asset so we're gonna be
+
+15
+00:00:24,640 --> 00:00:26,640
+making this low poly mountain with snow
+
+16
+00:00:26,640 --> 00:00:28,400
+on it we're also gonna be creating this
+
+17
+00:00:28,400 --> 00:00:31,119
+low poly tree stump and a low poly
+
+18
+00:00:31,119 --> 00:00:33,040
+wooden log we're also going to be making
+
+19
+00:00:33,040 --> 00:00:34,800
+these low poly flowers and i'm going to
+
+20
+00:00:34,800 --> 00:00:36,640
+show you how to make it so that when you
+
+21
+00:00:36,640 --> 00:00:39,040
+duplicate the flowers the flowers have a
+
+22
+00:00:39,040 --> 00:00:40,800
+random color and i'm going to show you
+
+23
+00:00:40,800 --> 00:00:42,800
+how to set up the colors to the colors
+
+24
+00:00:42,800 --> 00:00:44,239
+that you want we're also going to be
+
+25
+00:00:44,239 --> 00:00:46,399
+making some low poly rocks and we're
+
+26
+00:00:46,399 --> 00:00:48,079
+going to be making some low poly grass
+
+27
+00:00:48,079 --> 00:00:49,120
+this is something that you could use
+
+28
+00:00:49,120 --> 00:00:51,039
+like a particle system and make the
+
+29
+00:00:51,039 --> 00:00:52,960
+grass in a scene and we're going to
+
+30
+00:00:52,960 --> 00:00:55,440
+create some low poly bushes and some
+
+31
+00:00:55,440 --> 00:00:56,719
+different mushrooms so we're going to be
+
+32
+00:00:56,719 --> 00:00:58,960
+creating some brown mushrooms and also
+
+33
+00:00:58,960 --> 00:01:00,559
+some of these red mushrooms with the
+
+34
+00:01:00,559 --> 00:01:02,480
+little white dots on them and i'm going
+
+35
+00:01:02,480 --> 00:01:03,920
+to be using blender evie for this
+
+36
+00:01:03,920 --> 00:01:05,199
+tutorial but you could definitely use
+
+37
+00:01:05,199 --> 00:01:07,200
+cycles i'm just using evie because evie
+
+38
+00:01:07,200 --> 00:01:08,720
+is a real-time render engine and i think
+
+39
+00:01:08,720 --> 00:01:10,880
+it looks pretty nice for these low poly
+
+40
+00:01:10,880 --> 00:01:13,600
+nature assets alright so here i am in a
+
+41
+00:01:13,600 --> 00:01:15,280
+new scene in blender and i've turned the
+
+42
+00:01:15,280 --> 00:01:17,200
+render engine to eevee and then i've
+
+43
+00:01:17,200 --> 00:01:19,200
+turned on ambient occlusion screen space
+
+44
+00:01:19,200 --> 00:01:21,520
+reflections and motion blur and then
+
+45
+00:01:21,520 --> 00:01:23,439
+also over here on the world settings i
+
+46
+00:01:23,439 --> 00:01:26,159
+have this whipple creek hdri i just used
+
+47
+00:01:26,159 --> 00:01:28,080
+the 1k version i'll have the link in the
+
+48
+00:01:28,080 --> 00:01:29,200
+video description this is from
+
+49
+00:01:29,200 --> 00:01:30,880
+hdrihaven.com
+
+50
+00:01:30,880 --> 00:01:32,720
+if you'd like to download this hdri that
+
+51
+00:01:32,720 --> 00:01:34,079
+i'm using and i'm just using this to get
+
+52
+00:01:34,079 --> 00:01:36,240
+some really nice lighting for our nature
+
+53
+00:01:36,240 --> 00:01:38,320
+scene so let's first start off by making
+
+54
+00:01:38,320 --> 00:01:39,840
+the mountain so to make the mountain i'm
+
+55
+00:01:39,840 --> 00:01:41,920
+actually going to be using a landscape
+
+56
+00:01:41,920 --> 00:01:43,600
+blender add-on it's built into blender
+
+57
+00:01:43,600 --> 00:01:45,360
+so you can enable it by going edit and
+
+58
+00:01:45,360 --> 00:01:47,520
+going to preferences and then right over
+
+59
+00:01:47,520 --> 00:01:49,920
+here on the add-ons just start typing in
+
+60
+00:01:49,920 --> 00:01:51,360
+landscape and you can see there's the
+
+61
+00:01:51,360 --> 00:01:54,399
+add mesh ant landscape just turn this on
+
+62
+00:01:54,399 --> 00:01:55,600
+and then if you want it to be in all
+
+63
+00:01:55,600 --> 00:01:57,360
+your future blender files you can click
+
+64
+00:01:57,360 --> 00:01:58,799
+on save preferences and then you can
+
+65
+00:01:58,799 --> 00:02:00,880
+always use it in the future so with that
+
+66
+00:02:00,880 --> 00:02:02,560
+turned on i'm going to press shift a i'm
+
+67
+00:02:02,560 --> 00:02:03,759
+going to go to mesh and i'm going to go
+
+68
+00:02:03,759 --> 00:02:05,600
+all the way down here and click on
+
+69
+00:02:05,600 --> 00:02:07,520
+landscape you can see it adds a
+
+70
+00:02:07,520 --> 00:02:08,878
+landscape so this is basically a
+
+71
+00:02:08,878 --> 00:02:10,878
+landscape generator now there are a
+
+72
+00:02:10,878 --> 00:02:12,480
+bunch of settings here but there's also
+
+73
+00:02:12,480 --> 00:02:14,400
+some presets if you click on this you
+
+74
+00:02:14,400 --> 00:02:15,440
+could see it has a bunch of different
+
+75
+00:02:15,440 --> 00:02:17,520
+presets you can try these out and use
+
+76
+00:02:17,520 --> 00:02:19,120
+one that you like i'm going to use
+
+77
+00:02:19,120 --> 00:02:21,360
+mountains 2. so when i click on that it
+
+78
+00:02:21,360 --> 00:02:23,040
+does look pretty cool but it's not very
+
+79
+00:02:23,040 --> 00:02:25,200
+high up so to make it bigger i can
+
+80
+00:02:25,200 --> 00:02:27,120
+scroll down here and there's this height
+
+81
+00:02:27,120 --> 00:02:28,560
+if i hold down the shift key while
+
+82
+00:02:28,560 --> 00:02:30,080
+dragging this i can make more sensitive
+
+83
+00:02:30,080 --> 00:02:32,080
+movements and i can make this a lot
+
+84
+00:02:32,080 --> 00:02:33,760
+higher so now that we have this mountain
+
+85
+00:02:33,760 --> 00:02:35,519
+i'm just going to close these settings
+
+86
+00:02:35,519 --> 00:02:36,400
+right here
+
+87
+00:02:36,400 --> 00:02:38,400
+and i'm going to tab in edit mode and
+
+88
+00:02:38,400 --> 00:02:39,760
+you can see what the mountain is looking
+
+89
+00:02:39,760 --> 00:02:41,920
+like now right now it's smooth and it's
+
+90
+00:02:41,920 --> 00:02:43,519
+also way too high poly so we're going to
+
+91
+00:02:43,519 --> 00:02:45,760
+make it look low poly so i'm going to go
+
+92
+00:02:45,760 --> 00:02:47,599
+back into object mode so instead of this
+
+93
+00:02:47,599 --> 00:02:49,120
+being shaded smooth i want it to be
+
+94
+00:02:49,120 --> 00:02:51,440
+shaded flat so you can just shade that
+
+95
+00:02:51,440 --> 00:02:53,280
+flat and now it definitely looks more
+
+96
+00:02:53,280 --> 00:02:54,720
+low poly but it's just a bunch of
+
+97
+00:02:54,720 --> 00:02:56,000
+squares and there's not really any
+
+98
+00:02:56,000 --> 00:02:58,159
+triangles and it is too high detail so
+
+99
+00:02:58,159 --> 00:02:59,599
+what i'm going to do is go over here to
+
+100
+00:02:59,599 --> 00:03:01,680
+the modifiers tab i'm going to click on
+
+101
+00:03:01,680 --> 00:03:03,599
+add modifier and i'm going to add the
+
+102
+00:03:03,599 --> 00:03:05,920
+decimate modifier now this ratio here
+
+103
+00:03:05,920 --> 00:03:07,599
+you can turn this down and what it's
+
+104
+00:03:07,599 --> 00:03:08,560
+going to do is it's going to start
+
+105
+00:03:08,560 --> 00:03:10,400
+taking away more and more of the mesh
+
+106
+00:03:10,400 --> 00:03:12,159
+and you can see now it has a very low
+
+107
+00:03:12,159 --> 00:03:14,480
+poly look so just get it to how you like
+
+108
+00:03:14,480 --> 00:03:16,319
+i like something i like that you can see
+
+109
+00:03:16,319 --> 00:03:17,680
+it has all those little triangles and
+
+110
+00:03:17,680 --> 00:03:19,599
+stuff in there which i really like so
+
+111
+00:03:19,599 --> 00:03:21,120
+now that i like that i'm going to move
+
+112
+00:03:21,120 --> 00:03:22,959
+my mouse over the decimate modifier and
+
+113
+00:03:22,959 --> 00:03:25,360
+press ctrl a make sure you're in object
+
+114
+00:03:25,360 --> 00:03:27,519
+mode when you do this ctrl a and that'll
+
+115
+00:03:27,519 --> 00:03:29,360
+apply it now when i tab in edit mode you
+
+116
+00:03:29,360 --> 00:03:31,280
+can see it has a lot less vertices and
+
+117
+00:03:31,280 --> 00:03:33,360
+it has much more of a low poly look so
+
+118
+00:03:33,360 --> 00:03:34,720
+now i'm going to add some material so
+
+119
+00:03:34,720 --> 00:03:35,680
+i'm going to click over here on the
+
+120
+00:03:35,680 --> 00:03:37,760
+material tab click on new and i'm going
+
+121
+00:03:37,760 --> 00:03:40,239
+to call this mountain and for this i'm
+
+122
+00:03:40,239 --> 00:03:43,200
+just going to make the base color a dark
+
+123
+00:03:43,200 --> 00:03:44,879
+brown color i'm also going to press z
+
+124
+00:03:44,879 --> 00:03:46,640
+and move my mouse up to go into rendered
+
+125
+00:03:46,640 --> 00:03:48,080
+view and you can see what it's looking
+
+126
+00:03:48,080 --> 00:03:50,000
+like now right now it's a bit too shiny
+
+127
+00:03:50,000 --> 00:03:51,519
+so i'm going to turn the roughness up a
+
+128
+00:03:51,519 --> 00:03:53,040
+bit because mountains aren't really that
+
+129
+00:03:53,040 --> 00:03:55,200
+shiny and then i will also make this
+
+130
+00:03:55,200 --> 00:03:56,959
+darker and maybe turn the roughness up
+
+131
+00:03:56,959 --> 00:03:59,360
+just a bit more okay something like that
+
+132
+00:03:59,360 --> 00:04:02,480
+so now i want to add the snow on the top
+
+133
+00:04:02,480 --> 00:04:04,319
+of the mountains so what i'm going to do
+
+134
+00:04:04,319 --> 00:04:06,159
+is tap into edit mode and i just need to
+
+135
+00:04:06,159 --> 00:04:08,319
+select the top parts where i want the
+
+136
+00:04:08,319 --> 00:04:10,159
+snow to be so to do that i'm going to
+
+137
+00:04:10,159 --> 00:04:12,159
+press 3 and that'll go to this face
+
+138
+00:04:12,159 --> 00:04:13,439
+select you can also just click right
+
+139
+00:04:13,439 --> 00:04:15,519
+here press a to deselect everything and
+
+140
+00:04:15,519 --> 00:04:17,600
+then i'm going to press 1 to go to front
+
+141
+00:04:17,600 --> 00:04:18,959
+view actually in this case i'm going to
+
+142
+00:04:18,959 --> 00:04:20,720
+press 3 to go to side view because i can
+
+143
+00:04:20,720 --> 00:04:22,240
+see the mountains a little bit better
+
+144
+00:04:22,240 --> 00:04:23,919
+then i'll press z and move my mouse over
+
+145
+00:04:23,919 --> 00:04:26,160
+to go into wireframe and now i can press
+
+146
+00:04:26,160 --> 00:04:27,840
+c and that's going to open up the circle
+
+147
+00:04:27,840 --> 00:04:30,240
+select and i can just select the little
+
+148
+00:04:30,240 --> 00:04:32,720
+peaks where i want the snow to be so
+
+149
+00:04:32,720 --> 00:04:34,479
+there i want a lot of snow to be right
+
+150
+00:04:34,479 --> 00:04:36,960
+there okay a little bit more here and
+
+151
+00:04:36,960 --> 00:04:39,199
+now i can just go around here press z
+
+152
+00:04:39,199 --> 00:04:41,199
+move out to go back into solid view and
+
+153
+00:04:41,199 --> 00:04:43,120
+i could just box select a few areas by
+
+154
+00:04:43,120 --> 00:04:45,120
+pressing b for the box select just
+
+155
+00:04:45,120 --> 00:04:47,280
+selecting a few areas that i want to be
+
+156
+00:04:47,280 --> 00:04:48,960
+snow maybe in here i want there to be
+
+157
+00:04:48,960 --> 00:04:50,639
+more snow so i'm gonna just go around
+
+158
+00:04:50,639 --> 00:04:53,040
+here pressing b for box select just
+
+159
+00:04:53,040 --> 00:04:54,800
+selecting all the areas that you want
+
+160
+00:04:54,800 --> 00:04:57,040
+the snow to be on okay let's just go
+
+161
+00:04:57,040 --> 00:04:58,479
+around here i don't want there to be too
+
+162
+00:04:58,479 --> 00:05:01,120
+much snow but also not too little snow
+
+163
+00:05:01,120 --> 00:05:02,639
+all right so once you've selected all
+
+164
+00:05:02,639 --> 00:05:04,160
+the places that you want the snow to be
+
+165
+00:05:04,160 --> 00:05:05,680
+i'm going to scroll up here i'm going to
+
+166
+00:05:05,680 --> 00:05:08,080
+click on the plus and then click on new
+
+167
+00:05:08,080 --> 00:05:10,000
+and i'm going to call it snow and i'm
+
+168
+00:05:10,000 --> 00:05:11,759
+just going to leave it at the default
+
+169
+00:05:11,759 --> 00:05:12,960
+maybe just make it a little bit more
+
+170
+00:05:12,960 --> 00:05:14,240
+shiny so turn the roughness down a
+
+171
+00:05:14,240 --> 00:05:15,600
+little bit because snow is somewhat
+
+172
+00:05:15,600 --> 00:05:17,600
+reflective and then with that selected
+
+173
+00:05:17,600 --> 00:05:19,600
+i'm going to click assign so now if i go
+
+174
+00:05:19,600 --> 00:05:21,199
+into rendered mode you can see what it's
+
+175
+00:05:21,199 --> 00:05:22,800
+looking like so now if you want to go
+
+176
+00:05:22,800 --> 00:05:24,240
+ahead and change some stuff like maybe
+
+177
+00:05:24,240 --> 00:05:25,520
+there's a little bit too much snow or
+
+178
+00:05:25,520 --> 00:05:27,360
+too little you can have an edit mode
+
+179
+00:05:27,360 --> 00:05:29,120
+just keep on selecting some areas like i
+
+180
+00:05:29,120 --> 00:05:31,600
+think i might have some snow there um i
+
+181
+00:05:31,600 --> 00:05:33,199
+think i might connect these so if i just
+
+182
+00:05:33,199 --> 00:05:34,800
+like box select this maybe go to the
+
+183
+00:05:34,800 --> 00:05:36,400
+circle select with c
+
+184
+00:05:36,400 --> 00:05:38,080
+just select some more areas and then
+
+185
+00:05:38,080 --> 00:05:40,320
+with the snow selected click on a sign
+
+186
+00:05:40,320 --> 00:05:42,080
+now you can see there's more snow and
+
+187
+00:05:42,080 --> 00:05:43,280
+then also if you're going to have these
+
+188
+00:05:43,280 --> 00:05:45,680
+mountains as a backdrop behind your low
+
+189
+00:05:45,680 --> 00:05:47,759
+poly scene you could just like scale it
+
+190
+00:05:47,759 --> 00:05:50,000
+down on the x axis scale it down like
+
+191
+00:05:50,000 --> 00:05:51,440
+that and then when you're looking at it
+
+192
+00:05:51,440 --> 00:05:53,280
+from side view it does look a little bit
+
+193
+00:05:53,280 --> 00:05:54,720
+cooler but when you're looking at it
+
+194
+00:05:54,720 --> 00:05:56,080
+from the top it does look kind of weird
+
+195
+00:05:56,080 --> 00:05:57,680
+stretched out so you may not want to do
+
+196
+00:05:57,680 --> 00:06:00,000
+that it really depends on your scene so
+
+197
+00:06:00,000 --> 00:06:01,120
+i'm just going to scale it down a little
+
+198
+00:06:01,120 --> 00:06:03,680
+bit by going s and x scan it down just a
+
+199
+00:06:03,680 --> 00:06:04,720
+little bit more so it's a little bit
+
+200
+00:06:04,720 --> 00:06:06,479
+more flatter kind of like a mountain
+
+201
+00:06:06,479 --> 00:06:08,639
+range just like that and then one last
+
+202
+00:06:08,639 --> 00:06:10,479
+thing i am going to go into edit mode
+
+203
+00:06:10,479 --> 00:06:12,639
+press one to go to the vertex select and
+
+204
+00:06:12,639 --> 00:06:14,479
+just hold down the shift key and select
+
+205
+00:06:14,479 --> 00:06:16,080
+these four vertices out here and then
+
+206
+00:06:16,080 --> 00:06:18,319
+press x and delete vertices and that way
+
+207
+00:06:18,319 --> 00:06:19,520
+there's just a circle around the
+
+208
+00:06:19,520 --> 00:06:20,960
+mountains and i think it makes it look a
+
+209
+00:06:20,960 --> 00:06:22,720
+little bit nicer so that's going to be
+
+210
+00:06:22,720 --> 00:06:24,800
+it for my low poly mountains all right
+
+211
+00:06:24,800 --> 00:06:26,479
+so let's go ahead and do the trees next
+
+212
+00:06:26,479 --> 00:06:27,840
+now before we do the trees i'm just
+
+213
+00:06:27,840 --> 00:06:30,479
+going to press shift a add a plane i
+
+214
+00:06:30,479 --> 00:06:32,000
+will scale this plane down and then
+
+215
+00:06:32,000 --> 00:06:34,560
+press s and y scale it out a little bit
+
+216
+00:06:34,560 --> 00:06:36,240
+and then i'm going to hit new and call
+
+217
+00:06:36,240 --> 00:06:39,360
+this grass just add a grass material and
+
+218
+00:06:39,360 --> 00:06:40,560
+then on the base color i'm just going to
+
+219
+00:06:40,560 --> 00:06:43,280
+make it a basic grass material
+
+220
+00:06:43,280 --> 00:06:46,000
+and go down here turn the roughness up a
+
+221
+00:06:46,000 --> 00:06:47,280
+bit and that's just going to be our
+
+222
+00:06:47,280 --> 00:06:48,560
+plane that we're going to have the
+
+223
+00:06:48,560 --> 00:06:50,800
+nature assets on all right so let's make
+
+224
+00:06:50,800 --> 00:06:52,639
+the four trees now the first one i'm
+
+225
+00:06:52,639 --> 00:06:54,319
+going to make is the apple tree or the
+
+226
+00:06:54,319 --> 00:06:56,319
+fruit tree so i'm going to press shift a
+
+227
+00:06:56,319 --> 00:06:58,639
+and i'm going to start with a plane just
+
+228
+00:06:58,639 --> 00:07:00,560
+scale the plane down and just bring it
+
+229
+00:07:00,560 --> 00:07:02,240
+up by pressing g and z bring it up a
+
+230
+00:07:02,240 --> 00:07:03,599
+little bit i'm actually going to go out
+
+231
+00:07:03,599 --> 00:07:04,880
+of rendered mode just so that i can see
+
+232
+00:07:04,880 --> 00:07:06,560
+it a little bit better okay i'm going to
+
+233
+00:07:06,560 --> 00:07:08,720
+tab into edit mode and with all of these
+
+234
+00:07:08,720 --> 00:07:10,639
+selected i'm going to press s
+
+235
+00:07:10,639 --> 00:07:12,800
+0 and enter so that way we only have one
+
+236
+00:07:12,800 --> 00:07:14,960
+little vertice right in the middle now
+
+237
+00:07:14,960 --> 00:07:17,039
+i'm going to press m and that'll merge
+
+238
+00:07:17,039 --> 00:07:18,639
+it and i'm going to merge by distance
+
+239
+00:07:18,639 --> 00:07:19,919
+and now it's gotten rid of the extra
+
+240
+00:07:19,919 --> 00:07:21,840
+vertices and there's just one vertice in
+
+241
+00:07:21,840 --> 00:07:23,759
+the middle so now i can press 1 to go to
+
+242
+00:07:23,759 --> 00:07:25,360
+front view and it does look like i
+
+243
+00:07:25,360 --> 00:07:26,960
+actually modeled this sideways so i'm
+
+244
+00:07:26,960 --> 00:07:28,160
+just going to press a to select
+
+245
+00:07:28,160 --> 00:07:32,240
+everything r and z and type in 90
+
+246
+00:07:32,240 --> 00:07:34,479
+enter now when i press 1 the mountain is
+
+247
+00:07:34,479 --> 00:07:36,160
+going to be behind us and i think i will
+
+248
+00:07:36,160 --> 00:07:37,919
+press g and then click with my middle
+
+249
+00:07:37,919 --> 00:07:39,360
+mouse wheel just move this over a little
+
+250
+00:07:39,360 --> 00:07:41,199
+bit so just select the tree again i'm
+
+251
+00:07:41,199 --> 00:07:43,199
+going to press 1 for front view and i
+
+252
+00:07:43,199 --> 00:07:45,199
+will tab into edit mode and then i can
+
+253
+00:07:45,199 --> 00:07:47,759
+just extrude that up by pressing e and
+
+254
+00:07:47,759 --> 00:07:49,680
+i'm basically just going to make the
+
+255
+00:07:49,680 --> 00:07:52,000
+shape of the tree trunk just going all
+
+256
+00:07:52,000 --> 00:07:53,039
+the way up here and then i'm going to
+
+257
+00:07:53,039 --> 00:07:54,400
+have two branches coming out and
+
+258
+00:07:54,400 --> 00:07:56,319
+connecting up to the tree so i'm going
+
+259
+00:07:56,319 --> 00:07:58,800
+to select this extrude that out with e
+
+260
+00:07:58,800 --> 00:08:00,319
+extrude that up just click and place
+
+261
+00:08:00,319 --> 00:08:01,360
+that and just have it come up we're
+
+262
+00:08:01,360 --> 00:08:03,120
+going to be having all the leaves up
+
+263
+00:08:03,120 --> 00:08:05,680
+here and then i think i will press ctrl
+
+264
+00:08:05,680 --> 00:08:07,520
+r add a loop cut right in there click
+
+265
+00:08:07,520 --> 00:08:09,919
+and then press g and bring this down and
+
+266
+00:08:09,919 --> 00:08:11,919
+then i can extrude this up with e and
+
+267
+00:08:11,919 --> 00:08:14,400
+then e again and just bring that up now
+
+268
+00:08:14,400 --> 00:08:15,840
+the tree is kind of flat right now so
+
+269
+00:08:15,840 --> 00:08:18,319
+i'm gonna hold down the shift key select
+
+270
+00:08:18,319 --> 00:08:20,960
+this branch press seven to go to top
+
+271
+00:08:20,960 --> 00:08:22,879
+view and just press r to rotate that and
+
+272
+00:08:22,879 --> 00:08:24,720
+just bring it out a little bit and then
+
+273
+00:08:24,720 --> 00:08:26,160
+i could also do that for this branch so
+
+274
+00:08:26,160 --> 00:08:28,319
+i will click on this and then shift
+
+275
+00:08:28,319 --> 00:08:30,000
+select this and this one
+
+276
+00:08:30,000 --> 00:08:32,559
+7 for top view and just press r to
+
+277
+00:08:32,559 --> 00:08:34,880
+rotate it a little bit press g and move
+
+278
+00:08:34,880 --> 00:08:35,919
+it over
+
+279
+00:08:35,919 --> 00:08:38,320
+and now the tree is a little bit more 3d
+
+280
+00:08:38,320 --> 00:08:40,080
+okay let's tab back into object mode and
+
+281
+00:08:40,080 --> 00:08:42,159
+now i need to add some modifiers to
+
+282
+00:08:42,159 --> 00:08:43,919
+thicken it up so i'm going to go to the
+
+283
+00:08:43,919 --> 00:08:45,519
+modifiers panel right here and i'm going
+
+284
+00:08:45,519 --> 00:08:47,279
+to click on add modifier and we're going
+
+285
+00:08:47,279 --> 00:08:50,000
+to add the skin modifier so when we add
+
+286
+00:08:50,000 --> 00:08:51,839
+it now it has a lot of thickness but
+
+287
+00:08:51,839 --> 00:08:53,440
+it's a little bit too thick so i'm going
+
+288
+00:08:53,440 --> 00:08:55,519
+to tab into edit mode double tap a make
+
+289
+00:08:55,519 --> 00:08:57,120
+sure everything is selected you can go
+
+290
+00:08:57,120 --> 00:08:58,959
+into wireframe view just to see if
+
+291
+00:08:58,959 --> 00:09:01,040
+everything's selected and then i'm going
+
+292
+00:09:01,040 --> 00:09:03,120
+to press ctrl a
+
+293
+00:09:03,120 --> 00:09:06,080
+and ctrl a is going to scale how thick
+
+294
+00:09:06,080 --> 00:09:08,560
+that skin is so just scale it down ctrl
+
+295
+00:09:08,560 --> 00:09:10,560
+a make it smaller and then i do want the
+
+296
+00:09:10,560 --> 00:09:12,000
+trunk to be thicker and then i want the
+
+297
+00:09:12,000 --> 00:09:14,320
+limbs to be thinner so i will deselect
+
+298
+00:09:14,320 --> 00:09:15,279
+everything
+
+299
+00:09:15,279 --> 00:09:17,040
+press z move my mouse over we'll go into
+
+300
+00:09:17,040 --> 00:09:19,519
+wireframe press b i'm just going to box
+
+301
+00:09:19,519 --> 00:09:21,680
+select some of the trunk and then i can
+
+302
+00:09:21,680 --> 00:09:24,880
+press ctrl a make it a bit thicker
+
+303
+00:09:24,880 --> 00:09:27,360
+and then just box select the bottom here
+
+304
+00:09:27,360 --> 00:09:29,600
+press ctrl a make it even thicker and
+
+305
+00:09:29,600 --> 00:09:30,959
+then i think i'll just select this last
+
+306
+00:09:30,959 --> 00:09:33,279
+one press ctrl a and make it even
+
+307
+00:09:33,279 --> 00:09:35,040
+thicker so now the tree starts out
+
+308
+00:09:35,040 --> 00:09:36,320
+really thick and then it gets thinner
+
+309
+00:09:36,320 --> 00:09:38,560
+and thinner and then right up here i'm
+
+310
+00:09:38,560 --> 00:09:40,720
+going to select this one and this one
+
+311
+00:09:40,720 --> 00:09:42,800
+press ctrl a make it even smaller
+
+312
+00:09:42,800 --> 00:09:44,160
+because these are just some branches
+
+313
+00:09:44,160 --> 00:09:46,000
+coming out and then i think i want the
+
+314
+00:09:46,000 --> 00:09:48,080
+trunk overall to be a little bit thicker
+
+315
+00:09:48,080 --> 00:09:50,800
+so i'll just box select the trunk here
+
+316
+00:09:50,800 --> 00:09:52,480
+press ctrl a make it a little bit
+
+317
+00:09:52,480 --> 00:09:54,240
+thicker overall
+
+318
+00:09:54,240 --> 00:09:56,640
+all right there we go so now we have
+
+319
+00:09:56,640 --> 00:09:59,839
+our low poly trunk and branches so now
+
+320
+00:09:59,839 --> 00:10:02,320
+i'm going to press ctrl a with my mouse
+
+321
+00:10:02,320 --> 00:10:04,640
+over this and this is going to apply the
+
+322
+00:10:04,640 --> 00:10:06,480
+modifier so now if i tap into edit mode
+
+323
+00:10:06,480 --> 00:10:08,480
+you can see that it's actual vertices
+
+324
+00:10:08,480 --> 00:10:10,320
+now it adds a lot of extra vertices in
+
+325
+00:10:10,320 --> 00:10:11,839
+here and that's a little bit annoying so
+
+326
+00:10:11,839 --> 00:10:13,200
+i'm just going to get rid of these you
+
+327
+00:10:13,200 --> 00:10:14,240
+don't really have to it's not really
+
+328
+00:10:14,240 --> 00:10:15,839
+going to affect the look but it will
+
+329
+00:10:15,839 --> 00:10:17,839
+make it a little bit lower poly so to
+
+330
+00:10:17,839 --> 00:10:19,600
+get rid of these pretty quickly i'm
+
+331
+00:10:19,600 --> 00:10:21,839
+going to go up here and click on this
+
+332
+00:10:21,839 --> 00:10:24,480
+merge auto merge vertices what that'll
+
+333
+00:10:24,480 --> 00:10:26,800
+do is when the vertices get really close
+
+334
+00:10:26,800 --> 00:10:27,920
+to each other they're going to merge
+
+335
+00:10:27,920 --> 00:10:30,720
+together so now what i can do is alt
+
+336
+00:10:30,720 --> 00:10:32,480
+select one of these loops and then
+
+337
+00:10:32,480 --> 00:10:34,320
+double tap g move it down or actually
+
+338
+00:10:34,320 --> 00:10:36,399
+i'll move it up and then when i let go
+
+339
+00:10:36,399 --> 00:10:38,320
+it automatically merges it together so i
+
+340
+00:10:38,320 --> 00:10:39,760
+can double tap g
+
+341
+00:10:39,760 --> 00:10:41,519
+pull it up let go it's going to merge
+
+342
+00:10:41,519 --> 00:10:44,320
+that i can alt select this double tap g
+
+343
+00:10:44,320 --> 00:10:46,240
+edge slide and then place that double
+
+344
+00:10:46,240 --> 00:10:48,640
+tap g again double tap g again and i can
+
+345
+00:10:48,640 --> 00:10:50,399
+very quickly just get rid of all those
+
+346
+00:10:50,399 --> 00:10:53,440
+extra vertices if you'd like to okay i'm
+
+347
+00:10:53,440 --> 00:10:55,200
+going to do that up here so click on
+
+348
+00:10:55,200 --> 00:10:57,680
+this one you can alt select a loop and
+
+349
+00:10:57,680 --> 00:11:00,480
+then double tap g click double tap g
+
+350
+00:11:00,480 --> 00:11:01,839
+double tap g
+
+351
+00:11:01,839 --> 00:11:03,920
+okay double tap g just keep on doing
+
+352
+00:11:03,920 --> 00:11:06,560
+that bringing it around all right there
+
+353
+00:11:06,560 --> 00:11:08,480
+we go so now the tree is a lot lower
+
+354
+00:11:08,480 --> 00:11:10,720
+poly let's tap back into object mode now
+
+355
+00:11:10,720 --> 00:11:12,480
+and now let's make the rest of the tree
+
+356
+00:11:12,480 --> 00:11:13,839
+so i'm just going to click to place my
+
+357
+00:11:13,839 --> 00:11:15,839
+3d cursor right about there i'll press
+
+358
+00:11:15,839 --> 00:11:18,560
+shift and i'm going to add an icosphere
+
+359
+00:11:18,560 --> 00:11:20,079
+now it's really big right now let's just
+
+360
+00:11:20,079 --> 00:11:22,399
+zoom out on the icosphere settings right
+
+361
+00:11:22,399 --> 00:11:24,079
+here i want to turn this up don't turn
+
+362
+00:11:24,079 --> 00:11:25,839
+it up too high because if you turned up
+
+363
+00:11:25,839 --> 00:11:27,120
+really high it could make it really
+
+364
+00:11:27,120 --> 00:11:29,440
+laggy and possibly crash blender but i'm
+
+365
+00:11:29,440 --> 00:11:31,600
+just going to turn this up to 5 and then
+
+366
+00:11:31,600 --> 00:11:34,160
+i can just click on this and scale it
+
+367
+00:11:34,160 --> 00:11:36,000
+down so we're just going to scale it
+
+368
+00:11:36,000 --> 00:11:37,120
+down
+
+369
+00:11:37,120 --> 00:11:39,760
+and then i can also tab and edit mode
+
+370
+00:11:39,760 --> 00:11:41,760
+scale it on the z and then just scale
+
+371
+00:11:41,760 --> 00:11:43,519
+that up a little bit more and i need to
+
+372
+00:11:43,519 --> 00:11:44,720
+make it a little bit bigger so that the
+
+373
+00:11:44,720 --> 00:11:46,959
+branches go into it all right so now i
+
+374
+00:11:46,959 --> 00:11:48,959
+need to make the shape of the tree what
+
+375
+00:11:48,959 --> 00:11:51,360
+i'm going to do is press the o key and
+
+376
+00:11:51,360 --> 00:11:52,320
+that's going to turn on this
+
+377
+00:11:52,320 --> 00:11:55,040
+proportional editing right here now if i
+
+378
+00:11:55,040 --> 00:11:57,279
+just click on a point and press g to
+
+379
+00:11:57,279 --> 00:11:59,279
+grab you can see that it's pulling along
+
+380
+00:11:59,279 --> 00:12:01,680
+vertices with it now if i scroll wheel i
+
+381
+00:12:01,680 --> 00:12:04,160
+need to scroll my wheel down you can see
+
+382
+00:12:04,160 --> 00:12:06,160
+that there is this circle here and this
+
+383
+00:12:06,160 --> 00:12:08,320
+circle is telling it how much is going
+
+384
+00:12:08,320 --> 00:12:10,320
+to be pulled along with it so i can just
+
+385
+00:12:10,320 --> 00:12:12,320
+pull it around and i can make smooth
+
+386
+00:12:12,320 --> 00:12:13,839
+adjustments so i can just click on some
+
+387
+00:12:13,839 --> 00:12:16,480
+points press g and just move them around
+
+388
+00:12:16,480 --> 00:12:18,079
+and that way i can very quickly and
+
+389
+00:12:18,079 --> 00:12:20,800
+easily make the shape of my tree so just
+
+390
+00:12:20,800 --> 00:12:22,800
+make it kind of lumpy and random and
+
+391
+00:12:22,800 --> 00:12:24,639
+maybe pull it out a little bit more
+
+392
+00:12:24,639 --> 00:12:26,720
+where the branches are so there's some
+
+393
+00:12:26,720 --> 00:12:28,639
+more leaves where the branches are and
+
+394
+00:12:28,639 --> 00:12:30,720
+then maybe click on the top press g move
+
+395
+00:12:30,720 --> 00:12:32,320
+it up a bit more
+
+396
+00:12:32,320 --> 00:12:33,680
+alright so i like that so i'm going to
+
+397
+00:12:33,680 --> 00:12:35,600
+tab back into object mode now to give it
+
+398
+00:12:35,600 --> 00:12:37,440
+that low poly look again i'm going to
+
+399
+00:12:37,440 --> 00:12:39,279
+click on add modifier and just like the
+
+400
+00:12:39,279 --> 00:12:41,200
+mountain i'm going to add the decimate
+
+401
+00:12:41,200 --> 00:12:43,920
+modifier so this ratio here i can turn
+
+402
+00:12:43,920 --> 00:12:45,440
+this down and you can see that now it
+
+403
+00:12:45,440 --> 00:12:47,440
+starts to have that low poly look so
+
+404
+00:12:47,440 --> 00:12:48,800
+just turn it way down you can also hold
+
+405
+00:12:48,800 --> 00:12:50,800
+the shift key as you're pulling this
+
+406
+00:12:50,800 --> 00:12:53,760
+ratio down so that the movements are a
+
+407
+00:12:53,760 --> 00:12:56,160
+lot more sensitive and then once you're
+
+408
+00:12:56,160 --> 00:12:58,079
+happy with it you can hold your mouse
+
+409
+00:12:58,079 --> 00:13:00,399
+over this and press ctrl a so now it
+
+410
+00:13:00,399 --> 00:13:03,040
+looks very low poly so now let's add the
+
+411
+00:13:03,040 --> 00:13:05,040
+material onto the tree and then we'll
+
+412
+00:13:05,040 --> 00:13:07,120
+add the apples or the fruit or whatever
+
+413
+00:13:07,120 --> 00:13:09,040
+is on the tree so i'm going to press z
+
+414
+00:13:09,040 --> 00:13:10,720
+move my mouse up to go into a rendered
+
+415
+00:13:10,720 --> 00:13:12,639
+view and then i'm going to go to the
+
+416
+00:13:12,639 --> 00:13:14,399
+material panel right here i'll click on
+
+417
+00:13:14,399 --> 00:13:16,480
+new and i'm going to call this green now
+
+418
+00:13:16,480 --> 00:13:17,760
+i'm calling this green because i'm
+
+419
+00:13:17,760 --> 00:13:19,200
+actually going to use this in a bunch of
+
+420
+00:13:19,200 --> 00:13:21,040
+the assets almost all the assets are
+
+421
+00:13:21,040 --> 00:13:23,040
+going to be using the same material so
+
+422
+00:13:23,040 --> 00:13:24,480
+what i'm going to do is turn the base
+
+423
+00:13:24,480 --> 00:13:26,240
+color to a green color
+
+424
+00:13:26,240 --> 00:13:28,160
+make it a little bit darker a bit more
+
+425
+00:13:28,160 --> 00:13:30,240
+saturated of a green color and then
+
+426
+00:13:30,240 --> 00:13:31,920
+right down here the roughness turn that
+
+427
+00:13:31,920 --> 00:13:33,519
+up just a little bit more and then i'm
+
+428
+00:13:33,519 --> 00:13:36,560
+going to select the tree trunk click on
+
+429
+00:13:36,560 --> 00:13:39,040
+new and i can call this wood and then
+
+430
+00:13:39,040 --> 00:13:40,480
+this one for the base color i'm just
+
+431
+00:13:40,480 --> 00:13:42,800
+going to make this a brown color
+
+432
+00:13:42,800 --> 00:13:44,560
+a bit darker than that
+
+433
+00:13:44,560 --> 00:13:47,040
+maybe a little less saturated and then
+
+434
+00:13:47,040 --> 00:13:49,440
+i'm going to turn the roughness up a bit
+
+435
+00:13:49,440 --> 00:13:51,199
+just like that and then i think i'll
+
+436
+00:13:51,199 --> 00:13:52,560
+select the leaves and just scale the
+
+437
+00:13:52,560 --> 00:13:54,480
+whole thing up a little bit more alright
+
+438
+00:13:54,480 --> 00:13:56,000
+so now let's go ahead and make the
+
+439
+00:13:56,000 --> 00:13:58,320
+apples so i'm going to place my 3d
+
+440
+00:13:58,320 --> 00:14:00,160
+cursor right here and then i'll press
+
+441
+00:14:00,160 --> 00:14:02,160
+shift a and i'm going to add another
+
+442
+00:14:02,160 --> 00:14:04,720
+icosphere i'll zoom way out here now
+
+443
+00:14:04,720 --> 00:14:06,240
+don't move the icosphere because if you
+
+444
+00:14:06,240 --> 00:14:07,920
+do these settings will disappear on the
+
+445
+00:14:07,920 --> 00:14:09,279
+subdivisions i'm going to turn this all
+
+446
+00:14:09,279 --> 00:14:11,600
+the way down to one so the minimum
+
+447
+00:14:11,600 --> 00:14:13,519
+close this and now i can just scale this
+
+448
+00:14:13,519 --> 00:14:15,519
+down and this is going to be our apple
+
+449
+00:14:15,519 --> 00:14:17,120
+so just put it in there i'm going to
+
+450
+00:14:17,120 --> 00:14:19,440
+click on new and call this material
+
+451
+00:14:19,440 --> 00:14:21,760
+apple and then i'm going to make this a
+
+452
+00:14:21,760 --> 00:14:23,600
+red color i don't want to make it too
+
+453
+00:14:23,600 --> 00:14:25,440
+saturated because if it's super red then
+
+454
+00:14:25,440 --> 00:14:27,040
+it could look a little bit unrealistic
+
+455
+00:14:27,040 --> 00:14:28,800
+if it's super super deep red i'm going
+
+456
+00:14:28,800 --> 00:14:30,320
+to make it a little less saturated and
+
+457
+00:14:30,320 --> 00:14:31,920
+slightly more orange i think that just
+
+458
+00:14:31,920 --> 00:14:33,839
+looks a little bit nicer and i forgot to
+
+459
+00:14:33,839 --> 00:14:35,040
+mention this but if you haven't saved
+
+460
+00:14:35,040 --> 00:14:36,399
+your file yet it's probably a pretty
+
+461
+00:14:36,399 --> 00:14:38,160
+good idea to save this just in case
+
+462
+00:14:38,160 --> 00:14:39,600
+blender crashes you won't lose anything
+
+463
+00:14:39,600 --> 00:14:41,680
+so just go file and save and save your
+
+464
+00:14:41,680 --> 00:14:43,600
+project so now i just need to select
+
+465
+00:14:43,600 --> 00:14:45,279
+this apple and i'm just going to press
+
+466
+00:14:45,279 --> 00:14:47,760
+shift d shift d will duplicate the
+
+467
+00:14:47,760 --> 00:14:49,440
+object and i'm just going to manually
+
+468
+00:14:49,440 --> 00:14:51,199
+place them around i was thinking about
+
+469
+00:14:51,199 --> 00:14:52,880
+using a particle system and if you had a
+
+470
+00:14:52,880 --> 00:14:54,560
+lot of apples you could do that but
+
+471
+00:14:54,560 --> 00:14:55,920
+because we don't have that many apples
+
+472
+00:14:55,920 --> 00:14:57,199
+i'm just going to manually place them
+
+473
+00:14:57,199 --> 00:14:59,360
+around and usually the fruit is going to
+
+474
+00:14:59,360 --> 00:15:01,199
+be kind of hanging down so i think it
+
+475
+00:15:01,199 --> 00:15:03,680
+looks better if the fruit or the apples
+
+476
+00:15:03,680 --> 00:15:05,600
+is down here if you have the apples up
+
+477
+00:15:05,600 --> 00:15:07,279
+here i think that kind of seems a little
+
+478
+00:15:07,279 --> 00:15:08,720
+weird so i'm just going to have some
+
+479
+00:15:08,720 --> 00:15:10,959
+apples kind of hanging down more at the
+
+480
+00:15:10,959 --> 00:15:13,040
+bottom of the tree so just go around
+
+481
+00:15:13,040 --> 00:15:14,800
+here and make however many apples you
+
+482
+00:15:14,800 --> 00:15:16,320
+want and if you wanted to you could
+
+483
+00:15:16,320 --> 00:15:18,000
+model some low poly fruit like maybe
+
+484
+00:15:18,000 --> 00:15:20,240
+some pears or some other fruit like some
+
+485
+00:15:20,240 --> 00:15:21,760
+plums or some other fruit like that that
+
+486
+00:15:21,760 --> 00:15:23,600
+grows on trees you could also just
+
+487
+00:15:23,600 --> 00:15:26,240
+slightly vary the size of them because
+
+488
+00:15:26,240 --> 00:15:28,480
+apples are just randomly different sizes
+
+489
+00:15:28,480 --> 00:15:29,759
+some of them are a little bit bigger and
+
+490
+00:15:29,759 --> 00:15:31,199
+some of them are a little bit smaller so
+
+491
+00:15:31,199 --> 00:15:33,199
+you can just give the fruit some random
+
+492
+00:15:33,199 --> 00:15:34,959
+scale here and then one more thing
+
+493
+00:15:34,959 --> 00:15:36,480
+really quick i think this might be just
+
+494
+00:15:36,480 --> 00:15:38,800
+slightly too high poly i'm just going to
+
+495
+00:15:38,800 --> 00:15:40,639
+add another decimate modifier just turn
+
+496
+00:15:40,639 --> 00:15:42,480
+this down slightly
+
+497
+00:15:42,480 --> 00:15:43,680
+or something like that and then press
+
+498
+00:15:43,680 --> 00:15:45,040
+control a to apply that i think that
+
+499
+00:15:45,040 --> 00:15:46,800
+looks just a little bit nicer so now i
+
+500
+00:15:46,800 --> 00:15:48,480
+want to join all these objects together
+
+501
+00:15:48,480 --> 00:15:49,920
+so that when we grab the tree and move
+
+502
+00:15:49,920 --> 00:15:51,519
+it they're all going to be moved along
+
+503
+00:15:51,519 --> 00:15:53,040
+so i'm going to press z go into
+
+504
+00:15:53,040 --> 00:15:55,519
+wireframe just press b and box select
+
+505
+00:15:55,519 --> 00:15:57,839
+this area and then i'm going to press
+
+506
+00:15:57,839 --> 00:15:59,920
+ctrl j and now they're all joined
+
+507
+00:15:59,920 --> 00:16:01,759
+together so if i press z and move my
+
+508
+00:16:01,759 --> 00:16:03,519
+mouse up into render mode and just move
+
+509
+00:16:03,519 --> 00:16:05,759
+around you can see that now they're all
+
+510
+00:16:05,759 --> 00:16:08,000
+one object i'm just going to place this
+
+511
+00:16:08,000 --> 00:16:10,240
+tree into the ground just slightly and
+
+512
+00:16:10,240 --> 00:16:12,480
+then we'll go on to the next tree all
+
+513
+00:16:12,480 --> 00:16:13,920
+right the next tree is pretty simple
+
+514
+00:16:13,920 --> 00:16:15,279
+we're just going to be making a long
+
+515
+00:16:15,279 --> 00:16:16,959
+tree kind of coming up so i'm going to
+
+516
+00:16:16,959 --> 00:16:18,959
+center my 3d cursor right here i'm going
+
+517
+00:16:18,959 --> 00:16:21,199
+to press shift a and i'm going to go to
+
+518
+00:16:21,199 --> 00:16:23,279
+mesh and i'm going to add a cube and i
+
+519
+00:16:23,279 --> 00:16:24,880
+guess i modeled everything pretty small
+
+520
+00:16:24,880 --> 00:16:26,240
+because whenever i add in the objects
+
+521
+00:16:26,240 --> 00:16:27,839
+they're really big so i'm just going to
+
+522
+00:16:27,839 --> 00:16:29,920
+scale this way down and this is going to
+
+523
+00:16:29,920 --> 00:16:32,320
+be the trunk for our tree so i want it
+
+524
+00:16:32,320 --> 00:16:34,160
+to be the same materials so i'm going to
+
+525
+00:16:34,160 --> 00:16:35,680
+click on the tree right here and then
+
+526
+00:16:35,680 --> 00:16:37,600
+i'm going to click on wood and then i
+
+527
+00:16:37,600 --> 00:16:40,959
+can drag this color and drop color it on
+
+528
+00:16:40,959 --> 00:16:42,800
+there now it's going to add the material
+
+529
+00:16:42,800 --> 00:16:45,360
+to that object so i can tab in edit mode
+
+530
+00:16:45,360 --> 00:16:47,360
+now i'm going to press 3 to go to face
+
+531
+00:16:47,360 --> 00:16:49,440
+select and select this face
+
+532
+00:16:49,440 --> 00:16:52,160
+press 1 to go to the front view and then
+
+533
+00:16:52,160 --> 00:16:54,480
+i'll press g and z bring this up and you
+
+534
+00:16:54,480 --> 00:16:55,920
+can see that the proportional editing is
+
+535
+00:16:55,920 --> 00:16:57,360
+still on so i can just click this to
+
+536
+00:16:57,360 --> 00:17:00,079
+turn it off or press the o key so then
+
+537
+00:17:00,079 --> 00:17:02,000
+just select this top face again i'll
+
+538
+00:17:02,000 --> 00:17:05,280
+press 1 for front view g and z bring it
+
+539
+00:17:05,280 --> 00:17:08,079
+up and then s and scale it down now this
+
+540
+00:17:08,079 --> 00:17:09,679
+tree trick is pretty square right now
+
+541
+00:17:09,679 --> 00:17:10,959
+and i want to give it a little bit more
+
+542
+00:17:10,959 --> 00:17:12,959
+faces on some of the sides so so i'm
+
+543
+00:17:12,959 --> 00:17:14,880
+going to press 2 and that'll go to the
+
+544
+00:17:14,880 --> 00:17:16,400
+edge select and then i'll just select
+
+545
+00:17:16,400 --> 00:17:18,720
+this edge and then i'll press ctrl b and
+
+546
+00:17:18,720 --> 00:17:20,319
+that's going to add a bevel just make it
+
+547
+00:17:20,319 --> 00:17:22,559
+a random size like that and then click
+
+548
+00:17:22,559 --> 00:17:25,439
+on this one ctrl b add another bevel
+
+549
+00:17:25,439 --> 00:17:27,119
+and i want the size to be different so
+
+550
+00:17:27,119 --> 00:17:28,880
+maybe i'll make this one really small
+
+551
+00:17:28,880 --> 00:17:31,200
+and then select this edge ctrl b maybe
+
+552
+00:17:31,200 --> 00:17:32,960
+make this one a pretty big one and then
+
+553
+00:17:32,960 --> 00:17:35,520
+select this one ctrl b so now the tree
+
+554
+00:17:35,520 --> 00:17:37,120
+trunk just has a bit more of a random
+
+555
+00:17:37,120 --> 00:17:39,200
+shape so now i'm going to press shift a
+
+556
+00:17:39,200 --> 00:17:41,600
+and i'm going to add another icosphere
+
+557
+00:17:41,600 --> 00:17:42,960
+and i need to zoom out and go to the
+
+558
+00:17:42,960 --> 00:17:45,200
+icosphere settings right here this one
+
+559
+00:17:45,200 --> 00:17:47,120
+i'm gonna set back up to like five or
+
+560
+00:17:47,120 --> 00:17:50,000
+six and then i'll scale this way down
+
+561
+00:17:50,000 --> 00:17:52,720
+and then press g and z bring it up i'll
+
+562
+00:17:52,720 --> 00:17:54,320
+press one for front view so i can see
+
+563
+00:17:54,320 --> 00:17:55,840
+kind of how high this is
+
+564
+00:17:55,840 --> 00:17:58,080
+scale it up a little bit more okay now
+
+565
+00:17:58,080 --> 00:18:00,559
+i'm gonna tab into edit mode and just go
+
+566
+00:18:00,559 --> 00:18:03,039
+up to the top here i'll press o and
+
+567
+00:18:03,039 --> 00:18:04,559
+that'll turn on the proportional editing
+
+568
+00:18:04,559 --> 00:18:06,480
+again and just click on an area on the
+
+569
+00:18:06,480 --> 00:18:09,280
+top here and then i'll press g and z
+
+570
+00:18:09,280 --> 00:18:11,120
+bring it up and you can scroll your
+
+571
+00:18:11,120 --> 00:18:13,280
+scroll wheel to change how big that
+
+572
+00:18:13,280 --> 00:18:14,880
+circle is just make it something like
+
+573
+00:18:14,880 --> 00:18:16,640
+that and then also just select a few
+
+574
+00:18:16,640 --> 00:18:18,880
+more points i think i'll go back into
+
+575
+00:18:18,880 --> 00:18:20,640
+the vertex select just select some
+
+576
+00:18:20,640 --> 00:18:22,960
+points kind of pull them around to give
+
+577
+00:18:22,960 --> 00:18:24,799
+it a little bit more of a random shape
+
+578
+00:18:24,799 --> 00:18:26,640
+maybe just make it a little bit flatter
+
+579
+00:18:26,640 --> 00:18:28,720
+on the bottom here and just pull in some
+
+580
+00:18:28,720 --> 00:18:30,559
+of the areas just make it a little bit
+
+581
+00:18:30,559 --> 00:18:32,480
+more random all right so now that we
+
+582
+00:18:32,480 --> 00:18:33,919
+have the basic shape of this i'm going
+
+583
+00:18:33,919 --> 00:18:36,559
+to go to add modifier and once again add
+
+584
+00:18:36,559 --> 00:18:39,360
+this really great decimate modifier turn
+
+585
+00:18:39,360 --> 00:18:41,200
+this down and it's going to give that
+
+586
+00:18:41,200 --> 00:18:43,280
+really awesome low poly look now you can
+
+587
+00:18:43,280 --> 00:18:44,799
+see that the faces are pretty stretched
+
+588
+00:18:44,799 --> 00:18:45,919
+right here and they're not very
+
+589
+00:18:45,919 --> 00:18:47,919
+stretched down here so if you don't like
+
+590
+00:18:47,919 --> 00:18:49,840
+this i'll show you what i'm gonna do to
+
+591
+00:18:49,840 --> 00:18:51,600
+get rid of that so there we go i like
+
+592
+00:18:51,600 --> 00:18:52,960
+how that is i think i'll just actually
+
+593
+00:18:52,960 --> 00:18:55,600
+pull this out just make it a tad bit
+
+594
+00:18:55,600 --> 00:18:57,760
+smaller okay there we go so now with my
+
+595
+00:18:57,760 --> 00:18:59,760
+mouse over this i'm going to press ctrl
+
+596
+00:18:59,760 --> 00:19:02,720
+a and that will apply that modifier now
+
+597
+00:19:02,720 --> 00:19:04,160
+down here on the bottom of the tree if i
+
+598
+00:19:04,160 --> 00:19:05,600
+want to make this the same amount of
+
+599
+00:19:05,600 --> 00:19:07,919
+detail as the top here i can tab into
+
+600
+00:19:07,919 --> 00:19:10,160
+edit mode select one of these vertices
+
+601
+00:19:10,160 --> 00:19:12,000
+just pick one and this is still turned
+
+602
+00:19:12,000 --> 00:19:13,600
+on we turned this on earlier the auto
+
+603
+00:19:13,600 --> 00:19:16,400
+merge vertices so if i double tap g
+
+604
+00:19:16,400 --> 00:19:18,400
+and just push this in it's going to
+
+605
+00:19:18,400 --> 00:19:19,760
+merge with it and now there's going to
+
+606
+00:19:19,760 --> 00:19:22,000
+be less vertices now we still have this
+
+607
+00:19:22,000 --> 00:19:23,679
+thing on here so i'm going to press o to
+
+608
+00:19:23,679 --> 00:19:25,679
+turn it off and now i can just select
+
+609
+00:19:25,679 --> 00:19:28,720
+some points and double tap g and that's
+
+610
+00:19:28,720 --> 00:19:30,559
+going to do the edge slide and i can
+
+611
+00:19:30,559 --> 00:19:32,559
+just drag them around and get rid of
+
+612
+00:19:32,559 --> 00:19:33,840
+some of the vertices so i'm just going
+
+613
+00:19:33,840 --> 00:19:35,440
+to go around here and do that a little
+
+614
+00:19:35,440 --> 00:19:37,520
+bit on some of these areas so that the
+
+615
+00:19:37,520 --> 00:19:40,720
+vertices count is more even across the
+
+616
+00:19:40,720 --> 00:19:43,039
+entire object so now i'm going to press
+
+617
+00:19:43,039 --> 00:19:44,799
+z move my mouse up we'll go into
+
+618
+00:19:44,799 --> 00:19:47,360
+rendered mode i'm going to select this
+
+619
+00:19:47,360 --> 00:19:49,919
+and click over here to
+
+620
+00:19:49,919 --> 00:19:52,000
+the materials click on the green color
+
+621
+00:19:52,000 --> 00:19:53,679
+and then i can just drag and drop this
+
+622
+00:19:53,679 --> 00:19:55,760
+on and now it has the green color i
+
+623
+00:19:55,760 --> 00:19:57,120
+think i'll just scale this up and bring
+
+624
+00:19:57,120 --> 00:19:59,120
+it down just slightly now you can see
+
+625
+00:19:59,120 --> 00:20:00,880
+that these green colors are exactly the
+
+626
+00:20:00,880 --> 00:20:02,799
+same and this is okay if you're fine
+
+627
+00:20:02,799 --> 00:20:04,159
+with it but what i want to do is just
+
+628
+00:20:04,159 --> 00:20:06,720
+add a little bit of varying color in all
+
+629
+00:20:06,720 --> 00:20:09,039
+of the different green objects so what
+
+630
+00:20:09,039 --> 00:20:10,640
+i'm going to do is click on the shading
+
+631
+00:20:10,640 --> 00:20:12,720
+tab and then i'm going to press period
+
+632
+00:20:12,720 --> 00:20:15,280
+on the number pad to jump over here and
+
+633
+00:20:15,280 --> 00:20:17,200
+you can see that here is the shader
+
+634
+00:20:17,200 --> 00:20:19,520
+nodes so what i'm going to do is right
+
+635
+00:20:19,520 --> 00:20:21,679
+here press shift a and i'm going to
+
+636
+00:20:21,679 --> 00:20:24,559
+search for the object info node just
+
+637
+00:20:24,559 --> 00:20:26,559
+drop it right in here and what i'm going
+
+638
+00:20:26,559 --> 00:20:28,640
+to use is this random value and i'm
+
+639
+00:20:28,640 --> 00:20:30,960
+going to plug this random value into the
+
+640
+00:20:30,960 --> 00:20:32,799
+base color and then when i give it
+
+641
+00:20:32,799 --> 00:20:34,480
+different random colors it's going to
+
+642
+00:20:34,480 --> 00:20:36,240
+just slightly make the different objects
+
+643
+00:20:36,240 --> 00:20:38,559
+slightly different varying colors of
+
+644
+00:20:38,559 --> 00:20:40,400
+green so now what i can do is press
+
+645
+00:20:40,400 --> 00:20:42,559
+shift a here search for a color ramp and
+
+646
+00:20:42,559 --> 00:20:44,960
+drop the color amp right in here so now
+
+647
+00:20:44,960 --> 00:20:46,400
+what it's going to do is the different
+
+648
+00:20:46,400 --> 00:20:47,760
+objects if i just like duplicate this
+
+649
+00:20:47,760 --> 00:20:48,960
+you can see that the colors are going to
+
+650
+00:20:48,960 --> 00:20:51,360
+be randomly different through the black
+
+651
+00:20:51,360 --> 00:20:53,039
+to the white so now i can just change
+
+652
+00:20:53,039 --> 00:20:54,880
+these colors so this black one here i'm
+
+653
+00:20:54,880 --> 00:20:56,880
+going to make a dark green and then this
+
+654
+00:20:56,880 --> 00:20:59,360
+white one here i'm going to make a light
+
+655
+00:20:59,360 --> 00:21:01,200
+green so i don't want it to be too light
+
+656
+00:21:01,200 --> 00:21:03,600
+because i don't want it to look crazy
+
+657
+00:21:03,600 --> 00:21:05,120
+bright and then this one maybe just a
+
+658
+00:21:05,120 --> 00:21:06,400
+little bit darker and then in between
+
+659
+00:21:06,400 --> 00:21:08,000
+this i can make a couple more colors so
+
+660
+00:21:08,000 --> 00:21:09,919
+i'm going to click on the plus here to
+
+661
+00:21:09,919 --> 00:21:11,280
+make a new color
+
+662
+00:21:11,280 --> 00:21:13,360
+drag the tab over and this one i think i
+
+663
+00:21:13,360 --> 00:21:14,960
+want to be a little less saturated a
+
+664
+00:21:14,960 --> 00:21:16,799
+little more gray something like that
+
+665
+00:21:16,799 --> 00:21:18,080
+maybe just make it a little bit darker
+
+666
+00:21:18,080 --> 00:21:19,919
+and then i can click on the plus again
+
+667
+00:21:19,919 --> 00:21:21,200
+to add another one this one i'm going to
+
+668
+00:21:21,200 --> 00:21:22,880
+drag over here and then this one i can
+
+669
+00:21:22,880 --> 00:21:24,559
+make just a little bit more saturated
+
+670
+00:21:24,559 --> 00:21:26,159
+and a little bit brighter i'm going to
+
+671
+00:21:26,159 --> 00:21:28,000
+make that one fully saturated just up
+
+672
+00:21:28,000 --> 00:21:29,039
+like that
+
+673
+00:21:29,039 --> 00:21:30,480
+maybe make that just a little bit
+
+674
+00:21:30,480 --> 00:21:32,480
+brighter so now you can see if i just
+
+675
+00:21:32,480 --> 00:21:34,320
+select these and duplicate them just to
+
+676
+00:21:34,320 --> 00:21:35,919
+show you whenever i duplicate them
+
+677
+00:21:35,919 --> 00:21:37,280
+they're just going to randomly be
+
+678
+00:21:37,280 --> 00:21:39,039
+different colors and that just adds a
+
+679
+00:21:39,039 --> 00:21:40,559
+lot and just makes it a little bit
+
+680
+00:21:40,559 --> 00:21:42,320
+cooler so i'm just going to delete these
+
+681
+00:21:42,320 --> 00:21:44,799
+now oop delete these ones let's go back
+
+682
+00:21:44,799 --> 00:21:47,440
+into the layout here so there is the
+
+683
+00:21:47,440 --> 00:21:50,000
+second tree so i'm going to select this
+
+684
+00:21:50,000 --> 00:21:51,840
+and shift select this and then press
+
+685
+00:21:51,840 --> 00:21:54,559
+ctrl j all right let's go ahead and make
+
+686
+00:21:54,559 --> 00:21:57,360
+the third tree now so i'm going to click
+
+687
+00:21:57,360 --> 00:21:59,600
+and place my 3d cursor right there and
+
+688
+00:21:59,600 --> 00:22:01,280
+then i'll press shift a and once again
+
+689
+00:22:01,280 --> 00:22:03,919
+i'm going to add a plane i'm going to
+
+690
+00:22:03,919 --> 00:22:07,520
+tab into edit mode and press s to scale
+
+691
+00:22:07,520 --> 00:22:10,320
+0 and then enter and then because we
+
+692
+00:22:10,320 --> 00:22:12,240
+have that auto merge turned on there
+
+693
+00:22:12,240 --> 00:22:14,000
+already is one vertice because they
+
+694
+00:22:14,000 --> 00:22:16,080
+already got joined together so now i can
+
+695
+00:22:16,080 --> 00:22:18,240
+press 1 to go to front view and i can
+
+696
+00:22:18,240 --> 00:22:19,919
+just extrude this up so press e to
+
+697
+00:22:19,919 --> 00:22:22,080
+extrude bring that up and i'm going to
+
+698
+00:22:22,080 --> 00:22:24,000
+make this tree have a bunch of different
+
+699
+00:22:24,000 --> 00:22:25,600
+branches so i'm going to extrude it kind
+
+700
+00:22:25,600 --> 00:22:27,120
+of make it kind of wobbly and then
+
+701
+00:22:27,120 --> 00:22:29,760
+extrude this up and over and this one's
+
+702
+00:22:29,760 --> 00:22:30,880
+just going to have a bunch of different
+
+703
+00:22:30,880 --> 00:22:32,320
+branches
+
+704
+00:22:32,320 --> 00:22:34,480
+and then we'll have some different uh
+
+705
+00:22:34,480 --> 00:22:36,720
+green blobs for
+
+706
+00:22:36,720 --> 00:22:38,880
+the leaves on the tree and i want these
+
+707
+00:22:38,880 --> 00:22:40,400
+to be somewhat 3d as well so i'm going
+
+708
+00:22:40,400 --> 00:22:43,440
+to box select a branch rotate it over
+
+709
+00:22:43,440 --> 00:22:45,200
+just so that's a little more three
+
+710
+00:22:45,200 --> 00:22:47,440
+dimensional i think i'll press ctrl r
+
+711
+00:22:47,440 --> 00:22:49,760
+right in here click to add a vertice and
+
+712
+00:22:49,760 --> 00:22:51,280
+then i can extrude this out and make
+
+713
+00:22:51,280 --> 00:22:53,600
+another branch bring that branch up i'm
+
+714
+00:22:53,600 --> 00:22:55,679
+going to press ctrl r here click to add
+
+715
+00:22:55,679 --> 00:22:57,120
+a vertice
+
+716
+00:22:57,120 --> 00:22:59,280
+and then extrude that out all right and
+
+717
+00:22:59,280 --> 00:23:01,120
+then once you like how that looks i'm
+
+718
+00:23:01,120 --> 00:23:02,480
+going to go to over here to the
+
+719
+00:23:02,480 --> 00:23:04,960
+modifiers click on add modifier and we
+
+720
+00:23:04,960 --> 00:23:07,280
+are going to add the skin modifier just
+
+721
+00:23:07,280 --> 00:23:09,600
+like before now for some reason it's
+
+722
+00:23:09,600 --> 00:23:11,520
+really big i'm going to tab into edit
+
+723
+00:23:11,520 --> 00:23:14,240
+mode uh press a to select everything and
+
+724
+00:23:14,240 --> 00:23:17,919
+press ctrl a and make it really small
+
+725
+00:23:17,919 --> 00:23:19,760
+pressing ctrl a with that whole thing
+
+726
+00:23:19,760 --> 00:23:21,360
+selected i don't know why it was really
+
+727
+00:23:21,360 --> 00:23:23,760
+big all right there we go so now i'm
+
+728
+00:23:23,760 --> 00:23:26,400
+just going to press z go into wireframe
+
+729
+00:23:26,400 --> 00:23:28,640
+a to deselect everything and just b and
+
+730
+00:23:28,640 --> 00:23:31,840
+box select the middle part of the trunk
+
+731
+00:23:31,840 --> 00:23:33,520
+scale that up because i want the trunk
+
+732
+00:23:33,520 --> 00:23:36,000
+to be a bit thicker so i'm pressing ctrl
+
+733
+00:23:36,000 --> 00:23:38,559
+a and that'll scale up the skin modifier
+
+734
+00:23:38,559 --> 00:23:40,080
+and then i want the bottom to be even
+
+735
+00:23:40,080 --> 00:23:42,480
+thicker so i will just box select just
+
+736
+00:23:42,480 --> 00:23:44,960
+the bottom ctrl a make that even thicker
+
+737
+00:23:44,960 --> 00:23:46,400
+and then just select this bottom one
+
+738
+00:23:46,400 --> 00:23:48,720
+here ctrl a and make it really thick and
+
+739
+00:23:48,720 --> 00:23:50,960
+maybe move it down a little bit all
+
+740
+00:23:50,960 --> 00:23:52,480
+right now you can see that there's some
+
+741
+00:23:52,480 --> 00:23:54,240
+weird glitches here and this is because
+
+742
+00:23:54,240 --> 00:23:56,880
+of the angle of the vertices so if i
+
+743
+00:23:56,880 --> 00:23:58,960
+just tap into edit mode press z go into
+
+744
+00:23:58,960 --> 00:24:01,039
+wireframe just select this if i just
+
+745
+00:24:01,039 --> 00:24:02,640
+play around with this you can see that
+
+746
+00:24:02,640 --> 00:24:05,600
+now let me just play around with this if
+
+747
+00:24:05,600 --> 00:24:08,000
+you make the angle wider then it'll fix
+
+748
+00:24:08,000 --> 00:24:09,440
+itself so there we go that looks a lot
+
+749
+00:24:09,440 --> 00:24:11,200
+better and then the branches here i want
+
+750
+00:24:11,200 --> 00:24:13,039
+them to slowly get thinner and thinner
+
+751
+00:24:13,039 --> 00:24:15,919
+so i can just hold down the shift key
+
+752
+00:24:15,919 --> 00:24:18,400
+and select these vertices here
+
+753
+00:24:18,400 --> 00:24:20,159
+and then press ctrl a and make them even
+
+754
+00:24:20,159 --> 00:24:21,200
+thinner
+
+755
+00:24:21,200 --> 00:24:22,960
+and then i'm just going to
+
+756
+00:24:22,960 --> 00:24:25,200
+box select some of these parts right
+
+757
+00:24:25,200 --> 00:24:27,679
+here kind of more at the starting of the
+
+758
+00:24:27,679 --> 00:24:29,919
+branches ctrl a just make them a little
+
+759
+00:24:29,919 --> 00:24:31,840
+bit thicker so once you're happy with
+
+760
+00:24:31,840 --> 00:24:34,159
+your tree again ctrl a with your mouse
+
+761
+00:24:34,159 --> 00:24:36,799
+over the skin modifier to apply that and
+
+762
+00:24:36,799 --> 00:24:39,200
+then if you want to again you can hold
+
+763
+00:24:39,200 --> 00:24:41,679
+down the alt key and select a loop and
+
+764
+00:24:41,679 --> 00:24:43,440
+just keep on double tapping g and moving
+
+765
+00:24:43,440 --> 00:24:44,960
+it over and that way you can get rid of
+
+766
+00:24:44,960 --> 00:24:46,960
+some of those extra loops because the
+
+767
+00:24:46,960 --> 00:24:49,200
+skin modifier adds in some extra loops
+
+768
+00:24:49,200 --> 00:24:52,000
+right in there so just alt select a loop
+
+769
+00:24:52,000 --> 00:24:54,080
+double tap g and bring it up and with
+
+770
+00:24:54,080 --> 00:24:55,760
+that auto merge turn on it's going to
+
+771
+00:24:55,760 --> 00:24:58,240
+automatically merge them together so i'm
+
+772
+00:24:58,240 --> 00:25:00,080
+just going to keep doing that for a few
+
+773
+00:25:00,080 --> 00:25:02,960
+areas here all right there we go now
+
+774
+00:25:02,960 --> 00:25:04,640
+this may have happened for you or it may
+
+775
+00:25:04,640 --> 00:25:06,240
+not but basically there's some glitches
+
+776
+00:25:06,240 --> 00:25:08,080
+here and this is because i applied the
+
+777
+00:25:08,080 --> 00:25:09,919
+skin modifier while it still was acting
+
+778
+00:25:09,919 --> 00:25:11,360
+a little bit weird so i just need to
+
+779
+00:25:11,360 --> 00:25:13,200
+manually fix this so i'm going to press
+
+780
+00:25:13,200 --> 00:25:15,679
+3 to go to face select just select some
+
+781
+00:25:15,679 --> 00:25:17,760
+of the extra faces in there press x and
+
+782
+00:25:17,760 --> 00:25:20,000
+delete faces and then i need to press 1
+
+783
+00:25:20,000 --> 00:25:22,400
+for vertex select just hold down the
+
+784
+00:25:22,400 --> 00:25:24,559
+shift key and select the points and then
+
+785
+00:25:24,559 --> 00:25:26,000
+fill them with f
+
+786
+00:25:26,000 --> 00:25:27,440
+hopefully this didn't happen for you but
+
+787
+00:25:27,440 --> 00:25:29,679
+if it did it's a pretty easy fix and
+
+788
+00:25:29,679 --> 00:25:31,120
+there's another face in there so i'll
+
+789
+00:25:31,120 --> 00:25:32,720
+delete that face
+
+790
+00:25:32,720 --> 00:25:34,720
+and then just select the vertices and
+
+791
+00:25:34,720 --> 00:25:37,039
+fill that with f so once again just like
+
+792
+00:25:37,039 --> 00:25:38,640
+the other trees i'm going to press shift
+
+793
+00:25:38,640 --> 00:25:41,520
+a search for an icosphere
+
+794
+00:25:41,520 --> 00:25:43,520
+and then just scale this down and we're
+
+795
+00:25:43,520 --> 00:25:45,440
+going to make the little blobs of the
+
+796
+00:25:45,440 --> 00:25:47,440
+tree where the leaves are so i'm going
+
+797
+00:25:47,440 --> 00:25:50,400
+to tab into edit mode press o or turn on
+
+798
+00:25:50,400 --> 00:25:52,400
+this proportional editing and just give
+
+799
+00:25:52,400 --> 00:25:54,480
+it a random shape something that looks
+
+800
+00:25:54,480 --> 00:25:56,240
+good for you now since this is the main
+
+801
+00:25:56,240 --> 00:25:58,480
+trunk coming up i'm gonna have this blob
+
+802
+00:25:58,480 --> 00:26:00,240
+be the biggest so just make this blog
+
+803
+00:26:00,240 --> 00:26:02,159
+really big and then the other blobs that
+
+804
+00:26:02,159 --> 00:26:04,240
+are coming off of the uh branches
+
+805
+00:26:04,240 --> 00:26:06,159
+they're gonna be a lot smaller all right
+
+806
+00:26:06,159 --> 00:26:08,320
+there we go so i will click on add
+
+807
+00:26:08,320 --> 00:26:11,760
+modifier add the decimate modifier make
+
+808
+00:26:11,760 --> 00:26:14,799
+it way down about there okay and then i
+
+809
+00:26:14,799 --> 00:26:16,640
+will press shift d to duplicate this
+
+810
+00:26:16,640 --> 00:26:18,240
+scale it down and just stick it right in
+
+811
+00:26:18,240 --> 00:26:20,320
+there so the branches are going into it
+
+812
+00:26:20,320 --> 00:26:23,120
+i can tab into edit mode now and adjust
+
+813
+00:26:23,120 --> 00:26:25,360
+this so i can make it different than the
+
+814
+00:26:25,360 --> 00:26:27,279
+other one and i definitely want it to be
+
+815
+00:26:27,279 --> 00:26:28,400
+smaller
+
+816
+00:26:28,400 --> 00:26:31,440
+so i will scale it down okay like that
+
+817
+00:26:31,440 --> 00:26:33,360
+and then i actually want this branch to
+
+818
+00:26:33,360 --> 00:26:34,480
+be a little bit farther away because
+
+819
+00:26:34,480 --> 00:26:36,880
+it's a bit too close to this main piece
+
+820
+00:26:36,880 --> 00:26:39,440
+right here so i'm going to select the
+
+821
+00:26:39,440 --> 00:26:41,919
+branch tab and edit mode
+
+822
+00:26:41,919 --> 00:26:43,679
+z and move my mouse over to go into
+
+823
+00:26:43,679 --> 00:26:45,840
+wireframe i'll press a to deselect
+
+824
+00:26:45,840 --> 00:26:47,360
+everything and then i'm just going to
+
+825
+00:26:47,360 --> 00:26:48,400
+press b
+
+826
+00:26:48,400 --> 00:26:50,880
+box select this area right here
+
+827
+00:26:50,880 --> 00:26:52,799
+i'll press r and rotate that just bring
+
+828
+00:26:52,799 --> 00:26:54,240
+it over so that there's a little bit
+
+829
+00:26:54,240 --> 00:26:56,400
+more space there all right now i can
+
+830
+00:26:56,400 --> 00:26:58,799
+select this one press shift d and move
+
+831
+00:26:58,799 --> 00:27:00,720
+it over once you kind of get it into
+
+832
+00:27:00,720 --> 00:27:03,360
+place i can tab and edit mode and then
+
+833
+00:27:03,360 --> 00:27:05,520
+just select some points and continue to
+
+834
+00:27:05,520 --> 00:27:07,279
+change it make it a little bit more
+
+835
+00:27:07,279 --> 00:27:09,279
+unique okay so let's just do that for
+
+836
+00:27:09,279 --> 00:27:12,240
+the last one shift d move this over
+
+837
+00:27:12,240 --> 00:27:14,320
+make this one maybe even smaller change
+
+838
+00:27:14,320 --> 00:27:16,480
+it up a bit okay and now let's add
+
+839
+00:27:16,480 --> 00:27:18,640
+materials to this tree so press z move
+
+840
+00:27:18,640 --> 00:27:21,200
+your mouse up you can select this tree
+
+841
+00:27:21,200 --> 00:27:23,039
+and click over here to the materials and
+
+842
+00:27:23,039 --> 00:27:25,279
+then the wood here drop it onto the wood
+
+843
+00:27:25,279 --> 00:27:27,360
+and then select the green and just drop
+
+844
+00:27:27,360 --> 00:27:30,480
+it onto all of the leaves there just
+
+845
+00:27:30,480 --> 00:27:31,919
+like that all right so now i'm just
+
+846
+00:27:31,919 --> 00:27:34,000
+going to select the leaves go to the
+
+847
+00:27:34,000 --> 00:27:36,000
+modifiers and then with your mouse over
+
+848
+00:27:36,000 --> 00:27:38,000
+the modifier press ctrl a
+
+849
+00:27:38,000 --> 00:27:40,559
+just apply all of these and then once
+
+850
+00:27:40,559 --> 00:27:42,480
+they're all applied you can shift select
+
+851
+00:27:42,480 --> 00:27:45,679
+all of them and then press ctrl j all
+
+852
+00:27:45,679 --> 00:27:46,960
+right let's make that tree that kind of
+
+853
+00:27:46,960 --> 00:27:48,480
+is like a pine tree or kind of like a
+
+854
+00:27:48,480 --> 00:27:50,399
+christmas tree so i'm going to actually
+
+855
+00:27:50,399 --> 00:27:52,640
+use this one so i'm going to select this
+
+856
+00:27:52,640 --> 00:27:55,039
+press shift d click with my middle mouse
+
+857
+00:27:55,039 --> 00:27:57,200
+move it over here and then i'll just tab
+
+858
+00:27:57,200 --> 00:27:59,120
+into edit mode and then i can hover my
+
+859
+00:27:59,120 --> 00:28:01,039
+mouse over this and press l and that's
+
+860
+00:28:01,039 --> 00:28:03,039
+going to select all the linked vertices
+
+861
+00:28:03,039 --> 00:28:04,799
+and then i can press x and delete
+
+862
+00:28:04,799 --> 00:28:06,960
+vertices so now we're just going to be
+
+863
+00:28:06,960 --> 00:28:09,440
+working with the trunk so now i'm going
+
+864
+00:28:09,440 --> 00:28:12,320
+to press shift a and i'm going to add a
+
+865
+00:28:12,320 --> 00:28:13,919
+cylinder i'm going to scale this
+
+866
+00:28:13,919 --> 00:28:16,320
+cylinder down and just put it kind of
+
+867
+00:28:16,320 --> 00:28:17,440
+right there
+
+868
+00:28:17,440 --> 00:28:20,080
+on the tree trunk press three for face
+
+869
+00:28:20,080 --> 00:28:21,760
+select and just select this top face
+
+870
+00:28:21,760 --> 00:28:24,799
+right here and then using s just scale
+
+871
+00:28:24,799 --> 00:28:26,799
+that down and just make it really small
+
+872
+00:28:26,799 --> 00:28:28,240
+and then i'm going to add some loop cuts
+
+873
+00:28:28,240 --> 00:28:29,760
+in here because i want to add a lot more
+
+874
+00:28:29,760 --> 00:28:32,159
+geometry to work with so i'll press ctrl
+
+875
+00:28:32,159 --> 00:28:34,159
+r and i can actually scroll up and
+
+876
+00:28:34,159 --> 00:28:35,679
+scroll way up and just add a bunch of
+
+877
+00:28:35,679 --> 00:28:37,919
+vertices and then you can double click
+
+878
+00:28:37,919 --> 00:28:40,320
+to place that so now i'm going to press
+
+879
+00:28:40,320 --> 00:28:41,919
+l with my mouse hovered over this to
+
+880
+00:28:41,919 --> 00:28:43,600
+select all the linked vertices i'll
+
+881
+00:28:43,600 --> 00:28:45,760
+press p and separate this by selection
+
+882
+00:28:45,760 --> 00:28:47,360
+because i actually want it to be its own
+
+883
+00:28:47,360 --> 00:28:49,440
+object so i can tab into object mode
+
+884
+00:28:49,440 --> 00:28:51,919
+select this and then i'm going to click
+
+885
+00:28:51,919 --> 00:28:54,480
+down here and then just remove the wood
+
+886
+00:28:54,480 --> 00:28:56,000
+here so i'm just going to remove that
+
+887
+00:28:56,000 --> 00:28:57,919
+and now it's just the green material so
+
+888
+00:28:57,919 --> 00:28:59,919
+now what i can do is tab into edit mode
+
+889
+00:28:59,919 --> 00:29:01,919
+press 1 to go to the vertex select and
+
+890
+00:29:01,919 --> 00:29:04,080
+just select some vertices and once again
+
+891
+00:29:04,080 --> 00:29:06,480
+press o to turn on proportional editing
+
+892
+00:29:06,480 --> 00:29:08,000
+and just move this around and make it
+
+893
+00:29:08,000 --> 00:29:09,440
+kind of random just give it a little bit
+
+894
+00:29:09,440 --> 00:29:12,399
+of randomness some lumpy parts just that
+
+895
+00:29:12,399 --> 00:29:14,399
+it's not perfect this will make it look
+
+896
+00:29:14,399 --> 00:29:16,559
+more organic then once you're happy with
+
+897
+00:29:16,559 --> 00:29:18,559
+that you can go over to the modifiers
+
+898
+00:29:18,559 --> 00:29:21,440
+and once again add the decimate modifier
+
+899
+00:29:21,440 --> 00:29:22,960
+turn this way down
+
+900
+00:29:22,960 --> 00:29:25,039
+and you can see what it's doing so just
+
+901
+00:29:25,039 --> 00:29:26,320
+turn it down to something that you like
+
+902
+00:29:26,320 --> 00:29:28,320
+i like that and then with my mouse over
+
+903
+00:29:28,320 --> 00:29:30,880
+this i can press ctrl a to apply that
+
+904
+00:29:30,880 --> 00:29:32,880
+i'll press g and z and bring this up and
+
+905
+00:29:32,880 --> 00:29:34,320
+then one last thing before we start
+
+906
+00:29:34,320 --> 00:29:36,240
+duplicating these i'm going to go up
+
+907
+00:29:36,240 --> 00:29:40,000
+here tab into edit mode i'm going to
+
+908
+00:29:40,000 --> 00:29:41,679
+press 3 to go to the face select and
+
+909
+00:29:41,679 --> 00:29:43,840
+just select this face and then i need to
+
+910
+00:29:43,840 --> 00:29:45,760
+turn off the proportional editing again
+
+911
+00:29:45,760 --> 00:29:48,880
+and then i'll press s and 0 and enter
+
+912
+00:29:48,880 --> 00:29:50,240
+and that way it's just going to merge
+
+913
+00:29:50,240 --> 00:29:52,000
+these together because the merge is on
+
+914
+00:29:52,000 --> 00:29:54,320
+and now it's really pointy at the top so
+
+915
+00:29:54,320 --> 00:29:56,399
+now i can press one to go to side view
+
+916
+00:29:56,399 --> 00:29:58,480
+just bring this over and scale it down
+
+917
+00:29:58,480 --> 00:30:00,799
+and then i can press shift d click with
+
+918
+00:30:00,799 --> 00:30:02,080
+my middle mouse
+
+919
+00:30:02,080 --> 00:30:05,120
+scale it up and then also press r and z
+
+920
+00:30:05,120 --> 00:30:06,799
+and rotate it around so that it has a
+
+921
+00:30:06,799 --> 00:30:08,480
+random rotation
+
+922
+00:30:08,480 --> 00:30:10,000
+also you could rotate that so that this
+
+923
+00:30:10,000 --> 00:30:11,200
+bottom part here is a little bit
+
+924
+00:30:11,200 --> 00:30:13,039
+straighter okay let's do that again i
+
+925
+00:30:13,039 --> 00:30:14,480
+want to add four of them so i'll press
+
+926
+00:30:14,480 --> 00:30:16,880
+shift d again r and z give it a random
+
+927
+00:30:16,880 --> 00:30:18,880
+rotation and then just scale it up even
+
+928
+00:30:18,880 --> 00:30:19,760
+more
+
+929
+00:30:19,760 --> 00:30:21,279
+make sure that it's straight you can see
+
+930
+00:30:21,279 --> 00:30:23,120
+that this is way off because i rotated
+
+931
+00:30:23,120 --> 00:30:26,399
+it so i need to straighten that all out
+
+932
+00:30:26,399 --> 00:30:27,360
+okay
+
+933
+00:30:27,360 --> 00:30:29,600
+select this last one shift d
+
+934
+00:30:29,600 --> 00:30:30,399
+z
+
+935
+00:30:30,399 --> 00:30:33,440
+and then r and z and rotate it give it a
+
+936
+00:30:33,440 --> 00:30:35,039
+random rotation let me just scale this
+
+937
+00:30:35,039 --> 00:30:36,399
+up a bit as well because i want them to
+
+938
+00:30:36,399 --> 00:30:38,159
+slowly scale up bigger and bigger and
+
+939
+00:30:38,159 --> 00:30:39,440
+then as they get higher up they're going
+
+940
+00:30:39,440 --> 00:30:41,440
+to be smaller and smaller and then also
+
+941
+00:30:41,440 --> 00:30:43,039
+you can tab in edit mode and just select
+
+942
+00:30:43,039 --> 00:30:45,039
+some points press o to turn on
+
+943
+00:30:45,039 --> 00:30:47,120
+proportional editing and you can just
+
+944
+00:30:47,120 --> 00:30:49,200
+play around with this and just change
+
+945
+00:30:49,200 --> 00:30:50,960
+the shape of it a little bit and then
+
+946
+00:30:50,960 --> 00:30:52,399
+once you're happy with your pine tree
+
+947
+00:30:52,399 --> 00:30:54,720
+i'm going to shift select the entire
+
+948
+00:30:54,720 --> 00:30:58,080
+tree and press ctrl j so there we go
+
+949
+00:30:58,080 --> 00:31:00,799
+there's our four different trees alright
+
+950
+00:31:00,799 --> 00:31:03,039
+so next let's do the wooden log so i'm
+
+951
+00:31:03,039 --> 00:31:05,519
+going to place my 3d cursor right here
+
+952
+00:31:05,519 --> 00:31:07,600
+i'll press shift a and i'm going to
+
+953
+00:31:07,600 --> 00:31:10,080
+search for a circle now the circle here
+
+954
+00:31:10,080 --> 00:31:12,320
+if i open up the circle settings it's 32
+
+955
+00:31:12,320 --> 00:31:14,000
+which is pretty high i'm gonna change
+
+956
+00:31:14,000 --> 00:31:15,840
+this down to like an eight and that way
+
+957
+00:31:15,840 --> 00:31:18,240
+it'll be a lot less geometry i'll scale
+
+958
+00:31:18,240 --> 00:31:19,919
+this down and then i can press r to
+
+959
+00:31:19,919 --> 00:31:22,559
+rotate and y on the y-axis and then just
+
+960
+00:31:22,559 --> 00:31:25,919
+type in 9-0 and enter and that way it's
+
+961
+00:31:25,919 --> 00:31:28,159
+rotated sideways so i can just scale
+
+962
+00:31:28,159 --> 00:31:31,200
+this down kind of bring it down onto the
+
+963
+00:31:31,200 --> 00:31:33,120
+grass now what i'm going to do is press
+
+964
+00:31:33,120 --> 00:31:35,600
+7 for top view bring this over so i can
+
+965
+00:31:35,600 --> 00:31:37,200
+see it a little bit better i'll tab into
+
+966
+00:31:37,200 --> 00:31:39,440
+edit mode and just start to extrude this
+
+967
+00:31:39,440 --> 00:31:41,840
+out so extrude it out and then i will
+
+968
+00:31:41,840 --> 00:31:43,200
+turn off proportional editing because i
+
+969
+00:31:43,200 --> 00:31:44,559
+don't want to use that
+
+970
+00:31:44,559 --> 00:31:46,720
+and then i'll press e and extrude kind
+
+971
+00:31:46,720 --> 00:31:48,720
+of bring it down a little bit something
+
+972
+00:31:48,720 --> 00:31:50,240
+like this and scale it down a little bit
+
+973
+00:31:50,240 --> 00:31:52,960
+more and then e to extrude bring it out
+
+974
+00:31:52,960 --> 00:31:54,640
+even more and scale it a little bit more
+
+975
+00:31:54,640 --> 00:31:56,559
+so it slowly gets smaller and smaller as
+
+976
+00:31:56,559 --> 00:31:58,240
+it goes over and then i think i'll just
+
+977
+00:31:58,240 --> 00:32:00,240
+hold down alt select this loop and scale
+
+978
+00:32:00,240 --> 00:32:01,919
+that up a little bit alright so there's
+
+979
+00:32:01,919 --> 00:32:03,120
+our log we need to give it some
+
+980
+00:32:03,120 --> 00:32:04,640
+thickness though so i'm going to go to
+
+981
+00:32:04,640 --> 00:32:07,519
+add modifier and add the solidify
+
+982
+00:32:07,519 --> 00:32:09,679
+modifier and then on the thickness here
+
+983
+00:32:09,679 --> 00:32:11,279
+just turn this up i'm going to hold down
+
+984
+00:32:11,279 --> 00:32:13,919
+the shift key as i turn up this value
+
+985
+00:32:13,919 --> 00:32:15,519
+and then i'm going to press ctrl a with
+
+986
+00:32:15,519 --> 00:32:17,760
+my mouse over this modifier to apply it
+
+987
+00:32:17,760 --> 00:32:20,000
+so now it's actual geometry now i want
+
+988
+00:32:20,000 --> 00:32:22,240
+to put a hole in our log so what i'm
+
+989
+00:32:22,240 --> 00:32:24,559
+going to do is press ctrl r add a loop
+
+990
+00:32:24,559 --> 00:32:25,919
+cut right there
+
+991
+00:32:25,919 --> 00:32:28,559
+click to place it ctrl r add another one
+
+992
+00:32:28,559 --> 00:32:30,399
+place it about there and then ctrl r add
+
+993
+00:32:30,399 --> 00:32:32,320
+another one click to place it right in
+
+994
+00:32:32,320 --> 00:32:33,760
+the center so basically what i'm going
+
+995
+00:32:33,760 --> 00:32:35,760
+to do is i'm going to cut out a hole
+
+996
+00:32:35,760 --> 00:32:37,600
+right in the log now because this log
+
+997
+00:32:37,600 --> 00:32:39,440
+has thickness i do need to add loop cuts
+
+998
+00:32:39,440 --> 00:32:41,440
+inside it as well so i'm going to press
+
+999
+00:32:41,440 --> 00:32:42,880
+z move my mouse over to go into
+
+1000
+00:32:42,880 --> 00:32:44,640
+wireframe and then it's a little bit
+
+1001
+00:32:44,640 --> 00:32:45,919
+hard to see but if you kind of go at an
+
+1002
+00:32:45,919 --> 00:32:47,519
+angle it's a little bit easier press
+
+1003
+00:32:47,519 --> 00:32:49,360
+ctrl r i'm going to add one loop guy
+
+1004
+00:32:49,360 --> 00:32:52,320
+here ctrl r another loop kind of in the
+
+1005
+00:32:52,320 --> 00:32:55,120
+center and then ctrl r and one more out
+
+1006
+00:32:55,120 --> 00:32:57,840
+here so if i just go up here i can
+
+1007
+00:32:57,840 --> 00:33:00,000
+double tap g and just kind of place
+
+1008
+00:33:00,000 --> 00:33:01,679
+these and just align them up with the
+
+1009
+00:33:01,679 --> 00:33:03,840
+other ones so alt select that one you
+
+1010
+00:33:03,840 --> 00:33:05,600
+can see it's in the middle there if i
+
+1011
+00:33:05,600 --> 00:33:07,279
+press 7 for top view you can probably
+
+1012
+00:33:07,279 --> 00:33:08,880
+see it a little bit better and then i
+
+1013
+00:33:08,880 --> 00:33:11,360
+can double tap g and just get it about
+
+1014
+00:33:11,360 --> 00:33:13,679
+the same as the other one so alt select
+
+1015
+00:33:13,679 --> 00:33:16,480
+this double tap g all right now before
+
+1016
+00:33:16,480 --> 00:33:18,320
+we cut this out i do want to make this a
+
+1017
+00:33:18,320 --> 00:33:20,559
+circular shape and to do that i'm going
+
+1018
+00:33:20,559 --> 00:33:22,559
+to actually use a blender add-on it's
+
+1019
+00:33:22,559 --> 00:33:24,559
+built into blender though so to turn it
+
+1020
+00:33:24,559 --> 00:33:26,000
+on you can go edit
+
+1021
+00:33:26,000 --> 00:33:28,000
+go to preferences and then right over
+
+1022
+00:33:28,000 --> 00:33:30,640
+here you can start typing in loop tools
+
+1023
+00:33:30,640 --> 00:33:32,159
+just turn on the loop tools just check
+
+1024
+00:33:32,159 --> 00:33:34,399
+mark that and then close this now when
+
+1025
+00:33:34,399 --> 00:33:36,880
+you check mark it when you press n to
+
+1026
+00:33:36,880 --> 00:33:39,039
+open up this panel you can go over to
+
+1027
+00:33:39,039 --> 00:33:41,279
+edit and you can see here is the loop
+
+1028
+00:33:41,279 --> 00:33:43,519
+tools add-on so when i click on it you
+
+1029
+00:33:43,519 --> 00:33:44,960
+can see it has all these different
+
+1030
+00:33:44,960 --> 00:33:47,120
+things what i can do is i can select the
+
+1031
+00:33:47,120 --> 00:33:49,360
+vertices and then i can click on circle
+
+1032
+00:33:49,360 --> 00:33:51,039
+and it's going to turn them into a
+
+1033
+00:33:51,039 --> 00:33:53,440
+circle so i'm going to press 3 to go to
+
+1034
+00:33:53,440 --> 00:33:55,039
+the face select click on this and then
+
+1035
+00:33:55,039 --> 00:33:56,799
+shift click on this and then if i click
+
+1036
+00:33:56,799 --> 00:33:58,960
+on the circle you can see now it is a
+
+1037
+00:33:58,960 --> 00:34:01,360
+circle so i want to rotate it over so
+
+1038
+00:34:01,360 --> 00:34:03,360
+it's a bit straighter with the log so i
+
+1039
+00:34:03,360 --> 00:34:06,320
+will press r just rotate that over maybe
+
+1040
+00:34:06,320 --> 00:34:08,320
+scale it down a little bit more alright
+
+1041
+00:34:08,320 --> 00:34:09,839
+now i need to do the same thing for the
+
+1042
+00:34:09,839 --> 00:34:12,239
+one inside so i will click on this shift
+
+1043
+00:34:12,239 --> 00:34:13,440
+click on this
+
+1044
+00:34:13,440 --> 00:34:14,960
+click on circle
+
+1045
+00:34:14,960 --> 00:34:15,918
+and then
+
+1046
+00:34:15,918 --> 00:34:17,359
+go back up here if i just go into
+
+1047
+00:34:17,359 --> 00:34:19,359
+wireframe by pressing z and moving my
+
+1048
+00:34:19,359 --> 00:34:22,079
+mouse over i can just align this up
+
+1049
+00:34:22,079 --> 00:34:23,918
+and scale it down
+
+1050
+00:34:23,918 --> 00:34:25,599
+okay now i want to delete these so i'll
+
+1051
+00:34:25,599 --> 00:34:27,760
+press x and delete faces
+
+1052
+00:34:27,760 --> 00:34:30,079
+and then go out of wireframe select this
+
+1053
+00:34:30,079 --> 00:34:32,560
+one x and delete faces select this one
+
+1054
+00:34:32,560 --> 00:34:35,280
+and x and delete faces so now we have a
+
+1055
+00:34:35,280 --> 00:34:37,280
+hole coming out of our log but you can
+
+1056
+00:34:37,280 --> 00:34:39,280
+see that you can see inside the
+
+1057
+00:34:39,280 --> 00:34:41,440
+thickness of the log so i need to add
+
+1058
+00:34:41,440 --> 00:34:44,159
+faces right along here so to do this i'm
+
+1059
+00:34:44,159 --> 00:34:46,000
+going to press 1 to go to the vertex
+
+1060
+00:34:46,000 --> 00:34:46,879
+select
+
+1061
+00:34:46,879 --> 00:34:48,879
+just alt and click on this loop and then
+
+1062
+00:34:48,879 --> 00:34:51,280
+hold down the shift key and alt key and
+
+1063
+00:34:51,280 --> 00:34:53,679
+select this loop so now i have both of
+
+1064
+00:34:53,679 --> 00:34:56,000
+those selected now you could manually
+
+1065
+00:34:56,000 --> 00:34:58,560
+fill those with the f key and make faces
+
+1066
+00:34:58,560 --> 00:35:01,200
+but what i'm going to do is press f3 to
+
+1067
+00:35:01,200 --> 00:35:03,839
+go to the search and start typing in
+
+1068
+00:35:03,839 --> 00:35:06,079
+bridge edge loops and if you click on
+
+1069
+00:35:06,079 --> 00:35:06,880
+this
+
+1070
+00:35:06,880 --> 00:35:08,960
+it automatically merges those together
+
+1071
+00:35:08,960 --> 00:35:10,400
+as long as both sides have the same
+
+1072
+00:35:10,400 --> 00:35:12,079
+amount of vertices it just fills all the
+
+1073
+00:35:12,079 --> 00:35:13,280
+faces
+
+1074
+00:35:13,280 --> 00:35:15,200
+and it works great just like that and
+
+1075
+00:35:15,200 --> 00:35:16,640
+then i think i might hold down the shift
+
+1076
+00:35:16,640 --> 00:35:18,480
+key select these two
+
+1077
+00:35:18,480 --> 00:35:20,720
+press g and move them down a bit so that
+
+1078
+00:35:20,720 --> 00:35:22,640
+they're a little bit more round with the
+
+1079
+00:35:22,640 --> 00:35:23,599
+log
+
+1080
+00:35:23,599 --> 00:35:25,920
+select these two press g and move those
+
+1081
+00:35:25,920 --> 00:35:27,599
+down a little bit and then i think i'll
+
+1082
+00:35:27,599 --> 00:35:30,000
+select this entire loop again just by
+
+1083
+00:35:30,000 --> 00:35:31,440
+holding down the shift key and selecting
+
+1084
+00:35:31,440 --> 00:35:33,599
+these loops and then just press control
+
+1085
+00:35:33,599 --> 00:35:34,320
+b
+
+1086
+00:35:34,320 --> 00:35:35,920
+and add a bevel there and that way it
+
+1087
+00:35:35,920 --> 00:35:38,320
+just looks a little bit nicer okay let's
+
+1088
+00:35:38,320 --> 00:35:40,560
+move over here and i want to give this a
+
+1089
+00:35:40,560 --> 00:35:42,400
+little bit more detail so what i'll do
+
+1090
+00:35:42,400 --> 00:35:44,480
+is tab into edit mode here alt select
+
+1091
+00:35:44,480 --> 00:35:46,160
+this loop and then i'll just scale it
+
+1092
+00:35:46,160 --> 00:35:47,359
+down just to make it a little bit
+
+1093
+00:35:47,359 --> 00:35:49,359
+thicker and then i'll press three to go
+
+1094
+00:35:49,359 --> 00:35:51,359
+to the face select and just select a few
+
+1095
+00:35:51,359 --> 00:35:52,960
+different faces here
+
+1096
+00:35:52,960 --> 00:35:54,720
+and then i'll press e and extrude them
+
+1097
+00:35:54,720 --> 00:35:56,560
+out kind of like this is the bark of the
+
+1098
+00:35:56,560 --> 00:35:58,079
+tree and the bark of the tree is just
+
+1099
+00:35:58,079 --> 00:35:59,440
+going up a little bit like there's kind
+
+1100
+00:35:59,440 --> 00:36:01,440
+of a lip you could also press one to go
+
+1101
+00:36:01,440 --> 00:36:03,520
+to vertex select just select a few
+
+1102
+00:36:03,520 --> 00:36:06,000
+vertices and just move them around to
+
+1103
+00:36:06,000 --> 00:36:07,920
+just give a little bit more random shape
+
+1104
+00:36:07,920 --> 00:36:10,160
+and then let's move around over to the
+
+1105
+00:36:10,160 --> 00:36:12,000
+other side here and i want to make this
+
+1106
+00:36:12,000 --> 00:36:14,000
+a little bit thicker as well so i'll tab
+
+1107
+00:36:14,000 --> 00:36:16,400
+into edit mode hold down the alt key and
+
+1108
+00:36:16,400 --> 00:36:18,079
+select this loop and scale it in a
+
+1109
+00:36:18,079 --> 00:36:19,920
+little bit and then you can see that the
+
+1110
+00:36:19,920 --> 00:36:21,520
+ground is coming through here so i just
+
+1111
+00:36:21,520 --> 00:36:23,280
+need to press g and z
+
+1112
+00:36:23,280 --> 00:36:25,440
+and bring this object up you can also
+
+1113
+00:36:25,440 --> 00:36:27,599
+double tap r and rotate that a little
+
+1114
+00:36:27,599 --> 00:36:29,200
+bit to make it a little bit flatter and
+
+1115
+00:36:29,200 --> 00:36:31,760
+then g and z just bring that up because
+
+1116
+00:36:31,760 --> 00:36:33,040
+i don't want the ground to be coming
+
+1117
+00:36:33,040 --> 00:36:34,640
+through there all right so i'm going to
+
+1118
+00:36:34,640 --> 00:36:36,800
+tab into edit mode press 3 to go to face
+
+1119
+00:36:36,800 --> 00:36:38,400
+select and i'm just going to select a
+
+1120
+00:36:38,400 --> 00:36:40,160
+few different parts right here and do
+
+1121
+00:36:40,160 --> 00:36:42,560
+the same thing so e to extrude and then
+
+1122
+00:36:42,560 --> 00:36:44,640
+i think i'll s and just scale that out
+
+1123
+00:36:44,640 --> 00:36:46,480
+just a little bit and then i want to add
+
+1124
+00:36:46,480 --> 00:36:48,320
+a little crack here in the log so i'm
+
+1125
+00:36:48,320 --> 00:36:50,000
+going to press ctrl r
+
+1126
+00:36:50,000 --> 00:36:51,760
+click and bring this down and then i
+
+1127
+00:36:51,760 --> 00:36:53,760
+want to add another one so ctrl r just
+
+1128
+00:36:53,760 --> 00:36:55,680
+add another loop cut in there so we have
+
+1129
+00:36:55,680 --> 00:36:57,520
+two loop cuts really close to each other
+
+1130
+00:36:57,520 --> 00:36:58,880
+and then i need to set a point for the
+
+1131
+00:36:58,880 --> 00:37:01,520
+crack to end so i'll press ctrl r
+
+1132
+00:37:01,520 --> 00:37:03,599
+click and bring this over just like that
+
+1133
+00:37:03,599 --> 00:37:05,040
+and then i'll press one for vertex
+
+1134
+00:37:05,040 --> 00:37:06,960
+select and just select this loop double
+
+1135
+00:37:06,960 --> 00:37:09,359
+tap g and bring it over and if i click
+
+1136
+00:37:09,359 --> 00:37:10,880
+there it's automatically going to merge
+
+1137
+00:37:10,880 --> 00:37:12,880
+using the merge and then click on this
+
+1138
+00:37:12,880 --> 00:37:15,119
+double tap g and again using that auto
+
+1139
+00:37:15,119 --> 00:37:17,280
+merge it'll automatically merge together
+
+1140
+00:37:17,280 --> 00:37:19,440
+so now we have a little crack in our log
+
+1141
+00:37:19,440 --> 00:37:20,560
+and if we want to make it a little bit
+
+1142
+00:37:20,560 --> 00:37:22,800
+bigger i can just shift and select these
+
+1143
+00:37:22,800 --> 00:37:24,320
+two vertices
+
+1144
+00:37:24,320 --> 00:37:26,079
+bring it up a little bit to make that
+
+1145
+00:37:26,079 --> 00:37:27,760
+cut look a little bit bigger so now
+
+1146
+00:37:27,760 --> 00:37:29,440
+let's add a couple of branches in our
+
+1147
+00:37:29,440 --> 00:37:31,920
+log so i'm going to tab in edit mode
+
+1148
+00:37:31,920 --> 00:37:34,480
+just alt select this loop press shift d
+
+1149
+00:37:34,480 --> 00:37:37,440
+to duplicate it we can scale it down
+
+1150
+00:37:37,440 --> 00:37:40,640
+rotate it with r and then press g
+
+1151
+00:37:40,640 --> 00:37:42,720
+bring it over and just stick it inside
+
+1152
+00:37:42,720 --> 00:37:44,640
+our log and i just want to stick it in
+
+1153
+00:37:44,640 --> 00:37:46,160
+between that thickness there so it
+
+1154
+00:37:46,160 --> 00:37:48,079
+doesn't come out on the other side so
+
+1155
+00:37:48,079 --> 00:37:50,160
+once that's in place there i can press e
+
+1156
+00:37:50,160 --> 00:37:52,800
+to extrude extrude it out and then r to
+
+1157
+00:37:52,800 --> 00:37:54,800
+rotate s to scale and we're just going
+
+1158
+00:37:54,800 --> 00:37:57,200
+to keep on extruding that out and make a
+
+1159
+00:37:57,200 --> 00:38:00,640
+little limb or a branch coming out of
+
+1160
+00:38:00,640 --> 00:38:02,720
+the tree trunk and then once that's as
+
+1161
+00:38:02,720 --> 00:38:04,640
+far as you want you can press f to fill
+
+1162
+00:38:04,640 --> 00:38:06,720
+that face now i want to have just a tiny
+
+1163
+00:38:06,720 --> 00:38:08,560
+little branch coming out of this branch
+
+1164
+00:38:08,560 --> 00:38:10,800
+so to do that i'll press ctrl r add a
+
+1165
+00:38:10,800 --> 00:38:12,480
+loop cut right there and then i'm going
+
+1166
+00:38:12,480 --> 00:38:15,040
+to press ctrl r add a loop cut in there
+
+1167
+00:38:15,040 --> 00:38:17,040
+and then press 3 to go to face select
+
+1168
+00:38:17,040 --> 00:38:18,240
+and i'm just going to select these two
+
+1169
+00:38:18,240 --> 00:38:20,960
+vertices i can press n to open up that
+
+1170
+00:38:20,960 --> 00:38:23,440
+panel again and there is our loop tools
+
+1171
+00:38:23,440 --> 00:38:25,200
+click on circle and it will make it a
+
+1172
+00:38:25,200 --> 00:38:27,599
+circle and then you can scale this up a
+
+1173
+00:38:27,599 --> 00:38:30,079
+little bit and extrude it out scale it
+
+1174
+00:38:30,079 --> 00:38:32,000
+down and that way you can just add a
+
+1175
+00:38:32,000 --> 00:38:33,680
+little tiny branch coming off of the
+
+1176
+00:38:33,680 --> 00:38:35,680
+bigger branch okay that looks pretty
+
+1177
+00:38:35,680 --> 00:38:37,119
+good so i want to add something like
+
+1178
+00:38:37,119 --> 00:38:38,880
+that to the other side so i'm just going
+
+1179
+00:38:38,880 --> 00:38:40,320
+to duplicate it and then modify it a
+
+1180
+00:38:40,320 --> 00:38:42,560
+little bit so i'm going to click
+
+1181
+00:38:42,560 --> 00:38:44,480
+somewhere on here and then press l with
+
+1182
+00:38:44,480 --> 00:38:46,720
+my mouse over this to select the entire
+
+1183
+00:38:46,720 --> 00:38:48,640
+branch i'm just going to press 7 for top
+
+1184
+00:38:48,640 --> 00:38:50,800
+view and then i'll press shift d to
+
+1185
+00:38:50,800 --> 00:38:52,400
+duplicate this over
+
+1186
+00:38:52,400 --> 00:38:55,200
+press r to rotate and scale it down a
+
+1187
+00:38:55,200 --> 00:38:56,720
+little bit because this is higher up on
+
+1188
+00:38:56,720 --> 00:38:58,800
+the tree so the branches would probably
+
+1189
+00:38:58,800 --> 00:39:00,640
+be a little bit smaller and just put it
+
+1190
+00:39:00,640 --> 00:39:02,240
+into place but make sure you can't see
+
+1191
+00:39:02,240 --> 00:39:04,160
+it inside the tree trunk and then to
+
+1192
+00:39:04,160 --> 00:39:05,440
+rotate this around it just make it a
+
+1193
+00:39:05,440 --> 00:39:07,040
+little bit different i'll just rotate
+
+1194
+00:39:07,040 --> 00:39:09,599
+this maybe bring it kind of down here
+
+1195
+00:39:09,599 --> 00:39:11,520
+and then i can press one to go to vertex
+
+1196
+00:39:11,520 --> 00:39:14,480
+select a to deselect everything z and
+
+1197
+00:39:14,480 --> 00:39:15,760
+move my mouse over we can go into
+
+1198
+00:39:15,760 --> 00:39:17,040
+wireframe
+
+1199
+00:39:17,040 --> 00:39:19,520
+b and box select this area just kind of
+
+1200
+00:39:19,520 --> 00:39:21,359
+rotate it and change
+
+1201
+00:39:21,359 --> 00:39:23,440
+the shape of it a little bit and then
+
+1202
+00:39:23,440 --> 00:39:24,880
+one last thing before we finish the
+
+1203
+00:39:24,880 --> 00:39:26,560
+modeling for this log i do feel like
+
+1204
+00:39:26,560 --> 00:39:28,400
+it's a little bit too long so if you
+
+1205
+00:39:28,400 --> 00:39:30,720
+want to you can just box select an area
+
+1206
+00:39:30,720 --> 00:39:33,440
+in edit mode bring the whole thing back
+
+1207
+00:39:33,440 --> 00:39:35,280
+box select this area and bring it back
+
+1208
+00:39:35,280 --> 00:39:36,800
+just to make the log a little bit less
+
+1209
+00:39:36,800 --> 00:39:38,800
+long alright so now let's do the
+
+1210
+00:39:38,800 --> 00:39:41,040
+materials for our log so i'm going to
+
+1211
+00:39:41,040 --> 00:39:42,480
+click right over here and i'm going to
+
+1212
+00:39:42,480 --> 00:39:44,160
+click on this and i'm going to add the
+
+1213
+00:39:44,160 --> 00:39:46,480
+wood material i'll press z and move my
+
+1214
+00:39:46,480 --> 00:39:48,560
+mouse up to go into rendered mode and
+
+1215
+00:39:48,560 --> 00:39:50,000
+what i want to do is i want to make the
+
+1216
+00:39:50,000 --> 00:39:51,599
+wood that's inside a little bit lighter
+
+1217
+00:39:51,599 --> 00:39:53,440
+because this is kind of the bark of the
+
+1218
+00:39:53,440 --> 00:39:55,280
+wood so it's going to be darker and then
+
+1219
+00:39:55,280 --> 00:39:57,599
+inside i want it to be lighter so to do
+
+1220
+00:39:57,599 --> 00:39:59,280
+this i'm going to tab into edit mode
+
+1221
+00:39:59,280 --> 00:40:01,359
+press 3 to go to the face select and
+
+1222
+00:40:01,359 --> 00:40:03,520
+just alt select some of these so shift
+
+1223
+00:40:03,520 --> 00:40:06,079
+and alt and select these different loops
+
+1224
+00:40:06,079 --> 00:40:08,000
+going all the way around here and then
+
+1225
+00:40:08,000 --> 00:40:09,760
+i'm going to hold down the shift key and
+
+1226
+00:40:09,760 --> 00:40:12,240
+just click on some of these bits right
+
+1227
+00:40:12,240 --> 00:40:14,079
+here because these won't select properly
+
+1228
+00:40:14,079 --> 00:40:15,920
+with the alt key because they have some
+
+1229
+00:40:15,920 --> 00:40:17,359
+things getting in the way so i'm just
+
+1230
+00:40:17,359 --> 00:40:18,720
+going to need to manually shift and
+
+1231
+00:40:18,720 --> 00:40:20,480
+click on these and i'm basically just
+
+1232
+00:40:20,480 --> 00:40:22,480
+selecting all the wood that's darker and
+
+1233
+00:40:22,480 --> 00:40:24,640
+then i will invert the selection and add
+
+1234
+00:40:24,640 --> 00:40:26,480
+the lighter wood and then the branches
+
+1235
+00:40:26,480 --> 00:40:28,640
+here i'll press l and l with my mouse
+
+1236
+00:40:28,640 --> 00:40:31,040
+hovered over them to select them so now
+
+1237
+00:40:31,040 --> 00:40:33,520
+i just have all the outside of the log
+
+1238
+00:40:33,520 --> 00:40:36,160
+so now i can press ctrl i that'll invert
+
+1239
+00:40:36,160 --> 00:40:37,520
+the selection and that's all the stuff
+
+1240
+00:40:37,520 --> 00:40:39,440
+that i want to be the lighter color and
+
+1241
+00:40:39,440 --> 00:40:42,240
+i'll click on the plus here click on new
+
+1242
+00:40:42,240 --> 00:40:43,760
+call it wood
+
+1243
+00:40:43,760 --> 00:40:46,480
+light and then just make it a light wood
+
+1244
+00:40:46,480 --> 00:40:48,880
+color something kind of like that and
+
+1245
+00:40:48,880 --> 00:40:50,960
+then click on a sign now this looks
+
+1246
+00:40:50,960 --> 00:40:52,640
+pretty good but i do actually want this
+
+1247
+00:40:52,640 --> 00:40:54,240
+log to be a bit darker so i'm going to
+
+1248
+00:40:54,240 --> 00:40:56,560
+select this wood right here click on the
+
+1249
+00:40:56,560 --> 00:40:57,920
+plus to duplicate it and i'm going to
+
+1250
+00:40:57,920 --> 00:40:58,880
+call it
+
+1251
+00:40:58,880 --> 00:41:00,880
+log just so that's a separate material
+
+1252
+00:41:00,880 --> 00:41:02,800
+and i can make it a little bit darker so
+
+1253
+00:41:02,800 --> 00:41:04,160
+on the base color i'll just bring this
+
+1254
+00:41:04,160 --> 00:41:05,040
+down
+
+1255
+00:41:05,040 --> 00:41:06,800
+make that a little bit darker that looks
+
+1256
+00:41:06,800 --> 00:41:08,880
+a bit nicer all right so let's go ahead
+
+1257
+00:41:08,880 --> 00:41:11,920
+and model the low poly tree stump now so
+
+1258
+00:41:11,920 --> 00:41:13,520
+i'll press shift a we're going to start
+
+1259
+00:41:13,520 --> 00:41:15,760
+with a circle and then make sure on the
+
+1260
+00:41:15,760 --> 00:41:17,440
+circle settings make sure the vertices
+
+1261
+00:41:17,440 --> 00:41:19,520
+is set to 8. i'm going to scale this
+
+1262
+00:41:19,520 --> 00:41:20,400
+down
+
+1263
+00:41:20,400 --> 00:41:22,000
+bring it over into the center here so
+
+1264
+00:41:22,000 --> 00:41:23,920
+that we can see it a little bit better
+
+1265
+00:41:23,920 --> 00:41:25,280
+tap into edit mode and just make sure
+
+1266
+00:41:25,280 --> 00:41:27,040
+you're in the vertex select by pressing
+
+1267
+00:41:27,040 --> 00:41:30,319
+one and then i'll press f to fill that
+
+1268
+00:41:30,319 --> 00:41:32,240
+now i'm going to press e and z and
+
+1269
+00:41:32,240 --> 00:41:34,240
+extrude this up and then i'll press e
+
+1270
+00:41:34,240 --> 00:41:37,119
+and s scale that out make the thickness
+
+1271
+00:41:37,119 --> 00:41:39,280
+of it and then i'll press e and z
+
+1272
+00:41:39,280 --> 00:41:41,440
+bring it down okay now i need to bring
+
+1273
+00:41:41,440 --> 00:41:43,520
+this object up because
+
+1274
+00:41:43,520 --> 00:41:45,359
+it's a little bit too far down okay
+
+1275
+00:41:45,359 --> 00:41:47,119
+there we go tab in edit mode i'm going
+
+1276
+00:41:47,119 --> 00:41:48,880
+to scale this up a little bit because as
+
+1277
+00:41:48,880 --> 00:41:50,800
+it comes down it's going to get bigger
+
+1278
+00:41:50,800 --> 00:41:53,040
+so e and z
+
+1279
+00:41:53,040 --> 00:41:55,200
+and then s scale that up and then i'm
+
+1280
+00:41:55,200 --> 00:41:56,800
+going to press three to go to the face
+
+1281
+00:41:56,800 --> 00:41:58,960
+select and just select a few points here
+
+1282
+00:41:58,960 --> 00:42:00,800
+just select maybe about five of those
+
+1283
+00:42:00,800 --> 00:42:03,839
+faces and then i'll press e and z
+
+1284
+00:42:03,839 --> 00:42:06,319
+bring them up a little bit and i'll just
+
+1285
+00:42:06,319 --> 00:42:08,240
+slightly scale them up and then i want
+
+1286
+00:42:08,240 --> 00:42:09,680
+to add one of those cracks in there
+
+1287
+00:42:09,680 --> 00:42:10,960
+again because i think that looked pretty
+
+1288
+00:42:10,960 --> 00:42:12,640
+cool on the log so i'm going to press
+
+1289
+00:42:12,640 --> 00:42:15,040
+ctrl r bring a loop cut in there press
+
+1290
+00:42:15,040 --> 00:42:17,440
+ctrl r add another loop cut right there
+
+1291
+00:42:17,440 --> 00:42:19,040
+then i can press one to go to vertex
+
+1292
+00:42:19,040 --> 00:42:21,920
+select just select this and double tap g
+
+1293
+00:42:21,920 --> 00:42:24,079
+push it in click on this one double tap
+
+1294
+00:42:24,079 --> 00:42:25,839
+g push it in and again because we have
+
+1295
+00:42:25,839 --> 00:42:28,000
+that auto merge it's going to merge the
+
+1296
+00:42:28,000 --> 00:42:29,599
+vertices together i think i'll just
+
+1297
+00:42:29,599 --> 00:42:31,200
+select these bring them down a little
+
+1298
+00:42:31,200 --> 00:42:33,920
+bit and then select these vertices bring
+
+1299
+00:42:33,920 --> 00:42:35,920
+them out and these out a little bit i
+
+1300
+00:42:35,920 --> 00:42:37,200
+think i'll bring this one down a little
+
+1301
+00:42:37,200 --> 00:42:38,400
+bit as well
+
+1302
+00:42:38,400 --> 00:42:41,040
+and just pop this one up a little bit so
+
+1303
+00:42:41,040 --> 00:42:43,359
+i'm going to scale this down a bit and
+
+1304
+00:42:43,359 --> 00:42:46,240
+bring it down right onto the plane just
+
+1305
+00:42:46,240 --> 00:42:47,680
+like that and then i'll go to the
+
+1306
+00:42:47,680 --> 00:42:49,920
+material tab and then click on the drop
+
+1307
+00:42:49,920 --> 00:42:51,520
+down menu and start typing in log and
+
+1308
+00:42:51,520 --> 00:42:53,920
+just add in that log material and then
+
+1309
+00:42:53,920 --> 00:42:55,920
+we need to add the roots for the log so
+
+1310
+00:42:55,920 --> 00:42:57,839
+tab and edit mode just find a spot where
+
+1311
+00:42:57,839 --> 00:42:59,440
+i want the roots to come out i want the
+
+1312
+00:42:59,440 --> 00:43:01,040
+root to come out right here so i'll
+
+1313
+00:43:01,040 --> 00:43:02,720
+press three to go to the face select
+
+1314
+00:43:02,720 --> 00:43:04,640
+just select this face and press e to
+
+1315
+00:43:04,640 --> 00:43:05,760
+extrude
+
+1316
+00:43:05,760 --> 00:43:07,440
+and then scale it down a little bit and
+
+1317
+00:43:07,440 --> 00:43:10,319
+rotate it and then e to extrude again
+
+1318
+00:43:10,319 --> 00:43:12,640
+bring it down and just extrude that down
+
+1319
+00:43:12,640 --> 00:43:14,640
+just like that so let's add another root
+
+1320
+00:43:14,640 --> 00:43:16,240
+right here and i want this root to be a
+
+1321
+00:43:16,240 --> 00:43:17,839
+little bit more round so to make it more
+
+1322
+00:43:17,839 --> 00:43:19,839
+round i'm going to press ctrl r just
+
+1323
+00:43:19,839 --> 00:43:22,000
+double click to add that loop cut and
+
+1324
+00:43:22,000 --> 00:43:24,319
+then i can just select this double tap g
+
+1325
+00:43:24,319 --> 00:43:26,160
+move it down a little bit select this
+
+1326
+00:43:26,160 --> 00:43:27,760
+one double tap g move it down a little
+
+1327
+00:43:27,760 --> 00:43:29,839
+bit and then i can just press three to
+
+1328
+00:43:29,839 --> 00:43:32,480
+go to the face select just select these
+
+1329
+00:43:32,480 --> 00:43:34,960
+faces and extrude that out and that way
+
+1330
+00:43:34,960 --> 00:43:36,640
+you can see that the root is going to be
+
+1331
+00:43:36,640 --> 00:43:38,480
+a little bit more round so i'll just
+
+1332
+00:43:38,480 --> 00:43:40,800
+rotate it making sure it's still in the
+
+1333
+00:43:40,800 --> 00:43:41,839
+ground
+
+1334
+00:43:41,839 --> 00:43:44,319
+extrude it down and then extrude it in
+
+1335
+00:43:44,319 --> 00:43:46,319
+just like that okay let's add one more
+
+1336
+00:43:46,319 --> 00:43:47,760
+right here now this one i want to be a
+
+1337
+00:43:47,760 --> 00:43:49,920
+smaller one so i'll press ctrl r just
+
+1338
+00:43:49,920 --> 00:43:52,640
+drop that in there i'll select these two
+
+1339
+00:43:52,640 --> 00:43:54,560
+bring them down to make that a little
+
+1340
+00:43:54,560 --> 00:43:56,800
+bit smaller and then i can press three
+
+1341
+00:43:56,800 --> 00:43:59,040
+to go to the face select select this and
+
+1342
+00:43:59,040 --> 00:44:01,520
+then extrude that out with e and this
+
+1343
+00:44:01,520 --> 00:44:02,880
+one i want to actually come up a little
+
+1344
+00:44:02,880 --> 00:44:04,720
+bit so there's a little bit of an area
+
+1345
+00:44:04,720 --> 00:44:07,119
+underneath the root so i'll extrude that
+
+1346
+00:44:07,119 --> 00:44:09,760
+rotate it and then extrude it down
+
+1347
+00:44:09,760 --> 00:44:11,839
+and into the ground and scale it down a
+
+1348
+00:44:11,839 --> 00:44:13,520
+bit and then if you wanted to make this
+
+1349
+00:44:13,520 --> 00:44:14,960
+root a little bit more round you could
+
+1350
+00:44:14,960 --> 00:44:17,040
+tab into edit mode just alt select one
+
+1351
+00:44:17,040 --> 00:44:19,280
+of these loop cuts and press ctrl b
+
+1352
+00:44:19,280 --> 00:44:21,040
+just add a bevel there and that way
+
+1353
+00:44:21,040 --> 00:44:22,000
+there's going to be a little bit more
+
+1354
+00:44:22,000 --> 00:44:24,240
+geometry and it'll be a bit more smooth
+
+1355
+00:44:24,240 --> 00:44:25,440
+all right so i'm going to call the
+
+1356
+00:44:25,440 --> 00:44:27,359
+modeling good for that now just like the
+
+1357
+00:44:27,359 --> 00:44:29,680
+log i want to make the wood later in
+
+1358
+00:44:29,680 --> 00:44:32,319
+inside so i will tab into edit mode
+
+1359
+00:44:32,319 --> 00:44:33,920
+press 3 to go to the face select and
+
+1360
+00:44:33,920 --> 00:44:35,760
+then select this face and then i'm going
+
+1361
+00:44:35,760 --> 00:44:38,160
+to click plus to add a new material
+
+1362
+00:44:38,160 --> 00:44:40,240
+click on this and start typing in wood
+
+1363
+00:44:40,240 --> 00:44:42,720
+and we want to select the wood light and
+
+1364
+00:44:42,720 --> 00:44:44,640
+then with that selected and the wood
+
+1365
+00:44:44,640 --> 00:44:46,960
+light selected you can press assign and
+
+1366
+00:44:46,960 --> 00:44:48,960
+now it's going to have the lighter wood
+
+1367
+00:44:48,960 --> 00:44:50,400
+now i want to show those wood grains
+
+1368
+00:44:50,400 --> 00:44:52,800
+kind of these circles inside the tree so
+
+1369
+00:44:52,800 --> 00:44:54,880
+i'm going to tab into edit mode and i'm
+
+1370
+00:44:54,880 --> 00:44:56,880
+just going to start by pressing i and
+
+1371
+00:44:56,880 --> 00:44:58,960
+i'll press i and that'll inset the face
+
+1372
+00:44:58,960 --> 00:45:00,480
+you can see that these vertices here are
+
+1373
+00:45:00,480 --> 00:45:01,920
+really close to each other because we
+
+1374
+00:45:01,920 --> 00:45:04,000
+added that cut in there so i'll press 1
+
+1375
+00:45:04,000 --> 00:45:06,480
+to go to the vertex select just select a
+
+1376
+00:45:06,480 --> 00:45:08,560
+vertices and then double tap g and just
+
+1377
+00:45:08,560 --> 00:45:10,319
+move them away from each other double
+
+1378
+00:45:10,319 --> 00:45:12,319
+tap g just give those a little bit more
+
+1379
+00:45:12,319 --> 00:45:14,079
+space and just make sure all the rest
+
+1380
+00:45:14,079 --> 00:45:15,920
+have a bit more space so now that they
+
+1381
+00:45:15,920 --> 00:45:17,839
+have more space i'll press 3 to go to
+
+1382
+00:45:17,839 --> 00:45:19,920
+face select just select this face i can
+
+1383
+00:45:19,920 --> 00:45:22,079
+scale it up a little bit more and then i
+
+1384
+00:45:22,079 --> 00:45:25,040
+can press i and just keep on pressing i
+
+1385
+00:45:25,040 --> 00:45:26,319
+so just keep on doing this and what
+
+1386
+00:45:26,319 --> 00:45:27,359
+we're going to do is we're going to make
+
+1387
+00:45:27,359 --> 00:45:29,760
+every other loop a little bit brighter
+
+1388
+00:45:29,760 --> 00:45:30,960
+now you can see that i have the same
+
+1389
+00:45:30,960 --> 00:45:33,119
+problem here so i'm just going to press
+
+1390
+00:45:33,119 --> 00:45:35,920
+1 to go to vertex select double tap g
+
+1391
+00:45:35,920 --> 00:45:37,599
+double tap g just give that a little bit
+
+1392
+00:45:37,599 --> 00:45:39,839
+more space i can press three again to go
+
+1393
+00:45:39,839 --> 00:45:42,160
+the face select and just keep on
+
+1394
+00:45:42,160 --> 00:45:44,480
+pressing i to inset that and i'm going
+
+1395
+00:45:44,480 --> 00:45:46,640
+to call that good so now what i can do
+
+1396
+00:45:46,640 --> 00:45:48,640
+is press three for face select just hold
+
+1397
+00:45:48,640 --> 00:45:50,640
+down the alt key and select one of these
+
+1398
+00:45:50,640 --> 00:45:52,240
+loops and then just hold down the shift
+
+1399
+00:45:52,240 --> 00:45:55,040
+and alt key and select every other loop
+
+1400
+00:45:55,040 --> 00:45:56,640
+and then just hold down the shift key
+
+1401
+00:45:56,640 --> 00:45:58,480
+and you can select the middle one now
+
+1402
+00:45:58,480 --> 00:45:59,680
+what i want to do is i want to make all
+
+1403
+00:45:59,680 --> 00:46:01,520
+those a little bit brighter so i'll
+
+1404
+00:46:01,520 --> 00:46:03,200
+click on this plus here
+
+1405
+00:46:03,200 --> 00:46:05,040
+click on this type in wood and i'm going
+
+1406
+00:46:05,040 --> 00:46:07,040
+to select the wood light and then i'm
+
+1407
+00:46:07,040 --> 00:46:09,280
+going to click on this kind of file icon
+
+1408
+00:46:09,280 --> 00:46:11,040
+it looks like two pieces of paper click
+
+1409
+00:46:11,040 --> 00:46:12,560
+on that it's going to duplicate it i'm
+
+1410
+00:46:12,560 --> 00:46:15,520
+going to call this wood light 2
+
+1411
+00:46:15,520 --> 00:46:17,200
+and then with that selected i can click
+
+1412
+00:46:17,200 --> 00:46:19,680
+on a sign and nothing will change that's
+
+1413
+00:46:19,680 --> 00:46:21,520
+because it's the same color right now
+
+1414
+00:46:21,520 --> 00:46:23,520
+but this color if i make it brighter you
+
+1415
+00:46:23,520 --> 00:46:25,920
+can now see that it stands out and then
+
+1416
+00:46:25,920 --> 00:46:27,440
+if you wanted to you could also press
+
+1417
+00:46:27,440 --> 00:46:29,680
+three to go to face select and just
+
+1418
+00:46:29,680 --> 00:46:31,440
+select some of these faces in here and
+
+1419
+00:46:31,440 --> 00:46:33,920
+also make them the lighter material
+
+1420
+00:46:33,920 --> 00:46:35,359
+so i'm just gonna select all the
+
+1421
+00:46:35,359 --> 00:46:37,359
+interfaces
+
+1422
+00:46:37,359 --> 00:46:39,440
+just like that click on the wood light
+
+1423
+00:46:39,440 --> 00:46:41,839
+and then click on assign and there we go
+
+1424
+00:46:41,839 --> 00:46:44,640
+there is our finished tree stump so i'll
+
+1425
+00:46:44,640 --> 00:46:47,119
+press 7 for top view move this over
+
+1426
+00:46:47,119 --> 00:46:48,560
+scale it down a little bit and just
+
+1427
+00:46:48,560 --> 00:46:49,599
+place it
+
+1428
+00:46:49,599 --> 00:46:51,520
+right over here just make sure it's
+
+1429
+00:46:51,520 --> 00:46:54,160
+going down into the ground
+
+1430
+00:46:54,160 --> 00:46:55,680
+all right let's go ahead and make the
+
+1431
+00:46:55,680 --> 00:46:57,760
+flowers now so to make the flowers i'm
+
+1432
+00:46:57,760 --> 00:46:59,760
+actually going to start off with adding
+
+1433
+00:46:59,760 --> 00:47:03,040
+a cube so press shift a add a cube
+
+1434
+00:47:03,040 --> 00:47:04,720
+we'll scale this cube down i'm just
+
+1435
+00:47:04,720 --> 00:47:06,720
+going to bring it over here so we can
+
+1436
+00:47:06,720 --> 00:47:08,640
+work with it a little bit better period
+
+1437
+00:47:08,640 --> 00:47:10,319
+on the number pad to zoom into it i'm
+
+1438
+00:47:10,319 --> 00:47:12,000
+going to tab into edit mode and scale it
+
+1439
+00:47:12,000 --> 00:47:14,560
+on the z-axis so s and z
+
+1440
+00:47:14,560 --> 00:47:16,560
+bring that down so what i'm making right
+
+1441
+00:47:16,560 --> 00:47:18,160
+now is one of the flower petals and then
+
+1442
+00:47:18,160 --> 00:47:20,079
+once i've made the petal i'm going to
+
+1443
+00:47:20,079 --> 00:47:21,839
+duplicate it and rotate it around so
+
+1444
+00:47:21,839 --> 00:47:23,920
+that we have petals all around our
+
+1445
+00:47:23,920 --> 00:47:25,920
+flower so i'm going to press 3 to go to
+
+1446
+00:47:25,920 --> 00:47:28,400
+face select select this face and i'll
+
+1447
+00:47:28,400 --> 00:47:30,559
+press g and click with my middle mouse
+
+1448
+00:47:30,559 --> 00:47:32,559
+bring it out and then just scale it up a
+
+1449
+00:47:32,559 --> 00:47:34,160
+little bit more just bring it out a
+
+1450
+00:47:34,160 --> 00:47:35,920
+little bit farther something like that
+
+1451
+00:47:35,920 --> 00:47:37,280
+maybe even a little bit farther and
+
+1452
+00:47:37,280 --> 00:47:39,440
+scale it up a little bit okay i'll press
+
+1453
+00:47:39,440 --> 00:47:41,760
+7 for top view now i'm going to press a
+
+1454
+00:47:41,760 --> 00:47:43,680
+to select everything
+
+1455
+00:47:43,680 --> 00:47:46,400
+g and move it over a bit and then now
+
+1456
+00:47:46,400 --> 00:47:47,599
+that i've made one pedal i want to
+
+1457
+00:47:47,599 --> 00:47:50,000
+duplicate the pedals and make them going
+
+1458
+00:47:50,000 --> 00:47:52,240
+in a circle so i'll press shift d to
+
+1459
+00:47:52,240 --> 00:47:54,960
+duplicate click right there r to rotate
+
+1460
+00:47:54,960 --> 00:47:57,040
+just put it in place like that shift d
+
+1461
+00:47:57,040 --> 00:47:59,599
+again r to rotate make this one right
+
+1462
+00:47:59,599 --> 00:48:02,400
+there shift d again r to rotate bring
+
+1463
+00:48:02,400 --> 00:48:04,800
+this one over here and then shift d
+
+1464
+00:48:04,800 --> 00:48:06,400
+r to rotate
+
+1465
+00:48:06,400 --> 00:48:08,480
+and then we'll add one more just give it
+
+1466
+00:48:08,480 --> 00:48:10,559
+a little bit more space shift d
+
+1467
+00:48:10,559 --> 00:48:12,720
+r and bring it in now you can see that
+
+1468
+00:48:12,720 --> 00:48:14,400
+they're overlapping a little bit i don't
+
+1469
+00:48:14,400 --> 00:48:15,920
+really mind that too much but if you
+
+1470
+00:48:15,920 --> 00:48:18,319
+want to just press l and select some of
+
+1471
+00:48:18,319 --> 00:48:19,280
+these
+
+1472
+00:48:19,280 --> 00:48:21,359
+and just rotate them and kind of give it
+
+1473
+00:48:21,359 --> 00:48:23,359
+a little bit more space there all right
+
+1474
+00:48:23,359 --> 00:48:24,880
+now i want the center to be a little bit
+
+1475
+00:48:24,880 --> 00:48:26,640
+smaller so i'm going to press 1 to go to
+
+1476
+00:48:26,640 --> 00:48:29,280
+vertex z to move my mouse over and then
+
+1477
+00:48:29,280 --> 00:48:31,520
+i'll just deselect everything i'll press
+
+1478
+00:48:31,520 --> 00:48:33,599
+c for the circle select and just select
+
+1479
+00:48:33,599 --> 00:48:36,000
+all of these and then just press s and
+
+1480
+00:48:36,000 --> 00:48:37,920
+scale them down a little bit more all
+
+1481
+00:48:37,920 --> 00:48:39,359
+right and then i want to bring this down
+
+1482
+00:48:39,359 --> 00:48:41,040
+so i'll press g and z
+
+1483
+00:48:41,040 --> 00:48:43,200
+bring it down i'm going to place my 3d
+
+1484
+00:48:43,200 --> 00:48:44,720
+cursor right here and then i'll press
+
+1485
+00:48:44,720 --> 00:48:46,720
+shift a and i'm going to search for
+
+1486
+00:48:46,720 --> 00:48:49,520
+another circle i'll scale this circle
+
+1487
+00:48:49,520 --> 00:48:51,839
+down just make it the size just make it
+
+1488
+00:48:51,839 --> 00:48:53,200
+a little bit bigger so the petals are
+
+1489
+00:48:53,200 --> 00:48:54,960
+kind of coming out of it and then i'll
+
+1490
+00:48:54,960 --> 00:48:57,520
+press g and z bring it down
+
+1491
+00:48:57,520 --> 00:48:59,680
+f to fill a face in there and then i'll
+
+1492
+00:48:59,680 --> 00:49:01,440
+press e and z
+
+1493
+00:49:01,440 --> 00:49:04,960
+just bring that up and then e and s and
+
+1494
+00:49:04,960 --> 00:49:07,119
+then e and s again and then i think the
+
+1495
+00:49:07,119 --> 00:49:08,640
+normals need to be recalculated so i'm
+
+1496
+00:49:08,640 --> 00:49:10,960
+going to double tap a press shift n and
+
+1497
+00:49:10,960 --> 00:49:12,720
+there we go now the normals are
+
+1498
+00:49:12,720 --> 00:49:14,720
+recalculated now on the bottom here i
+
+1499
+00:49:14,720 --> 00:49:17,119
+want to press e and then s
+
+1500
+00:49:17,119 --> 00:49:19,119
+scale that down a little bit and then
+
+1501
+00:49:19,119 --> 00:49:21,119
+i'm going to start to model these stem
+
+1502
+00:49:21,119 --> 00:49:22,880
+so i'll press e and s
+
+1503
+00:49:22,880 --> 00:49:24,640
+make that really small
+
+1504
+00:49:24,640 --> 00:49:25,680
+and then e
+
+1505
+00:49:25,680 --> 00:49:26,720
+and s
+
+1506
+00:49:26,720 --> 00:49:28,240
+so it's going to be thin and then i'm
+
+1507
+00:49:28,240 --> 00:49:30,160
+going to keep on extruding and making it
+
+1508
+00:49:30,160 --> 00:49:32,640
+a little bit thicker as it goes more
+
+1509
+00:49:32,640 --> 00:49:34,240
+towards the ground and then i want to
+
+1510
+00:49:34,240 --> 00:49:36,480
+add some leaves so i'll press shift a
+
+1511
+00:49:36,480 --> 00:49:38,559
+search for a cube
+
+1512
+00:49:38,559 --> 00:49:40,800
+scale this cube down we're just going to
+
+1513
+00:49:40,800 --> 00:49:42,559
+bring it over here
+
+1514
+00:49:42,559 --> 00:49:45,520
+let's scale it down on the z axes
+
+1515
+00:49:45,520 --> 00:49:47,839
+scale it up a little bit on the x
+
+1516
+00:49:47,839 --> 00:49:49,599
+just put it into place i'm going to
+
+1517
+00:49:49,599 --> 00:49:51,359
+press ctrl r right here and add a loop
+
+1518
+00:49:51,359 --> 00:49:53,359
+cut in there and that way we can have if
+
+1519
+00:49:53,359 --> 00:49:55,280
+this will actually go there we go click
+
+1520
+00:49:55,280 --> 00:49:57,280
+right there i can press g and z bring
+
+1521
+00:49:57,280 --> 00:49:59,680
+this down and that way we can have a
+
+1522
+00:49:59,680 --> 00:50:01,839
+curve in the leaf so i want to add a
+
+1523
+00:50:01,839 --> 00:50:03,280
+couple more vertices here so that we can
+
+1524
+00:50:03,280 --> 00:50:05,200
+make the leaf thinner on the edges so
+
+1525
+00:50:05,200 --> 00:50:07,520
+i'll press ctrl r i'm going to scroll up
+
+1526
+00:50:07,520 --> 00:50:09,280
+with my mouse wheel to add two and then
+
+1527
+00:50:09,280 --> 00:50:11,920
+just double tap to place those so now
+
+1528
+00:50:11,920 --> 00:50:14,079
+what i can do is go into wireframe press
+
+1529
+00:50:14,079 --> 00:50:16,400
+b and box select the front here press s
+
+1530
+00:50:16,400 --> 00:50:18,319
+and scale it down and i'm actually going
+
+1531
+00:50:18,319 --> 00:50:20,640
+to squish it all together so s and 0 and
+
+1532
+00:50:20,640 --> 00:50:22,960
+then hit enter and again that auto merge
+
+1533
+00:50:22,960 --> 00:50:25,040
+is going to merge that together alright
+
+1534
+00:50:25,040 --> 00:50:26,319
+so i want to select the other side of
+
+1535
+00:50:26,319 --> 00:50:28,400
+the leaf and scale that down as well but
+
+1536
+00:50:28,400 --> 00:50:30,160
+it's kind of coming through here so i'm
+
+1537
+00:50:30,160 --> 00:50:31,599
+going to press l
+
+1538
+00:50:31,599 --> 00:50:33,280
+to select the entire leaf with my mouse
+
+1539
+00:50:33,280 --> 00:50:36,079
+hovered over it g to move this over and
+
+1540
+00:50:36,079 --> 00:50:38,400
+then z to go into wireframe i'm just
+
+1541
+00:50:38,400 --> 00:50:39,359
+going to
+
+1542
+00:50:39,359 --> 00:50:42,720
+box select this and then e and then s
+
+1543
+00:50:42,720 --> 00:50:45,440
+and then type in 0 and enter just bring
+
+1544
+00:50:45,440 --> 00:50:47,280
+that out a little bit more all right so
+
+1545
+00:50:47,280 --> 00:50:49,119
+the leaf is pretty straight right here
+
+1546
+00:50:49,119 --> 00:50:51,359
+so i'm going to alt select this loop g
+
+1547
+00:50:51,359 --> 00:50:53,680
+and z bring it down and then shift and
+
+1548
+00:50:53,680 --> 00:50:55,520
+alt and select this loop and this loop
+
+1549
+00:50:55,520 --> 00:50:56,880
+and g and z
+
+1550
+00:50:56,880 --> 00:50:59,200
+bring it down so now the leaf is nice
+
+1551
+00:50:59,200 --> 00:51:01,520
+and curved so if i tab into edit mode
+
+1552
+00:51:01,520 --> 00:51:04,400
+now press l with my mouse over the leaf
+
+1553
+00:51:04,400 --> 00:51:06,319
+it'll select the whole thing i can press
+
+1554
+00:51:06,319 --> 00:51:09,200
+s and scale it up and then r to rotate
+
+1555
+00:51:09,200 --> 00:51:11,680
+and just put it into place right there
+
+1556
+00:51:11,680 --> 00:51:13,200
+and i think i'll also bring it up a
+
+1557
+00:51:13,200 --> 00:51:14,160
+little bit
+
+1558
+00:51:14,160 --> 00:51:16,559
+and maybe scale it a little bit bigger
+
+1559
+00:51:16,559 --> 00:51:17,760
+and then i think i'll make another one
+
+1560
+00:51:17,760 --> 00:51:19,680
+so i'll press shift d duplicate it bring
+
+1561
+00:51:19,680 --> 00:51:20,800
+it over
+
+1562
+00:51:20,800 --> 00:51:23,760
+r to rotate you can also double tap r
+
+1563
+00:51:23,760 --> 00:51:25,359
+and that will kind of do the trackball
+
+1564
+00:51:25,359 --> 00:51:27,040
+rotation
+
+1565
+00:51:27,040 --> 00:51:29,520
+and just stick it into place and there
+
+1566
+00:51:29,520 --> 00:51:32,240
+we go we have our first flower modeled
+
+1567
+00:51:32,240 --> 00:51:34,240
+so let's add some materials so i'm going
+
+1568
+00:51:34,240 --> 00:51:36,079
+to click right here and first add the
+
+1569
+00:51:36,079 --> 00:51:37,839
+green material let's go into rendered
+
+1570
+00:51:37,839 --> 00:51:39,359
+mode so we can see what that's looking
+
+1571
+00:51:39,359 --> 00:51:41,440
+like now i want it to be yellow in here
+
+1572
+00:51:41,440 --> 00:51:43,680
+and then out here i want to be random
+
+1573
+00:51:43,680 --> 00:51:45,839
+colors depending on what flower it is
+
+1574
+00:51:45,839 --> 00:51:47,200
+and real quick it looks like something's
+
+1575
+00:51:47,200 --> 00:51:49,119
+wrong with the modeling here you can see
+
+1576
+00:51:49,119 --> 00:51:50,559
+that there is a little bit of space in
+
+1577
+00:51:50,559 --> 00:51:52,319
+there there's a little gap so i can
+
+1578
+00:51:52,319 --> 00:51:54,800
+press three to go to the face select and
+
+1579
+00:51:54,800 --> 00:51:57,119
+then shift select these faces and then i
+
+1580
+00:51:57,119 --> 00:51:58,559
+can press g
+
+1581
+00:51:58,559 --> 00:52:00,400
+and push them in so i need to just
+
+1582
+00:52:00,400 --> 00:52:02,480
+select the area that i want to be yellow
+
+1583
+00:52:02,480 --> 00:52:03,839
+so i'm going to hold down the alt key
+
+1584
+00:52:03,839 --> 00:52:05,440
+select this loop and then hold down the
+
+1585
+00:52:05,440 --> 00:52:07,920
+shift and alt key and select this loop
+
+1586
+00:52:07,920 --> 00:52:09,200
+and then just hold down the shift key
+
+1587
+00:52:09,200 --> 00:52:11,280
+and select this one now i can click on
+
+1588
+00:52:11,280 --> 00:52:13,839
+the plus right here click on new i'm
+
+1589
+00:52:13,839 --> 00:52:17,440
+going to call this material yellow
+
+1590
+00:52:17,440 --> 00:52:19,119
+and then on the base color i'm just
+
+1591
+00:52:19,119 --> 00:52:21,599
+going to make this yellow and then click
+
+1592
+00:52:21,599 --> 00:52:23,280
+on a sign so i want it to be kind of a
+
+1593
+00:52:23,280 --> 00:52:26,000
+yellowy orangey color pretty saturated
+
+1594
+00:52:26,000 --> 00:52:27,839
+okay so now i need to
+
+1595
+00:52:27,839 --> 00:52:29,839
+click on one of the petals press l and
+
+1596
+00:52:29,839 --> 00:52:32,319
+just go around pressing l with my mouse
+
+1597
+00:52:32,319 --> 00:52:34,400
+over the petals to select all of them
+
+1598
+00:52:34,400 --> 00:52:36,240
+i'm going to click on the plus
+
+1599
+00:52:36,240 --> 00:52:38,319
+click on new and i'm going to call this
+
+1600
+00:52:38,319 --> 00:52:40,079
+flowers or petals or whatever you want
+
+1601
+00:52:40,079 --> 00:52:41,760
+to call it and then i'm going to press
+
+1602
+00:52:41,760 --> 00:52:44,800
+on assign and now it's the white flowers
+
+1603
+00:52:44,800 --> 00:52:46,400
+now when i duplicate the flowers i want
+
+1604
+00:52:46,400 --> 00:52:48,559
+them to randomly be different colors so
+
+1605
+00:52:48,559 --> 00:52:49,680
+to do this i'm going to go to the
+
+1606
+00:52:49,680 --> 00:52:51,119
+shading tab
+
+1607
+00:52:51,119 --> 00:52:52,559
+zoom out here and you can see here's our
+
+1608
+00:52:52,559 --> 00:52:55,920
+shader nodes and i need to pan over here
+
+1609
+00:52:55,920 --> 00:52:57,599
+so i can see the flower
+
+1610
+00:52:57,599 --> 00:53:00,079
+okay i'm going to press shift a and i'm
+
+1611
+00:53:00,079 --> 00:53:03,280
+going to add the object info node click
+
+1612
+00:53:03,280 --> 00:53:05,599
+on this drop it over here the random
+
+1613
+00:53:05,599 --> 00:53:07,680
+value i'm going to plug into the base
+
+1614
+00:53:07,680 --> 00:53:09,760
+color so now i need to tell it what
+
+1615
+00:53:09,760 --> 00:53:11,200
+colors are going to be randomly
+
+1616
+00:53:11,200 --> 00:53:13,680
+generated so i'm going to press shift a
+
+1617
+00:53:13,680 --> 00:53:16,160
+search for a color ramp just drop the
+
+1618
+00:53:16,160 --> 00:53:18,800
+color ramp right in here and then you
+
+1619
+00:53:18,800 --> 00:53:20,400
+can see this fades in between the
+
+1620
+00:53:20,400 --> 00:53:21,920
+different colors i don't want to fade in
+
+1621
+00:53:21,920 --> 00:53:23,040
+between the colors i just want there to
+
+1622
+00:53:23,040 --> 00:53:25,200
+be specific colors so instead of linear
+
+1623
+00:53:25,200 --> 00:53:26,640
+i'm going to click right here and turn
+
+1624
+00:53:26,640 --> 00:53:29,280
+it to constant and now there's no fading
+
+1625
+00:53:29,280 --> 00:53:31,040
+in between the colors it's just constant
+
+1626
+00:53:31,040 --> 00:53:33,200
+colors from black to white or whatever
+
+1627
+00:53:33,200 --> 00:53:35,359
+colors we're going to add so now we can
+
+1628
+00:53:35,359 --> 00:53:37,839
+do is just bring this over i want some
+
+1629
+00:53:37,839 --> 00:53:39,359
+of the flowers to be white so i'll just
+
+1630
+00:53:39,359 --> 00:53:41,440
+leave that at white the black here i'm
+
+1631
+00:53:41,440 --> 00:53:44,079
+going to turn this to a red color so
+
+1632
+00:53:44,079 --> 00:53:46,000
+bring it up make it nice and red not
+
+1633
+00:53:46,000 --> 00:53:48,240
+super saturated but pretty saturated and
+
+1634
+00:53:48,240 --> 00:53:49,200
+then i'm just going to actually
+
+1635
+00:53:49,200 --> 00:53:50,960
+duplicate a bunch of flowers just so
+
+1636
+00:53:50,960 --> 00:53:52,480
+that we can see what this is looking
+
+1637
+00:53:52,480 --> 00:53:54,640
+like so press shift d
+
+1638
+00:53:54,640 --> 00:53:56,480
+duplicate a bunch of flowers and you can
+
+1639
+00:53:56,480 --> 00:53:58,160
+see that however much of the color there
+
+1640
+00:53:58,160 --> 00:54:00,480
+is it's more likely that it's going to
+
+1641
+00:54:00,480 --> 00:54:02,559
+be generated as that color so i can just
+
+1642
+00:54:02,559 --> 00:54:04,559
+change this if i want most of them to be
+
+1643
+00:54:04,559 --> 00:54:06,640
+white i could do that i'm just going to
+
+1644
+00:54:06,640 --> 00:54:08,319
+bring this down though okay i'll click
+
+1645
+00:54:08,319 --> 00:54:10,240
+on the plus button add a new one this
+
+1646
+00:54:10,240 --> 00:54:12,240
+one i'm going to make a purpley color
+
+1647
+00:54:12,240 --> 00:54:14,240
+and then again change the size because
+
+1648
+00:54:14,240 --> 00:54:16,640
+the size is going to determine how often
+
+1649
+00:54:16,640 --> 00:54:18,480
+it's going to be that color i'll click
+
+1650
+00:54:18,480 --> 00:54:19,760
+on plus again
+
+1651
+00:54:19,760 --> 00:54:21,920
+move this one over here and then this
+
+1652
+00:54:21,920 --> 00:54:23,520
+one i'm going to have a really bright
+
+1653
+00:54:23,520 --> 00:54:24,800
+yellow color
+
+1654
+00:54:24,800 --> 00:54:26,559
+like that i'll bring these in a little
+
+1655
+00:54:26,559 --> 00:54:27,920
+bit more and then i want to add one more
+
+1656
+00:54:27,920 --> 00:54:30,319
+in here so i'll click on the plus button
+
+1657
+00:54:30,319 --> 00:54:32,400
+and this one i'm going to change to a
+
+1658
+00:54:32,400 --> 00:54:34,880
+pink color and then to make that purple
+
+1659
+00:54:34,880 --> 00:54:36,880
+look a little bit different kind of more
+
+1660
+00:54:36,880 --> 00:54:38,160
+contrasty i'm going to make that purple
+
+1661
+00:54:38,160 --> 00:54:40,160
+a bit darker and a bit more blue so
+
+1662
+00:54:40,160 --> 00:54:41,920
+there we go now if i just duplicate
+
+1663
+00:54:41,920 --> 00:54:44,240
+these you can see they're just randomly
+
+1664
+00:54:44,240 --> 00:54:46,400
+being generated with different colors so
+
+1665
+00:54:46,400 --> 00:54:47,520
+i'm just going to select all these
+
+1666
+00:54:47,520 --> 00:54:50,480
+except one press x and delete them so
+
+1667
+00:54:50,480 --> 00:54:52,720
+this one i need to scale down and let's
+
+1668
+00:54:52,720 --> 00:54:54,079
+just go back into the layout so we have
+
+1669
+00:54:54,079 --> 00:54:56,400
+some more space so i'll scale this down
+
+1670
+00:54:56,400 --> 00:54:58,480
+to the size that i want just place it
+
+1671
+00:54:58,480 --> 00:55:00,000
+down there and then i don't want the
+
+1672
+00:55:00,000 --> 00:55:01,839
+flower to be pointed straight up i kind
+
+1673
+00:55:01,839 --> 00:55:03,440
+of want it to be sagging a little bit so
+
+1674
+00:55:03,440 --> 00:55:05,040
+i'll just have an edit mode
+
+1675
+00:55:05,040 --> 00:55:08,079
+z for wireframe one for vertex select
+
+1676
+00:55:08,079 --> 00:55:10,240
+just box select an area and just rotate
+
+1677
+00:55:10,240 --> 00:55:12,640
+it give it a random rotation just like
+
+1678
+00:55:12,640 --> 00:55:14,640
+that okay let's duplicate this and we
+
+1679
+00:55:14,640 --> 00:55:16,799
+can make some more flowers so this one
+
+1680
+00:55:16,799 --> 00:55:18,799
+here i'm just going to press l and just
+
+1681
+00:55:18,799 --> 00:55:21,680
+select that leaf and press x and delete
+
+1682
+00:55:21,680 --> 00:55:24,319
+vertices and now that just has one leaf
+
+1683
+00:55:24,319 --> 00:55:25,839
+and then i think i'll just give it a
+
+1684
+00:55:25,839 --> 00:55:27,119
+random
+
+1685
+00:55:27,119 --> 00:55:28,640
+rotation so maybe this one's going to be
+
+1686
+00:55:28,640 --> 00:55:30,880
+rotating over like this okay there we go
+
+1687
+00:55:30,880 --> 00:55:32,000
+and then i'll make one more so i'll
+
+1688
+00:55:32,000 --> 00:55:34,799
+click on this shift d bring it over here
+
+1689
+00:55:34,799 --> 00:55:36,799
+that's a purple one and then this one
+
+1690
+00:55:36,799 --> 00:55:38,720
+again just rotate it give it a random
+
+1691
+00:55:38,720 --> 00:55:40,799
+rotation and then this one i want there
+
+1692
+00:55:40,799 --> 00:55:42,640
+to be two leaves but i think i'll change
+
+1693
+00:55:42,640 --> 00:55:45,040
+the position of the leaf so i'll press l
+
+1694
+00:55:45,040 --> 00:55:47,200
+to select all the linked vertices
+
+1695
+00:55:47,200 --> 00:55:48,480
+are to rotate
+
+1696
+00:55:48,480 --> 00:55:50,160
+just rotate it
+
+1697
+00:55:50,160 --> 00:55:52,240
+where you want about like that maybe
+
+1698
+00:55:52,240 --> 00:55:54,400
+rotate it over a bit more scale it down
+
+1699
+00:55:54,400 --> 00:55:57,280
+a little bit and there we go so there is
+
+1700
+00:55:57,280 --> 00:55:59,599
+the finished flowers all right let's
+
+1701
+00:55:59,599 --> 00:56:01,280
+make the low poly rocks now so i'm going
+
+1702
+00:56:01,280 --> 00:56:02,640
+to press shift a
+
+1703
+00:56:02,640 --> 00:56:04,319
+and i'm going to start with an ico
+
+1704
+00:56:04,319 --> 00:56:06,079
+sphere and then on the ecosphere
+
+1705
+00:56:06,079 --> 00:56:07,280
+settings right down here i'm going to
+
+1706
+00:56:07,280 --> 00:56:08,880
+set these to 5 so it's a little bit
+
+1707
+00:56:08,880 --> 00:56:11,359
+higher and that way we can shape the
+
+1708
+00:56:11,359 --> 00:56:13,040
+rocks how we want so i'm just going to
+
+1709
+00:56:13,040 --> 00:56:15,119
+scale it down just press period on the
+
+1710
+00:56:15,119 --> 00:56:17,520
+number pad to zoom into it i'll tap into
+
+1711
+00:56:17,520 --> 00:56:19,760
+edit mode and then i need to press o to
+
+1712
+00:56:19,760 --> 00:56:21,280
+turn on proportional editing and then
+
+1713
+00:56:21,280 --> 00:56:22,480
+i'll press g
+
+1714
+00:56:22,480 --> 00:56:24,799
+and just make the shape of the rock so
+
+1715
+00:56:24,799 --> 00:56:26,799
+just make it however you want rocks are
+
+1716
+00:56:26,799 --> 00:56:28,480
+usually pretty random although i do find
+
+1717
+00:56:28,480 --> 00:56:30,240
+that rocks are usually kind of flat on
+
+1718
+00:56:30,240 --> 00:56:31,920
+the bottom of them so i'm going to make
+
+1719
+00:56:31,920 --> 00:56:34,480
+the bottom of the rock pretty flat where
+
+1720
+00:56:34,480 --> 00:56:37,280
+it's going into the ground and then once
+
+1721
+00:56:37,280 --> 00:56:39,280
+you've made a rock i'll click on the
+
+1722
+00:56:39,280 --> 00:56:41,119
+modifiers right here click on add
+
+1723
+00:56:41,119 --> 00:56:43,359
+modifier and i'm going to add the
+
+1724
+00:56:43,359 --> 00:56:46,000
+decimate modifier just bring the ratio
+
+1725
+00:56:46,000 --> 00:56:48,799
+down until it's at a value that you like
+
+1726
+00:56:48,799 --> 00:56:50,000
+and then i'm going to make four
+
+1727
+00:56:50,000 --> 00:56:52,319
+different rocks so i will bring this one
+
+1728
+00:56:52,319 --> 00:56:54,400
+down a little bit into the ground and
+
+1729
+00:56:54,400 --> 00:56:56,319
+then i'll press shift d click with my
+
+1730
+00:56:56,319 --> 00:56:58,480
+middle mouse wheel bring this over tab
+
+1731
+00:56:58,480 --> 00:57:00,400
+in edit mode i'm just going to
+
+1732
+00:57:00,400 --> 00:57:02,559
+select some points now this rock i think
+
+1733
+00:57:02,559 --> 00:57:04,240
+i want to be a little bit longer or
+
+1734
+00:57:04,240 --> 00:57:06,400
+higher up so i'm going to bring that up
+
+1735
+00:57:06,400 --> 00:57:08,319
+there we go looks very cool
+
+1736
+00:57:08,319 --> 00:57:10,400
+shifty click with my middle mouse wheel
+
+1737
+00:57:10,400 --> 00:57:12,400
+maybe give it a random rotation
+
+1738
+00:57:12,400 --> 00:57:14,240
+this one maybe i'll make a super flat
+
+1739
+00:57:14,240 --> 00:57:16,960
+rock there we go maybe just change the
+
+1740
+00:57:16,960 --> 00:57:19,040
+shape of it a little bit and then i'll
+
+1741
+00:57:19,040 --> 00:57:20,640
+press shift d
+
+1742
+00:57:20,640 --> 00:57:22,880
+bring this over make one more rock just
+
+1743
+00:57:22,880 --> 00:57:24,559
+like that alright so then once you're
+
+1744
+00:57:24,559 --> 00:57:26,400
+happy with the shape of the rock you can
+
+1745
+00:57:26,400 --> 00:57:28,720
+press ctrl a with your mouse over the
+
+1746
+00:57:28,720 --> 00:57:31,520
+modifier and just apply all of the
+
+1747
+00:57:31,520 --> 00:57:33,680
+decimate modifiers let's add a material
+
+1748
+00:57:33,680 --> 00:57:35,599
+to these rocks so i will click on the
+
+1749
+00:57:35,599 --> 00:57:37,920
+materials panel click on new let's go
+
+1750
+00:57:37,920 --> 00:57:39,680
+into rendered view i'm going to call
+
+1751
+00:57:39,680 --> 00:57:42,160
+this material rock and then on the base
+
+1752
+00:57:42,160 --> 00:57:44,559
+color i'll make this a bit gray
+
+1753
+00:57:44,559 --> 00:57:46,559
+and then on the roughness you could turn
+
+1754
+00:57:46,559 --> 00:57:48,640
+it down a little bit if you like that if
+
+1755
+00:57:48,640 --> 00:57:50,000
+you like the look of that you could also
+
+1756
+00:57:50,000 --> 00:57:52,319
+turn it up just a little bit and then to
+
+1757
+00:57:52,319 --> 00:57:53,920
+drop this onto the other rocks i can
+
+1758
+00:57:53,920 --> 00:57:56,640
+just click and drag and drop that on to
+
+1759
+00:57:56,640 --> 00:57:58,400
+the other rocks
+
+1760
+00:57:58,400 --> 00:58:00,319
+and then i'm going to select these rocks
+
+1761
+00:58:00,319 --> 00:58:02,000
+scale them down a little bit and bring
+
+1762
+00:58:02,000 --> 00:58:04,480
+them over to the side now let's model
+
+1763
+00:58:04,480 --> 00:58:06,640
+the grass so to model the grass i'm
+
+1764
+00:58:06,640 --> 00:58:08,160
+going to press shift a and i'm going to
+
+1765
+00:58:08,160 --> 00:58:10,400
+start off with a cube
+
+1766
+00:58:10,400 --> 00:58:12,000
+scale the cube down
+
+1767
+00:58:12,000 --> 00:58:13,680
+bring it over here
+
+1768
+00:58:13,680 --> 00:58:15,680
+just bring it into place i'll tap into
+
+1769
+00:58:15,680 --> 00:58:17,920
+edit mode and scale it down you can see
+
+1770
+00:58:17,920 --> 00:58:19,520
+that it the proportional editing is on
+
+1771
+00:58:19,520 --> 00:58:21,440
+again so i'll turn that off i'll scale
+
+1772
+00:58:21,440 --> 00:58:23,520
+the whole thing down on the x-axis
+
+1773
+00:58:23,520 --> 00:58:25,520
+so that it's a lot thinner and then also
+
+1774
+00:58:25,520 --> 00:58:27,599
+scale it down on the y-axis a bit i'll
+
+1775
+00:58:27,599 --> 00:58:29,760
+press three to go to the face select and
+
+1776
+00:58:29,760 --> 00:58:31,760
+then e to extrude and just start to
+
+1777
+00:58:31,760 --> 00:58:33,920
+extrude out those grass blades now that
+
+1778
+00:58:33,920 --> 00:58:35,839
+grass blade is way too big so i'm going
+
+1779
+00:58:35,839 --> 00:58:37,920
+to scale it a lot more down and then
+
+1780
+00:58:37,920 --> 00:58:39,680
+let's tab back into edit mode scale it
+
+1781
+00:58:39,680 --> 00:58:41,200
+way down now at the very tip here i want
+
+1782
+00:58:41,200 --> 00:58:43,599
+to scale this down to zero so i'll press
+
+1783
+00:58:43,599 --> 00:58:44,319
+s
+
+1784
+00:58:44,319 --> 00:58:46,799
+0 and enter and there we go now the
+
+1785
+00:58:46,799 --> 00:58:48,799
+point is very sharp so that's one grass
+
+1786
+00:58:48,799 --> 00:58:50,559
+blade let's press shifty and duplicate
+
+1787
+00:58:50,559 --> 00:58:52,400
+this bring it over and let's make a few
+
+1788
+00:58:52,400 --> 00:58:53,839
+more so i'm gonna make four different
+
+1789
+00:58:53,839 --> 00:58:55,280
+grass blades and then i'll use those
+
+1790
+00:58:55,280 --> 00:58:57,200
+grass blades to make some bunches of
+
+1791
+00:58:57,200 --> 00:59:00,079
+grass so this next one i think i will
+
+1792
+00:59:00,079 --> 00:59:02,400
+box select it and make it really long
+
+1793
+00:59:02,400 --> 00:59:04,880
+and straight just like that okay
+
+1794
+00:59:04,880 --> 00:59:06,720
+duplicate this again bring it over and
+
+1795
+00:59:06,720 --> 00:59:08,799
+this one i'm going to make it so it's
+
+1796
+00:59:08,799 --> 00:59:11,520
+rotating over a lot and a bit smaller
+
+1797
+00:59:11,520 --> 00:59:12,799
+i'll also add a loop cut in here by
+
+1798
+00:59:12,799 --> 00:59:15,599
+pressing ctrl r double tap to place that
+
+1799
+00:59:15,599 --> 00:59:18,079
+and then just bring that up maybe bring
+
+1800
+00:59:18,079 --> 00:59:19,760
+that down a little bit more and then i'm
+
+1801
+00:59:19,760 --> 00:59:21,520
+going to select this one press shift d
+
+1802
+00:59:21,520 --> 00:59:22,880
+bring it over and i'll just make one
+
+1803
+00:59:22,880 --> 00:59:24,720
+more grass blade this one's going to be
+
+1804
+00:59:24,720 --> 00:59:26,480
+just kind of a basic one just going
+
+1805
+00:59:26,480 --> 00:59:27,839
+straight up maybe it's going to be
+
+1806
+00:59:27,839 --> 00:59:30,319
+waving a little bit so down here it'll
+
+1807
+00:59:30,319 --> 00:59:32,000
+kind of go up and then over to the side
+
+1808
+00:59:32,000 --> 00:59:33,680
+and then back all right so now that we
+
+1809
+00:59:33,680 --> 00:59:35,839
+have these four grass blades i'm going
+
+1810
+00:59:35,839 --> 00:59:37,280
+to click on this
+
+1811
+00:59:37,280 --> 00:59:39,520
+add the green material but grass is
+
+1812
+00:59:39,520 --> 00:59:41,040
+usually a little bit more reflective a
+
+1813
+00:59:41,040 --> 00:59:42,640
+little bit more shiny so i'm going to
+
+1814
+00:59:42,640 --> 00:59:44,799
+click on this to duplicate the material
+
+1815
+00:59:44,799 --> 00:59:46,960
+call it grass and then i'm going to
+
+1816
+00:59:46,960 --> 00:59:49,440
+click and drag just drop the color on to
+
+1817
+00:59:49,440 --> 00:59:51,760
+the other grass blades so now what i can
+
+1818
+00:59:51,760 --> 00:59:53,599
+do is go down to the roughness turn the
+
+1819
+00:59:53,599 --> 00:59:55,359
+roughness down a little bit and now if i
+
+1820
+00:59:55,359 --> 00:59:56,880
+go into rendered mode and look around
+
+1821
+00:59:56,880 --> 00:59:58,319
+the grass will just be a little bit more
+
+1822
+00:59:58,319 --> 01:00:00,240
+reflective so now i want to make some
+
+1823
+01:00:00,240 --> 01:00:02,480
+bunches of grass i'm going to just kind
+
+1824
+01:00:02,480 --> 01:00:04,559
+of rotate these bunch them all up
+
+1825
+01:00:04,559 --> 01:00:06,799
+together put this one in here i'm going
+
+1826
+01:00:06,799 --> 01:00:08,880
+to make four different bunches of grass
+
+1827
+01:00:08,880 --> 01:00:10,559
+and then i can select some pieces of
+
+1828
+01:00:10,559 --> 01:00:12,640
+grass press shift d to duplicate it give
+
+1829
+01:00:12,640 --> 01:00:14,559
+them a random rotation
+
+1830
+01:00:14,559 --> 01:00:16,640
+just have them sticking out just like
+
+1831
+01:00:16,640 --> 01:00:18,720
+that all right so that's going to be my
+
+1832
+01:00:18,720 --> 01:00:20,880
+first clump of grass so what i'm going
+
+1833
+01:00:20,880 --> 01:00:23,280
+to do now is hold down the shift key
+
+1834
+01:00:23,280 --> 01:00:25,040
+just select all the different pieces of
+
+1835
+01:00:25,040 --> 01:00:27,839
+grass and press ctrl j and that'll join
+
+1836
+01:00:27,839 --> 01:00:30,079
+them together and now we have one clump
+
+1837
+01:00:30,079 --> 01:00:32,240
+of grass so i want to make four so this
+
+1838
+01:00:32,240 --> 01:00:33,839
+is going to kind of be a medium sized
+
+1839
+01:00:33,839 --> 01:00:35,839
+one i'll press shift d click with my
+
+1840
+01:00:35,839 --> 01:00:37,920
+middle mouse move over i want to make a
+
+1841
+01:00:37,920 --> 01:00:39,680
+bigger clump of grass so i'll tap into
+
+1842
+01:00:39,680 --> 01:00:42,319
+edit mode just select everything with a
+
+1843
+01:00:42,319 --> 01:00:44,160
+and press shift d
+
+1844
+01:00:44,160 --> 01:00:47,280
+bring this over and then press r and z
+
+1845
+01:00:47,280 --> 01:00:48,960
+and give it a random rotation kind of
+
+1846
+01:00:48,960 --> 01:00:50,559
+have it sticking out
+
+1847
+01:00:50,559 --> 01:00:52,799
+kind of rotate that and then i will
+
+1848
+01:00:52,799 --> 01:00:55,119
+press shift d again rotate that give it
+
+1849
+01:00:55,119 --> 01:00:57,040
+a random rotation and i want a little
+
+1850
+01:00:57,040 --> 01:00:58,720
+bit more of the grass to be curved over
+
+1851
+01:00:58,720 --> 01:01:00,480
+so i can just manually
+
+1852
+01:01:00,480 --> 01:01:03,359
+go into edit mode here just rotate some
+
+1853
+01:01:03,359 --> 01:01:05,280
+of the grass pieces
+
+1854
+01:01:05,280 --> 01:01:06,960
+because i think some of the grass pieces
+
+1855
+01:01:06,960 --> 01:01:08,960
+should be rotated over a bit more all
+
+1856
+01:01:08,960 --> 01:01:11,119
+right and there is my second clump of
+
+1857
+01:01:11,119 --> 01:01:13,280
+grass so now i want to make two more i
+
+1858
+01:01:13,280 --> 01:01:14,640
+want to make one that's really small and
+
+1859
+01:01:14,640 --> 01:01:16,079
+then one's just just a little bit
+
+1860
+01:01:16,079 --> 01:01:18,240
+smaller so i'll press shift d bring this
+
+1861
+01:01:18,240 --> 01:01:20,559
+over duplicate that tab and edit mode
+
+1862
+01:01:20,559 --> 01:01:22,720
+i'm just going to select some random
+
+1863
+01:01:22,720 --> 01:01:24,720
+pieces of grass press l
+
+1864
+01:01:24,720 --> 01:01:26,640
+and just select some of them and then
+
+1865
+01:01:26,640 --> 01:01:28,799
+i'll press x and delete vertices so now
+
+1866
+01:01:28,799 --> 01:01:30,799
+we have a smaller lump of grass and
+
+1867
+01:01:30,799 --> 01:01:32,079
+again i'm just going to play with the
+
+1868
+01:01:32,079 --> 01:01:33,680
+shape a little bit just to make it look
+
+1869
+01:01:33,680 --> 01:01:35,760
+a little bit nicer all right there's my
+
+1870
+01:01:35,760 --> 01:01:37,280
+third piece of grass i'll just make one
+
+1871
+01:01:37,280 --> 01:01:39,440
+more so i'll select this one shift d
+
+1872
+01:01:39,440 --> 01:01:41,040
+click with my middle mouse wheel bring
+
+1873
+01:01:41,040 --> 01:01:43,119
+this over and then this one i just want
+
+1874
+01:01:43,119 --> 01:01:45,599
+to be three pieces of grass so i'll just
+
+1875
+01:01:45,599 --> 01:01:46,799
+press l
+
+1876
+01:01:46,799 --> 01:01:48,640
+and select a couple and press x and
+
+1877
+01:01:48,640 --> 01:01:50,799
+delete them and now i just have a very
+
+1878
+01:01:50,799 --> 01:01:52,640
+small clump of grass and i think i'll
+
+1879
+01:01:52,640 --> 01:01:54,480
+press l to select this one and bring it
+
+1880
+01:01:54,480 --> 01:01:56,079
+in a little bit more there's our grass
+
+1881
+01:01:56,079 --> 01:01:57,359
+looking pretty good now i do want to
+
+1882
+01:01:57,359 --> 01:01:59,280
+play around with the colors a little bit
+
+1883
+01:01:59,280 --> 01:02:00,880
+so i'm going to go back to the shading
+
+1884
+01:02:00,880 --> 01:02:02,880
+tab so i just want to play around with
+
+1885
+01:02:02,880 --> 01:02:04,000
+some of the colors i think i'll make
+
+1886
+01:02:04,000 --> 01:02:05,920
+this a little bit darker this one i
+
+1887
+01:02:05,920 --> 01:02:07,200
+think i'll make a little bit more
+
+1888
+01:02:07,200 --> 01:02:09,200
+saturated and if you wanted to you could
+
+1889
+01:02:09,200 --> 01:02:10,799
+also add some more colors like i'm going
+
+1890
+01:02:10,799 --> 01:02:12,720
+to add a color in here and make this one
+
+1891
+01:02:12,720 --> 01:02:14,720
+a little bit more yellow and generally i
+
+1892
+01:02:14,720 --> 01:02:15,920
+think it would look a little bit better
+
+1893
+01:02:15,920 --> 01:02:17,599
+if the grass were a little bit darker so
+
+1894
+01:02:17,599 --> 01:02:19,680
+i'm just selecting some of these points
+
+1895
+01:02:19,680 --> 01:02:20,799
+and then clicking on the color and
+
+1896
+01:02:20,799 --> 01:02:22,720
+making them a little bit darker so there
+
+1897
+01:02:22,720 --> 01:02:25,440
+we go there is our finished grass clumps
+
+1898
+01:02:25,440 --> 01:02:26,880
+so now let's go ahead and make the
+
+1899
+01:02:26,880 --> 01:02:28,640
+bushes so i'm just going to place my 3d
+
+1900
+01:02:28,640 --> 01:02:30,799
+cursor right here i'll press shift a and
+
+1901
+01:02:30,799 --> 01:02:33,359
+i'm going to add another icosphere now
+
+1902
+01:02:33,359 --> 01:02:34,960
+this psychosphere on the ecosphere
+
+1903
+01:02:34,960 --> 01:02:35,760
+settings i want to turn these
+
+1904
+01:02:35,760 --> 01:02:38,000
+subdivisions all the way down to one so
+
+1905
+01:02:38,000 --> 01:02:40,160
+it's very low poly and then i'll just
+
+1906
+01:02:40,160 --> 01:02:42,720
+scale this down now on the bottom here i
+
+1907
+01:02:42,720 --> 01:02:44,319
+don't want this to be pointed way down i
+
+1908
+01:02:44,319 --> 01:02:45,440
+want it to be kind of flat because it's
+
+1909
+01:02:45,440 --> 01:02:47,039
+just going in the ground so i'll just
+
+1910
+01:02:47,039 --> 01:02:49,440
+select this vertice and make it nice and
+
+1911
+01:02:49,440 --> 01:02:51,280
+flat and then i can just bring the
+
+1912
+01:02:51,280 --> 01:02:53,680
+entire bush up i'll add a new material
+
+1913
+01:02:53,680 --> 01:02:55,839
+and add that green color and then i'll
+
+1914
+01:02:55,839 --> 01:02:57,520
+tab into edit mode select everything
+
+1915
+01:02:57,520 --> 01:02:59,920
+with a and press shift d and just scale
+
+1916
+01:02:59,920 --> 01:03:01,440
+this down and what i'm going gonna do is
+
+1917
+01:03:01,440 --> 01:03:04,400
+make little clumps of bushes around the
+
+1918
+01:03:04,400 --> 01:03:07,359
+big bush so just move these around press
+
+1919
+01:03:07,359 --> 01:03:09,520
+shift d scale them up a little bit just
+
+1920
+01:03:09,520 --> 01:03:11,680
+give them some random scale and just
+
+1921
+01:03:11,680 --> 01:03:14,400
+place them around the main bush all
+
+1922
+01:03:14,400 --> 01:03:15,680
+right there we go now i want to do the
+
+1923
+01:03:15,680 --> 01:03:17,200
+same thing but this time i only want to
+
+1924
+01:03:17,200 --> 01:03:19,599
+have two clumps so i'll press shift d
+
+1925
+01:03:19,599 --> 01:03:21,200
+click with my middle mouse wheel bring
+
+1926
+01:03:21,200 --> 01:03:22,240
+this over
+
+1927
+01:03:22,240 --> 01:03:24,720
+and then i'll tab into edit mode press l
+
+1928
+01:03:24,720 --> 01:03:26,960
+and l to select these and then press x
+
+1929
+01:03:26,960 --> 01:03:29,839
+and delete vertices and then this one i
+
+1930
+01:03:29,839 --> 01:03:31,440
+think i want this one to be a little bit
+
+1931
+01:03:31,440 --> 01:03:33,599
+bigger and then this one maybe just a
+
+1932
+01:03:33,599 --> 01:03:35,039
+little bit smaller maybe give that a
+
+1933
+01:03:35,039 --> 01:03:37,119
+random rotation but there we go there is
+
+1934
+01:03:37,119 --> 01:03:39,920
+our finished low poly bushes and our low
+
+1935
+01:03:39,920 --> 01:03:41,920
+poly acids are really coming together i
+
+1936
+01:03:41,920 --> 01:03:43,280
+do want to make some mushrooms though
+
+1937
+01:03:43,280 --> 01:03:44,319
+and i'm going to make two different
+
+1938
+01:03:44,319 --> 01:03:45,839
+types of mushrooms so i'm going to make
+
+1939
+01:03:45,839 --> 01:03:48,000
+a brown mushroom and a red mushroom so
+
+1940
+01:03:48,000 --> 01:03:50,000
+let's do the brown mushroom first so
+
+1941
+01:03:50,000 --> 01:03:51,839
+i'll press shift a and once again i'm
+
+1942
+01:03:51,839 --> 01:03:54,240
+going to add a circle just make sure the
+
+1943
+01:03:54,240 --> 01:03:56,240
+circle settings is set to 8 and then
+
+1944
+01:03:56,240 --> 01:03:58,480
+we'll scale it way down tap into edit
+
+1945
+01:03:58,480 --> 01:04:00,079
+mode and i'm going to press f to fill
+
+1946
+01:04:00,079 --> 01:04:02,319
+that i'll press 1 to go to side view so
+
+1947
+01:04:02,319 --> 01:04:03,680
+that we can see that a little bit better
+
+1948
+01:04:03,680 --> 01:04:06,000
+and i'll press z and go into wireframe
+
+1949
+01:04:06,000 --> 01:04:07,599
+so now what i can do is just extrude
+
+1950
+01:04:07,599 --> 01:04:10,160
+this with e and s and scale that down
+
+1951
+01:04:10,160 --> 01:04:12,079
+and basically just make the shape of the
+
+1952
+01:04:12,079 --> 01:04:14,720
+stem for the mushroom and i don't want
+
+1953
+01:04:14,720 --> 01:04:16,319
+it to be too thick so maybe make it a
+
+1954
+01:04:16,319 --> 01:04:17,839
+little bit thinner okay i'm going to
+
+1955
+01:04:17,839 --> 01:04:20,480
+press e and s make that a lot bigger and
+
+1956
+01:04:20,480 --> 01:04:22,559
+then just bring that down a little bit
+
+1957
+01:04:22,559 --> 01:04:25,359
+okay i'll press e and s scale that up g
+
+1958
+01:04:25,359 --> 01:04:27,280
+and z bring it up a little bit and then
+
+1959
+01:04:27,280 --> 01:04:29,440
+i'll press e bring that up scale it down
+
+1960
+01:04:29,440 --> 01:04:31,760
+just a little bit and then e
+
+1961
+01:04:31,760 --> 01:04:33,760
+bring that up scale it down we're
+
+1962
+01:04:33,760 --> 01:04:35,280
+basically just making the shape of the
+
+1963
+01:04:35,280 --> 01:04:36,400
+mushroom
+
+1964
+01:04:36,400 --> 01:04:38,160
+and then e and s
+
+1965
+01:04:38,160 --> 01:04:39,680
+and then the face is already filled
+
+1966
+01:04:39,680 --> 01:04:41,280
+right up there so there we go that's
+
+1967
+01:04:41,280 --> 01:04:42,799
+looking pretty good but the stem is
+
+1968
+01:04:42,799 --> 01:04:44,960
+really big so i'm going to press c go
+
+1969
+01:04:44,960 --> 01:04:47,280
+into wireframe just box select the top
+
+1970
+01:04:47,280 --> 01:04:49,119
+here and scale it up and make it a lot
+
+1971
+01:04:49,119 --> 01:04:50,000
+bigger
+
+1972
+01:04:50,000 --> 01:04:51,599
+because right now the stem is way too
+
+1973
+01:04:51,599 --> 01:04:54,079
+big compared to the top of our mushroom
+
+1974
+01:04:54,079 --> 01:04:55,920
+i'm also going to alt select this loop
+
+1975
+01:04:55,920 --> 01:04:58,559
+down here scale it down and then press g
+
+1976
+01:04:58,559 --> 01:05:00,480
+and z and bring it up a bit let's make
+
+1977
+01:05:00,480 --> 01:05:02,240
+the materials for our mushrooms now so
+
+1978
+01:05:02,240 --> 01:05:04,000
+i'll click on new i'm going to call this
+
+1979
+01:05:04,000 --> 01:05:05,760
+stem because this is going to be the
+
+1980
+01:05:05,760 --> 01:05:07,520
+stem of the mushroom and i'm going to
+
+1981
+01:05:07,520 --> 01:05:08,720
+make this
+
+1982
+01:05:08,720 --> 01:05:11,119
+a lighter brown color
+
+1983
+01:05:11,119 --> 01:05:12,559
+and i'm going to turn up the roughness
+
+1984
+01:05:12,559 --> 01:05:14,319
+because i don't want it to be very rough
+
+1985
+01:05:14,319 --> 01:05:15,920
+just something like that and now i'll
+
+1986
+01:05:15,920 --> 01:05:18,319
+tap into edit mode press 3 for the face
+
+1987
+01:05:18,319 --> 01:05:20,559
+select and just alt select some of these
+
+1988
+01:05:20,559 --> 01:05:22,720
+vertices just that we have the top of
+
+1989
+01:05:22,720 --> 01:05:24,480
+the mushroom selected now i'm going to
+
+1990
+01:05:24,480 --> 01:05:26,640
+click on the plus here click on new i'm
+
+1991
+01:05:26,640 --> 01:05:29,200
+going to call this one mushroom and then
+
+1992
+01:05:29,200 --> 01:05:31,520
+click on a sign now this one i want to
+
+1993
+01:05:31,520 --> 01:05:34,319
+be a much darker color not super dark
+
+1994
+01:05:34,319 --> 01:05:36,319
+but definitely darker and then i want to
+
+1995
+01:05:36,319 --> 01:05:38,720
+turn the roughness up quite a bit and
+
+1996
+01:05:38,720 --> 01:05:39,920
+then i want to add a little bit more
+
+1997
+01:05:39,920 --> 01:05:41,599
+vertices in here so i'll tab into edit
+
+1998
+01:05:41,599 --> 01:05:43,760
+mode press 1 for the vertex select and
+
+1999
+01:05:43,760 --> 01:05:45,359
+just alt select this face and i can
+
+2000
+01:05:45,359 --> 01:05:47,760
+press ctrl b add a bevel in there that
+
+2001
+01:05:47,760 --> 01:05:48,880
+way there's just a little bit more
+
+2002
+01:05:48,880 --> 01:05:50,480
+vertices i could also
+
+2003
+01:05:50,480 --> 01:05:52,720
+select these and double tap g and edge
+
+2004
+01:05:52,720 --> 01:05:54,480
+slide them up a bit and then right here
+
+2005
+01:05:54,480 --> 01:05:56,000
+i think i want to add a bevel right here
+
+2006
+01:05:56,000 --> 01:05:58,480
+so i'll alt select this control b just
+
+2007
+01:05:58,480 --> 01:06:00,880
+make a little bevel just like that all
+
+2008
+01:06:00,880 --> 01:06:02,640
+right let's make this mushroom bend over
+
+2009
+01:06:02,640 --> 01:06:05,280
+a little bit so i'll tab in edit mode z
+
+2010
+01:06:05,280 --> 01:06:07,839
+move my mouse over just box select this
+
+2011
+01:06:07,839 --> 01:06:10,240
+and rotate it a little bit g to grab and
+
+2012
+01:06:10,240 --> 01:06:12,240
+then press b for the box select but i'm
+
+2013
+01:06:12,240 --> 01:06:13,680
+going to click with my middle mouse
+
+2014
+01:06:13,680 --> 01:06:16,240
+wheel to deselect that area and then
+
+2015
+01:06:16,240 --> 01:06:18,319
+just rotate that over a little bit okay
+
+2016
+01:06:18,319 --> 01:06:19,760
+looking pretty good i want to duplicate
+
+2017
+01:06:19,760 --> 01:06:20,880
+this and make just a couple more
+
+2018
+01:06:20,880 --> 01:06:23,359
+mushrooms so this mushroom i want it to
+
+2019
+01:06:23,359 --> 01:06:25,680
+be rotated maybe the other way so i can
+
+2020
+01:06:25,680 --> 01:06:27,680
+just rotate that over maybe scale this
+
+2021
+01:06:27,680 --> 01:06:29,599
+one up a bit so that it's a little bit
+
+2022
+01:06:29,599 --> 01:06:32,079
+bigger and then also just rotate it down
+
+2023
+01:06:32,079 --> 01:06:34,240
+a little bit just like that and then one
+
+2024
+01:06:34,240 --> 01:06:36,240
+more mushroom i'm gonna select this one
+
+2025
+01:06:36,240 --> 01:06:38,319
+press shift d click with my middle mouse
+
+2026
+01:06:38,319 --> 01:06:40,160
+bring it over and this one i want the
+
+2027
+01:06:40,160 --> 01:06:41,920
+stem to be a bit thinner and make it a
+
+2028
+01:06:41,920 --> 01:06:43,280
+little bit smaller so i'll scale this
+
+2029
+01:06:43,280 --> 01:06:46,000
+one down tab into edit mode just box
+
+2030
+01:06:46,000 --> 01:06:48,079
+select the stem here and then hold down
+
+2031
+01:06:48,079 --> 01:06:50,240
+alt and shift and select this loop and
+
+2032
+01:06:50,240 --> 01:06:51,920
+i'll scale that down and just make that
+
+2033
+01:06:51,920 --> 01:06:54,480
+really thin and then i can just select
+
+2034
+01:06:54,480 --> 01:06:56,640
+the stem bring it down just make it a
+
+2035
+01:06:56,640 --> 01:06:59,119
+lot longer and then scale this way down
+
+2036
+01:06:59,119 --> 01:07:01,280
+and bring it up a bit and there we go
+
+2037
+01:07:01,280 --> 01:07:03,520
+now we have a small thin mushroom all
+
+2038
+01:07:03,520 --> 01:07:05,119
+right just one more type of mushroom now
+
+2039
+01:07:05,119 --> 01:07:07,359
+i'm gonna make the red mushroom so i'm
+
+2040
+01:07:07,359 --> 01:07:09,599
+going to press shift a and once again
+
+2041
+01:07:09,599 --> 01:07:12,000
+add another circle make sure it has
+
+2042
+01:07:12,000 --> 01:07:14,799
+eight vertices and then scale it down so
+
+2043
+01:07:14,799 --> 01:07:16,000
+we're basically going to be modeling
+
+2044
+01:07:16,000 --> 01:07:17,760
+this the same way but a little bit
+
+2045
+01:07:17,760 --> 01:07:20,079
+different so i'll tab in edit mode here
+
+2046
+01:07:20,079 --> 01:07:22,160
+fill that face we'll go one for front
+
+2047
+01:07:22,160 --> 01:07:24,880
+view go into wireframe and this one i
+
+2048
+01:07:24,880 --> 01:07:26,880
+want to be a bit fatter the stem a bit
+
+2049
+01:07:26,880 --> 01:07:29,200
+fatter so i'll extrude this up scale it
+
+2050
+01:07:29,200 --> 01:07:31,440
+down and i want the stem to again get
+
+2051
+01:07:31,440 --> 01:07:33,520
+smaller as it goes in and then i'm going
+
+2052
+01:07:33,520 --> 01:07:36,079
+to press e to extrude scale that up and
+
+2053
+01:07:36,079 --> 01:07:38,079
+then bring it down a little bit e to
+
+2054
+01:07:38,079 --> 01:07:40,240
+extrude again scale this up and this
+
+2055
+01:07:40,240 --> 01:07:41,760
+mushroom instead of it being a shape
+
+2056
+01:07:41,760 --> 01:07:43,520
+like this i want to be a little bit more
+
+2057
+01:07:43,520 --> 01:07:45,520
+pointy and a little bit more out on the
+
+2058
+01:07:45,520 --> 01:07:48,000
+sides so i'll extrude that up
+
+2059
+01:07:48,000 --> 01:07:50,559
+and then extrude this scale it down
+
+2060
+01:07:50,559 --> 01:07:52,799
+extrude it make it a bit more pointy and
+
+2061
+01:07:52,799 --> 01:07:54,799
+a bit higher up and then extrude that
+
+2062
+01:07:54,799 --> 01:07:57,039
+scale it down and then the face is
+
+2063
+01:07:57,039 --> 01:07:58,720
+already filled okay i'm going to add a
+
+2064
+01:07:58,720 --> 01:08:00,720
+loop cut right in here so ctrl r add a
+
+2065
+01:08:00,720 --> 01:08:02,559
+loop cut and then i'm just going to box
+
+2066
+01:08:02,559 --> 01:08:04,240
+select these vertices right here and
+
+2067
+01:08:04,240 --> 01:08:06,319
+scale them up a little bit box select
+
+2068
+01:08:06,319 --> 01:08:08,079
+these and scale them down a little bit
+
+2069
+01:08:08,079 --> 01:08:09,599
+and i want the tip to be a bit more
+
+2070
+01:08:09,599 --> 01:08:12,160
+pointy so i'll just box like this scale
+
+2071
+01:08:12,160 --> 01:08:13,839
+it down and up a little bit more and
+
+2072
+01:08:13,839 --> 01:08:15,200
+then right down here at the bottom of
+
+2073
+01:08:15,200 --> 01:08:16,719
+the stem i want it to come out a little
+
+2074
+01:08:16,719 --> 01:08:18,719
+bit and then quickly go back in so i'll
+
+2075
+01:08:18,719 --> 01:08:20,719
+tab into edit mode add a loop right here
+
+2076
+01:08:20,719 --> 01:08:23,040
+by pressing ctrl r and then click and
+
+2077
+01:08:23,040 --> 01:08:24,960
+then we'll scale it up and then go into
+
+2078
+01:08:24,960 --> 01:08:27,040
+wireframe box select this area and scale
+
+2079
+01:08:27,040 --> 01:08:29,198
+it down and then this here we need a box
+
+2080
+01:08:29,198 --> 01:08:30,880
+like this and scale it up a little bit
+
+2081
+01:08:30,880 --> 01:08:32,158
+and that way it kind of comes out and
+
+2082
+01:08:32,158 --> 01:08:34,158
+then goes back in right at the end there
+
+2083
+01:08:34,158 --> 01:08:36,000
+let's add the material now so i'm going
+
+2084
+01:08:36,000 --> 01:08:38,479
+to click on this start typing in stem
+
+2085
+01:08:38,479 --> 01:08:39,759
+because we want the stem to be the same
+
+2086
+01:08:39,759 --> 01:08:41,920
+material then i'll tab into edit mode
+
+2087
+01:08:41,920 --> 01:08:44,640
+just box select the top area right here
+
+2088
+01:08:44,640 --> 01:08:47,040
+and i'll click the plus icon click on
+
+2089
+01:08:47,040 --> 01:08:50,319
+new call this red mushroom
+
+2090
+01:08:50,319 --> 01:08:51,920
+and then right here i'll make it pretty
+
+2091
+01:08:51,920 --> 01:08:53,759
+red but a little bit orange not super
+
+2092
+01:08:53,759 --> 01:08:56,719
+saturated but pretty saturated and then
+
+2093
+01:08:56,719 --> 01:08:58,719
+just click on a sign and you can see now
+
+2094
+01:08:58,719 --> 01:09:00,719
+we have a red mushroom now to make those
+
+2095
+01:09:00,719 --> 01:09:02,560
+little white circles on the mushroom i'm
+
+2096
+01:09:02,560 --> 01:09:04,319
+going to go over to the shading tab
+
+2097
+01:09:04,319 --> 01:09:05,759
+we're going to be using a procedural
+
+2098
+01:09:05,759 --> 01:09:08,000
+texture to make those little white dots
+
+2099
+01:09:08,000 --> 01:09:10,158
+on the mushroom so i'll press shift a
+
+2100
+01:09:10,158 --> 01:09:12,640
+i'm going to search for the veroni if i
+
+2101
+01:09:12,640 --> 01:09:14,960
+can spell it right veroni texture and
+
+2102
+01:09:14,960 --> 01:09:16,399
+then i'm going to use a feature from the
+
+2103
+01:09:16,399 --> 01:09:17,759
+node wrangler add-on if you don't have
+
+2104
+01:09:17,759 --> 01:09:19,198
+that enabled you can go edit and
+
+2105
+01:09:19,198 --> 01:09:20,399
+preferences
+
+2106
+01:09:20,399 --> 01:09:22,319
+and then right here on the add-ons start
+
+2107
+01:09:22,319 --> 01:09:23,759
+typing in node and you can see there's
+
+2108
+01:09:23,759 --> 01:09:25,520
+the node wrangler just check mark that
+
+2109
+01:09:25,520 --> 01:09:27,279
+and then with the add-on enabled now i
+
+2110
+01:09:27,279 --> 01:09:29,679
+can press ctrl t with the veroni texture
+
+2111
+01:09:29,679 --> 01:09:31,359
+selected and that's going to add this
+
+2112
+01:09:31,359 --> 01:09:33,600
+texture coordinate and mapping now the
+
+2113
+01:09:33,600 --> 01:09:34,960
+object i just want to plug that up to
+
+2114
+01:09:34,960 --> 01:09:36,799
+the vector and that way this froni
+
+2115
+01:09:36,799 --> 01:09:38,719
+texture will be placed on the mushroom a
+
+2116
+01:09:38,719 --> 01:09:40,560
+little bit better so i can now plug this
+
+2117
+01:09:40,560 --> 01:09:42,960
+distance into the base color and you can
+
+2118
+01:09:42,960 --> 01:09:44,560
+see what it's doing now right now the
+
+2119
+01:09:44,560 --> 01:09:46,000
+dots are way too small so i'm going to
+
+2120
+01:09:46,000 --> 01:09:48,640
+bring the scale down and then the dots
+
+2121
+01:09:48,640 --> 01:09:50,479
+are faded way too much so i'll press
+
+2122
+01:09:50,479 --> 01:09:52,960
+shift a search for a color ramp drop the
+
+2123
+01:09:52,960 --> 01:09:54,880
+color ramp right in there and then this
+
+2124
+01:09:54,880 --> 01:09:56,560
+black value and this white value if i
+
+2125
+01:09:56,560 --> 01:09:59,280
+start to push these together you can see
+
+2126
+01:09:59,280 --> 01:10:00,640
+that there's going to be a lot more
+
+2127
+01:10:00,640 --> 01:10:03,199
+contrast and then the white i'm going to
+
+2128
+01:10:03,199 --> 01:10:05,280
+make that red color so just change it
+
+2129
+01:10:05,280 --> 01:10:07,520
+back to that red color right there and
+
+2130
+01:10:07,520 --> 01:10:09,360
+then this black color i'm going to make
+
+2131
+01:10:09,360 --> 01:10:11,840
+the white so just bring that up and
+
+2132
+01:10:11,840 --> 01:10:13,760
+there we go now i think i want the scale
+
+2133
+01:10:13,760 --> 01:10:14,880
+to be
+
+2134
+01:10:14,880 --> 01:10:16,640
+a bit bigger just like that and then if
+
+2135
+01:10:16,640 --> 01:10:18,800
+you want there to be less dots you can
+
+2136
+01:10:18,800 --> 01:10:20,400
+bring these both back and you can see
+
+2137
+01:10:20,400 --> 01:10:22,480
+there's a lot less dots now sometimes
+
+2138
+01:10:22,480 --> 01:10:23,600
+instead of having circles these
+
+2139
+01:10:23,600 --> 01:10:25,760
+mushrooms have some sort of square type
+
+2140
+01:10:25,760 --> 01:10:27,760
+shapes and if you want to look like that
+
+2141
+01:10:27,760 --> 01:10:29,840
+you can change this bottom value here to
+
+2142
+01:10:29,840 --> 01:10:32,400
+manhattan and now you can see it has
+
+2143
+01:10:32,400 --> 01:10:34,480
+these little kind of square rectangle
+
+2144
+01:10:34,480 --> 01:10:36,320
+type things and if you like that better
+
+2145
+01:10:36,320 --> 01:10:38,000
+then you can leave that setting on i'm
+
+2146
+01:10:38,000 --> 01:10:39,440
+just going to change it back to the top
+
+2147
+01:10:39,440 --> 01:10:41,760
+one here and then for some reason the
+
+2148
+01:10:41,760 --> 01:10:43,760
+dots aren't really where you want
+
+2149
+01:10:43,760 --> 01:10:46,239
+right over here on the location z you
+
+2150
+01:10:46,239 --> 01:10:47,760
+can turn this and that's going to just
+
+2151
+01:10:47,760 --> 01:10:50,080
+change the dots and you can just change
+
+2152
+01:10:50,080 --> 01:10:51,840
+it to something that looks nice to you
+
+2153
+01:10:51,840 --> 01:10:53,440
+alright we're almost done here i'm just
+
+2154
+01:10:53,440 --> 01:10:55,360
+going to duplicate these and again just
+
+2155
+01:10:55,360 --> 01:10:56,880
+like the other mushrooms tab into edit
+
+2156
+01:10:56,880 --> 01:10:58,640
+mode and just box select the top of the
+
+2157
+01:10:58,640 --> 01:11:01,360
+mushrooms and give it a random rotation
+
+2158
+01:11:01,360 --> 01:11:02,640
+i'll just maybe make this one a little
+
+2159
+01:11:02,640 --> 01:11:04,320
+bit smaller as well and then i'll make
+
+2160
+01:11:04,320 --> 01:11:06,560
+one more mushroom by pressing shift d
+
+2161
+01:11:06,560 --> 01:11:08,080
+let me go back into the layout so i have
+
+2162
+01:11:08,080 --> 01:11:09,840
+a bit more space and then this one i
+
+2163
+01:11:09,840 --> 01:11:11,679
+think i want to be a bit fatter so i'll
+
+2164
+01:11:11,679 --> 01:11:13,440
+tab into edit mode select the whole
+
+2165
+01:11:13,440 --> 01:11:15,280
+thing and press s and z
+
+2166
+01:11:15,280 --> 01:11:16,800
+and bring that mushroom down and then
+
+2167
+01:11:16,800 --> 01:11:18,640
+scale it out so it's a bit more of a
+
+2168
+01:11:18,640 --> 01:11:20,719
+fatter mushroom and then this last one
+
+2169
+01:11:20,719 --> 01:11:23,120
+here i will beat a box like this and
+
+2170
+01:11:23,120 --> 01:11:25,440
+just give it a random rotation and there
+
+2171
+01:11:25,440 --> 01:11:27,840
+we go look at that our nature assets are
+
+2172
+01:11:27,840 --> 01:11:29,600
+finally done now just a couple things
+
+2173
+01:11:29,600 --> 01:11:31,120
+that i want to do before we end one
+
+2174
+01:11:31,120 --> 01:11:33,199
+thing that i want to do is press shift a
+
+2175
+01:11:33,199 --> 01:11:35,600
+and i'm going to add a sunlight i'm just
+
+2176
+01:11:35,600 --> 01:11:37,199
+going to bring this sunlight up rotate
+
+2177
+01:11:37,199 --> 01:11:39,440
+it over a bit and then i can make the
+
+2178
+01:11:39,440 --> 01:11:41,199
+strength a little bit brighter and then
+
+2179
+01:11:41,199 --> 01:11:42,480
+the color here i'm just going to make it
+
+2180
+01:11:42,480 --> 01:11:44,080
+slightly yellow so that it looks like
+
+2181
+01:11:44,080 --> 01:11:45,760
+sunlight and then one last thing that
+
+2182
+01:11:45,760 --> 01:11:47,440
+i'm going to do because i'm using ev i
+
+2183
+01:11:47,440 --> 01:11:48,640
+want to make it look a little bit more
+
+2184
+01:11:48,640 --> 01:11:50,400
+realistic so i want to bake some of the
+
+2185
+01:11:50,400 --> 01:11:52,159
+lighting and that way it will look more
+
+2186
+01:11:52,159 --> 01:11:53,840
+realistic so i'm going to press shift a
+
+2187
+01:11:53,840 --> 01:11:55,440
+and i'm going to go down here to light
+
+2188
+01:11:55,440 --> 01:11:56,640
+probe and i'm going to click on the
+
+2189
+01:11:56,640 --> 01:11:59,040
+irradiance volume and what i can do is i
+
+2190
+01:11:59,040 --> 01:12:00,960
+can use this to bake the lighting and
+
+2191
+01:12:00,960 --> 01:12:02,800
+make it look a bit more realistic so i'm
+
+2192
+01:12:02,800 --> 01:12:04,640
+just going to scale this and just make
+
+2193
+01:12:04,640 --> 01:12:07,120
+it so these little dots here are where
+
+2194
+01:12:07,120 --> 01:12:09,120
+the nature assets are just about like
+
+2195
+01:12:09,120 --> 01:12:10,960
+this maybe scale it down a little bit
+
+2196
+01:12:10,960 --> 01:12:12,719
+and then what i'm going to do is click
+
+2197
+01:12:12,719 --> 01:12:13,840
+over here
+
+2198
+01:12:13,840 --> 01:12:16,159
+to this rendering tab go down here and
+
+2199
+01:12:16,159 --> 01:12:18,080
+there's this indirect lighting if i turn
+
+2200
+01:12:18,080 --> 01:12:20,400
+this on and then click on bake indirect
+
+2201
+01:12:20,400 --> 01:12:22,400
+lighting you can see that it just makes
+
+2202
+01:12:22,400 --> 01:12:24,480
+the lighting look a bit more realistic
+
+2203
+01:12:24,480 --> 01:12:26,320
+i'll save this project again and then if
+
+2204
+01:12:26,320 --> 01:12:28,480
+i click on this it'll hide everything
+
+2205
+01:12:28,480 --> 01:12:30,560
+else from the view and i'll press ctrl
+
+2206
+01:12:30,560 --> 01:12:33,840
+spacebar to look at the finished assets
+
+2207
+01:12:33,840 --> 01:12:36,320
+so there we go there is the low poly
+
+2208
+01:12:36,320 --> 01:12:38,320
+nature asset tutorial if you make
+
+2209
+01:12:38,320 --> 01:12:39,840
+something cool with these nature assets
+
+2210
+01:12:39,840 --> 01:12:41,280
+you can definitely leave me a link in
+
+2211
+01:12:41,280 --> 01:12:42,960
+the video description to your artwork
+
+2212
+01:12:42,960 --> 01:12:44,560
+i'd love to see what you guys create
+
+2213
+01:12:44,560 --> 01:12:46,800
+with your nature assets but with that
+
+2214
+01:12:46,800 --> 01:12:48,239
+said thank you so much for watching and
+
+2215
+01:12:48,239 --> 01:12:51,840
+i will see you in a future video
+

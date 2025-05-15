@@ -1,0 +1,2040 @@
+1
+00:00:00,390 --> 00:00:03,900
+[Music]
+
+2
+00:00:03,900 --> 00:00:04,340
+[Applause]
+
+3
+00:00:04,340 --> 00:00:05,610
+[Music]
+
+4
+00:00:05,610 --> 00:00:07,130
+[Applause]
+
+5
+00:00:07,130 --> 00:00:08,039
+okay
+
+6
+00:00:08,039 --> 00:00:11,389
+[Music]
+
+7
+00:00:28,060 --> 00:00:30,500
+hello guys and welcome to another video
+
+8
+00:00:30,500 --> 00:00:31,790
+it's really windy and cold today
+
+9
+00:00:31,790 --> 00:00:33,740
+hopefully it's warmer where you are if
+
+10
+00:00:33,740 --> 00:00:34,880
+you haven't checked out my video where I
+
+11
+00:00:34,880 --> 00:00:37,370
+make ten low poly cars in ten minutes
+
+12
+00:00:37,370 --> 00:00:38,989
+go and check that on up first because
+
+13
+00:00:38,989 --> 00:00:40,280
+today I'm gonna start putting those
+
+14
+00:00:40,280 --> 00:00:42,560
+little racing cars or just normal cars
+
+15
+00:00:42,560 --> 00:00:44,510
+as well I'll put them into a little
+
+16
+00:00:44,510 --> 00:00:46,489
+racing game this won't be tutorial
+
+17
+00:00:46,489 --> 00:00:48,200
+detailed all the way through but some
+
+18
+00:00:48,200 --> 00:00:49,820
+things I'll put a little bit more in
+
+19
+00:00:49,820 --> 00:00:51,260
+detail and some things I'll just have to
+
+20
+00:00:51,260 --> 00:00:53,450
+fast forward and explain roughly what
+
+21
+00:00:53,450 --> 00:00:55,220
+I'm doing so tag along I hope you enjoy
+
+22
+00:00:55,220 --> 00:00:56,750
+this series let's do this one together
+
+23
+00:00:56,750 --> 00:00:58,460
+let's have some fun and make some low
+
+24
+00:00:58,460 --> 00:01:04,430
+poly racing I'm using this scene that I
+
+25
+00:01:04,430 --> 00:01:06,590
+used before when I created the cars but
+
+26
+00:01:06,590 --> 00:01:08,780
+I'll just hide most of them and keep one
+
+27
+00:01:08,780 --> 00:01:10,610
+in for reference and first I made a
+
+28
+00:01:10,610 --> 00:01:13,490
+little straight road segment so I went
+
+29
+00:01:13,490 --> 00:01:15,979
+to top you and then I just did shift a
+
+30
+00:01:15,979 --> 00:01:19,490
+to add a new mesh and I created a just a
+
+31
+00:01:19,490 --> 00:01:21,979
+simple quad or a paint plane the gold
+
+32
+00:01:21,979 --> 00:01:28,280
+plain I switched into edge select mode
+
+33
+00:01:28,280 --> 00:01:30,290
+and I extruded the size of the edge
+
+34
+00:01:30,290 --> 00:01:33,080
+because I hold the control key as well
+
+35
+00:01:33,080 --> 00:01:34,700
+because then you can stop the movement
+
+36
+00:01:34,700 --> 00:01:36,950
+so it's equal on both sides and then I
+
+37
+00:01:36,950 --> 00:01:39,259
+also hold to move it downwards so it
+
+38
+00:01:39,259 --> 00:01:40,729
+snaps in place the reason why I do this
+
+39
+00:01:40,729 --> 00:01:42,319
+is because if you have a road profile
+
+40
+00:01:42,319 --> 00:01:44,330
+like this with a slanted edges and you
+
+41
+00:01:44,330 --> 00:01:45,649
+can have the ground profile and
+
+42
+00:01:45,649 --> 00:01:48,020
+basically just to sink that into the
+
+43
+00:01:48,020 --> 00:01:49,580
+ground I'm trying to show here I'll just
+
+44
+00:01:49,580 --> 00:01:52,100
+slide it up in unity so you can see and
+
+45
+00:01:52,100 --> 00:01:53,720
+then I add a mesh Collider to both of
+
+46
+00:01:53,720 --> 00:01:56,630
+them and the good thing about this is
+
+47
+00:01:56,630 --> 00:01:58,490
+that you can keep asphalt physics on the
+
+48
+00:01:58,490 --> 00:02:01,190
+road and grass physics on the terrain
+
+49
+00:02:01,190 --> 00:02:02,420
+itself so you have different
+
+50
+00:02:02,420 --> 00:02:04,700
+characteristics so if you have a wheel
+
+51
+00:02:04,700 --> 00:02:06,530
+Collider like this it's gonna be really
+
+52
+00:02:06,530 --> 00:02:07,910
+good because they really like these
+
+53
+00:02:07,910 --> 00:02:11,510
+smooth transitions so here's a clip from
+
+54
+00:02:11,510 --> 00:02:13,099
+the game as well where I just in slow
+
+55
+00:02:13,099 --> 00:02:14,959
+motion roll the car and you can see that
+
+56
+00:02:14,959 --> 00:02:16,880
+the wheel collided just nicely goes up
+
+57
+00:02:16,880 --> 00:02:19,970
+over that slanted edge so that's why
+
+58
+00:02:19,970 --> 00:02:21,410
+I've got it cutting down through the
+
+59
+00:02:21,410 --> 00:02:23,270
+ground like this another benefit is that
+
+60
+00:02:23,270 --> 00:02:24,739
+the profile allows that you can have
+
+61
+00:02:24,739 --> 00:02:26,599
+uneven ground and you can still you
+
+62
+00:02:26,599 --> 00:02:28,090
+don't see the underneath of the road
+
+63
+00:02:28,090 --> 00:02:30,470
+then I'm gonna add some road markings so
+
+64
+00:02:30,470 --> 00:02:33,290
+I use just simple geometry for this you
+
+65
+00:02:33,290 --> 00:02:34,970
+could use a texture map but I like the
+
+66
+00:02:34,970 --> 00:02:36,770
+geometry method as you've seen in some
+
+67
+00:02:36,770 --> 00:02:38,510
+of my videos because you can basically
+
+68
+00:02:38,510 --> 00:02:39,500
+infinitely
+
+69
+00:02:39,500 --> 00:02:45,050
+zooom without losing any quality what
+
+70
+00:02:45,050 --> 00:02:46,730
+why else is it good oh yeah yeah it
+
+71
+00:02:46,730 --> 00:02:48,800
+doesn't take up any texture space hardly
+
+72
+00:02:48,800 --> 00:02:51,260
+any at all so that's really good so I
+
+73
+00:02:51,260 --> 00:02:54,290
+just do an inset here and I did a loop
+
+74
+00:02:54,290 --> 00:02:56,480
+cut first because then I can delete the
+
+75
+00:02:56,480 --> 00:02:59,120
+top and the bottom so I have the road
+
+76
+00:02:59,120 --> 00:03:00,920
+markings nicely ending like this and
+
+77
+00:03:00,920 --> 00:03:03,140
+then I just slide them up as well to
+
+78
+00:03:03,140 --> 00:03:05,780
+make a bit of a bigger segment it didn't
+
+79
+00:03:05,780 --> 00:03:07,850
+really have to be that precise but it
+
+80
+00:03:07,850 --> 00:03:10,790
+was quite useful to just have a I like
+
+81
+00:03:10,790 --> 00:03:13,430
+to precise I'm a bit picky so I like
+
+82
+00:03:13,430 --> 00:03:15,850
+things to be precise believe it or not
+
+83
+00:03:15,850 --> 00:03:18,080
+press end to get the properties panels
+
+84
+00:03:18,080 --> 00:03:19,400
+up and you can actually type in the
+
+85
+00:03:19,400 --> 00:03:21,050
+coordinates for the vertex is there so
+
+86
+00:03:21,050 --> 00:03:22,790
+that's why I move them up and down so
+
+87
+00:03:22,790 --> 00:03:24,890
+I've got a really nice square Road
+
+88
+00:03:24,890 --> 00:03:26,510
+segment here or more or less than square
+
+89
+00:03:26,510 --> 00:03:28,730
+anyway I've got a video check out the
+
+90
+00:03:28,730 --> 00:03:30,500
+description below and you can see how I
+
+91
+00:03:30,500 --> 00:03:33,020
+do this colorization so that should help
+
+92
+00:03:33,020 --> 00:03:35,150
+you along the way if you need to next
+
+93
+00:03:35,150 --> 00:03:36,290
+thing I wanted to do was to make a
+
+94
+00:03:36,290 --> 00:03:38,630
+corner so I extend the existing Road
+
+95
+00:03:38,630 --> 00:03:41,300
+segments to do that and then if you do
+
+96
+00:03:41,300 --> 00:03:43,280
+shift and right mouse you can place the
+
+97
+00:03:43,280 --> 00:03:45,830
+3d cursor and then do shift s to bring
+
+98
+00:03:45,830 --> 00:03:48,019
+the snap menu up and you can stop the
+
+99
+00:03:48,019 --> 00:03:50,450
+cursor to the grid and then I use this
+
+100
+00:03:50,450 --> 00:03:54,200
+spin tool to extrude and spin the road
+
+101
+00:03:54,200 --> 00:03:59,239
+as you can see here you can just you
+
+102
+00:03:59,239 --> 00:04:00,890
+know it crushed
+
+103
+00:04:00,890 --> 00:04:04,480
+protip save files before it's too late
+
+104
+00:04:04,480 --> 00:04:06,709
+the reason why I crashed is because
+
+105
+00:04:06,709 --> 00:04:08,180
+apparently you can't run screencast keys
+
+106
+00:04:08,180 --> 00:04:10,760
+with this tool so I'll after we do it so
+
+107
+00:04:10,760 --> 00:04:13,340
+I held the ctrl key to get the angles so
+
+108
+00:04:13,340 --> 00:04:15,590
+I can slide it up to exactly 90 degrees
+
+109
+00:04:15,590 --> 00:04:17,180
+and you can see that it extrudes and
+
+110
+00:04:17,180 --> 00:04:18,680
+bends the road segment really nicely
+
+111
+00:04:18,680 --> 00:04:20,390
+here so the corner is nearly done
+
+112
+00:04:20,390 --> 00:04:23,030
+already then I have to do a little bit
+
+113
+00:04:23,030 --> 00:04:24,740
+of tweaking as well because I want to
+
+114
+00:04:24,740 --> 00:04:27,979
+add some curbs on the sides so on the
+
+115
+00:04:27,979 --> 00:04:29,450
+inner and outer side I want to have some
+
+116
+00:04:29,450 --> 00:04:31,700
+curbs and things like that but the road
+
+117
+00:04:31,700 --> 00:04:33,770
+segment itself is pretty good at this
+
+118
+00:04:33,770 --> 00:04:36,010
+stage
+
+119
+00:04:36,390 --> 00:04:39,070
+so now it's time to add the curb as you
+
+120
+00:04:39,070 --> 00:04:40,360
+can see here we've got a little police
+
+121
+00:04:40,360 --> 00:04:42,580
+car skidding across the curb love that
+
+122
+00:04:42,580 --> 00:04:44,940
+shop well slow mo for you there guys
+
+123
+00:04:44,940 --> 00:04:47,800
+press 2 to get into edge select mode and
+
+124
+00:04:47,800 --> 00:04:51,340
+then I basically Clifton Clift clicking
+
+125
+00:04:51,340 --> 00:04:53,740
+left mouse click to select the shortest
+
+126
+00:04:53,740 --> 00:04:56,230
+path to get all them and just selected
+
+127
+00:04:56,230 --> 00:04:58,060
+and then I do shifty to duplicate them
+
+128
+00:04:58,060 --> 00:04:59,980
+again now I do Shift + right mouse click
+
+129
+00:04:59,980 --> 00:05:02,860
+to place the cursor and I snap it to the
+
+130
+00:05:02,860 --> 00:05:07,170
+grid this I can get a really precise
+
+131
+00:05:07,170 --> 00:05:09,670
+coordinate for the scaling because if I
+
+132
+00:05:09,670 --> 00:05:11,620
+do the pivot point with a period key I
+
+133
+00:05:11,620 --> 00:05:14,170
+can set that to be the 3d cursor and
+
+134
+00:05:14,170 --> 00:05:16,150
+then I want to do extrude it really
+
+135
+00:05:16,150 --> 00:05:18,640
+extrudes it nicely so I get a nice mesh
+
+136
+00:05:18,640 --> 00:05:23,890
+for the curb to use and then I do a loop
+
+137
+00:05:23,890 --> 00:05:26,050
+cut with ctrl R and I use the mouse
+
+138
+00:05:26,050 --> 00:05:27,850
+wheel to just slide up the number of
+
+139
+00:05:27,850 --> 00:05:29,950
+cuts so I think three should be
+
+140
+00:05:29,950 --> 00:05:32,740
+sufficient for this one and then I want
+
+141
+00:05:32,740 --> 00:05:34,000
+to raise them up but I want to do
+
+142
+00:05:34,000 --> 00:05:36,790
+proportionally so in order to do that
+
+143
+00:05:36,790 --> 00:05:38,770
+you can enable proportional editing it's
+
+144
+00:05:38,770 --> 00:05:41,410
+Oh on the hotkey or you can click up
+
+145
+00:05:41,410 --> 00:05:44,140
+there at the top as you can see use the
+
+146
+00:05:44,140 --> 00:05:46,180
+mouse wheel to change how much it should
+
+147
+00:05:46,180 --> 00:05:48,580
+affect and I just put press key and move
+
+148
+00:05:48,580 --> 00:05:50,800
+it up so you can you can type and I
+
+149
+00:05:50,800 --> 00:05:52,420
+think I end up typing in the number here
+
+150
+00:05:52,420 --> 00:05:54,670
+to go together exactly 0.2 I think I
+
+151
+00:05:54,670 --> 00:05:57,340
+checked and now you have a nice Bend to
+
+152
+00:05:57,340 --> 00:06:00,100
+this curb segment as well so because I
+
+153
+00:06:00,100 --> 00:06:03,130
+want it to be a nice bumpy curb so you
+
+154
+00:06:03,130 --> 00:06:08,140
+can skip across it make sure you have
+
+155
+00:06:08,140 --> 00:06:10,480
+Auto merge vertices enabled as well
+
+156
+00:06:10,480 --> 00:06:11,830
+because we're going to be merging some
+
+157
+00:06:11,830 --> 00:06:14,230
+of the sides now of this mesh so I do be
+
+158
+00:06:14,230 --> 00:06:16,690
+for box select and then I collect a few
+
+159
+00:06:16,690 --> 00:06:19,150
+of these vertices and then I just move
+
+160
+00:06:19,150 --> 00:06:20,740
+them into place and I do this a little
+
+161
+00:06:20,740 --> 00:06:22,990
+bit even though I like to be picky I
+
+162
+00:06:22,990 --> 00:06:25,780
+just do that a little bit off what do
+
+163
+00:06:25,780 --> 00:06:28,090
+you say white chance no yeah and just do
+
+164
+00:06:28,090 --> 00:06:29,890
+it shooting from the hip that's what I'm
+
+165
+00:06:29,890 --> 00:06:31,920
+doing
+
+166
+00:06:31,920 --> 00:06:34,440
+so I'll just move it a little bit it's
+
+167
+00:06:34,440 --> 00:06:36,360
+not that picky even though I like to be
+
+168
+00:06:36,360 --> 00:06:36,870
+picky
+
+169
+00:06:36,870 --> 00:06:39,120
+I like to talk about me as well I just
+
+170
+00:06:39,120 --> 00:06:41,430
+select these vertices and move them in
+
+171
+00:06:41,430 --> 00:06:45,030
+to get a little bit of a curb shape then
+
+172
+00:06:45,030 --> 00:06:47,010
+I do the selection I hold the shift key
+
+173
+00:06:47,010 --> 00:06:48,450
+to just to select the number of faces
+
+174
+00:06:48,450 --> 00:06:50,490
+here because again I'm doing the
+
+175
+00:06:50,490 --> 00:06:54,210
+colorization using just bringing the UV
+
+176
+00:06:54,210 --> 00:06:57,060
+Islands to a pixel on a really tiny
+
+177
+00:06:57,060 --> 00:06:58,470
+texture as you can see on the left but
+
+178
+00:06:58,470 --> 00:07:00,090
+check out that video check out the link
+
+179
+00:07:00,090 --> 00:07:01,680
+in the description that will help you
+
+180
+00:07:01,680 --> 00:07:04,410
+along the way hmm
+
+181
+00:07:04,410 --> 00:07:07,020
+every time I cough I get comments that I
+
+182
+00:07:07,020 --> 00:07:10,260
+shouldn't so that's not grab the outer
+
+183
+00:07:10,260 --> 00:07:12,390
+edge again and I want to extrude that
+
+184
+00:07:12,390 --> 00:07:14,040
+one as well and I do the same method by
+
+185
+00:07:14,040 --> 00:07:16,890
+setting the 3d cursor and extruding its
+
+186
+00:07:16,890 --> 00:07:18,690
+you can't really do alt s to extrude
+
+187
+00:07:18,690 --> 00:07:20,040
+along than normal because I just
+
+188
+00:07:20,040 --> 00:07:22,230
+apparently don't have normals so you
+
+189
+00:07:22,230 --> 00:07:23,610
+can't do that so I have to do this
+
+190
+00:07:23,610 --> 00:07:25,590
+method instead and the reason why I
+
+191
+00:07:25,590 --> 00:07:27,090
+extended like that is because I also
+
+192
+00:07:27,090 --> 00:07:28,590
+want to bring that down so it slides
+
+193
+00:07:28,590 --> 00:07:31,200
+down nicely under the terrain and you
+
+194
+00:07:31,200 --> 00:07:32,550
+could extend it further if you want to
+
+195
+00:07:32,550 --> 00:07:34,890
+have even more possibility of a bumpy
+
+196
+00:07:34,890 --> 00:07:37,020
+terrain fast-forward a little bit
+
+197
+00:07:37,020 --> 00:07:38,520
+because I do pretty much the same thing
+
+198
+00:07:38,520 --> 00:07:40,560
+here on the inner curb it's the same
+
+199
+00:07:40,560 --> 00:07:42,630
+technique to some tweaking adjustment
+
+200
+00:07:42,630 --> 00:07:45,150
+and then I select the UV islands and
+
+201
+00:07:45,150 --> 00:07:47,760
+then I do the conversation as well nice
+
+202
+00:07:47,760 --> 00:07:48,930
+thing is well you can just sweep up
+
+203
+00:07:48,930 --> 00:07:51,120
+sweep out swap out the texture as well
+
+204
+00:07:51,120 --> 00:07:52,980
+later on if you wanted to have blue and
+
+205
+00:07:52,980 --> 00:07:55,620
+white curbs or something like that same
+
+206
+00:07:55,620 --> 00:07:57,360
+thing here I extrude the inner edge so I
+
+207
+00:07:57,360 --> 00:07:59,310
+can get the little slump down and then I
+
+208
+00:07:59,310 --> 00:08:01,260
+clump those down I hold the control key
+
+209
+00:08:01,260 --> 00:08:04,470
+to just move and add some vertices there
+
+210
+00:08:04,470 --> 00:08:06,120
+so I can just clamp it down so it's got
+
+211
+00:08:06,120 --> 00:08:08,070
+exactly the same profile as a road there
+
+212
+00:08:08,070 --> 00:08:10,560
+so now it should connect nicely when I
+
+213
+00:08:10,560 --> 00:08:13,200
+do multiple corners later on I should be
+
+214
+00:08:13,200 --> 00:08:14,880
+able to link those up with a straight
+
+215
+00:08:14,880 --> 00:08:17,960
+road and also a bunch of corners now
+
+216
+00:08:17,960 --> 00:08:21,500
+we're going to do some jump love jumping
+
+217
+00:08:21,500 --> 00:08:24,759
+[Applause]
+
+218
+00:08:36,500 --> 00:08:40,150
+and you played supercars too
+
+219
+00:08:40,150 --> 00:08:54,419
+[Music]
+
+220
+00:08:55,820 --> 00:08:57,529
+so some slow-motion shots there for you
+
+221
+00:08:57,529 --> 00:09:01,070
+and two I use the road segment the
+
+222
+00:09:01,070 --> 00:09:02,899
+straight one that I did I do control R
+
+223
+00:09:02,899 --> 00:09:05,029
+and I do about nine or ten loop cuts
+
+224
+00:09:05,029 --> 00:09:08,390
+here and then basically I can just
+
+225
+00:09:08,390 --> 00:09:10,430
+proportionally edit this now to get a
+
+226
+00:09:10,430 --> 00:09:13,700
+little nicer slant so usually you want
+
+227
+00:09:13,700 --> 00:09:15,589
+to duplicate your objects as well so you
+
+228
+00:09:15,589 --> 00:09:17,690
+don't overwrite the road I over wrote my
+
+229
+00:09:17,690 --> 00:09:19,670
+own segments a few times so I keep
+
+230
+00:09:19,670 --> 00:09:22,040
+forgetting so make copies save and
+
+231
+00:09:22,040 --> 00:09:25,399
+duplicate your objects now I enabled
+
+232
+00:09:25,399 --> 00:09:27,170
+proportional editing again and then I
+
+233
+00:09:27,170 --> 00:09:29,300
+just used the scroll wheel to scroll it
+
+234
+00:09:29,300 --> 00:09:32,540
+up so I could get a nice there's no
+
+235
+00:09:32,540 --> 00:09:34,130
+signs to this but later assigns to this
+
+236
+00:09:34,130 --> 00:09:36,830
+but I didn't use it so I just shot from
+
+237
+00:09:36,830 --> 00:09:40,520
+the hip again like a cowboy do they
+
+238
+00:09:40,520 --> 00:09:41,630
+shoot from there I don't know if they
+
+239
+00:09:41,630 --> 00:09:44,690
+did but anyway then I selected the
+
+240
+00:09:44,690 --> 00:09:47,300
+bottom vertices and I pressed scale s to
+
+241
+00:09:47,300 --> 00:09:51,290
+scale and then just Z is zero so I could
+
+242
+00:09:51,290 --> 00:09:53,120
+just I got those in a nice straight line
+
+243
+00:09:53,120 --> 00:09:55,550
+and then I just brought those down to
+
+244
+00:09:55,550 --> 00:09:58,279
+the one one unit below so I knew that it
+
+245
+00:09:58,279 --> 00:09:59,630
+will match up nicely with the road
+
+246
+00:09:59,630 --> 00:10:02,029
+segment then I select the outer edges
+
+247
+00:10:02,029 --> 00:10:04,370
+here in the in the empty space and then
+
+248
+00:10:04,370 --> 00:10:07,160
+you just press F to create a face to cap
+
+249
+00:10:07,160 --> 00:10:09,230
+that end nicely and that's pretty much
+
+250
+00:10:09,230 --> 00:10:12,560
+it that is done now so the jump it's
+
+251
+00:10:12,560 --> 00:10:13,160
+ready to go
+
+252
+00:10:13,160 --> 00:10:14,959
+same for landing whoo now we're gonna
+
+253
+00:10:14,959 --> 00:10:16,760
+create an overpass they're quite fun too
+
+254
+00:10:16,760 --> 00:10:18,230
+and they're not as fun as jumps but
+
+255
+00:10:18,230 --> 00:10:21,140
+they're quite fun so it will enable you
+
+256
+00:10:21,140 --> 00:10:22,940
+to drive over the road and I think they
+
+257
+00:10:22,940 --> 00:10:26,390
+had that in supercars two supercars too
+
+258
+00:10:26,390 --> 00:10:29,510
+- yeah okay so same technique here I
+
+259
+00:10:29,510 --> 00:10:32,209
+duplicated the road segments or at least
+
+260
+00:10:32,209 --> 00:10:33,800
+that's what I should have done and then
+
+261
+00:10:33,800 --> 00:10:35,810
+I do some more loop cuts this time
+
+262
+00:10:35,810 --> 00:10:37,010
+because it's gotta be slightly longer
+
+263
+00:10:37,010 --> 00:10:38,930
+I'm gonna do the same technique here I
+
+264
+00:10:38,930 --> 00:10:41,120
+select a bunch of vertices and then I
+
+265
+00:10:41,120 --> 00:10:43,940
+click o to do proportional editing first
+
+266
+00:10:43,940 --> 00:10:46,610
+I forgot it but then I enabled it so I
+
+267
+00:10:46,610 --> 00:10:48,560
+do the proportional editing and I just
+
+268
+00:10:48,560 --> 00:10:51,500
+slide it off to a decent salams make
+
+269
+00:10:51,500 --> 00:10:53,450
+sure you don't do so the very tip of the
+
+270
+00:10:53,450 --> 00:10:55,459
+road it gets affected because that's or
+
+271
+00:10:55,459 --> 00:10:57,020
+the end of the road because that needs
+
+272
+00:10:57,020 --> 00:10:59,360
+to link up nicely to the road segment
+
+273
+00:10:59,360 --> 00:11:01,400
+that you have
+
+274
+00:11:01,400 --> 00:11:03,990
+and then I had to do some tweaking as
+
+275
+00:11:03,990 --> 00:11:06,630
+well you couldn't just have an empty
+
+276
+00:11:06,630 --> 00:11:09,090
+like basically no faces underneath so I
+
+277
+00:11:09,090 --> 00:11:11,220
+did some testing here for different
+
+278
+00:11:11,220 --> 00:11:12,780
+techniques but I ended up going for
+
+279
+00:11:12,780 --> 00:11:15,000
+something where I just pulled down I
+
+280
+00:11:15,000 --> 00:11:16,680
+extrude it down the edges vertically
+
+281
+00:11:16,680 --> 00:11:19,500
+down and then I selected the bottom
+
+282
+00:11:19,500 --> 00:11:21,540
+edges and I pressed F along I selected
+
+283
+00:11:21,540 --> 00:11:23,790
+all the edges and I just repeated that
+
+284
+00:11:23,790 --> 00:11:25,920
+over and over again and created faces
+
+285
+00:11:25,920 --> 00:11:28,230
+underneath the road because here you're
+
+286
+00:11:28,230 --> 00:11:29,700
+gonna be able to see some camera shots
+
+287
+00:11:29,700 --> 00:11:31,560
+in probably not when you play the game
+
+288
+00:11:31,560 --> 00:11:33,090
+but on replays and things like that
+
+289
+00:11:33,090 --> 00:11:34,500
+you'll see the underneath so you can't
+
+290
+00:11:34,500 --> 00:11:37,140
+have a no back faces there maybe there's
+
+291
+00:11:37,140 --> 00:11:40,020
+a faster way to cut this I didn't use
+
+292
+00:11:40,020 --> 00:11:42,240
+that a faster way I used this way this
+
+293
+00:11:42,240 --> 00:11:44,490
+will way but I fast forward it a little
+
+294
+00:11:44,490 --> 00:11:45,810
+bit in the video for you so that's
+
+295
+00:11:45,810 --> 00:11:48,360
+pretty good in the end I just linked it
+
+296
+00:11:48,360 --> 00:11:49,710
+up again and I have to make sure again
+
+297
+00:11:49,710 --> 00:11:51,720
+that it should link nicely to the road
+
+298
+00:11:51,720 --> 00:11:54,600
+segment so I have to make sure that that
+
+299
+00:11:54,600 --> 00:11:58,440
+I didn't affect the very very first set
+
+300
+00:11:58,440 --> 00:12:00,720
+of vertices there you want to make sure
+
+301
+00:12:00,720 --> 00:12:03,270
+that those linked oh so I use ctrl key I
+
+302
+00:12:03,270 --> 00:12:05,220
+switch here to vertex snapping hold the
+
+303
+00:12:05,220 --> 00:12:07,140
+ctrl key so I can snap those into the
+
+304
+00:12:07,140 --> 00:12:09,210
+original vertex there you don't have to
+
+305
+00:12:09,210 --> 00:12:10,800
+create the end faces because all the
+
+306
+00:12:10,800 --> 00:12:13,170
+roads will be linked up to each other so
+
+307
+00:12:13,170 --> 00:12:15,360
+that can be left as a gap saves or
+
+308
+00:12:15,360 --> 00:12:17,580
+massive performance not really look
+
+309
+00:12:17,580 --> 00:12:19,890
+pretty good anyway alright
+
+310
+00:12:19,890 --> 00:12:21,750
+some final tweaking there with the
+
+311
+00:12:21,750 --> 00:12:23,970
+burgesses probably didn't have to do
+
+312
+00:12:23,970 --> 00:12:28,200
+that but I did it anyway this road
+
+313
+00:12:28,200 --> 00:12:32,300
+segment is pretty much ready to go now
+
+314
+00:12:32,630 --> 00:12:35,100
+the car is just there for reference I
+
+315
+00:12:35,100 --> 00:12:37,220
+could have hit up
+
+316
+00:12:37,220 --> 00:12:39,740
+oh I have a some margin on the sides as
+
+317
+00:12:39,740 --> 00:12:40,940
+well because I wanted to put some
+
+318
+00:12:40,940 --> 00:12:43,070
+railing on it or some fences so that's
+
+319
+00:12:43,070 --> 00:12:44,510
+why I extrude it a little bit to the
+
+320
+00:12:44,510 --> 00:12:46,100
+side so I didn't just drop it down
+
+321
+00:12:46,100 --> 00:12:49,160
+straight next to the road itself all
+
+322
+00:12:49,160 --> 00:12:51,080
+right now it's time to do something
+
+323
+00:12:51,080 --> 00:12:52,070
+completely different
+
+324
+00:12:52,070 --> 00:12:54,260
+we're gonna do this straight finish line
+
+325
+00:12:54,260 --> 00:12:56,000
+and that's the same technique as before
+
+326
+00:12:56,000 --> 00:12:57,920
+to colorize but I do a whole bunch of
+
+327
+00:12:57,920 --> 00:12:59,900
+loop cuts here both vertically and
+
+328
+00:12:59,900 --> 00:13:02,120
+horizontally into a little checkered
+
+329
+00:13:02,120 --> 00:13:04,190
+pattern again I'm gonna get loads of
+
+330
+00:13:04,190 --> 00:13:05,660
+comments now saying that this is way too
+
+331
+00:13:05,660 --> 00:13:08,210
+much geometry you're wasting performance
+
+332
+00:13:08,210 --> 00:13:09,830
+you should just use a texture but I'm
+
+333
+00:13:09,830 --> 00:13:11,030
+not gonna use the texture because that
+
+334
+00:13:11,030 --> 00:13:13,310
+uses texture space and it doesn't zoom
+
+335
+00:13:13,310 --> 00:13:15,460
+it's nicely assists us cuz I can zoom in
+
+336
+00:13:15,460 --> 00:13:18,410
+infinitely there enough anyway and it'll
+
+337
+00:13:18,410 --> 00:13:21,800
+look perfect no no messing around there
+
+338
+00:13:21,800 --> 00:13:24,200
+with blurry textures even if you had a
+
+339
+00:13:24,200 --> 00:13:26,270
+4k texture or something like that
+
+340
+00:13:26,270 --> 00:13:27,980
+so I'm gonna use this method it's so few
+
+341
+00:13:27,980 --> 00:13:29,660
+polygons anyway that the performance is
+
+342
+00:13:29,660 --> 00:13:31,310
+not gonna be a problem and if you're
+
+343
+00:13:31,310 --> 00:13:32,720
+really concerned you could do a
+
+344
+00:13:32,720 --> 00:13:34,910
+different one for the collider so it
+
+345
+00:13:34,910 --> 00:13:36,170
+doesn't have that geometry you could
+
+346
+00:13:36,170 --> 00:13:39,490
+just use the normal road segment
+
+347
+00:13:39,490 --> 00:13:42,290
+[Music]
+
+348
+00:13:42,290 --> 00:13:45,709
+I use all the different segments that
+
+349
+00:13:45,709 --> 00:13:46,910
+I've created now and I linked them
+
+350
+00:13:46,910 --> 00:13:48,380
+together I have got Auto merge of
+
+351
+00:13:48,380 --> 00:13:50,500
+burgesses on which is really important I
+
+352
+00:13:50,500 --> 00:13:53,389
+do this in the same mesh keep in mind
+
+353
+00:13:53,389 --> 00:13:55,759
+keep keep in mind and keep in mind I
+
+354
+00:13:55,759 --> 00:13:58,100
+don't create a bunch of separate message
+
+355
+00:13:58,100 --> 00:13:58,850
+and meshes
+
+356
+00:13:58,850 --> 00:14:01,339
+I don't create a bunch of separate
+
+357
+00:14:01,339 --> 00:14:04,459
+message message I don't create a bunch
+
+358
+00:14:04,459 --> 00:14:07,730
+of separate meshes because tried that in
+
+359
+00:14:07,730 --> 00:14:09,410
+unity before and if you have separate
+
+360
+00:14:09,410 --> 00:14:12,319
+meshes the colliders go a bit funky so
+
+361
+00:14:12,319 --> 00:14:14,420
+basically if you jump over a jump and
+
+362
+00:14:14,420 --> 00:14:16,550
+the car hits on the on the down slant
+
+363
+00:14:16,550 --> 00:14:18,769
+for example and there's a joined Road
+
+364
+00:14:18,769 --> 00:14:21,170
+segment there it could catch the
+
+365
+00:14:21,170 --> 00:14:24,920
+collider and it doesn't work is good so
+
+366
+00:14:24,920 --> 00:14:26,240
+that's why I've decided in this case
+
+367
+00:14:26,240 --> 00:14:29,660
+anyway to do the entire road as one mesh
+
+368
+00:14:29,660 --> 00:14:32,540
+in blender and export it there is a fix
+
+369
+00:14:32,540 --> 00:14:34,579
+if you wanted to really have it modular
+
+370
+00:14:34,579 --> 00:14:36,350
+and that is that you could keep separate
+
+371
+00:14:36,350 --> 00:14:38,509
+modules assemble them in unity and then
+
+372
+00:14:38,509 --> 00:14:40,430
+run a script that merges all the
+
+373
+00:14:40,430 --> 00:14:42,949
+vertices for the Collider in unity it's
+
+374
+00:14:42,949 --> 00:14:46,850
+a bit out of the class for this time but
+
+375
+00:14:46,850 --> 00:14:48,589
+maybe I could do that in a future
+
+376
+00:14:48,589 --> 00:14:50,569
+version if this game becomes to a point
+
+377
+00:14:50,569 --> 00:14:52,100
+where I wanted to start to make it a
+
+378
+00:14:52,100 --> 00:14:53,449
+little bit more modular and maybe a
+
+379
+00:14:53,449 --> 00:14:54,920
+track editor or something like that I
+
+380
+00:14:54,920 --> 00:14:56,600
+have to do that so maybe I'll come to
+
+381
+00:14:56,600 --> 00:15:00,319
+that one day this is quite fun I just
+
+382
+00:15:00,319 --> 00:15:02,149
+set the inverse and probably not that
+
+383
+00:15:02,149 --> 00:15:03,709
+fun to watch but it was fun to make so
+
+384
+00:15:03,709 --> 00:15:07,250
+just use your imagination and I I just
+
+385
+00:15:07,250 --> 00:15:10,130
+basically select using box selected I
+
+386
+00:15:10,130 --> 00:15:12,829
+select a bunch of faces and then I
+
+387
+00:15:12,829 --> 00:15:15,949
+rotate them using the same method before
+
+388
+00:15:15,949 --> 00:15:17,810
+with I have to make sure that I used the
+
+389
+00:15:17,810 --> 00:15:19,610
+cursor it's snapping to grid so the
+
+390
+00:15:19,610 --> 00:15:22,040
+rotation is aligned perfectly and then I
+
+391
+00:15:22,040 --> 00:15:23,660
+just link a whole bunch of segments
+
+392
+00:15:23,660 --> 00:15:25,490
+together and I create the track that
+
+393
+00:15:25,490 --> 00:15:28,899
+you've seen in the intro screen there
+
+394
+00:15:29,540 --> 00:15:33,120
+if you want to select the part of the
+
+395
+00:15:33,120 --> 00:15:34,590
+mesh you could either box elect like I'm
+
+396
+00:15:34,590 --> 00:15:36,240
+doing or sometimes you can press the L
+
+397
+00:15:36,240 --> 00:15:38,040
+key when you hover over a segment and
+
+398
+00:15:38,040 --> 00:15:40,530
+I'll select that particular part so you
+
+399
+00:15:40,530 --> 00:15:42,990
+could use both methods whichever you
+
+400
+00:15:42,990 --> 00:15:45,720
+feel more comfortable with and then it's
+
+401
+00:15:45,720 --> 00:15:47,070
+just a matter of I fast forward a little
+
+402
+00:15:47,070 --> 00:15:49,470
+bit here because I just can't decide
+
+403
+00:15:49,470 --> 00:15:51,180
+what I'm doing I'm tweaking a little bit
+
+404
+00:15:51,180 --> 00:15:53,910
+probably too much changing my mind back
+
+405
+00:15:53,910 --> 00:15:56,910
+and forth and forth and back but in the
+
+406
+00:15:56,910 --> 00:15:59,010
+end it turns out to be a little nifty
+
+407
+00:15:59,010 --> 00:16:02,550
+race track so I think if you've checked
+
+408
+00:16:02,550 --> 00:16:04,800
+also my previous videos either the ten
+
+409
+00:16:04,800 --> 00:16:07,530
+minutes fast builds or my tutorials my
+
+410
+00:16:07,530 --> 00:16:11,370
+20 tips on blender tutorial most of
+
+411
+00:16:11,370 --> 00:16:13,320
+these techniques I show in those videos
+
+412
+00:16:13,320 --> 00:16:15,480
+pretty much in detail all the keyboard
+
+413
+00:16:15,480 --> 00:16:18,090
+shortcuts and things like that so make
+
+414
+00:16:18,090 --> 00:16:19,560
+sure you check out my channel history if
+
+415
+00:16:19,560 --> 00:16:21,180
+you want to check some more check check
+
+416
+00:16:21,180 --> 00:16:21,390
+check
+
+417
+00:16:21,390 --> 00:16:23,400
+a lot of check in it but if you want to
+
+418
+00:16:23,400 --> 00:16:25,620
+see some techniques anyway to learn a
+
+419
+00:16:25,620 --> 00:16:26,700
+little bit more about this
+
+420
+00:16:26,700 --> 00:16:28,890
+so obviously this part is not really a
+
+421
+00:16:28,890 --> 00:16:30,750
+tutorial I could probably spend hours
+
+422
+00:16:30,750 --> 00:16:34,380
+talking about this in all it took me
+
+423
+00:16:34,380 --> 00:16:37,410
+about what could I say maybe half an
+
+424
+00:16:37,410 --> 00:16:39,330
+hour to make the track something like
+
+425
+00:16:39,330 --> 00:16:41,970
+that so because I kept changing my mind
+
+426
+00:16:41,970 --> 00:16:43,890
+a little bit using different techniques
+
+427
+00:16:43,890 --> 00:16:46,050
+and then I messed up the vertices a
+
+428
+00:16:46,050 --> 00:16:47,840
+little bit and I had to redo a lot of
+
+429
+00:16:47,840 --> 00:16:51,830
+merging process and things like that
+
+430
+00:17:01,410 --> 00:17:03,540
+and that's it that's the track done so
+
+431
+00:17:03,540 --> 00:17:07,349
+then I have to just do one thing more
+
+432
+00:17:07,349 --> 00:17:08,939
+and that's just as simple terrain so I
+
+433
+00:17:08,939 --> 00:17:11,780
+add another quad mesh here or a plane I
+
+434
+00:17:11,780 --> 00:17:14,309
+make it about a hundred units in size
+
+435
+00:17:14,309 --> 00:17:17,280
+and then I do a bunch of loop cuts again
+
+436
+00:17:17,280 --> 00:17:20,819
+both horizontally and vertically and I
+
+437
+00:17:20,819 --> 00:17:22,650
+like to keep the low-poly style and it's
+
+438
+00:17:22,650 --> 00:17:24,990
+also nice for the for the car when it
+
+439
+00:17:24,990 --> 00:17:27,780
+drives around to have some nice slanted
+
+440
+00:17:27,780 --> 00:17:29,340
+edges I might increase the detail
+
+441
+00:17:29,340 --> 00:17:30,809
+slightly in the future but for now I
+
+442
+00:17:30,809 --> 00:17:33,870
+just kept it like this so I press ctrl R
+
+443
+00:17:33,870 --> 00:17:35,820
+to do all the loop cuts in both
+
+444
+00:17:35,820 --> 00:17:38,190
+directions here and then I just select a
+
+445
+00:17:38,190 --> 00:17:41,669
+few random basically a few random faces
+
+446
+00:17:41,669 --> 00:17:43,200
+and I raise them up a bit and I drop
+
+447
+00:17:43,200 --> 00:17:45,150
+them down couldn't make up my mind again
+
+448
+00:17:45,150 --> 00:17:47,640
+that's a bit of a trend that I've got to
+
+449
+00:17:47,640 --> 00:17:50,520
+change my mind a lot but up and down
+
+450
+00:17:50,520 --> 00:17:53,340
+down and up and then for some reason I
+
+451
+00:17:53,340 --> 00:17:55,500
+selected all those individually totally
+
+452
+00:17:55,500 --> 00:17:58,200
+idiotic but I did it anyway and made a
+
+453
+00:17:58,200 --> 00:17:59,460
+little room there it's gonna be a police
+
+454
+00:17:59,460 --> 00:18:01,230
+station there so I left a little gap
+
+455
+00:18:01,230 --> 00:18:03,510
+there and here's a little canal or a
+
+456
+00:18:03,510 --> 00:18:05,100
+little stream of water and there's a
+
+457
+00:18:05,100 --> 00:18:07,230
+little lake part and then I created a
+
+458
+00:18:07,230 --> 00:18:08,850
+little raised area as well so this is a
+
+459
+00:18:08,850 --> 00:18:11,429
+lot of a bit of a diorama of a racetrack
+
+460
+00:18:11,429 --> 00:18:14,340
+so maybe I'll add some stuff to the side
+
+461
+00:18:14,340 --> 00:18:17,490
+so later on I'm not sure that's actually
+
+462
+00:18:17,490 --> 00:18:19,500
+gonna be all that I show in this episode
+
+463
+00:18:19,500 --> 00:18:21,450
+I've got everything the game is actually
+
+464
+00:18:21,450 --> 00:18:23,970
+running now so I've set some fast lap
+
+465
+00:18:23,970 --> 00:18:26,190
+times I had to make sure I kept playing
+
+466
+00:18:26,190 --> 00:18:29,309
+until I had some 20 second life time it
+
+467
+00:18:29,309 --> 00:18:30,840
+was a lot of fun took me a while maybe
+
+468
+00:18:30,840 --> 00:18:32,460
+40 laps or something like that but it
+
+469
+00:18:32,460 --> 00:18:34,620
+did in the end and I also use this it's
+
+470
+00:18:34,620 --> 00:18:37,710
+super simple in unity to tangles with
+
+471
+00:18:37,710 --> 00:18:39,809
+all the cables but you can either run it
+
+472
+00:18:39,809 --> 00:18:41,789
+with a keyboard or you can use the
+
+473
+00:18:41,789 --> 00:18:43,409
+controller and I think what I'll do is
+
+474
+00:18:43,409 --> 00:18:46,169
+I'm gonna put together soon a little web
+
+475
+00:18:46,169 --> 00:18:47,970
+playable version and I want to see how
+
+476
+00:18:47,970 --> 00:18:50,309
+you guys can perform and what sort of a
+
+477
+00:18:50,309 --> 00:18:51,659
+lot of times you get maybe I'll even
+
+478
+00:18:51,659 --> 00:18:54,059
+throw a leaderboard in there before it
+
+479
+00:18:54,059 --> 00:18:55,559
+maybe get a little healthy competition
+
+480
+00:18:55,559 --> 00:18:57,390
+going while we make this game but should
+
+481
+00:18:57,390 --> 00:18:58,890
+be fun I hope you liked this video and I
+
+482
+00:18:58,890 --> 00:19:00,150
+hope it gave you a little bit of an
+
+483
+00:19:00,150 --> 00:19:02,909
+insight to how I started making this
+
+484
+00:19:02,909 --> 00:19:04,620
+little racing game I've got pretty much
+
+485
+00:19:04,620 --> 00:19:06,539
+all the content recorded up until the
+
+486
+00:19:06,539 --> 00:19:08,640
+game played in the plane I've got the
+
+487
+00:19:08,640 --> 00:19:09,990
+wheel Collider the
+
+488
+00:19:09,990 --> 00:19:12,180
+the life timer things with the
+
+489
+00:19:12,180 --> 00:19:13,680
+checkpoints and things like that so
+
+490
+00:19:13,680 --> 00:19:15,480
+everything that you've seen in the intro
+
+491
+00:19:15,480 --> 00:19:16,620
+video and things like that I've already
+
+492
+00:19:16,620 --> 00:19:18,930
+got that immunity running it's just a
+
+493
+00:19:18,930 --> 00:19:20,580
+matter of me finding the time now to put
+
+494
+00:19:20,580 --> 00:19:22,260
+those together into videos because
+
+495
+00:19:22,260 --> 00:19:24,270
+everything's recorded so I hope you
+
+496
+00:19:24,270 --> 00:19:25,710
+enjoyed this video it was a lot of fun
+
+497
+00:19:25,710 --> 00:19:27,060
+to make it and I'm looking forward to
+
+498
+00:19:27,060 --> 00:19:28,860
+putting the future episodes together and
+
+499
+00:19:28,860 --> 00:19:31,680
+more importantly I like to play it and
+
+500
+00:19:31,680 --> 00:19:33,150
+more importantly I want to play this
+
+501
+00:19:33,150 --> 00:19:35,430
+game so I wonder if I can make it
+
+502
+00:19:35,430 --> 00:19:38,250
+multiplayer as well I should be fun give
+
+503
+00:19:38,250 --> 00:19:39,750
+a thumbs up if you like this video hit
+
+504
+00:19:39,750 --> 00:19:41,370
+the subscribe button if you want to see
+
+505
+00:19:41,370 --> 00:19:43,110
+some more stuff like this and I'll see
+
+506
+00:19:43,110 --> 00:19:44,580
+you soon in the next video take care
+
+507
+00:19:44,580 --> 00:19:48,780
+stay safe have fun to stuff did I say
+
+508
+00:19:48,780 --> 00:19:51,140
+too little
+
+509
+00:19:52,420 --> 00:20:45,900
+[Music]
+
+510
+00:20:45,900 --> 00:20:47,960
+you
+

@@ -1,0 +1,1611 @@
+1
+00:00:00,030 --> 00:00:02,040
+right folks just getting set up here
+
+2
+00:00:02,040 --> 00:00:03,840
+ready to do another ten minute modeling
+
+3
+00:00:03,840 --> 00:00:06,210
+challenge my camera wobbles a little bit
+
+4
+00:00:06,210 --> 00:00:07,740
+I have to just get that change so I've
+
+5
+00:00:07,740 --> 00:00:09,570
+got the camera mounted on a microphone
+
+6
+00:00:09,570 --> 00:00:11,400
+stand that's attached to the table and I
+
+7
+00:00:11,400 --> 00:00:12,900
+thought that was super clever first
+
+8
+00:00:12,900 --> 00:00:14,519
+because it's like a one of those pivot
+
+9
+00:00:14,519 --> 00:00:16,980
+arms that moves up and down left and
+
+10
+00:00:16,980 --> 00:00:17,460
+right
+
+11
+00:00:17,460 --> 00:00:20,490
+really smooth nice apart from that it
+
+12
+00:00:20,490 --> 00:00:22,769
+wobbles like crazy so every time I touch
+
+13
+00:00:22,769 --> 00:00:24,720
+the table it wobbles I need to change my
+
+14
+00:00:24,720 --> 00:00:26,699
+set up a little bit so pardon for the
+
+15
+00:00:26,699 --> 00:00:28,439
+wobbly Ness hope you're all doing good
+
+16
+00:00:28,439 --> 00:00:30,689
+by the way and it's a stressful time I
+
+17
+00:00:30,689 --> 00:00:32,009
+know but we'll get through it
+
+18
+00:00:32,009 --> 00:00:33,960
+we'll make some blender stuff make some
+
+19
+00:00:33,960 --> 00:00:36,090
+unity make some games stay inside
+
+20
+00:00:36,090 --> 00:00:37,739
+just don't let it stop you from having
+
+21
+00:00:37,739 --> 00:00:41,040
+fun at least hello everyone and welcome
+
+22
+00:00:41,040 --> 00:00:43,079
+back it's Thursday again and we're gonna
+
+23
+00:00:43,079 --> 00:00:45,480
+do another 10-minute build I'm excited
+
+24
+00:00:45,480 --> 00:00:47,730
+it's episode 15 already the years flying
+
+25
+00:00:47,730 --> 00:00:50,370
+past thrilled about all the visitors to
+
+26
+00:00:50,370 --> 00:00:53,399
+my channel I'm actually ecstatic it's
+
+27
+00:00:53,399 --> 00:00:55,469
+gone way beyond my expectations and I'm
+
+28
+00:00:55,469 --> 00:00:57,239
+think I'm about to pass 40,000
+
+29
+00:00:57,239 --> 00:00:58,980
+subscribers which is insane because I
+
+30
+00:00:58,980 --> 00:01:00,870
+was only a tenth while only on 10,000 I
+
+31
+00:01:00,870 --> 00:01:04,290
+was ecstatic about 10,000 there's about
+
+32
+00:01:04,290 --> 00:01:06,240
+only a few weeks ago or a month and a
+
+33
+00:01:06,240 --> 00:01:08,640
+half now so like Rylander so I've also
+
+34
+00:01:08,640 --> 00:01:10,229
+started another series if you haven't
+
+35
+00:01:10,229 --> 00:01:11,729
+seen that one check it out as well I'm
+
+36
+00:01:11,729 --> 00:01:13,680
+doing a little low-poly racing game
+
+37
+00:01:13,680 --> 00:01:15,780
+since I don't really have the time for
+
+38
+00:01:15,780 --> 00:01:17,640
+it because the editing takes quite a
+
+39
+00:01:17,640 --> 00:01:19,560
+long time but luckily enough I get away
+
+40
+00:01:19,560 --> 00:01:21,540
+with not sleeping too much so I spend
+
+41
+00:01:21,540 --> 00:01:23,400
+some late nights doing this during the
+
+42
+00:01:23,400 --> 00:01:25,350
+days I'm working with an RTS game with a
+
+43
+00:01:25,350 --> 00:01:26,759
+friend of mine I've said a few times
+
+44
+00:01:26,759 --> 00:01:28,590
+before we're having a lot of fun it's
+
+45
+00:01:28,590 --> 00:01:30,450
+going really well it's a lot of work a
+
+46
+00:01:30,450 --> 00:01:32,520
+lot of hard Quarry development stuff
+
+47
+00:01:32,520 --> 00:01:34,350
+when it comes to multiplayer and getting
+
+48
+00:01:34,350 --> 00:01:36,060
+all the units and everything working out
+
+49
+00:01:36,060 --> 00:01:38,159
+for having a blast and we're in an
+
+50
+00:01:38,159 --> 00:01:39,630
+exciting stage now where we're gonna
+
+51
+00:01:39,630 --> 00:01:41,430
+move forward not just with the
+
+52
+00:01:41,430 --> 00:01:43,170
+development but with a business side of
+
+53
+00:01:43,170 --> 00:01:45,450
+things as well so my days are filled up
+
+54
+00:01:45,450 --> 00:01:47,399
+with making the RTS games and my
+
+55
+00:01:47,399 --> 00:01:49,140
+evenings are full of playing with kids
+
+56
+00:01:49,140 --> 00:01:51,630
+and I have to try to do the recording of
+
+57
+00:01:51,630 --> 00:01:53,310
+unity and blender stuff in the nights
+
+58
+00:01:53,310 --> 00:01:55,860
+and also the editing it's a lot of work
+
+59
+00:01:55,860 --> 00:01:57,810
+but I'm enjoying it having a lot of fun
+
+60
+00:01:57,810 --> 00:02:00,719
+last summer I bought a set of Warhammer
+
+61
+00:02:00,719 --> 00:02:03,659
+40k I think it's called some units we
+
+62
+00:02:03,659 --> 00:02:05,340
+started to put those together but it's
+
+63
+00:02:05,340 --> 00:02:06,960
+been on the shelf for quite some time so
+
+64
+00:02:06,960 --> 00:02:09,300
+today after work I spent some time with
+
+65
+00:02:09,300 --> 00:02:11,580
+the kids we assembled some new ones and
+
+66
+00:02:11,580 --> 00:02:13,319
+started to you have to glue them
+
+67
+00:02:13,319 --> 00:02:13,800
+together
+
+68
+00:02:13,800 --> 00:02:15,300
+Stockton you don't snap them together
+
+69
+00:02:15,300 --> 00:02:16,470
+you have to glue their little bits
+
+70
+00:02:16,470 --> 00:02:17,970
+together we don't really play the game
+
+71
+00:02:17,970 --> 00:02:20,460
+as such yet but it's a lot of fun just
+
+72
+00:02:20,460 --> 00:02:22,590
+painting paint in those units so here
+
+73
+00:02:22,590 --> 00:02:24,240
+are a few sample clips from what would
+
+74
+00:02:24,240 --> 00:02:25,290
+come up with so far
+
+75
+00:02:25,290 --> 00:02:27,510
+my son Aiden spent probably two hours on
+
+76
+00:02:27,510 --> 00:02:29,700
+two of those center units now so he's
+
+77
+00:02:29,700 --> 00:02:31,050
+really enjoying that and so are the
+
+78
+00:02:31,050 --> 00:02:32,610
+girls as well we're all that all of us
+
+79
+00:02:32,610 --> 00:02:34,350
+are doing it together so we're having a
+
+80
+00:02:34,350 --> 00:02:34,740
+good time
+
+81
+00:02:34,740 --> 00:02:37,020
+and trying to find stuff if you I've got
+
+82
+00:02:37,020 --> 00:02:39,600
+stuff stashed away in shelves or in the
+
+83
+00:02:39,600 --> 00:02:41,940
+attic or in boxes or in a drawer it may
+
+84
+00:02:41,940 --> 00:02:43,410
+be that your reinvent having some fun
+
+85
+00:02:43,410 --> 00:02:45,240
+without doing these days thanks for all
+
+86
+00:02:45,240 --> 00:02:46,740
+the comments so far I've got a lot of
+
+87
+00:02:46,740 --> 00:02:48,390
+suggestions still but this week I'm
+
+88
+00:02:48,390 --> 00:02:50,580
+gonna go on a little suggestion that my
+
+89
+00:02:50,580 --> 00:02:52,950
+son had so he wants me to model a
+
+90
+00:02:52,950 --> 00:02:55,440
+skyscraper or yeah that's Kai scraper so
+
+91
+00:02:55,440 --> 00:02:56,670
+that's what I'm gonna try to do today
+
+92
+00:02:56,670 --> 00:02:59,070
+and let's just have some fun make a tall
+
+93
+00:02:59,070 --> 00:03:00,780
+skyscraper and see what we can put on it
+
+94
+00:03:00,780 --> 00:03:02,130
+don't even know what its gonna look like
+
+95
+00:03:02,130 --> 00:03:04,050
+at school we'll figure it out check out
+
+96
+00:03:04,050 --> 00:03:05,400
+in the description if you want to see my
+
+97
+00:03:05,400 --> 00:03:07,140
+blender setup video it'll tell you how
+
+98
+00:03:07,140 --> 00:03:08,850
+to get this pallets on the left and also
+
+99
+00:03:08,850 --> 00:03:10,860
+how to get this shader view with the
+
+100
+00:03:10,860 --> 00:03:13,020
+workbench render so you can get the
+
+101
+00:03:13,020 --> 00:03:14,580
+cavity settings so check that out check
+
+102
+00:03:14,580 --> 00:03:16,260
+the video in the description all right
+
+103
+00:03:16,260 --> 00:03:18,180
+with that said let's get cracking I've
+
+104
+00:03:18,180 --> 00:03:21,390
+spoke way too much go and we are off
+
+105
+00:03:21,390 --> 00:03:23,910
+it's ticking so tab into edit mode hold
+
+106
+00:03:23,910 --> 00:03:25,860
+the control key and move this one up to
+
+107
+00:03:25,860 --> 00:03:28,410
+there a to select everything scale shift
+
+108
+00:03:28,410 --> 00:03:31,050
+Z let's scale this out and we're not
+
+109
+00:03:31,050 --> 00:03:32,640
+gonna make it to true scale let's
+
+110
+00:03:32,640 --> 00:03:34,709
+extrude this one just random extrude
+
+111
+00:03:34,709 --> 00:03:37,230
+that one e to extrude it extrude again
+
+112
+00:03:37,230 --> 00:03:40,260
+whatever let's just make some shapes it
+
+113
+00:03:40,260 --> 00:03:43,200
+e to extrude it someone said that I
+
+114
+00:03:43,200 --> 00:03:44,820
+should make a t-shirt with this so I'm
+
+115
+00:03:44,820 --> 00:03:46,230
+probably gonna do that one day I'm gonna
+
+116
+00:03:46,230 --> 00:03:48,540
+make a t-shirt with e to extrude s to
+
+117
+00:03:48,540 --> 00:03:50,760
+scale would you buy that merch I'm not
+
+118
+00:03:50,760 --> 00:03:51,240
+happy with that
+
+119
+00:03:51,240 --> 00:03:55,140
+let's controls that one okay let's
+
+120
+00:03:55,140 --> 00:03:58,530
+expand that again expand this e to
+
+121
+00:03:58,530 --> 00:04:01,470
+extrude e to extrude now maybe we can
+
+122
+00:04:01,470 --> 00:04:04,590
+put some nice shape here I'm not sure if
+
+123
+00:04:04,590 --> 00:04:06,480
+I'm gonna be inspired by something in
+
+124
+00:04:06,480 --> 00:04:10,020
+real life but to to edge select Oh to
+
+125
+00:04:10,020 --> 00:04:11,790
+enable proportional editing
+
+126
+00:04:11,790 --> 00:04:16,140
+G to move it and G X actually on a
+
+127
+00:04:16,140 --> 00:04:18,410
+scroll the mouse wheel down a little bit
+
+128
+00:04:18,410 --> 00:04:20,600
+got some weird behavior there was all
+
+129
+00:04:20,600 --> 00:04:24,350
+that about see it's Ollie it's on random
+
+130
+00:04:24,350 --> 00:04:26,690
+that's good don't want it on smooth so
+
+131
+00:04:26,690 --> 00:04:28,160
+make sure you keep it on smooth if you
+
+132
+00:04:28,160 --> 00:04:31,550
+want it not to be random so X let's move
+
+133
+00:04:31,550 --> 00:04:35,030
+this one out to maybe there so let's see
+
+134
+00:04:35,030 --> 00:04:36,560
+if we can figure out what what this
+
+135
+00:04:36,560 --> 00:04:38,690
+building could look like maybe that one
+
+136
+00:04:38,690 --> 00:04:43,790
+G X move out and that's this one oh
+
+137
+00:04:43,790 --> 00:04:44,990
+that's okay
+
+138
+00:04:44,990 --> 00:04:47,360
+seven on the keypad top view eight is an
+
+139
+00:04:47,360 --> 00:04:50,270
+active note b2 box select and then let's
+
+140
+00:04:50,270 --> 00:04:53,510
+see we've got all the top phases so just
+
+141
+00:04:53,510 --> 00:04:55,640
+move those up a bit we take a
+
+142
+00:04:55,640 --> 00:04:57,920
+proportional way off there move it up to
+
+143
+00:04:57,920 --> 00:05:01,220
+there e to extrude again pi/2 insects
+
+144
+00:05:01,220 --> 00:05:04,490
+eat extrude let's just tick off some
+
+145
+00:05:04,490 --> 00:05:06,290
+things here now actually and we'll just
+
+146
+00:05:06,290 --> 00:05:09,440
+save some lower parts here this can come
+
+147
+00:05:09,440 --> 00:05:11,270
+up with us still actually but we'll take
+
+148
+00:05:11,270 --> 00:05:13,760
+that away and then e to extrude no
+
+149
+00:05:13,760 --> 00:05:15,920
+actually controls at the height inside
+
+150
+00:05:15,920 --> 00:05:20,120
+this e to extrude it and let's take a
+
+151
+00:05:20,120 --> 00:05:22,040
+few things off here so hold the shift
+
+152
+00:05:22,040 --> 00:05:24,620
+key and just deselect a few things I to
+
+153
+00:05:24,620 --> 00:05:28,760
+inset actually lets controls that arm
+
+154
+00:05:28,760 --> 00:05:31,820
+and just take these off as well I to
+
+155
+00:05:31,820 --> 00:05:36,080
+insert this I pressed elements by by
+
+156
+00:05:36,080 --> 00:05:38,870
+mistake right in sets e to extrude here
+
+157
+00:05:38,870 --> 00:05:40,550
+we go let's make that a little bit
+
+158
+00:05:40,550 --> 00:05:43,160
+higher oh it's meant to be a skyscraper
+
+159
+00:05:43,160 --> 00:05:46,610
+I have to go way taller than that okay I
+
+160
+00:05:46,610 --> 00:05:49,070
+to insert this we've got some stuff
+
+161
+00:05:49,070 --> 00:05:50,270
+going on there in the corner so let's
+
+162
+00:05:50,270 --> 00:05:52,850
+redo that on take away the edge here
+
+163
+00:05:52,850 --> 00:05:54,530
+it's a bit too picky actually we can
+
+164
+00:05:54,530 --> 00:05:55,940
+move this one in by selecting these
+
+165
+00:05:55,940 --> 00:05:58,400
+edges here shift come and then G twice
+
+166
+00:05:58,400 --> 00:06:01,010
+and that'll force the movement to the
+
+167
+00:06:01,010 --> 00:06:05,780
+edge so he doesn't go astray then we can
+
+168
+00:06:05,780 --> 00:06:08,300
+shift select a few of these again let's
+
+169
+00:06:08,300 --> 00:06:09,770
+make some terrorist type of things here
+
+170
+00:06:09,770 --> 00:06:15,080
+so I to inset this e to extrude that
+
+171
+00:06:15,080 --> 00:06:17,630
+here we'll make a terrace so I to insert
+
+172
+00:06:17,630 --> 00:06:19,010
+this one e to extrude that one down
+
+173
+00:06:19,010 --> 00:06:20,180
+let's make one here as well a double
+
+174
+00:06:20,180 --> 00:06:23,870
+terrace it's not really observatory
+
+175
+00:06:23,870 --> 00:06:26,000
+heights these floors I don't think so
+
+176
+00:06:26,000 --> 00:06:28,270
+let's put a swimming pool on this one
+
+177
+00:06:28,270 --> 00:06:30,700
+it can be here maybe in the center
+
+178
+00:06:30,700 --> 00:06:34,990
+heighten sets he takes good height in
+
+179
+00:06:34,990 --> 00:06:37,360
+sets Ito extrude it down and let's put
+
+180
+00:06:37,360 --> 00:06:39,010
+some water here G on the left side and
+
+181
+00:06:39,010 --> 00:06:41,890
+move that on to some water color let's
+
+182
+00:06:41,890 --> 00:06:43,930
+put a deck in here height in set that on
+
+183
+00:06:43,930 --> 00:06:46,390
+e to extrude this one make a wood color
+
+184
+00:06:46,390 --> 00:06:48,850
+deck here and then here's a bar or
+
+185
+00:06:48,850 --> 00:06:50,160
+something like that so let's set up that
+
+186
+00:06:50,160 --> 00:06:52,840
+height in set e to extrude e to extrude
+
+187
+00:06:52,840 --> 00:06:55,770
+again as to scale it out e to extrude
+
+188
+00:06:55,770 --> 00:07:00,280
+ITIN set and B to extrude it down okay
+
+189
+00:07:00,280 --> 00:07:03,430
+and let's continue up it's meant to be a
+
+190
+00:07:03,430 --> 00:07:05,230
+skyscraper after all so we have to
+
+191
+00:07:05,230 --> 00:07:08,320
+select a few more things here let's just
+
+192
+00:07:08,320 --> 00:07:12,430
+go wild here we can select these all of
+
+193
+00:07:12,430 --> 00:07:14,830
+those right in set that e to extrude
+
+194
+00:07:14,830 --> 00:07:18,390
+that and that can stay there for now
+
+195
+00:07:18,390 --> 00:07:22,120
+let's select its lease leave that on on
+
+196
+00:07:22,120 --> 00:07:24,250
+the side there so that's gonna be
+
+197
+00:07:24,250 --> 00:07:27,820
+another terrace e to extrude this o itin
+
+198
+00:07:27,820 --> 00:07:30,280
+sets each extrude up to here and then
+
+199
+00:07:30,280 --> 00:07:33,190
+here here we can just go right in sets
+
+200
+00:07:33,190 --> 00:07:35,320
+and make another little back in there
+
+201
+00:07:35,320 --> 00:07:38,080
+something like that let's go here for
+
+202
+00:07:38,080 --> 00:07:40,720
+some weird shape now we can do maybe
+
+203
+00:07:40,720 --> 00:07:43,210
+keep this shape that'll be a bit a bit
+
+204
+00:07:43,210 --> 00:07:47,700
+wider so I tend set e to extrude and
+
+205
+00:07:47,700 --> 00:07:50,620
+here what should we do here we need to
+
+206
+00:07:50,620 --> 00:07:51,910
+go way high over this one as well don't
+
+207
+00:07:51,910 --> 00:07:56,920
+me okay I didn't set this one I'm
+
+208
+00:07:56,920 --> 00:07:59,860
+certainly a skyscraper architect it's
+
+209
+00:07:59,860 --> 00:08:01,630
+probably not the fanciest skyscraper in
+
+210
+00:08:01,630 --> 00:08:03,940
+the world oh it's the time 518 ok I
+
+211
+00:08:03,940 --> 00:08:05,980
+should be alright we just kind of put
+
+212
+00:08:05,980 --> 00:08:07,270
+some windows on this thing as well so
+
+213
+00:08:07,270 --> 00:08:11,170
+let's move take to press key twice
+
+214
+00:08:11,170 --> 00:08:13,790
+move this one into here
+
+215
+00:08:13,790 --> 00:08:17,120
+if I press G twice it moves it along the
+
+216
+00:08:17,120 --> 00:08:18,980
+current edge so you don't mess up that
+
+217
+00:08:18,980 --> 00:08:22,340
+geometry okay let's put a bigger inset
+
+218
+00:08:22,340 --> 00:08:25,250
+here or it let's put here's like some
+
+219
+00:08:25,250 --> 00:08:27,010
+sort of our first absorb Atari
+
+220
+00:08:27,010 --> 00:08:29,420
+Observatory dick yeah so that's a bit
+
+221
+00:08:29,420 --> 00:08:32,780
+bigger so that's where the people that
+
+222
+00:08:32,780 --> 00:08:34,520
+don't pay as much will go but for the
+
+223
+00:08:34,520 --> 00:08:35,780
+people that have a lot of money will go
+
+224
+00:08:35,780 --> 00:08:38,750
+up a lot more to the top you need to
+
+225
+00:08:38,750 --> 00:08:40,850
+extrude that one s to scale it C to
+
+226
+00:08:40,850 --> 00:08:43,729
+extrude extrude again s to scale that
+
+227
+00:08:43,729 --> 00:08:45,380
+one down need to extrude there's gonna
+
+228
+00:08:45,380 --> 00:08:47,270
+be quite tall yeah that's good and
+
+229
+00:08:47,270 --> 00:08:51,680
+here's the fancy X is e to extrude and C
+
+230
+00:08:51,680 --> 00:08:53,870
+s to scale it out here is that fancy
+
+231
+00:08:53,870 --> 00:08:58,250
+deck note e to extrude this one I to
+
+232
+00:08:58,250 --> 00:09:01,570
+insert this one e to extrude it down and
+
+233
+00:09:01,570 --> 00:09:03,910
+here it's like something sort of up
+
+234
+00:09:03,910 --> 00:09:08,000
+let's see I have to move this one out
+
+235
+00:09:08,000 --> 00:09:10,460
+again here G twice so we move it along
+
+236
+00:09:10,460 --> 00:09:13,220
+that edge so we don't get so close to
+
+237
+00:09:13,220 --> 00:09:15,890
+the edge I tense the intercept that one
+
+238
+00:09:15,890 --> 00:09:18,440
+e to extrude these these guys get a roof
+
+239
+00:09:18,440 --> 00:09:20,390
+here as well it's how much they pay to
+
+240
+00:09:20,390 --> 00:09:24,320
+get up here so they protect it from the
+
+241
+00:09:24,320 --> 00:09:28,160
+rain probably not from lightning oh yeah
+
+242
+00:09:28,160 --> 00:09:30,850
+they have lightning protectors something
+
+243
+00:09:30,850 --> 00:09:34,070
+okay II need to extrude s to scale I'm
+
+244
+00:09:34,070 --> 00:09:35,720
+wasting too much time that's the scale e
+
+245
+00:09:35,720 --> 00:09:37,550
+to extrude s to scale eat extra s to
+
+246
+00:09:37,550 --> 00:09:40,370
+scale its extrude s to scale e to
+
+247
+00:09:40,370 --> 00:09:43,520
+extrude s to scale it's it's true as the
+
+248
+00:09:43,520 --> 00:09:46,340
+scale it down a lot okay so I've got 335
+
+249
+00:09:46,340 --> 00:09:48,170
+now just kind of put a lot of here let's
+
+250
+00:09:48,170 --> 00:09:50,660
+put a glass alt and select this ring
+
+251
+00:09:50,660 --> 00:09:52,910
+select clear e to extrude this one ctrl
+
+252
+00:09:52,910 --> 00:09:55,490
++ G on the left side and colorized that
+
+253
+00:09:55,490 --> 00:09:57,950
+to some glass color and now we're gonna
+
+254
+00:09:57,950 --> 00:10:00,110
+do a whole bunch of random loop cuts
+
+255
+00:10:00,110 --> 00:10:01,790
+here so ctrl R and use the mouse wheel
+
+256
+00:10:01,790 --> 00:10:04,580
+just to put a lot of extra different
+
+257
+00:10:04,580 --> 00:10:05,960
+type of floors we'll have some different
+
+258
+00:10:05,960 --> 00:10:09,320
+type of windows here so ctrl R scroll
+
+259
+00:10:09,320 --> 00:10:12,230
+the wheel that will do here's some
+
+260
+00:10:12,230 --> 00:10:13,630
+taller windows maybe
+
+261
+00:10:13,630 --> 00:10:18,240
+ctrl R here we go ctrl R
+
+262
+00:10:18,240 --> 00:10:22,170
+control are upon share as well and that
+
+263
+00:10:22,170 --> 00:10:26,160
+should be okay and now let's do go to
+
+264
+00:10:26,160 --> 00:10:29,160
+this actually we we just press three to
+
+265
+00:10:29,160 --> 00:10:33,020
+go interface select here we got some
+
+266
+00:10:33,020 --> 00:10:36,450
+this bitters in the behind G twice
+
+267
+00:10:36,450 --> 00:10:38,279
+because we needed a fairly straight line
+
+268
+00:10:38,279 --> 00:10:42,420
+here for the windows so probably do it
+
+269
+00:10:42,420 --> 00:10:46,290
+like G twice to just move it have to do
+
+270
+00:10:46,290 --> 00:10:50,310
+good enough all right 2:32 so now we're
+
+271
+00:10:50,310 --> 00:10:52,110
+going to just all select a bunch of
+
+272
+00:10:52,110 --> 00:10:54,899
+these alt and shift select multiple
+
+273
+00:10:54,899 --> 00:10:56,520
+things here where we want windows not
+
+274
+00:10:56,520 --> 00:10:59,070
+there and we don't want them here we can
+
+275
+00:10:59,070 --> 00:11:00,630
+have a few windows maybe not there but
+
+276
+00:11:00,630 --> 00:11:03,480
+they're here we want to put controls at
+
+277
+00:11:03,480 --> 00:11:08,370
+all shift select open shadows and here
+
+278
+00:11:08,370 --> 00:11:10,589
+as well and here we want windows all the
+
+279
+00:11:10,589 --> 00:11:14,279
+way along here we want and there as well
+
+280
+00:11:14,279 --> 00:11:17,670
+let's skip some floors in between and
+
+281
+00:11:17,670 --> 00:11:20,010
+that's okay and then I to insert twice
+
+282
+00:11:20,010 --> 00:11:21,930
+now so first time you it does like that
+
+283
+00:11:21,930 --> 00:11:24,320
+but if you hit I again now you get
+
+284
+00:11:24,320 --> 00:11:27,959
+individual faces here and then alt e to
+
+285
+00:11:27,959 --> 00:11:29,970
+extrude along face normals and go in
+
+286
+00:11:29,970 --> 00:11:32,160
+just a slight bit G on the left side and
+
+287
+00:11:32,160 --> 00:11:34,410
+make like a blue window type of thing so
+
+288
+00:11:34,410 --> 00:11:36,089
+now we've got a whole bunch of windows
+
+289
+00:11:36,089 --> 00:11:38,640
+for the skyscraper got 143 so we can
+
+290
+00:11:38,640 --> 00:11:39,990
+also colorize it a little bit just to
+
+291
+00:11:39,990 --> 00:11:41,880
+break up the colors a little bit so
+
+292
+00:11:41,880 --> 00:11:44,370
+let's say alt selects my alt shift
+
+293
+00:11:44,370 --> 00:11:46,170
+select a few of these actually we're
+
+294
+00:11:46,170 --> 00:11:50,870
+going to do yeah this one maybe that one
+
+295
+00:11:50,870 --> 00:11:56,520
+do that one and this one and this one
+
+296
+00:11:56,520 --> 00:11:58,560
+and then G and move that to something
+
+297
+00:11:58,560 --> 00:12:02,070
+darker just it's not too dark maybe that
+
+298
+00:12:02,070 --> 00:12:04,380
+was too dark so let's go G on the left
+
+299
+00:12:04,380 --> 00:12:06,690
+side here in the UVs okay that's it so
+
+300
+00:12:06,690 --> 00:12:09,810
+about 114 now I'm just gonna be do a lot
+
+301
+00:12:09,810 --> 00:12:11,640
+a few more things here let's put that's
+
+302
+00:12:11,640 --> 00:12:14,880
+some sort of a grass thing and here's
+
+303
+00:12:14,880 --> 00:12:18,450
+just I twice to insert that one that's
+
+304
+00:12:18,450 --> 00:12:21,070
+sort of a utility thing
+
+305
+00:12:21,070 --> 00:12:22,750
+and then we can expand oh we need some
+
+306
+00:12:22,750 --> 00:12:24,790
+windows down here as well I guess I'll
+
+307
+00:12:24,790 --> 00:12:31,030
+select on item sets twice right insert
+
+308
+00:12:31,030 --> 00:12:37,180
+twice alt eat extra long normals there
+
+309
+00:12:37,180 --> 00:12:39,760
+we go Angie move it to color forty
+
+310
+00:12:39,760 --> 00:12:42,160
+seconds so let's just get some stuff
+
+311
+00:12:42,160 --> 00:12:49,870
+here on the ground there we go some
+
+312
+00:12:49,870 --> 00:12:52,390
+stuff for the base you here's some sort
+
+313
+00:12:52,390 --> 00:12:59,290
+of an entrance thing probably so that
+
+314
+00:12:59,290 --> 00:13:04,180
+can be so 18 seconds to go now we'll
+
+315
+00:13:04,180 --> 00:13:07,560
+just get a glass frontier
+
+316
+00:13:12,910 --> 00:13:19,040
+eat extrude that on on four three two
+
+317
+00:13:19,040 --> 00:13:22,480
+one that's it
+
+318
+00:13:22,480 --> 00:13:25,880
+I'm not even stressed this time sorry
+
+319
+00:13:25,880 --> 00:13:28,790
+about pop I apologize I made a habit
+
+320
+00:13:28,790 --> 00:13:30,680
+some of the later builds to become
+
+321
+00:13:30,680 --> 00:13:32,480
+really stressful so I'm sorry if we came
+
+322
+00:13:32,480 --> 00:13:34,730
+here to see me get stressed out every
+
+323
+00:13:34,730 --> 00:13:36,800
+now and then I should probably just go a
+
+324
+00:13:36,800 --> 00:13:38,269
+little bit easier so I don't have to
+
+325
+00:13:38,269 --> 00:13:43,130
+flip out like I do sometimes but I will
+
+326
+00:13:43,130 --> 00:13:44,750
+pressure myself many more times don't
+
+327
+00:13:44,750 --> 00:13:46,010
+worry about that I've got loads of
+
+328
+00:13:46,010 --> 00:13:49,910
+thoughts about doing like 10 aircraft or
+
+329
+00:13:49,910 --> 00:13:51,980
+animals I've got a plan for I've got
+
+330
+00:13:51,980 --> 00:13:54,649
+weapons I've got so you name it so don't
+
+331
+00:13:54,649 --> 00:13:56,420
+worry I'm gonna stress myself out in the
+
+332
+00:13:56,420 --> 00:13:58,370
+future again this one didn't stress out
+
+333
+00:13:58,370 --> 00:13:59,720
+too much so there we have it
+
+334
+00:13:59,720 --> 00:14:02,899
+it's a skyscraper it's not an amazing
+
+335
+00:14:02,899 --> 00:14:05,660
+piece of architecture I hope it's all
+
+336
+00:14:05,660 --> 00:14:07,610
+right son I don't know if I did you
+
+337
+00:14:07,610 --> 00:14:09,949
+proud on this one but I tried my best to
+
+338
+00:14:09,949 --> 00:14:12,410
+not stress out this time and just that
+
+339
+00:14:12,410 --> 00:14:14,389
+have a little casual modelling session
+
+340
+00:14:14,389 --> 00:14:16,190
+here every now and then it would be nice
+
+341
+00:14:16,190 --> 00:14:18,529
+to do a few of those as well so and I
+
+342
+00:14:18,529 --> 00:14:20,690
+realize here I didn't put any fencing
+
+343
+00:14:20,690 --> 00:14:23,269
+for the poor economy view deck here so
+
+344
+00:14:23,269 --> 00:14:24,620
+we're gonna have some casualties here
+
+345
+00:14:24,620 --> 00:14:26,000
+we're gonna have some people blowing off
+
+346
+00:14:26,000 --> 00:14:28,070
+the sides here they should have paid for
+
+347
+00:14:28,070 --> 00:14:29,420
+the top floors they've got some nice
+
+348
+00:14:29,420 --> 00:14:31,399
+protective glass there so keep that in
+
+349
+00:14:31,399 --> 00:14:34,490
+mind go to the top if you can I should
+
+350
+00:14:34,490 --> 00:14:36,110
+also mention that I got a lot of
+
+351
+00:14:36,110 --> 00:14:37,550
+comments and I don't know if I deserve
+
+352
+00:14:37,550 --> 00:14:40,670
+so many nice praises because I don't say
+
+353
+00:14:40,670 --> 00:14:42,560
+I just do these things to practice my
+
+354
+00:14:42,560 --> 00:14:44,000
+own modeling skills I'm not trying to
+
+355
+00:14:44,000 --> 00:14:46,610
+show off I'm not trying to do the most
+
+356
+00:14:46,610 --> 00:14:48,140
+amazing builds that you can in ten
+
+357
+00:14:48,140 --> 00:14:49,760
+minutes it's just a personal challenge
+
+358
+00:14:49,760 --> 00:14:51,890
+that I invite other people to watch and
+
+359
+00:14:51,890 --> 00:14:53,390
+hopefully learn from I'm really happy
+
+360
+00:14:53,390 --> 00:14:55,190
+that people can see it as tutorials it
+
+361
+00:14:55,190 --> 00:14:57,260
+wasn't designed to be tutorials it was
+
+362
+00:14:57,260 --> 00:14:59,329
+just me having fun doing some some
+
+363
+00:14:59,329 --> 00:15:00,920
+challenges and the fact that people
+
+364
+00:15:00,920 --> 00:15:03,319
+learn from it is just an extreme bonus
+
+365
+00:15:03,319 --> 00:15:05,930
+and I'm really happy about that but I'm
+
+366
+00:15:05,930 --> 00:15:08,120
+not gonna be able to push myself to to
+
+367
+00:15:08,120 --> 00:15:09,620
+better myself every time I've realized
+
+368
+00:15:09,620 --> 00:15:11,120
+that I'm not gonna put that pressure on
+
+369
+00:15:11,120 --> 00:15:13,130
+myself either it's stressful enough as
+
+370
+00:15:13,130 --> 00:15:14,510
+it is trying to fit these modelling
+
+371
+00:15:14,510 --> 00:15:16,370
+challenges in every week so I'll do my
+
+372
+00:15:16,370 --> 00:15:18,500
+best to to just that keep it all the
+
+373
+00:15:18,500 --> 00:15:20,540
+casual look every now and then I'll
+
+374
+00:15:20,540 --> 00:15:22,399
+probably freak out and stress myself out
+
+375
+00:15:22,399 --> 00:15:24,270
+like I did with the cars
+
+376
+00:15:24,270 --> 00:15:27,000
+I get a message at 1:30 in the morning
+
+377
+00:15:27,000 --> 00:15:31,440
+who is this it's my friend Jim if you're
+
+378
+00:15:31,440 --> 00:15:33,450
+in the chat Jim you shouldn't be texting
+
+379
+00:15:33,450 --> 00:15:35,070
+me this time well you should you can
+
+380
+00:15:35,070 --> 00:15:36,540
+text me anytime because I should just
+
+381
+00:15:36,540 --> 00:15:38,100
+mute my phone it's my own fault
+
+382
+00:15:38,100 --> 00:15:40,230
+so I'll have a look at that later Jim if
+
+383
+00:15:40,230 --> 00:15:41,760
+you're in the chat today and during the
+
+384
+00:15:41,760 --> 00:15:43,560
+premiere you were here last week so nice
+
+385
+00:15:43,560 --> 00:15:45,030
+to see you it's been a long time since
+
+386
+00:15:45,030 --> 00:15:47,250
+we met Jim's a good friend of mine we
+
+387
+00:15:47,250 --> 00:15:49,170
+grew up together we've haven't seen each
+
+388
+00:15:49,170 --> 00:15:50,820
+other in a while mostly because I've got
+
+389
+00:15:50,820 --> 00:15:52,650
+way too many things sort that I think I
+
+390
+00:15:52,650 --> 00:15:54,600
+need to do but I should prioritize and
+
+391
+00:15:54,600 --> 00:15:56,490
+go and visit him again but I have to
+
+392
+00:15:56,490 --> 00:15:58,470
+wait until this quarantine thing goes
+
+393
+00:15:58,470 --> 00:16:00,390
+out so maybe in a few months or
+
+394
+00:16:00,390 --> 00:16:01,680
+something like that well fingers crossed
+
+395
+00:16:01,680 --> 00:16:03,590
+we can see what goes on
+
+396
+00:16:03,590 --> 00:16:05,940
+anyway I hope you enjoyed this video hit
+
+397
+00:16:05,940 --> 00:16:08,160
+the like so if you did subscribe if you
+
+398
+00:16:08,160 --> 00:16:11,340
+haven't already and I think yeah
+
+399
+00:16:11,340 --> 00:16:12,930
+come back next week we'll do another one
+
+400
+00:16:12,930 --> 00:16:15,240
+shall we have a good week until then
+
+401
+00:16:15,240 --> 00:16:17,790
+stay safe have fun you know what to do
+
+402
+00:16:17,790 --> 00:16:20,690
+bye for now
+
+403
+00:16:21,880 --> 00:16:51,369
+[Music]

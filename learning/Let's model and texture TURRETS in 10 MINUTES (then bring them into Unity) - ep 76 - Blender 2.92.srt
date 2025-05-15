@@ -1,0 +1,3380 @@
+1
+00:00:00,000 --> 00:00:02,879
+hello guys and welcome to episode 76 of
+
+2
+00:00:02,879 --> 00:00:04,400
+the 10 minute modeling challenge
+
+3
+00:00:04,400 --> 00:00:06,640
+so last week we did a godzilla monster
+
+4
+00:00:06,640 --> 00:00:08,639
+animation literally where we smashed up
+
+5
+00:00:08,639 --> 00:00:10,160
+some pounds and we spent a lot of time
+
+6
+00:00:10,160 --> 00:00:11,920
+keyframing that in the bonus material
+
+7
+00:00:11,920 --> 00:00:13,360
+and this week i'm going to do something
+
+8
+00:00:13,360 --> 00:00:14,559
+a little bit different
+
+9
+00:00:14,559 --> 00:00:16,400
+we're going to do some low-poly turrets
+
+10
+00:00:16,400 --> 00:00:17,680
+and i've prepared a few things you'll
+
+11
+00:00:17,680 --> 00:00:18,880
+see that there's a little bit different
+
+12
+00:00:18,880 --> 00:00:19,439
+today
+
+13
+00:00:19,439 --> 00:00:21,760
+because instead of using my normal uh
+
+14
+00:00:21,760 --> 00:00:23,359
+colorizing texture i went to a
+
+15
+00:00:23,359 --> 00:00:25,519
+royalty-free image site i just googled
+
+16
+00:00:25,519 --> 00:00:27,119
+royalty-free images and i found
+
+17
+00:00:27,119 --> 00:00:29,279
+pixabay.com so i decided to go there and
+
+18
+00:00:29,279 --> 00:00:31,039
+search for supercars because
+
+19
+00:00:31,039 --> 00:00:32,880
+supercars tend to have some interesting
+
+20
+00:00:32,880 --> 00:00:34,640
+colors and shapes to them
+
+21
+00:00:34,640 --> 00:00:36,480
+and i downloaded a few random images
+
+22
+00:00:36,480 --> 00:00:38,320
+from there and then i cropped them out
+
+23
+00:00:38,320 --> 00:00:39,840
+game engines like to have square
+
+24
+00:00:39,840 --> 00:00:41,760
+textures that are the power of two
+
+25
+00:00:41,760 --> 00:00:44,239
+in size so i got uh some textures that i
+
+26
+00:00:44,239 --> 00:00:45,840
+cropped down to 5 12 by 5
+
+27
+00:00:45,840 --> 00:00:48,160
+12 pixels and i've imported one of those
+
+28
+00:00:48,160 --> 00:00:50,079
+and i'm actually going to use the base
+
+29
+00:00:50,079 --> 00:00:50,800
+color now
+
+30
+00:00:50,800 --> 00:00:52,399
+or just like a random sample in the
+
+31
+00:00:52,399 --> 00:00:54,079
+image for the modeling part but then
+
+32
+00:00:54,079 --> 00:00:55,520
+we'll randomize the textures
+
+33
+00:00:55,520 --> 00:00:57,120
+if you're making a game that you're
+
+34
+00:00:57,120 --> 00:00:58,640
+going to play on a mobile phone
+
+35
+00:00:58,640 --> 00:01:00,320
+or if the items are going to be quite
+
+36
+00:01:00,320 --> 00:01:02,160
+small the turrets in this case
+
+37
+00:01:02,160 --> 00:01:04,159
+then you get away with this randomized
+
+38
+00:01:04,159 --> 00:01:05,519
+look but if you want to have a close-up
+
+39
+00:01:05,519 --> 00:01:07,040
+you should really draw your textures and
+
+40
+00:01:07,040 --> 00:01:08,240
+have them fitted and
+
+41
+00:01:08,240 --> 00:01:09,760
+uv mapped of course but i won't have
+
+42
+00:01:09,760 --> 00:01:11,280
+time to do that in the 10-minute
+
+43
+00:01:11,280 --> 00:01:12,560
+video so i thought this could be an
+
+44
+00:01:12,560 --> 00:01:14,000
+interesting twist to it i've also
+
+45
+00:01:14,000 --> 00:01:15,759
+prepared a little unity project
+
+46
+00:01:15,759 --> 00:01:17,600
+where i've got some turrets auto firing
+
+47
+00:01:17,600 --> 00:01:19,439
+on targets that are closest to them and
+
+48
+00:01:19,439 --> 00:01:21,200
+i'll hopefully make a tutorial out of
+
+49
+00:01:21,200 --> 00:01:21,920
+that one too
+
+50
+00:01:21,920 --> 00:01:23,439
+but if you're a patreon of mine you can
+
+51
+00:01:23,439 --> 00:01:25,920
+actually go to patreon.com
+
+52
+00:01:25,920 --> 00:01:28,640
+and the game dev tier or the tutorial
+
+53
+00:01:28,640 --> 00:01:29,840
+tearing up in fact
+
+54
+00:01:29,840 --> 00:01:31,759
+we'll be able to download this unity
+
+55
+00:01:31,759 --> 00:01:33,200
+project that i've prepared so you can
+
+56
+00:01:33,200 --> 00:01:34,560
+have a play around with it maybe use it
+
+57
+00:01:34,560 --> 00:01:35,439
+as a base for
+
+58
+00:01:35,439 --> 00:01:37,520
+your own game so let's set the timer i
+
+59
+00:01:37,520 --> 00:01:39,439
+was cut this part out but maybe i'll put
+
+60
+00:01:39,439 --> 00:01:40,240
+it in one day
+
+61
+00:01:40,240 --> 00:01:42,880
+all right let's get going ready steady
+
+62
+00:01:42,880 --> 00:01:43,280
+go
+
+63
+00:01:43,280 --> 00:01:44,880
+let's model some low poly turrets tab
+
+64
+00:01:44,880 --> 00:01:46,880
+into edit mode hold the ctrl key
+
+65
+00:01:46,880 --> 00:01:48,960
+snap this one up there this is going to
+
+66
+00:01:48,960 --> 00:01:50,880
+be the base just so scale to scale that
+
+67
+00:01:50,880 --> 00:01:51,840
+one down
+
+68
+00:01:51,840 --> 00:01:54,399
+e to extrude s to scale heat extrude
+
+69
+00:01:54,399 --> 00:01:56,399
+just to scale that one down as well
+
+70
+00:01:56,399 --> 00:01:58,159
+that's going to be the base shift d
+
+71
+00:01:58,159 --> 00:01:59,920
+duplicate that one here's the
+
+72
+00:01:59,920 --> 00:02:04,240
+turret part so e to extrude that on
+
+73
+00:02:04,240 --> 00:02:06,000
+keep it super low poly of course e to
+
+74
+00:02:06,000 --> 00:02:08,239
+extrude that's the scale
+
+75
+00:02:08,239 --> 00:02:11,360
+um and ctrl r maybe we'll do slightly
+
+76
+00:02:11,360 --> 00:02:12,239
+different
+
+77
+00:02:12,239 --> 00:02:15,680
+thickness there shift d duplicate that
+
+78
+00:02:15,680 --> 00:02:16,160
+one
+
+79
+00:02:16,160 --> 00:02:19,520
+scale y scale z zero so we flatten that
+
+80
+00:02:19,520 --> 00:02:19,920
+one
+
+81
+00:02:19,920 --> 00:02:22,879
+e to extrude that one and actually i'm
+
+82
+00:02:22,879 --> 00:02:23,200
+going to
+
+83
+00:02:23,200 --> 00:02:24,879
+scale x to zero and make that square
+
+84
+00:02:24,879 --> 00:02:26,959
+again oh we have to do uh of course
+
+85
+00:02:26,959 --> 00:02:29,760
+auto mirror so that's the add-on yeah
+
+86
+00:02:29,760 --> 00:02:30,800
+it's included
+
+87
+00:02:30,800 --> 00:02:34,000
+just enable it and here
+
+88
+00:02:34,000 --> 00:02:36,400
+let's do some arms shift b duplicate e
+
+89
+00:02:36,400 --> 00:02:37,840
+to extrude
+
+90
+00:02:37,840 --> 00:02:40,400
+and he'll put the torrents now shift d
+
+91
+00:02:40,400 --> 00:02:41,120
+scale
+
+92
+00:02:41,120 --> 00:02:44,319
+e to extruder on e to extrude s to scale
+
+93
+00:02:44,319 --> 00:02:47,680
+z only the z axis and then here we'll do
+
+94
+00:02:47,680 --> 00:02:48,720
+the actual
+
+95
+00:02:48,720 --> 00:02:51,360
+barrel part so shift d duplicate test
+
+96
+00:02:51,360 --> 00:02:52,800
+scale e to extrude
+
+97
+00:02:52,800 --> 00:02:54,239
+shift d i'm going to make this a
+
+98
+00:02:54,239 --> 00:02:56,239
+separate object so we can animate these
+
+99
+00:02:56,239 --> 00:02:58,800
+height inset and then just do a little
+
+100
+00:02:58,800 --> 00:03:00,319
+hole here
+
+101
+00:03:00,319 --> 00:03:02,720
+that's it and should we put some more
+
+102
+00:03:02,720 --> 00:03:04,239
+interesting features here probably e to
+
+103
+00:03:04,239 --> 00:03:05,200
+extrude oh
+
+104
+00:03:05,200 --> 00:03:07,599
+that's wrong need to extrude move that
+
+105
+00:03:07,599 --> 00:03:08,959
+one down
+
+106
+00:03:08,959 --> 00:03:12,319
+just break it up a little bit more
+
+107
+00:03:12,480 --> 00:03:14,800
+need to extrude that's the scale bring
+
+108
+00:03:14,800 --> 00:03:16,319
+it in
+
+109
+00:03:16,319 --> 00:03:19,120
+here as well should we do maybe i'll do
+
+110
+00:03:19,120 --> 00:03:19,920
+uh
+
+111
+00:03:19,920 --> 00:03:21,680
+shift d duplicate i'm just doing some
+
+112
+00:03:21,680 --> 00:03:23,440
+random stuff of course normal
+
+113
+00:03:23,440 --> 00:03:26,959
+infensio style alt e texture long face
+
+114
+00:03:26,959 --> 00:03:28,480
+normals
+
+115
+00:03:28,480 --> 00:03:32,560
+control r bring that up
+
+116
+00:03:32,560 --> 00:03:36,159
+and maybe shift the duplicates eat
+
+117
+00:03:36,159 --> 00:03:37,360
+extrude
+
+118
+00:03:37,360 --> 00:03:39,120
+and let's put some interesting legs on
+
+119
+00:03:39,120 --> 00:03:40,480
+it two minutes gone
+
+120
+00:03:40,480 --> 00:03:46,239
+so scale why
+
+121
+00:03:46,239 --> 00:03:48,560
+just going to bring those in eat extrude
+
+122
+00:03:48,560 --> 00:03:49,440
+but we'll
+
+123
+00:03:49,440 --> 00:03:53,439
+bring it to there and then
+
+124
+00:03:53,439 --> 00:03:59,280
+we'll do maybe ctrl r heat extrude
+
+125
+00:03:59,439 --> 00:04:02,480
+should we do like clampy feet to eat
+
+126
+00:04:02,480 --> 00:04:03,519
+extrude
+
+127
+00:04:03,519 --> 00:04:06,159
+that should be good
+
+128
+00:04:08,400 --> 00:04:10,640
+and bring that in should we move it in a
+
+129
+00:04:10,640 --> 00:04:11,439
+little bit further
+
+130
+00:04:11,439 --> 00:04:15,840
+that's it ctrl r
+
+131
+00:04:17,839 --> 00:04:21,519
+scale i don't like the that vertex is
+
+132
+00:04:21,519 --> 00:04:24,160
+over there so let's move that on in
+
+133
+00:04:24,160 --> 00:04:27,840
+that's it and
+
+134
+00:04:27,840 --> 00:04:31,919
+l to select this one shift the scale
+
+135
+00:04:31,919 --> 00:04:34,400
+y minus one that flips it but we need to
+
+136
+00:04:34,400 --> 00:04:35,120
+do alt n
+
+137
+00:04:35,120 --> 00:04:37,759
+and recalculate outside to flip the
+
+138
+00:04:37,759 --> 00:04:39,360
+normals there that's why it's good to
+
+139
+00:04:39,360 --> 00:04:42,160
+have backface calling on
+
+140
+00:04:42,160 --> 00:04:43,759
+and one more feature here maybe on the
+
+141
+00:04:43,759 --> 00:04:45,680
+side shift b
+
+142
+00:04:45,680 --> 00:04:49,040
+scale e to extrude
+
+143
+00:04:49,199 --> 00:04:52,160
+that's it and each extrude that's the
+
+144
+00:04:52,160 --> 00:04:52,639
+scale
+
+145
+00:04:52,639 --> 00:04:54,000
+that's it that's going to be our first
+
+146
+00:04:54,000 --> 00:04:56,479
+turret maybe we'll do one more
+
+147
+00:04:56,479 --> 00:04:59,680
+or two more possibly
+
+148
+00:04:59,680 --> 00:05:01,360
+maybe we could texture map it in the 10
+
+149
+00:05:01,360 --> 00:05:03,440
+minutes as well so that's turret number
+
+150
+00:05:03,440 --> 00:05:04,479
+one
+
+151
+00:05:04,479 --> 00:05:08,720
+let's do shift d to duplicate it
+
+152
+00:05:08,720 --> 00:05:11,759
+actually i'll probably texture the base
+
+153
+00:05:11,759 --> 00:05:12,800
+should i
+
+154
+00:05:12,800 --> 00:05:15,840
+so we get the same look nah shift d to
+
+155
+00:05:15,840 --> 00:05:16,639
+duplicate the
+
+156
+00:05:16,639 --> 00:05:19,840
+shift space g hold the ctrl key to snap
+
+157
+00:05:19,840 --> 00:05:21,919
+it into here
+
+158
+00:05:21,919 --> 00:05:23,039
+and then we'll do this one a little bit
+
+159
+00:05:23,039 --> 00:05:25,199
+different so i'll select l just select
+
+160
+00:05:25,199 --> 00:05:26,080
+all the linked
+
+161
+00:05:26,080 --> 00:05:27,440
+ones because i'm still in the same
+
+162
+00:05:27,440 --> 00:05:30,639
+object delete all of those
+
+163
+00:05:30,639 --> 00:05:32,560
+let's make a different type of tart here
+
+164
+00:05:32,560 --> 00:05:34,000
+so we can change the base a little bit
+
+165
+00:05:34,000 --> 00:05:36,160
+too
+
+166
+00:05:36,720 --> 00:05:39,440
+maybe a little bit longer there and this
+
+167
+00:05:39,440 --> 00:05:40,720
+one can come
+
+168
+00:05:40,720 --> 00:05:43,520
+in all of it
+
+169
+00:05:43,759 --> 00:05:47,520
+ctrl r move that up
+
+170
+00:05:47,520 --> 00:05:53,280
+bring this in
+
+171
+00:05:53,280 --> 00:05:55,759
+gg slides it along an edge so that's
+
+172
+00:05:55,759 --> 00:05:57,520
+pretty handy
+
+173
+00:05:57,520 --> 00:06:00,080
+like good game and then the bass can
+
+174
+00:06:00,080 --> 00:06:01,360
+look pretty much the same shifty
+
+175
+00:06:01,360 --> 00:06:03,280
+duplicate
+
+176
+00:06:03,280 --> 00:06:04,560
+and we should have a different look on
+
+177
+00:06:04,560 --> 00:06:08,479
+this one each extrude
+
+178
+00:06:08,639 --> 00:06:12,080
+and ctrl r loop cut scale
+
+179
+00:06:12,080 --> 00:06:14,400
+ctrl r make it look different i say and
+
+180
+00:06:14,400 --> 00:06:17,440
+then i do it looking the same
+
+181
+00:06:17,680 --> 00:06:19,919
+yeah okay maybe i'll do all the texture
+
+182
+00:06:19,919 --> 00:06:22,400
+along the place normals there
+
+183
+00:06:22,400 --> 00:06:24,479
+and should we have it coming up from the
+
+184
+00:06:24,479 --> 00:06:26,080
+back here maybe
+
+185
+00:06:26,080 --> 00:06:29,280
+so we'll do uh here shifty
+
+186
+00:06:29,280 --> 00:06:32,880
+scale bring it in e to extrude
+
+187
+00:06:32,880 --> 00:06:36,080
+heat to extrude control r i have no idea
+
+188
+00:06:36,080 --> 00:06:37,919
+what i'm doing now e to extrude
+
+189
+00:06:37,919 --> 00:06:41,759
+with some randomness always good
+
+190
+00:06:41,759 --> 00:06:43,199
+unless you're making a game apparently
+
+191
+00:06:43,199 --> 00:06:44,639
+you shouldn't use random elements in the
+
+192
+00:06:44,639 --> 00:06:46,240
+game i annoys people
+
+193
+00:06:46,240 --> 00:06:48,639
+e to extrude should we do them hanging
+
+194
+00:06:48,639 --> 00:06:50,080
+down maybe from this one
+
+195
+00:06:50,080 --> 00:06:52,479
+so i'll do like an arm here shift the
+
+196
+00:06:52,479 --> 00:06:54,880
+scale
+
+197
+00:06:56,240 --> 00:06:59,599
+and e to extrude maybe we'll do each
+
+198
+00:06:59,599 --> 00:07:00,720
+extrude there as well that was a bit
+
+199
+00:07:00,720 --> 00:07:03,840
+unnecessary but it's okay
+
+200
+00:07:04,960 --> 00:07:07,919
+and e to extrude that on here we'll do
+
+201
+00:07:07,919 --> 00:07:10,240
+them hanging down e to extrude
+
+202
+00:07:10,240 --> 00:07:13,919
+s to scale maybe on the x axis
+
+203
+00:07:15,039 --> 00:07:19,840
+and shift the scale e to extrude
+
+204
+00:07:19,840 --> 00:07:22,080
+normal style and actually got allergies
+
+205
+00:07:22,080 --> 00:07:23,120
+now so
+
+206
+00:07:23,120 --> 00:07:24,960
+i've got something to blame for a change
+
+207
+00:07:24,960 --> 00:07:27,120
+shift the scale
+
+208
+00:07:27,120 --> 00:07:30,800
+for my little heartling it's extrude
+
+209
+00:07:30,800 --> 00:07:32,720
+and should we do just a different design
+
+210
+00:07:32,720 --> 00:07:35,039
+on this one all together
+
+211
+00:07:35,039 --> 00:07:38,639
+ctrl r again alt select around there
+
+212
+00:07:38,639 --> 00:07:41,919
+scale zed
+
+213
+00:07:42,560 --> 00:07:45,599
+maybe like this i need to extrude s to
+
+214
+00:07:45,599 --> 00:07:46,879
+scale and we'll do the
+
+215
+00:07:46,879 --> 00:07:50,639
+item set and e to extrude in
+
+216
+00:07:50,639 --> 00:07:52,160
+and some slightly different features
+
+217
+00:07:52,160 --> 00:07:54,639
+maybe two just the box here looks a bit
+
+218
+00:07:54,639 --> 00:07:56,080
+plain doesn't it
+
+219
+00:07:56,080 --> 00:08:00,960
+so we'll do uh shift d to duplicate
+
+220
+00:08:00,960 --> 00:08:04,319
+alt e to extrude long face normals
+
+221
+00:08:04,319 --> 00:08:08,080
+l to select the link scale x
+
+222
+00:08:08,080 --> 00:08:12,639
+and bring these in control r
+
+223
+00:08:12,639 --> 00:08:16,639
+ctrl r let's look at a few of these
+
+224
+00:08:16,639 --> 00:08:20,479
+all the extra long phase normals
+
+225
+00:08:20,800 --> 00:08:24,960
+and that should be all right i think
+
+226
+00:08:24,960 --> 00:08:26,800
+able to shift the i've got three minutes
+
+227
+00:08:26,800 --> 00:08:28,560
+so we should try to just do the random
+
+228
+00:08:28,560 --> 00:08:30,879
+texturizing here clipping off
+
+229
+00:08:30,879 --> 00:08:33,039
+clipping on again we'll just do two
+
+230
+00:08:33,039 --> 00:08:35,599
+turrets i think
+
+231
+00:08:35,599 --> 00:08:37,599
+two different looks on them and we can
+
+232
+00:08:37,599 --> 00:08:39,279
+put some different design here on this
+
+233
+00:08:39,279 --> 00:08:40,799
+barrel e to extrude
+
+234
+00:08:40,799 --> 00:08:44,000
+some fancy shifty
+
+235
+00:08:44,000 --> 00:08:47,680
+extrude i don't know if it's that fancy
+
+236
+00:08:47,680 --> 00:08:51,440
+to be honest shifty duplicate
+
+237
+00:08:51,440 --> 00:08:54,800
+each extrude and should
+
+238
+00:08:54,800 --> 00:08:58,480
+put one more thing here shift the
+
+239
+00:08:58,480 --> 00:09:00,880
+scale all the extra long phase normals
+
+240
+00:09:00,880 --> 00:09:03,200
+that's it
+
+241
+00:09:03,200 --> 00:09:06,160
+and e to extrude that one okay so we've
+
+242
+00:09:06,160 --> 00:09:09,680
+got two turrets here now different sizes
+
+243
+00:09:09,680 --> 00:09:11,680
+we've got an itchy nose too take care
+
+244
+00:09:11,680 --> 00:09:13,200
+took care of that pretty fast
+
+245
+00:09:13,200 --> 00:09:14,640
+two minutes thirty okay let's texture
+
+246
+00:09:14,640 --> 00:09:17,279
+map these so i'm just gonna go to
+
+247
+00:09:17,279 --> 00:09:19,760
+tab into edit mode select all of them
+
+248
+00:09:19,760 --> 00:09:21,360
+and then we're going to uh not shading
+
+249
+00:09:21,360 --> 00:09:23,200
+uv editing that's where i was actually
+
+250
+00:09:23,200 --> 00:09:26,800
+uv and then just smart uv project okay
+
+251
+00:09:26,800 --> 00:09:29,440
+and that'll just throw the texture
+
+252
+00:09:29,440 --> 00:09:30,959
+randomly onto this one
+
+253
+00:09:30,959 --> 00:09:32,480
+and then you can play around with the
+
+254
+00:09:32,480 --> 00:09:34,720
+panning of it so if i scale it
+
+255
+00:09:34,720 --> 00:09:36,959
+it'll just change it and usually i
+
+256
+00:09:36,959 --> 00:09:37,760
+prefer to go
+
+257
+00:09:37,760 --> 00:09:39,519
+smaller actually like this because
+
+258
+00:09:39,519 --> 00:09:40,959
+you're going to watch look at them from
+
+259
+00:09:40,959 --> 00:09:42,080
+a distance like this
+
+260
+00:09:42,080 --> 00:09:44,880
+probably but you can play around with it
+
+261
+00:09:44,880 --> 00:09:46,480
+you can also move it outside it doesn't
+
+262
+00:09:46,480 --> 00:09:48,160
+matter because it seamlessly wraps
+
+263
+00:09:48,160 --> 00:09:50,240
+around the corners there so you can even
+
+264
+00:09:50,240 --> 00:09:52,160
+find any place here and you can also
+
+265
+00:09:52,160 --> 00:09:53,760
+rotate it if you want to rotate for a
+
+266
+00:09:53,760 --> 00:09:54,800
+different look
+
+267
+00:09:54,800 --> 00:09:56,320
+so if you find like an interesting part
+
+268
+00:09:56,320 --> 00:09:58,720
+here maybe where it contrasts between
+
+269
+00:09:58,720 --> 00:10:00,640
+white and black and then rotate it
+
+270
+00:10:00,640 --> 00:10:03,200
+and you can find a decent looking like
+
+271
+00:10:03,200 --> 00:10:04,320
+turret like this
+
+272
+00:10:04,320 --> 00:10:05,920
+and if we wanted to have the barrels
+
+273
+00:10:05,920 --> 00:10:08,160
+maybe in one color
+
+274
+00:10:08,160 --> 00:10:10,320
+there's we can select l for or we'll
+
+275
+00:10:10,320 --> 00:10:12,560
+just do l here for the length
+
+276
+00:10:12,560 --> 00:10:14,480
+scale zero works on this one but
+
+277
+00:10:14,480 --> 00:10:15,920
+remember in unreal engine it's a bit
+
+278
+00:10:15,920 --> 00:10:16,560
+picky
+
+279
+00:10:16,560 --> 00:10:18,399
+so you might have to do a little bit
+
+280
+00:10:18,399 --> 00:10:19,920
+different there you can't go infinitely
+
+281
+00:10:19,920 --> 00:10:21,200
+smaller i think
+
+282
+00:10:21,200 --> 00:10:23,519
+but let's put it like that so we have a
+
+283
+00:10:23,519 --> 00:10:24,560
+solid color on there
+
+284
+00:10:24,560 --> 00:10:26,640
+and maybe here as well we'll do so solid
+
+285
+00:10:26,640 --> 00:10:28,720
+colors on these
+
+286
+00:10:28,720 --> 00:10:30,880
+you can keep the random look but usually
+
+287
+00:10:30,880 --> 00:10:32,240
+maybe for the barrels you want to keep
+
+288
+00:10:32,240 --> 00:10:33,360
+it slightly different
+
+289
+00:10:33,360 --> 00:10:35,519
+for this one as well we'll do tab 8
+
+290
+00:10:35,519 --> 00:10:37,839
+select everything
+
+291
+00:10:37,839 --> 00:10:40,880
+uv smart uv project okay
+
+292
+00:10:40,880 --> 00:10:44,160
+and then scale rotate just fine
+
+293
+00:10:44,160 --> 00:10:45,600
+usually symmetry makes it looks pretty
+
+294
+00:10:45,600 --> 00:10:47,360
+cool like this in different
+
+295
+00:10:47,360 --> 00:10:49,760
+angles and stuff we'll do l to select
+
+296
+00:10:49,760 --> 00:10:51,200
+the length here
+
+297
+00:10:51,200 --> 00:10:53,839
+and go scale zero on the left so we get
+
+298
+00:10:53,839 --> 00:10:55,760
+a solid colored barrel here it looks
+
+299
+00:10:55,760 --> 00:10:56,880
+probably a little bit better when we
+
+300
+00:10:56,880 --> 00:10:58,800
+animate
+
+301
+00:10:58,800 --> 00:11:00,320
+and if you wanted to change you could
+
+302
+00:11:00,320 --> 00:11:01,680
+just change the base here as well maybe
+
+303
+00:11:01,680 --> 00:11:03,519
+these are too big maybe we wanted them a
+
+304
+00:11:03,519 --> 00:11:04,160
+little bit more
+
+305
+00:11:04,160 --> 00:11:07,680
+solid colored i can make them smaller
+
+306
+00:11:07,680 --> 00:11:11,839
+rotate just random random stuff
+
+307
+00:11:12,160 --> 00:11:15,279
+so that's it we've got uh maybe we can
+
+308
+00:11:15,279 --> 00:11:15,760
+test
+
+309
+00:11:15,760 --> 00:11:18,079
+we've got 27 seconds to spare we can
+
+310
+00:11:18,079 --> 00:11:19,040
+actually try to
+
+311
+00:11:19,040 --> 00:11:22,160
+change the texture here as well so
+
+312
+00:11:22,160 --> 00:11:25,360
+let's just open and do the
+
+313
+00:11:25,360 --> 00:11:29,279
+blue one instead editing
+
+314
+00:11:29,279 --> 00:11:32,000
+okay that looked hideous so it's a
+
+315
+00:11:32,000 --> 00:11:33,519
+little bit dependent on which textures
+
+316
+00:11:33,519 --> 00:11:36,560
+they use apparently so
+
+317
+00:11:36,560 --> 00:11:39,440
+go tab inside mode 8 to select
+
+318
+00:11:39,440 --> 00:11:41,200
+everything and then you can move that to
+
+319
+00:11:41,200 --> 00:11:44,320
+a different color change it move it and
+
+320
+00:11:44,320 --> 00:11:46,720
+that's it
+
+321
+00:11:48,000 --> 00:11:50,240
+that's it 10 minutes is up and we've got
+
+322
+00:11:50,240 --> 00:11:51,200
+some random looking
+
+323
+00:11:51,200 --> 00:11:53,519
+uh stuff i'll go back just control that
+
+324
+00:11:53,519 --> 00:11:54,240
+a few times
+
+325
+00:11:54,240 --> 00:11:55,680
+so we get that other texture back i
+
+326
+00:11:55,680 --> 00:11:57,839
+think
+
+327
+00:11:58,079 --> 00:11:59,120
+i think it looks a little bit better
+
+328
+00:11:59,120 --> 00:12:01,360
+with the gray there but we can test it
+
+329
+00:12:01,360 --> 00:12:02,880
+around in the unity as well i'll show
+
+330
+00:12:02,880 --> 00:12:03,200
+you
+
+331
+00:12:03,200 --> 00:12:04,720
+a few tips there so what we'll do is
+
+332
+00:12:04,720 --> 00:12:06,399
+export these into uh two
+
+333
+00:12:06,399 --> 00:12:08,079
+like turrets that we'll import into
+
+334
+00:12:08,079 --> 00:12:09,920
+unity in the bonus material note so this
+
+335
+00:12:09,920 --> 00:12:11,360
+is not going to be a tutorial because
+
+336
+00:12:11,360 --> 00:12:13,279
+i'm going to run through it pretty fast
+
+337
+00:12:13,279 --> 00:12:15,760
+but i've got everything prepared so uh
+
+338
+00:12:15,760 --> 00:12:17,519
+put in the comments i always ask that if
+
+339
+00:12:17,519 --> 00:12:19,040
+you want a tutorial and people say yes
+
+340
+00:12:19,040 --> 00:12:21,040
+and then i don't have time to make them
+
+341
+00:12:21,040 --> 00:12:23,440
+or i find something else to do stupid i
+
+342
+00:12:23,440 --> 00:12:24,639
+know but
+
+343
+00:12:24,639 --> 00:12:27,279
+i'll try anyway so let's export these
+
+344
+00:12:27,279 --> 00:12:28,560
+i'm gonna export them as
+
+345
+00:12:28,560 --> 00:12:30,399
+three different objects so if i do l
+
+346
+00:12:30,399 --> 00:12:32,240
+here on the base
+
+347
+00:12:32,240 --> 00:12:34,160
+i will select the base stuff there press
+
+348
+00:12:34,160 --> 00:12:36,399
+p and separate the selection
+
+349
+00:12:36,399 --> 00:12:39,040
+and i'm gonna press f2 rename this one
+
+350
+00:12:39,040 --> 00:12:39,680
+turret
+
+351
+00:12:39,680 --> 00:12:44,079
+one base let's call it imagination there
+
+352
+00:12:44,079 --> 00:12:45,680
+and then here the barrels i'm gonna do
+
+353
+00:12:45,680 --> 00:12:46,800
+separate as well because we wanna
+
+354
+00:12:46,800 --> 00:12:48,560
+animate the barrels here so when they
+
+355
+00:12:48,560 --> 00:12:49,839
+fire
+
+356
+00:12:49,839 --> 00:12:51,279
+they're gonna shoot back a little bit
+
+357
+00:12:51,279 --> 00:12:53,680
+like a recoil effect like this
+
+358
+00:12:53,680 --> 00:12:56,240
+looks pretty cool so i'm gonna do this
+
+359
+00:12:56,240 --> 00:12:57,279
+one and then do
+
+360
+00:12:57,279 --> 00:12:59,839
+p to separate by selection and then
+
+361
+00:12:59,839 --> 00:13:02,079
+we'll do f2 and rename this one
+
+362
+00:13:02,079 --> 00:13:04,880
+turret one
+
+363
+00:13:05,519 --> 00:13:06,800
+is barrel how you spell barrel i think
+
+364
+00:13:06,800 --> 00:13:09,120
+so and then we'll do the top here that's
+
+365
+00:13:09,120 --> 00:13:10,480
+already separated so
+
+366
+00:13:10,480 --> 00:13:15,040
+f2 and we'll call this one top
+
+367
+00:13:15,040 --> 00:13:16,959
+and it's important that the center of
+
+368
+00:13:16,959 --> 00:13:18,320
+rotation for this now
+
+369
+00:13:18,320 --> 00:13:20,399
+is where you want it to be and we're
+
+370
+00:13:20,399 --> 00:13:22,320
+going to parent the the barrels here to
+
+371
+00:13:22,320 --> 00:13:22,639
+this
+
+372
+00:13:22,639 --> 00:13:24,079
+top here so don't worry about that the
+
+373
+00:13:24,079 --> 00:13:26,800
+barrels will rotate with the object
+
+374
+00:13:26,800 --> 00:13:29,120
+you might just petrify that i wasn't
+
+375
+00:13:29,120 --> 00:13:30,880
+recording again
+
+376
+00:13:30,880 --> 00:13:33,440
+so that's the first one and we can hide
+
+377
+00:13:33,440 --> 00:13:35,200
+this one for now
+
+378
+00:13:35,200 --> 00:13:38,560
+i'm missing something here okay then i
+
+379
+00:13:38,560 --> 00:13:40,720
+rename this
+
+380
+00:13:40,720 --> 00:13:44,240
+barrel there we go so let's hide those
+
+381
+00:13:44,240 --> 00:13:46,880
+i'll select this one and do alt g that
+
+382
+00:13:46,880 --> 00:13:48,480
+moves it back to orego or
+
+383
+00:13:48,480 --> 00:13:51,680
+the default center location here
+
+384
+00:13:51,680 --> 00:13:54,639
+so and then we'll do the same here we'll
+
+385
+00:13:54,639 --> 00:13:55,040
+do
+
+386
+00:13:55,040 --> 00:13:57,199
+f tab inside mode l to select the base
+
+387
+00:13:57,199 --> 00:13:58,560
+stuff here and then
+
+388
+00:13:58,560 --> 00:14:01,600
+p separate selection that's it
+
+389
+00:14:01,600 --> 00:14:02,959
+and then i'll do all of them first
+
+390
+00:14:02,959 --> 00:14:04,560
+actually we'll do the barrels here these
+
+391
+00:14:04,560 --> 00:14:06,399
+are the ones that are going to recoil
+
+392
+00:14:06,399 --> 00:14:09,040
+so p separate by selection and then
+
+393
+00:14:09,040 --> 00:14:09,519
+we'll do
+
+394
+00:14:09,519 --> 00:14:14,079
+f2 turret to barrel
+
+395
+00:14:14,079 --> 00:14:16,320
+and then we'll rename this one f2 turret
+
+396
+00:14:16,320 --> 00:14:17,600
+to
+
+397
+00:14:17,600 --> 00:14:21,440
+top and here f2 turret
+
+398
+00:14:21,440 --> 00:14:25,120
+to base so these are all prepped now
+
+399
+00:14:25,120 --> 00:14:27,120
+let's grab them all put them in the same
+
+400
+00:14:27,120 --> 00:14:28,720
+scene like this
+
+401
+00:14:28,720 --> 00:14:30,480
+select them all of them all of them
+
+402
+00:14:30,480 --> 00:14:32,240
+selected you can right click here as
+
+403
+00:14:32,240 --> 00:14:32,560
+well
+
+404
+00:14:32,560 --> 00:14:36,160
+and do select objects or you can just
+
+405
+00:14:36,160 --> 00:14:39,120
+drag and drop and then we'll go file
+
+406
+00:14:39,120 --> 00:14:40,560
+export
+
+407
+00:14:40,560 --> 00:14:42,839
+fpx and then here we'll do selected
+
+408
+00:14:42,839 --> 00:14:44,160
+objects
+
+409
+00:14:44,160 --> 00:14:46,320
+apply scalings we'll do unit scale fbx
+
+410
+00:14:46,320 --> 00:14:48,000
+unit scale and then apply time
+
+411
+00:14:48,000 --> 00:14:49,519
+transform it's a little shortcut to get
+
+412
+00:14:49,519 --> 00:14:50,800
+the rotation correct but it doesn't work
+
+413
+00:14:50,800 --> 00:14:52,800
+for armatures remember
+
+414
+00:14:52,800 --> 00:14:56,320
+and we'll rename this one to turrets
+
+415
+00:14:56,320 --> 00:15:00,320
+um 10 mmc 76 turrets
+
+416
+00:15:00,320 --> 00:15:02,560
+export all right so let's jump into the
+
+417
+00:15:02,560 --> 00:15:04,240
+unity project that i've prepared now and
+
+418
+00:15:04,240 --> 00:15:05,760
+i won't be able to go through it but
+
+419
+00:15:05,760 --> 00:15:08,079
+what i do have is i've created a base
+
+420
+00:15:08,079 --> 00:15:09,040
+turret
+
+421
+00:15:09,040 --> 00:15:11,519
+game object hierarchy with a base a
+
+422
+00:15:11,519 --> 00:15:12,240
+turret
+
+423
+00:15:12,240 --> 00:15:14,480
+a barrel and some muzzle location so i
+
+424
+00:15:14,480 --> 00:15:15,680
+know where the bullets are going to be
+
+425
+00:15:15,680 --> 00:15:16,720
+fired from
+
+426
+00:15:16,720 --> 00:15:18,880
+and some audio when it rotates and then
+
+427
+00:15:18,880 --> 00:15:20,480
+i've created some prefabs as well
+
+428
+00:15:20,480 --> 00:15:24,079
+a bullet an explosion and a target just
+
+429
+00:15:24,079 --> 00:15:26,240
+a test target and some impact effects
+
+430
+00:15:26,240 --> 00:15:29,519
+and turret so what we'll do is
+
+431
+00:15:29,519 --> 00:15:31,440
+i'm going to go into this one and we'll
+
+432
+00:15:31,440 --> 00:15:33,680
+just drag and drop this
+
+433
+00:15:33,680 --> 00:15:36,560
+fbx file that i've created into this
+
+434
+00:15:36,560 --> 00:15:37,199
+folder
+
+435
+00:15:37,199 --> 00:15:40,000
+meshes so we've got these meshes here
+
+436
+00:15:40,000 --> 00:15:43,040
+you recognize them here
+
+437
+00:15:43,199 --> 00:15:44,720
+and we also have to grab those textures
+
+438
+00:15:44,720 --> 00:15:46,320
+that we got so i'm going to drag and
+
+439
+00:15:46,320 --> 00:15:48,079
+drop those into
+
+440
+00:15:48,079 --> 00:15:52,839
+let's just do here create folder
+
+441
+00:15:52,839 --> 00:15:55,759
+textures and we'll drag and drop those
+
+442
+00:15:55,759 --> 00:15:57,199
+ones that i created before i'll
+
+443
+00:15:57,199 --> 00:15:58,639
+grab the square ones so it's the same
+
+444
+00:15:58,639 --> 00:16:01,360
+ones so we'll drag this one in
+
+445
+00:16:01,360 --> 00:16:02,959
+which we haven't tested the orange one
+
+446
+00:16:02,959 --> 00:16:05,279
+here which we haven't tested either
+
+447
+00:16:05,279 --> 00:16:07,920
+and we've got the white one and the
+
+448
+00:16:07,920 --> 00:16:11,199
+other square one here which one
+
+449
+00:16:11,440 --> 00:16:15,920
+oh yeah the blue one there we go
+
+450
+00:16:15,920 --> 00:16:18,639
+and i have to set these meshes now as
+
+451
+00:16:18,639 --> 00:16:19,040
+well
+
+452
+00:16:19,040 --> 00:16:23,519
+so we've got turret what turret one base
+
+453
+00:16:23,519 --> 00:16:26,720
+and we've got turret one
+
+454
+00:16:26,720 --> 00:16:29,839
+top here which is called turret here
+
+455
+00:16:29,839 --> 00:16:32,959
+and we've got the barrels
+
+456
+00:16:33,440 --> 00:16:35,759
+turret one barrel and you have to grab
+
+457
+00:16:35,759 --> 00:16:37,120
+the mesh object down here
+
+458
+00:16:37,120 --> 00:16:41,279
+so it knows that's it
+
+459
+00:16:41,759 --> 00:16:43,920
+so if i grab that one we'll drag this
+
+460
+00:16:43,920 --> 00:16:45,519
+texture that we imported
+
+461
+00:16:45,519 --> 00:16:48,800
+we'll use the same one turret and we'll
+
+462
+00:16:48,800 --> 00:16:49,440
+grab
+
+463
+00:16:49,440 --> 00:16:51,279
+this gray texture and drag it into the
+
+464
+00:16:51,279 --> 00:16:52,800
+base map here
+
+465
+00:16:52,800 --> 00:16:56,880
+and you should recognize it there
+
+466
+00:16:58,160 --> 00:17:05,199
+let's move this one into the center so
+
+467
+00:17:05,199 --> 00:17:06,480
+and then i should move it up a little
+
+468
+00:17:06,480 --> 00:17:09,039
+bit probably
+
+469
+00:17:12,160 --> 00:17:14,559
+that's it so i've got the turret here
+
+470
+00:17:14,559 --> 00:17:16,000
+and like i said i won't have time to go
+
+471
+00:17:16,000 --> 00:17:17,760
+through how i've created everything
+
+472
+00:17:17,760 --> 00:17:20,559
+but just a short run through is on the
+
+473
+00:17:20,559 --> 00:17:22,160
+base here on the turret i've got like a
+
+474
+00:17:22,160 --> 00:17:23,439
+turret script where i can set
+
+475
+00:17:23,439 --> 00:17:26,079
+targeting speed a search radius how long
+
+476
+00:17:26,079 --> 00:17:27,760
+it should be searching for targets
+
+477
+00:17:27,760 --> 00:17:29,360
+and how many rounds per minute it should
+
+478
+00:17:29,360 --> 00:17:31,280
+be firing and then i've set which prefab
+
+479
+00:17:31,280 --> 00:17:32,559
+it should be
+
+480
+00:17:32,559 --> 00:17:34,480
+that it fires and that's just a bullet
+
+481
+00:17:34,480 --> 00:17:35,760
+with a trail on it
+
+482
+00:17:35,760 --> 00:17:37,440
+and then i've got muzzles here and these
+
+483
+00:17:37,440 --> 00:17:39,679
+we need to configure so
+
+484
+00:17:39,679 --> 00:17:44,240
+where you got select the muzzle l here
+
+485
+00:17:44,240 --> 00:17:46,080
+and then i usually click here on
+
+486
+00:17:46,080 --> 00:17:48,080
+perspective and go into iso
+
+487
+00:17:48,080 --> 00:17:50,240
+isometric click on the z axis because
+
+488
+00:17:50,240 --> 00:17:51,440
+then it's going to be easier to
+
+489
+00:17:51,440 --> 00:17:53,039
+position this one in the center of the
+
+490
+00:17:53,039 --> 00:17:54,640
+barrel there
+
+491
+00:17:54,640 --> 00:17:56,080
+then we have to do the same for the top
+
+492
+00:17:56,080 --> 00:17:57,679
+so i press on this y axis
+
+493
+00:17:57,679 --> 00:18:00,559
+and then we move this one down to there
+
+494
+00:18:00,559 --> 00:18:02,640
+and then to save time you could uh
+
+495
+00:18:02,640 --> 00:18:05,360
+i could just delete this right one okay
+
+496
+00:18:05,360 --> 00:18:07,120
+i can't because it's a prefab okay let's
+
+497
+00:18:07,120 --> 00:18:09,840
+do it this way now
+
+498
+00:18:10,480 --> 00:18:15,360
+i'll go to the muzzle l here
+
+499
+00:18:15,360 --> 00:18:18,320
+copy position and then right click here
+
+500
+00:18:18,320 --> 00:18:19,679
+oh no i don't right click
+
+501
+00:18:19,679 --> 00:18:22,400
+paste position and then we just flip the
+
+502
+00:18:22,400 --> 00:18:24,400
+x value for this one
+
+503
+00:18:24,400 --> 00:18:26,160
+and now that those two muzzles are in
+
+504
+00:18:26,160 --> 00:18:27,760
+the right place here for
+
+505
+00:18:27,760 --> 00:18:29,200
+so he knows where to fire the bullet
+
+506
+00:18:29,200 --> 00:18:31,039
+from so these are little helper
+
+507
+00:18:31,039 --> 00:18:34,559
+transforms and we can try this out now
+
+508
+00:18:34,559 --> 00:18:37,280
+so if i press play we should always have
+
+509
+00:18:37,280 --> 00:18:39,600
+ourselves a little targeting turret here
+
+510
+00:18:39,600 --> 00:18:42,080
+that we just designed and it aims and
+
+511
+00:18:42,080 --> 00:18:43,039
+fires at
+
+512
+00:18:43,039 --> 00:18:44,720
+just a target that spawns at the mouse
+
+513
+00:18:44,720 --> 00:18:46,880
+cursor
+
+514
+00:18:46,880 --> 00:18:48,799
+and if you click i just made it so and
+
+515
+00:18:48,799 --> 00:18:51,520
+it keeps targeting the closest one there
+
+516
+00:18:51,520 --> 00:18:53,360
+and i'll put some random sound effects
+
+517
+00:18:53,360 --> 00:18:55,120
+on there from my blasters sound effects
+
+518
+00:18:55,120 --> 00:18:56,720
+library and in fact if you go to
+
+519
+00:18:56,720 --> 00:18:58,320
+infantia.com and look up
+
+520
+00:18:58,320 --> 00:19:00,480
+blaster's sound effects library if you
+
+521
+00:19:00,480 --> 00:19:01,520
+use the code
+
+522
+00:19:01,520 --> 00:19:04,960
+10mmc ep76
+
+523
+00:19:04,960 --> 00:19:06,880
+then you'll get 50 discount and you can
+
+524
+00:19:06,880 --> 00:19:08,640
+download thousands of blaster sound
+
+525
+00:19:08,640 --> 00:19:10,240
+effects pretty cool
+
+526
+00:19:10,240 --> 00:19:12,240
+self-promoting my own assets here it's
+
+527
+00:19:12,240 --> 00:19:13,520
+not so often that i mentioned them
+
+528
+00:19:13,520 --> 00:19:15,760
+actually
+
+529
+00:19:16,000 --> 00:19:17,679
+okay we're seeing that it's missing the
+
+530
+00:19:17,679 --> 00:19:19,440
+target and it's because the target's a
+
+531
+00:19:19,440 --> 00:19:20,480
+little bit too small
+
+532
+00:19:20,480 --> 00:19:22,640
+so maybe i'll just increase the size of
+
+533
+00:19:22,640 --> 00:19:25,360
+those targets
+
+534
+00:19:25,360 --> 00:19:28,880
+test target we'll do scale maybe
+
+535
+00:19:28,880 --> 00:19:33,760
+1.5 instead should that work
+
+536
+00:19:33,760 --> 00:19:39,840
+let's try it
+
+537
+00:19:40,080 --> 00:19:42,559
+there we go
+
+538
+00:19:50,240 --> 00:19:52,559
+okay and it looks a little bit different
+
+539
+00:19:52,559 --> 00:19:53,760
+is because i don't have the same
+
+540
+00:19:53,760 --> 00:19:55,600
+texture settings that i did so if we go
+
+541
+00:19:55,600 --> 00:19:58,000
+into this object or the material
+
+542
+00:19:58,000 --> 00:19:59,840
+then this is probably the way it looked
+
+543
+00:19:59,840 --> 00:20:02,320
+one one
+
+544
+00:20:02,559 --> 00:20:04,960
+and zero zero here and this is a little
+
+545
+00:20:04,960 --> 00:20:06,640
+bit more similar to what it looked like
+
+546
+00:20:06,640 --> 00:20:10,159
+when it was in a blender
+
+547
+00:20:10,159 --> 00:20:11,440
+but you can play around with this as
+
+548
+00:20:11,440 --> 00:20:13,360
+well so on this texture now you can just
+
+549
+00:20:13,360 --> 00:20:14,240
+slide
+
+550
+00:20:14,240 --> 00:20:16,880
+on the tiling for example and that'll
+
+551
+00:20:16,880 --> 00:20:18,640
+change the way it looks a little bit
+
+552
+00:20:18,640 --> 00:20:21,120
+could get some pretty cool looking
+
+553
+00:20:21,120 --> 00:20:22,480
+styles on it let's
+
+554
+00:20:22,480 --> 00:20:24,559
+see we can see both here i remember now
+
+555
+00:20:24,559 --> 00:20:26,080
+you wouldn't want to have it like this
+
+556
+00:20:26,080 --> 00:20:26,720
+of course
+
+557
+00:20:26,720 --> 00:20:28,240
+you can't go this close to this turret
+
+558
+00:20:28,240 --> 00:20:30,000
+that looks uh not so good
+
+559
+00:20:30,000 --> 00:20:31,919
+so but from a distance like this in a
+
+560
+00:20:31,919 --> 00:20:33,919
+game if you're making that mobile game
+
+561
+00:20:33,919 --> 00:20:35,919
+or something then it works
+
+562
+00:20:35,919 --> 00:20:38,159
+but like i said we'll just slide this so
+
+563
+00:20:38,159 --> 00:20:39,919
+we can change the offset as well that
+
+564
+00:20:39,919 --> 00:20:41,360
+pans the texture
+
+565
+00:20:41,360 --> 00:20:42,880
+so you can find some interesting looking
+
+566
+00:20:42,880 --> 00:20:45,600
+shapes down there
+
+567
+00:20:46,720 --> 00:20:49,520
+this audio thing is annoying that a lot
+
+568
+00:20:49,520 --> 00:20:50,240
+out of me
+
+569
+00:20:50,240 --> 00:20:52,880
+so let's uh hide this one gizmos will
+
+570
+00:20:52,880 --> 00:20:53,600
+hide on
+
+571
+00:20:53,600 --> 00:20:55,760
+so
+
+572
+00:20:56,799 --> 00:20:59,919
+turrets and again slide tiling
+
+573
+00:20:59,919 --> 00:21:01,360
+play around with that one get an
+
+574
+00:21:01,360 --> 00:21:03,840
+interesting look
+
+575
+00:21:04,400 --> 00:21:06,799
+and you can slide around the offset to
+
+576
+00:21:06,799 --> 00:21:08,159
+pan it
+
+577
+00:21:08,159 --> 00:21:09,679
+and if you want it to be more solid
+
+578
+00:21:09,679 --> 00:21:11,600
+colors you go down with the tiling down
+
+579
+00:21:11,600 --> 00:21:13,360
+to something really small in both values
+
+580
+00:21:13,360 --> 00:21:14,080
+here
+
+581
+00:21:14,080 --> 00:21:15,679
+then you get more solid colors because
+
+582
+00:21:15,679 --> 00:21:17,360
+it's basically like zooming into the
+
+583
+00:21:17,360 --> 00:21:18,159
+texture
+
+584
+00:21:18,159 --> 00:21:20,159
+so now it looks like it's got some vents
+
+585
+00:21:20,159 --> 00:21:21,360
+that's probably let's
+
+586
+00:21:21,360 --> 00:21:22,799
+press play on this one and see that
+
+587
+00:21:22,799 --> 00:21:24,720
+looks a bit crisper i guess
+
+588
+00:21:24,720 --> 00:21:31,039
+but still some different looks to it
+
+589
+00:21:31,039 --> 00:21:32,480
+and if it's taking too long to shoot
+
+590
+00:21:32,480 --> 00:21:33,919
+these we could actually duplicate this
+
+591
+00:21:33,919 --> 00:21:34,799
+one
+
+592
+00:21:34,799 --> 00:21:37,360
+so let's just make a copy of this one
+
+593
+00:21:37,360 --> 00:21:38,480
+and put it
+
+594
+00:21:38,480 --> 00:21:39,760
+two to the side there we've got two
+
+595
+00:21:39,760 --> 00:21:40,960
+turrets maybe this one should be a
+
+596
+00:21:40,960 --> 00:21:42,159
+little bit different
+
+597
+00:21:42,159 --> 00:21:45,440
+we'll do one that rotates faster
+
+598
+00:21:45,440 --> 00:21:47,600
+so turret here maybe the tracking speed
+
+599
+00:21:47,600 --> 00:21:49,360
+is five
+
+600
+00:21:49,360 --> 00:21:52,000
+but it wrote it only fires like 60 shots
+
+601
+00:21:52,000 --> 00:21:53,200
+per minute
+
+602
+00:21:53,200 --> 00:21:54,320
+and then we'll do another one here as
+
+603
+00:21:54,320 --> 00:21:56,320
+well that we put next to it on the other
+
+604
+00:21:56,320 --> 00:21:57,280
+side
+
+605
+00:21:57,280 --> 00:21:59,280
+and then we'll change the parameters on
+
+606
+00:21:59,280 --> 00:22:01,600
+this one we'll do rounds per minute it's
+
+607
+00:22:01,600 --> 00:22:03,760
+going to be like 600
+
+608
+00:22:03,760 --> 00:22:07,200
+but targeting speed is super slow one
+
+609
+00:22:07,200 --> 00:22:13,760
+let's try this
+
+610
+00:22:13,760 --> 00:22:16,960
+okay some targets so
+
+611
+00:22:16,960 --> 00:22:20,000
+some different things to play around
+
+612
+00:22:20,000 --> 00:22:27,840
+with there
+
+613
+00:22:38,159 --> 00:22:40,240
+okay and now that we've got multiple
+
+614
+00:22:40,240 --> 00:22:41,600
+sometimes when you have more objects
+
+615
+00:22:41,600 --> 00:22:43,039
+than one as well not only the symmetry
+
+616
+00:22:43,039 --> 00:22:43,600
+make it look
+
+617
+00:22:43,600 --> 00:22:45,440
+pretty cool but when you have multiple
+
+618
+00:22:45,440 --> 00:22:46,720
+objects they look
+
+619
+00:22:46,720 --> 00:22:48,559
+nice together as well so we can change
+
+620
+00:22:48,559 --> 00:22:49,760
+the look of those
+
+621
+00:22:49,760 --> 00:22:51,440
+with the sliding just the offset here
+
+622
+00:22:51,440 --> 00:22:54,240
+panning and the tiling again
+
+623
+00:22:54,240 --> 00:22:56,320
+to whichever way you want we should try
+
+624
+00:22:56,320 --> 00:22:57,600
+the different colors here as well
+
+625
+00:22:57,600 --> 00:23:00,000
+so not entirely sure that this will look
+
+626
+00:23:00,000 --> 00:23:00,960
+so good so
+
+627
+00:23:00,960 --> 00:23:02,640
+but we'll try the blue one that we had
+
+628
+00:23:02,640 --> 00:23:04,320
+before there we go
+
+629
+00:23:04,320 --> 00:23:06,720
+blue texture and then we'll go this
+
+630
+00:23:06,720 --> 00:23:08,640
+changes for all of them so let's
+
+631
+00:23:08,640 --> 00:23:12,000
+see let's see what we've got here
+
+632
+00:23:12,000 --> 00:23:15,200
+on these then you get get that little
+
+633
+00:23:15,200 --> 00:23:17,360
+like a team color look maybe if you add
+
+634
+00:23:17,360 --> 00:23:18,559
+that one
+
+635
+00:23:18,559 --> 00:23:22,640
+change the panning again
+
+636
+00:23:22,640 --> 00:23:25,360
+there maybe looks like it's got some uh
+
+637
+00:23:25,360 --> 00:23:28,159
+head there that's looking
+
+638
+00:23:28,159 --> 00:23:29,679
+there we go let's try the other one as
+
+639
+00:23:29,679 --> 00:23:32,240
+well we've got
+
+640
+00:23:32,240 --> 00:23:34,720
+the orange one what's that look like so
+
+641
+00:23:34,720 --> 00:23:36,080
+it doesn't look so orange it's because
+
+642
+00:23:36,080 --> 00:23:38,799
+we've panned it somewhere
+
+643
+00:23:38,799 --> 00:23:41,840
+change the tiling one on
+
+644
+00:23:41,840 --> 00:23:44,880
+and then here change
+
+645
+00:23:44,880 --> 00:23:46,640
+there it looks like an industrial robot
+
+646
+00:23:46,640 --> 00:23:48,480
+type thing now so
+
+647
+00:23:48,480 --> 00:23:50,159
+it will actually won't maximize it on
+
+648
+00:23:50,159 --> 00:23:52,000
+play so we can see both here
+
+649
+00:23:52,000 --> 00:23:55,520
+the scene view and the top view
+
+650
+00:23:58,640 --> 00:24:00,559
+and it tracks the active part here as
+
+651
+00:24:00,559 --> 00:24:05,840
+well if it's closest
+
+652
+00:24:07,360 --> 00:24:08,720
+let's import the other one as well we'll
+
+653
+00:24:08,720 --> 00:24:11,600
+make a copy out of this one
+
+654
+00:24:11,600 --> 00:24:13,200
+maybe we'll put these up here to the
+
+655
+00:24:13,200 --> 00:24:15,200
+side
+
+656
+00:24:15,200 --> 00:24:17,679
+this can be like one team and then we'll
+
+657
+00:24:17,679 --> 00:24:18,960
+do
+
+658
+00:24:18,960 --> 00:24:23,520
+copy this one move that one down there
+
+659
+00:24:23,520 --> 00:24:26,640
+spin it around around the y axis 180
+
+660
+00:24:26,640 --> 00:24:28,640
+and then here i'll just swap these now
+
+661
+00:24:28,640 --> 00:24:29,919
+for the other
+
+662
+00:24:29,919 --> 00:24:33,200
+so we'll go base mesh here
+
+663
+00:24:33,200 --> 00:24:36,720
+we'll do turret two base
+
+664
+00:24:36,720 --> 00:24:38,320
+and then for the turret here we'll do
+
+665
+00:24:38,320 --> 00:24:40,559
+turret two top
+
+666
+00:24:40,559 --> 00:24:45,120
+and barrel turret two barrel
+
+667
+00:24:45,200 --> 00:24:47,520
+and this one we need to change those uh
+
+668
+00:24:47,520 --> 00:24:49,120
+muzzles as well since the
+
+669
+00:24:49,120 --> 00:24:50,559
+the they're placed a little bit
+
+670
+00:24:50,559 --> 00:24:52,720
+different so we'll go
+
+671
+00:24:52,720 --> 00:24:56,880
+barrel here no no no no no no they're
+
+672
+00:24:56,880 --> 00:24:58,640
+it's a little bit similar but not in the
+
+673
+00:24:58,640 --> 00:25:00,080
+same place so remember click on
+
+674
+00:25:00,080 --> 00:25:01,200
+perspective
+
+675
+00:25:01,200 --> 00:25:03,200
+and this is not a tutorial but i say
+
+676
+00:25:03,200 --> 00:25:04,720
+anyway like that
+
+677
+00:25:04,720 --> 00:25:07,360
+so move it into the center and then go
+
+678
+00:25:07,360 --> 00:25:09,279
+from the front view
+
+679
+00:25:09,279 --> 00:25:11,919
+okay that was the back here there's the
+
+680
+00:25:11,919 --> 00:25:13,279
+front here
+
+681
+00:25:13,279 --> 00:25:16,000
+oh yeah i'm looking from the other side
+
+682
+00:25:16,000 --> 00:25:17,600
+of course
+
+683
+00:25:17,600 --> 00:25:20,400
+okay let's go from the side then there
+
+684
+00:25:20,400 --> 00:25:21,679
+we go
+
+685
+00:25:21,679 --> 00:25:25,760
+and then we'll do copy position
+
+686
+00:25:25,760 --> 00:25:28,159
+paste onto the right one these are just
+
+687
+00:25:28,159 --> 00:25:30,159
+the placeholders
+
+688
+00:25:30,159 --> 00:25:32,480
+and then flip the y or the x component
+
+689
+00:25:32,480 --> 00:25:33,520
+there so
+
+690
+00:25:33,520 --> 00:25:36,400
+then now we should have it in that place
+
+691
+00:25:36,400 --> 00:25:37,039
+and
+
+692
+00:25:37,039 --> 00:25:38,640
+we could create uh maybe a separate
+
+693
+00:25:38,640 --> 00:25:40,080
+texture for this one so we can control
+
+694
+00:25:40,080 --> 00:25:40,960
+them so they look
+
+695
+00:25:40,960 --> 00:25:43,360
+different i don't know why i have two
+
+696
+00:25:43,360 --> 00:25:45,520
+pictures there
+
+697
+00:25:45,520 --> 00:25:48,799
+start two and here we can put
+
+698
+00:25:48,799 --> 00:25:50,720
+let's try the white texture that we had
+
+699
+00:25:50,720 --> 00:25:52,320
+white
+
+700
+00:25:52,320 --> 00:25:54,640
+and then for turret two here we'll
+
+701
+00:25:54,640 --> 00:25:56,400
+select these three base turret and
+
+702
+00:25:56,400 --> 00:25:56,880
+barrel
+
+703
+00:25:56,880 --> 00:26:01,200
+and replace that with part two texture
+
+704
+00:26:01,440 --> 00:26:03,200
+then we've got independent control out
+
+705
+00:26:03,200 --> 00:26:04,480
+of this one maybe we'll do
+
+706
+00:26:04,480 --> 00:26:06,880
+duplicates here as well so ctrl d to
+
+707
+00:26:06,880 --> 00:26:10,240
+duplicate that
+
+708
+00:26:10,240 --> 00:26:11,840
+and these won't fire on each other now
+
+709
+00:26:11,840 --> 00:26:13,679
+because i haven't uh configured
+
+710
+00:26:13,679 --> 00:26:16,159
+the other ones as targets so but that
+
+711
+00:26:16,159 --> 00:26:18,240
+could be a simple fix if we wanted to
+
+712
+00:26:18,240 --> 00:26:20,000
+put that one should they they should be
+
+713
+00:26:20,000 --> 00:26:21,760
+a little further apart maybe minus
+
+714
+00:26:21,760 --> 00:26:24,960
+four and four
+
+715
+00:26:24,960 --> 00:26:26,480
+and these have different rotation speeds
+
+716
+00:26:26,480 --> 00:26:27,840
+now maybe we'll give them some different
+
+717
+00:26:27,840 --> 00:26:30,480
+properties too
+
+718
+00:26:32,000 --> 00:26:35,440
+so turret here let's do
+
+719
+00:26:35,679 --> 00:26:38,960
+super fast tracking or no not super fast
+
+720
+00:26:38,960 --> 00:26:41,279
+but eight
+
+721
+00:26:41,279 --> 00:26:45,360
+and then rounds per minute how many
+
+722
+00:26:45,360 --> 00:26:47,520
+120 that's pretty good oh that's going
+
+723
+00:26:47,520 --> 00:26:48,960
+to be a dangerous turret
+
+724
+00:26:48,960 --> 00:26:52,960
+this one
+
+725
+00:26:52,960 --> 00:26:56,120
+we'll do two can remain there let's do
+
+726
+00:26:56,120 --> 00:26:57,360
+320.
+
+727
+00:26:57,360 --> 00:27:00,559
+okay never mind let's just give it less
+
+728
+00:27:00,559 --> 00:27:02,320
+sorry two we can change around here with
+
+729
+00:27:02,320 --> 00:27:04,080
+the tiling as well and look what do we
+
+730
+00:27:04,080 --> 00:27:04,559
+like
+
+731
+00:27:04,559 --> 00:27:08,880
+on these and the offsets
+
+732
+00:27:08,880 --> 00:27:11,360
+offset this panning and tiling makes it
+
+733
+00:27:11,360 --> 00:27:12,320
+more or less
+
+734
+00:27:12,320 --> 00:27:14,240
+solid colors and details you can go
+
+735
+00:27:14,240 --> 00:27:15,760
+negative as well so it starts to go more
+
+736
+00:27:15,760 --> 00:27:16,960
+detail again
+
+737
+00:27:16,960 --> 00:27:20,640
+but maybe like this would be
+
+738
+00:27:20,640 --> 00:27:23,039
+so we should separate these turrets a
+
+739
+00:27:23,039 --> 00:27:25,200
+little bit too
+
+740
+00:27:25,200 --> 00:27:28,960
+three minus three there we go
+
+741
+00:27:28,960 --> 00:27:35,520
+so now we've got two turret types here
+
+742
+00:27:35,520 --> 00:27:39,600
+and they're firing together
+
+743
+00:27:40,000 --> 00:27:41,760
+i've also made it so that it plays the
+
+744
+00:27:41,760 --> 00:27:43,760
+animation based on the speed of the
+
+745
+00:27:43,760 --> 00:27:45,440
+rounds per minute it calculates how fast
+
+746
+00:27:45,440 --> 00:27:47,120
+it should play the animation
+
+747
+00:27:47,120 --> 00:27:49,919
+and uh again if you're uh so if you want
+
+748
+00:27:49,919 --> 00:27:51,520
+to download this unity project
+
+749
+00:27:51,520 --> 00:27:53,360
+uh you can become a patreon at
+
+750
+00:27:53,360 --> 00:27:55,279
+patreon.com infensia
+
+751
+00:27:55,279 --> 00:27:57,039
+and i've already uploaded this unity
+
+752
+00:27:57,039 --> 00:27:58,559
+project so you can have a play with it
+
+753
+00:27:58,559 --> 00:27:59,120
+and see
+
+754
+00:27:59,120 --> 00:28:00,399
+maybe you'll learn from it or maybe you
+
+755
+00:28:00,399 --> 00:28:02,000
+want to copy some logic and build on it
+
+756
+00:28:02,000 --> 00:28:05,600
+and make a tower defense game why not
+
+757
+00:28:08,640 --> 00:28:10,000
+we can also change the sound effects
+
+758
+00:28:10,000 --> 00:28:12,720
+let's put these on
+
+759
+00:28:13,120 --> 00:28:15,919
+so for like a turret here maybe we'll
+
+760
+00:28:15,919 --> 00:28:17,279
+disable a few of these
+
+761
+00:28:17,279 --> 00:28:19,520
+so we can test some different turret
+
+762
+00:28:19,520 --> 00:28:22,799
+sounds so i'll just
+
+763
+00:28:23,440 --> 00:28:26,240
+shift select these
+
+764
+00:28:26,720 --> 00:28:29,120
+and here i've just done so in the turret
+
+765
+00:28:29,120 --> 00:28:29,760
+script
+
+766
+00:28:29,760 --> 00:28:31,840
+i've got a few audio clips here that i
+
+767
+00:28:31,840 --> 00:28:33,279
+can randomize
+
+768
+00:28:33,279 --> 00:28:35,679
+and in the blaster sound effects library
+
+769
+00:28:35,679 --> 00:28:37,279
+whoa whoa whoa
+
+770
+00:28:37,279 --> 00:28:39,520
+or x round robin it means that every
+
+771
+00:28:39,520 --> 00:28:41,440
+sound effect has got four variations to
+
+772
+00:28:41,440 --> 00:28:42,559
+it because when you repeat
+
+773
+00:28:42,559 --> 00:28:44,720
+firing sounds rapidly you don't want it
+
+774
+00:28:44,720 --> 00:28:46,240
+to sound like a typewriter
+
+775
+00:28:46,240 --> 00:28:48,000
+so if you knew some slight variation to
+
+776
+00:28:48,000 --> 00:28:49,440
+it and randomized between those
+
+777
+00:28:49,440 --> 00:28:50,480
+different samples it
+
+778
+00:28:50,480 --> 00:28:52,480
+sounds a little bit better so let's go
+
+779
+00:28:52,480 --> 00:28:54,000
+into the medium folder here
+
+780
+00:28:54,000 --> 00:28:56,960
+and go loud and then i'll just drag some
+
+781
+00:28:56,960 --> 00:28:58,559
+more sound effects in here
+
+782
+00:28:58,559 --> 00:29:00,080
+so i'll include these as well you can
+
+783
+00:29:00,080 --> 00:29:01,760
+use them if you download this
+
+784
+00:29:01,760 --> 00:29:02,960
+from patreon you can use the sound
+
+785
+00:29:02,960 --> 00:29:04,399
+effects if you want or you could buy
+
+786
+00:29:04,399 --> 00:29:04,960
+that
+
+787
+00:29:04,960 --> 00:29:08,640
+sound effects pack from infantia.com
+
+788
+00:29:09,760 --> 00:29:11,679
+so there we go let's bring some sounds
+
+789
+00:29:11,679 --> 00:29:15,520
+in let's just pick a random one here
+
+790
+00:29:17,679 --> 00:29:19,200
+i should pause that because i don't need
+
+791
+00:29:19,200 --> 00:29:21,520
+it to fire so we'll pick yeah i have no
+
+792
+00:29:21,520 --> 00:29:27,279
+idea maybe they'll try this one
+
+793
+00:29:27,279 --> 00:29:30,720
+any random sound there quick way to do
+
+794
+00:29:30,720 --> 00:29:32,159
+there is just to go zero
+
+795
+00:29:32,159 --> 00:29:34,240
+on the array click the little padlock
+
+796
+00:29:34,240 --> 00:29:35,279
+icon and we can
+
+797
+00:29:35,279 --> 00:29:37,679
+select these and drag them into fire
+
+798
+00:29:37,679 --> 00:29:38,480
+clips there
+
+799
+00:29:38,480 --> 00:29:41,840
+and let's see what this sounds like
+
+800
+00:29:48,880 --> 00:29:55,840
+okay let's try another sound
+
+801
+00:29:56,480 --> 00:29:59,360
+47 maybe
+
+802
+00:30:04,240 --> 00:30:07,200
+zero let's grab these in if you can see
+
+803
+00:30:07,200 --> 00:30:09,919
+them there we go
+
+804
+00:30:10,100 --> 00:30:13,220
+[Music]
+
+805
+00:30:17,360 --> 00:30:19,039
+okay should we do a totally different
+
+806
+00:30:19,039 --> 00:30:22,720
+sound here maybe
+
+807
+00:30:22,720 --> 00:30:25,520
+do a longer sound and some slower firing
+
+808
+00:30:25,520 --> 00:30:27,760
+maybe
+
+809
+00:30:27,760 --> 00:30:32,399
+so we'll go into the long and very loud
+
+810
+00:30:32,399 --> 00:30:34,799
+long and
+
+811
+00:30:35,679 --> 00:30:37,919
+just loud one this one low mid
+
+812
+00:30:37,919 --> 00:30:38,720
+frequencies
+
+813
+00:30:38,720 --> 00:30:43,279
+very loud there we go
+
+814
+00:30:43,279 --> 00:30:46,720
+zero on there really a railing
+
+815
+00:30:46,720 --> 00:30:51,840
+oh i missed one but never mind
+
+816
+00:30:55,200 --> 00:30:57,760
+that's pretty cool
+
+817
+00:31:01,360 --> 00:31:02,840
+and we could give it some more damage as
+
+818
+00:31:02,840 --> 00:31:05,120
+well
+
+819
+00:31:05,120 --> 00:31:07,200
+oh i didn't expose the damage the health
+
+820
+00:31:07,200 --> 00:31:09,440
+of these
+
+821
+00:31:10,480 --> 00:31:12,240
+and then if it works in unison but the
+
+822
+00:31:12,240 --> 00:31:19,360
+other one with a different sound here
+
+823
+00:31:19,360 --> 00:31:33,840
+oh yeah the padlock iphone
+
+824
+00:31:42,960 --> 00:31:47,840
+oh he's inside one
+
+825
+00:32:12,840 --> 00:32:15,840
+so
+
+826
+00:32:21,440 --> 00:32:22,880
+all right folks that's gonna be it for
+
+827
+00:32:22,880 --> 00:32:23,919
+this week i hope you enjoyed this
+
+828
+00:32:23,919 --> 00:32:24,480
+episode
+
+829
+00:32:24,480 --> 00:32:26,159
+give it a thumbs up if you did and don't
+
+830
+00:32:26,159 --> 00:32:27,760
+forget to subscribe and
+
+831
+00:32:27,760 --> 00:32:29,120
+just one more mention as well if you
+
+832
+00:32:29,120 --> 00:32:30,559
+want to download this project head over
+
+833
+00:32:30,559 --> 00:32:32,559
+to patreon.com
+
+834
+00:32:32,559 --> 00:32:34,000
+become a supporter there from the
+
+835
+00:32:34,000 --> 00:32:35,760
+tutorial tiering up and you'll be able
+
+836
+00:32:35,760 --> 00:32:37,200
+to download this project play around
+
+837
+00:32:37,200 --> 00:32:39,200
+with it use the scripts use the little
+
+838
+00:32:39,200 --> 00:32:40,159
+hierarchy of
+
+839
+00:32:40,159 --> 00:32:42,320
+turret logic there and make a little
+
+840
+00:32:42,320 --> 00:32:44,080
+game out of it why not
+
+841
+00:32:44,080 --> 00:32:46,559
+so uh until next week have a great one
+
+842
+00:32:46,559 --> 00:32:47,760
+and i'll see you then
+
+843
+00:32:47,760 --> 00:32:57,390
+bye for now
+
+844
+00:32:57,390 --> 00:33:16,240
+[Music]
+
+845
+00:33:16,240 --> 00:33:18,320
+you
+
