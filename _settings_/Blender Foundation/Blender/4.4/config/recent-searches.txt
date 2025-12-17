@@ -1,0 +1,75 @@
+Surface ▸ Nurbs Surface
+Deform ▸ Mesh Deform
+Deform ▸ Surface Deform
+Mesh ▸ Plane
+  Path
+Mesh ▸ Clean Up ▸ Merge by Distance
+Mesh ▸ Merge (M) ▸ At Center
+Mesh ▸ Merge (M) ▸ Collapse
+Window ▸ Show Status Bar
+Blender ▸ System ▸ Memory Statistics
+Generate ▸ Triangulate
+Normals ▸ Normal Edit
+Generate ▸ Remesh
+UV (U) ▸ Mark Seam
+Vertex (Ctrl V) ▸ Smooth Vertices (Laplacian)
+   Material.001
+Vertex (Ctrl V) ▸ Connect Vertex Path|J
+Vertex (Ctrl V) ▸ Connect Vertex Pairs
+Edge (Ctrl E) ▸ Edge Crease|Shift E
+Mesh ▸ Snap ▸ Cursor to Grid
+Generate ▸ Decimate
+Face (Ctrl F) ▸ Shade Flat
+Proportional Editing Falloff (Shift O) ▸ Smooth
+Mesh ▸ Normals (Alt N) ▸ Smooth Vectors
+Normals ▸ Smooth by Angle
+Face (Ctrl F) ▸ Shade Smooth
+Edge (Ctrl E) ▸ Bridge Edge Loops
+Dots Stroke
+Material
+Edge (Ctrl E) ▸ Clear Sharp
+Mesh ▸ Shading ▸ Smooth Vertices
+Mesh ▸ Weights ▸ Smooth
+Mesh ▸ Knife Project
+view3d.view_selected
+Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Boolean
+  Land
+Generate ▸ Boolean
+  Track
+Mesh ▸ Split (Alt M) ▸ Faces by Edges
+Vertex (Ctrl V) ▸ Smooth Vertices
+Mesh ▸ Shading ▸ Smooth Edges
+Mesh ▸ Shading ▸ Smooth Faces
+Mesh ▸ Normals (Alt N) ▸ Average ▸ Custom Normal
+Face (Ctrl F) ▸ Extrude Faces Along Normals
+Mesh ▸ Normals (Alt N) ▸ Flip
+Add (Shift A) ▸ Converter ▸ Color Ramp
+Input ▸ RGB
+Color ▸ Mix Color
+Texture ▸ Gabor Texture
+Texture ▸ Voronoi Texture
+Texture ▸ Noise Texture
+Vector ▸ Mapping
+Input ▸ Texture Coordinate
+Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Mirror
+  Plane
+Object ▸ Transform ▸ Move|G
+  NurbsCurve
+Generate ▸ Mirror
+Generate ▸ Subdivision Surface
+View ▸ Area ▸ Close Area
+  NurbsPath.001
+Deform ▸ Smooth
+Curve ▸ Toggle Cyclic|Alt C
+   Mram
+Texture ▸ Image Texture
+Face (Ctrl F) ▸ Triangulate Faces|Ctrl T
+   Material
+Mesh ▸ Normals (Alt N) ▸ Merge
+Edge (Ctrl E) ▸ Subdivide
+Mesh ▸ Clean Up ▸ Decimate Geometry
+  NurbsPath A
+
+Generate ▸ Array
+Deform ▸ Curve
+  NurbsPath

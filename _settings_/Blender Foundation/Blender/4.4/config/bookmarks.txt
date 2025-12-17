@@ -1,12 +1,12 @@
 [Bookmarks]
 [Recent]
-C:\Projects\Godot-4.1\h-flyer\assets\mooney\MooModels\
-C:\Projects\Godot-4.1\h-flyer\assets\mooney\
-C:\Projects\Godot-4.1\h-flyer\assets\
-C:\Projects\Godot-4.1\h-flyer\assets\building_meshes\
-C:\Projects\ad-learning\blender\models\assets-slappy-000\screens\
-C:\Projects\ad-learning\blender\models\assets-slappy-000\models\
-C:\Projects\ad-learning\blender\models\top-and-iso-scene-000\
-C:\Projects\ad-learning\blender\models\land-stones-000\screens\
-C:\Projects\ad-learning\blender\models\land-stones-000\
-C:\Projects\ad-learning\blender\models\house-000\
+C:\Projects\v4-51-golf\Project\Scenes\GLBs\
+C:\Projects\v4-51-golf\Blender\CurveCup\
+C:\Projects\v4-51-golf\Blender\Spa\
+C:\Users\dmytr\OneDrive\Documents\
+C:\Projects\v4-51-golf\Blender\HyperCup\
+C:\Users\dmytr\Downloads\
+C:\Program Files\Notepad++\
+C:\Program Files (x86)\Adobe\Photoshop 7.0\
+C:\Projects\blender\scripts\
+C:\Projects\blender\assets\
