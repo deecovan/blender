@@ -72,6 +72,6 @@ Generate ▸ Array
   NurbsPath
 Deform ▸ Curve
 Mesh ▸ Delete (X) ▸ Dissolve Edges
+Edge (Ctrl E) ▸ Subdivide
 Face (Ctrl F) ▸ Triangulate Faces|Ctrl T
 Mesh ▸ Clean Up ▸ Decimate Geometry
-Edge (Ctrl E) ▸ Subdivide
