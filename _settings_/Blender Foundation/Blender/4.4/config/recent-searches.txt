@@ -24,7 +24,6 @@ Proportional Editing Falloff (Shift O) ▸ Smooth
 Mesh ▸ Normals (Alt N) ▸ Smooth Vectors
 Normals ▸ Smooth by Angle
 Face (Ctrl F) ▸ Shade Smooth
-Edge (Ctrl E) ▸ Bridge Edge Loops
 Dots Stroke
 Material
 Edge (Ctrl E) ▸ Clear Sharp
@@ -37,7 +36,6 @@ Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Boolean
 Generate ▸ Boolean
   Track
 Mesh ▸ Split (Alt M) ▸ Faces by Edges
-Vertex (Ctrl V) ▸ Smooth Vertices
 Mesh ▸ Shading ▸ Smooth Edges
 Mesh ▸ Shading ▸ Smooth Faces
 Mesh ▸ Normals (Alt N) ▸ Average ▸ Custom Normal
@@ -57,19 +55,23 @@ Object ▸ Transform ▸ Move|G
   NurbsCurve
 Generate ▸ Mirror
 Generate ▸ Subdivision Surface
-View ▸ Area ▸ Close Area
   NurbsPath.001
 Deform ▸ Smooth
 Curve ▸ Toggle Cyclic|Alt C
    Mram
 Texture ▸ Image Texture
-Face (Ctrl F) ▸ Triangulate Faces|Ctrl T
-   Material
 Mesh ▸ Normals (Alt N) ▸ Merge
-Edge (Ctrl E) ▸ Subdivide
-Mesh ▸ Clean Up ▸ Decimate Geometry
   NurbsPath A
 
+   Material
+Vertex (Ctrl V) ▸ Smooth Vertices
+Edge (Ctrl E) ▸ Bridge Edge Loops
+View ▸ Area ▸ Close Area
+Curve ▸ Clean Up ▸ Decimate Curve
 Generate ▸ Array
-Deform ▸ Curve
   NurbsPath
+Deform ▸ Curve
+Mesh ▸ Delete (X) ▸ Dissolve Edges
+Face (Ctrl F) ▸ Triangulate Faces|Ctrl T
+Mesh ▸ Clean Up ▸ Decimate Geometry
+Edge (Ctrl E) ▸ Subdivide
