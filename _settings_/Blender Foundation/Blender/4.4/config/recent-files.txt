@@ -1,3 +1,10 @@
+C:\Projects\blender\models\car-new-000\car-new-000-export.blend
+C:\Projects\blender\models\car-new-000\car-new-000-export-wheelRL.blend
+C:\Projects\blender\models\car-new-000\car-new-000-export-wheelFL.blend
+C:\Projects\blender\models\car-new-000\car-new-000-cleaned.blend
+C:\Projects\blender\models\car-new-000\car-new-000.blend
+C:\Projects\blender\models\car-new-000\car-new-002.blend
+C:\Projects\blender\models\car-new-000\car-new-001.blend
 C:\Projects\blender\models\car-000\FantaCar6600.export..CARblend.blend
 C:\Projects\blender\models\car-000\FantaCar6600.export..WHEELblend.blend
 C:\Projects\blender\models\car-000\FantaCar6600.export.blend
@@ -11,10 +18,3 @@ C:\Projects\v4-51-golf\Blender\New Folder\thor.a1.curve.blend
 C:\Projects\v4-51-golf\Blender\New Folder\thor.a1.blend
 C:\Projects\v4-51-golf\Blender\New Folder\thor.a0.blend
 C:\Projects\v4-51-golf\Blender\New Folder\thor.0.blend
-C:\Projects\v4-51-golf\Blender\New Folder\thor.3.blend
-C:\Projects\v4-51-golf\Blender\New Folder\thor.2.blend
-C:\Projects\v4-51-golf\Blender\New Folder\thor.1.blend
-C:\Projects\v4-51-golf\Blender\CurveCup\Curved.b3.merge.C1.blend
-C:\Projects\v4-51-golf\Blender\CurveCup\Curved.b3.test.blend
-C:\Projects\v4-51-golf\Blender\CurveCup\Curved.b3.Triangulate.3.blend
-C:\Projects\v4-51-golf\Blender\CurveCup\Curved.b3.Triangulate.C2.blend

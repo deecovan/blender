@@ -75,3 +75,8 @@ Mesh ▸ Delete (X) ▸ Dissolve Edges
 Edge (Ctrl E) ▸ Subdivide
 Face (Ctrl F) ▸ Triangulate Faces|Ctrl T
 Mesh ▸ Clean Up ▸ Decimate Geometry
+Object ▸ Set Origin ▸ Origin to Center of Mass (Surface)
+View ▸ Align View ▸ Center Cursor and Frame All|Shift C
+Snap (Shift S) ▸ Cursor to Grid
+Object ▸ Set Origin ▸ Origin to Center of Mass (Volume)
+Object ▸ Set Origin ▸ Origin to 3D Cursor
