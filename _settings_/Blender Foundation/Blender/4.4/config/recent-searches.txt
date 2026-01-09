@@ -58,7 +58,6 @@ Deform ▸ Smooth
 Curve ▸ Toggle Cyclic|Alt C
    Mram
 Texture ▸ Image Texture
-Mesh ▸ Normals (Alt N) ▸ Merge
   NurbsPath A
 
    Material
@@ -66,7 +65,6 @@ Vertex (Ctrl V) ▸ Smooth Vertices
 Edge (Ctrl E) ▸ Bridge Edge Loops
 View ▸ Area ▸ Close Area
 Curve ▸ Clean Up ▸ Decimate Curve
-Generate ▸ Array
 Mesh ▸ Delete (X) ▸ Dissolve Edges
 Object ▸ Set Origin ▸ Origin to Center of Mass (Surface)
 View ▸ Align View ▸ Center Cursor and Frame All|Shift C
@@ -83,14 +81,25 @@ Object ▸ Set Origin ▸ Origin to Center of Mass (Volume)
 Object ▸ Relations ▸ Make Local... ▸ Selected Objects, Data and Materials
 Object ▸ Clean Up ▸ Remove Unused Material Slots
 Curve ▸ Transform ▸ Radius|Alt S
-Deform ▸ Curve
   NurbsPath
-  NurbsPath.002
-Segments ▸ Subdivide
-Control Points ▸ Clear Tilt|Alt T
    White
 Select ▸ Select Similar (Shift G) ▸ Material
 Vertex (Ctrl V) ▸ Vertex Crease
 Mesh ▸ Shading ▸ Sharp Vertices
 Edge (Ctrl E) ▸ Mark Sharp
 Edge (Ctrl E) ▸ Subdivide
+  NurbsPath.002
+Segments ▸ Subdivide
+Vertex (Ctrl V) ▸ Vertex Groups (Ctrl G) ▸ Assign to New Group
+Group
+Generate ▸ Array
+Object ▸ Transform ▸ Align to Transform Orientation
+3D Viewport: Object ▸ Transform ▸ Align Objects
+Object ▸ Transform ▸ Align Objects
+Deform ▸ Curve
+  NurbsPath.003
+  BézierCurve
+Mesh ▸ Normals (Alt N) ▸ Merge
+Curve ▸ Transform ▸ Rotate|R
+  BézierCurve.004
+Control Points ▸ Clear Tilt|Alt T
