@@ -51,7 +51,6 @@ Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Mirror
   Plane
 Object ▸ Transform ▸ Move|G
   NurbsCurve
-Generate ▸ Mirror
 Generate ▸ Subdivision Surface
   NurbsPath.001
 Deform ▸ Smooth
@@ -81,7 +80,6 @@ Object ▸ Set Origin ▸ Origin to Center of Mass (Volume)
 Object ▸ Relations ▸ Make Local... ▸ Selected Objects, Data and Materials
 Object ▸ Clean Up ▸ Remove Unused Material Slots
 Curve ▸ Transform ▸ Radius|Alt S
-  NurbsPath
    White
 Select ▸ Select Similar (Shift G) ▸ Material
 Vertex (Ctrl V) ▸ Vertex Crease
@@ -89,17 +87,20 @@ Mesh ▸ Shading ▸ Sharp Vertices
 Edge (Ctrl E) ▸ Mark Sharp
 Edge (Ctrl E) ▸ Subdivide
   NurbsPath.002
-Segments ▸ Subdivide
 Vertex (Ctrl V) ▸ Vertex Groups (Ctrl G) ▸ Assign to New Group
 Group
-Generate ▸ Array
 Object ▸ Transform ▸ Align to Transform Orientation
 3D Viewport: Object ▸ Transform ▸ Align Objects
 Object ▸ Transform ▸ Align Objects
-Deform ▸ Curve
   NurbsPath.003
   BézierCurve
 Mesh ▸ Normals (Alt N) ▸ Merge
 Curve ▸ Transform ▸ Rotate|R
   BézierCurve.004
+Generate ▸ Mirror
+  NurbsPath
+Select ▸ Select Similar (Shift G) ▸ Normal
+Generate ▸ Array
+Deform ▸ Curve
+Segments ▸ Subdivide
 Control Points ▸ Clear Tilt|Alt T
