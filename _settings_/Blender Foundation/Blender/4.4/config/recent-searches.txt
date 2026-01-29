@@ -52,7 +52,6 @@ Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Mirror
 Object ▸ Transform ▸ Move|G
   NurbsCurve
 Generate ▸ Subdivision Surface
-  NurbsPath.001
 Deform ▸ Smooth
 Curve ▸ Toggle Cyclic|Alt C
    Mram
@@ -71,7 +70,6 @@ Snap (Shift S) ▸ Cursor to Grid
 Object ▸ Set Origin ▸ Origin to 3D Cursor
 Mesh ▸ Clean Up ▸ Merge by Distance
 Mesh ▸ Clean Up ▸ Decimate Geometry
-Edge (Ctrl E) ▸ Clear Sharp
 Edge (Ctrl E) ▸ Clear Sharp from Vertices
 Select ▸ Sharp Edges
 Select ▸ Select All by Trait ▸ Loose Geometry
@@ -104,3 +102,8 @@ Generate ▸ Array
 Deform ▸ Curve
 Segments ▸ Subdivide
 Control Points ▸ Clear Tilt|Alt T
+  NurbsPath.001
+Edge (Ctrl E) ▸ Clear Sharp
+3D View Pie (Shift F) ▸ Clear All Seams
+Edge (Ctrl E) ▸ Clear Freestyle Edge
+UV (U) ▸ Clear Seam
