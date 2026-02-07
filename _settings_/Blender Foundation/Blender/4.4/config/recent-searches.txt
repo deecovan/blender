@@ -51,14 +51,11 @@ Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Mirror
   Plane
 Object ▸ Transform ▸ Move|G
   NurbsCurve
-Generate ▸ Mirror
 Generate ▸ Subdivision Surface
-  NurbsPath.001
 Deform ▸ Smooth
 Curve ▸ Toggle Cyclic|Alt C
    Mram
 Texture ▸ Image Texture
-Mesh ▸ Normals (Alt N) ▸ Merge
   NurbsPath A
 
    Material
@@ -66,7 +63,6 @@ Vertex (Ctrl V) ▸ Smooth Vertices
 Edge (Ctrl E) ▸ Bridge Edge Loops
 View ▸ Area ▸ Close Area
 Curve ▸ Clean Up ▸ Decimate Curve
-Generate ▸ Array
 Mesh ▸ Delete (X) ▸ Dissolve Edges
 Object ▸ Set Origin ▸ Origin to Center of Mass (Surface)
 View ▸ Align View ▸ Center Cursor and Frame All|Shift C
@@ -74,7 +70,6 @@ Snap (Shift S) ▸ Cursor to Grid
 Object ▸ Set Origin ▸ Origin to 3D Cursor
 Mesh ▸ Clean Up ▸ Merge by Distance
 Mesh ▸ Clean Up ▸ Decimate Geometry
-Edge (Ctrl E) ▸ Clear Sharp
 Edge (Ctrl E) ▸ Clear Sharp from Vertices
 Select ▸ Sharp Edges
 Select ▸ Select All by Trait ▸ Loose Geometry
@@ -83,14 +78,32 @@ Object ▸ Set Origin ▸ Origin to Center of Mass (Volume)
 Object ▸ Relations ▸ Make Local... ▸ Selected Objects, Data and Materials
 Object ▸ Clean Up ▸ Remove Unused Material Slots
 Curve ▸ Transform ▸ Radius|Alt S
-Deform ▸ Curve
-  NurbsPath
-  NurbsPath.002
-Segments ▸ Subdivide
-Control Points ▸ Clear Tilt|Alt T
    White
 Select ▸ Select Similar (Shift G) ▸ Material
 Vertex (Ctrl V) ▸ Vertex Crease
 Mesh ▸ Shading ▸ Sharp Vertices
 Edge (Ctrl E) ▸ Mark Sharp
 Edge (Ctrl E) ▸ Subdivide
+  NurbsPath.002
+Vertex (Ctrl V) ▸ Vertex Groups (Ctrl G) ▸ Assign to New Group
+Group
+Object ▸ Transform ▸ Align to Transform Orientation
+3D Viewport: Object ▸ Transform ▸ Align Objects
+Object ▸ Transform ▸ Align Objects
+  NurbsPath.003
+  BézierCurve
+Mesh ▸ Normals (Alt N) ▸ Merge
+Curve ▸ Transform ▸ Rotate|R
+  BézierCurve.004
+Generate ▸ Mirror
+  NurbsPath
+Select ▸ Select Similar (Shift G) ▸ Normal
+Generate ▸ Array
+Deform ▸ Curve
+Segments ▸ Subdivide
+Control Points ▸ Clear Tilt|Alt T
+  NurbsPath.001
+Edge (Ctrl E) ▸ Clear Sharp
+3D View Pie (Shift F) ▸ Clear All Seams
+Edge (Ctrl E) ▸ Clear Freestyle Edge
+UV (U) ▸ Clear Seam
