@@ -1,0 +1,5 @@
+{Intel/Intel(R) HD Graphics 520/4.6.0 - Build 31.0.101.2115}=SUPPORTED
+{Intel/Intel(R) HD Graphics 520/4.6.0 - Build 30.0.100.9865}=SUPPORTED
+{Intel/Intel(R) HD Graphics 520/4.6.0 - Build 30.0.101.1340}=SUPPORTED
+{ATI Technologies Inc./AMD Radeon(TM) Graphics/4.6.0 Core Profile Context 24.10.39.01.240827}=SUPPORTED
+{ATI Technologies Inc./AMD Radeon(TM) Graphics/4.6.0 Core Profile Context 25.10.30.05.251006}=SUPPORTED
