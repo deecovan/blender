@@ -2,24 +2,41 @@ Material.017
 Edge (Ctrl E) ▸ Set Sharpness by Angle
 3D View Pie (Shift F) ▸ Clear All Seams
 Select ▸ Sharp Edges
-Edge (Ctrl E) ▸ Mark Sharp
 Edge (Ctrl E) ▸ Un-Subdivide
 Mesh ▸ Shading ▸ Sharp Vertices
 Mesh ▸ Transform ▸ Randomize
 Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Boolean
-
 Edge (Ctrl E) ▸ Subdivide Edge-Ring
 Generate ▸ Boolean
-Edge (Ctrl E) ▸ Clear Sharp
 Edge (Ctrl E) ▸ Clear Sharp from Vertices
 Blender ▸ System ▸ Clean Up Space Data
 Edge (Ctrl E) ▸ Subdivide
-Vertex (Ctrl V) ▸ Smooth Vertices
 Mesh ▸ Normals (Alt N) ▸ Merge
 Face (Ctrl F) ▸ Triangulate Faces|Ctrl T
-Mesh ▸ Shading ▸ Sharp Edges
 Mesh ▸ Clean Up ▸ Decimate Geometry
 Generate ▸ Mirror
-Mesh ▸ Shading ▸ Smooth Vertices
+  Landscape.09
+  Landscape.000
+  Landscape
+  Landscape.002
+  Landscape.003
+  Landscape.00a
+Gravel
+Edge (Ctrl E) ▸ Mark Sharp
+Edge (Ctrl E) ▸ Clear Sharp
 Mesh ▸ Shading ▸ Smooth Edges
+Mesh ▸ Shading ▸ Smooth Vertices
+  Border.001
+Ice
+Canyon Brown
+  Canyon600.0A
+  Canyon600.0B
+  Canyon600.000
+  Canyon600.001
+  Canyon600.002
+  Canyon600.003
+  Canyon600.004
+
+Mesh ▸ Shading ▸ Sharp Edges
+Vertex (Ctrl V) ▸ Smooth Vertices
 Snap (Shift S) ▸ Selection to Cursor
