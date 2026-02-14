@@ -9,7 +9,6 @@ Mesh ▸ Transform ▸ Randomize
 Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Boolean
 
 Edge (Ctrl E) ▸ Subdivide Edge-Ring
-Snap (Shift S) ▸ Selection to Cursor
 Generate ▸ Boolean
 Edge (Ctrl E) ▸ Clear Sharp
 Edge (Ctrl E) ▸ Clear Sharp from Vertices
@@ -23,3 +22,4 @@ Mesh ▸ Clean Up ▸ Decimate Geometry
 Generate ▸ Mirror
 Mesh ▸ Shading ▸ Smooth Vertices
 Mesh ▸ Shading ▸ Smooth Edges
+Snap (Shift S) ▸ Selection to Cursor
