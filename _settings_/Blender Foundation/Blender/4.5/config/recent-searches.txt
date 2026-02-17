@@ -23,7 +23,6 @@ Generate ▸ Mirror
   Landscape.00a
 Gravel
 Edge (Ctrl E) ▸ Mark Sharp
-Edge (Ctrl E) ▸ Clear Sharp
 Mesh ▸ Shading ▸ Smooth Edges
 Mesh ▸ Shading ▸ Smooth Vertices
   Border.001
@@ -36,7 +35,9 @@ Canyon Brown
   Canyon600.002
   Canyon600.003
   Canyon600.004
-
+Edge (Ctrl E) ▸ Clear Sharp
+3D Viewport: Select ▸ Select Random
 Mesh ▸ Shading ▸ Sharp Edges
 Vertex (Ctrl V) ▸ Smooth Vertices
 Snap (Shift S) ▸ Selection to Cursor
+
