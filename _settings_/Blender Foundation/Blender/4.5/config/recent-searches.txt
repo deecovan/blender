@@ -4,16 +4,12 @@ Edge (Ctrl E) ▸ Set Sharpness by Angle
 Select ▸ Sharp Edges
 Edge (Ctrl E) ▸ Un-Subdivide
 Mesh ▸ Shading ▸ Sharp Vertices
-Mesh ▸ Transform ▸ Randomize
 Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Boolean
 Edge (Ctrl E) ▸ Subdivide Edge-Ring
-Generate ▸ Boolean
 Edge (Ctrl E) ▸ Clear Sharp from Vertices
 Blender ▸ System ▸ Clean Up Space Data
-Edge (Ctrl E) ▸ Subdivide
 Mesh ▸ Normals (Alt N) ▸ Merge
 Face (Ctrl F) ▸ Triangulate Faces|Ctrl T
-Mesh ▸ Clean Up ▸ Decimate Geometry
 Generate ▸ Mirror
   Landscape.09
   Landscape.000
@@ -23,7 +19,6 @@ Generate ▸ Mirror
   Landscape.00a
 Gravel
 Edge (Ctrl E) ▸ Mark Sharp
-Mesh ▸ Shading ▸ Smooth Edges
 Mesh ▸ Shading ▸ Smooth Vertices
   Border.001
 Ice
@@ -38,6 +33,13 @@ Canyon Brown
 Edge (Ctrl E) ▸ Clear Sharp
 3D Viewport: Select ▸ Select Random
 Mesh ▸ Shading ▸ Sharp Edges
-Vertex (Ctrl V) ▸ Smooth Vertices
-Snap (Shift S) ▸ Selection to Cursor
+Mesh ▸ Clean Up ▸ Decimate Geometry
+Select ▸ Side of Active
+Generate ▸ Boolean
 
+Edge (Ctrl E) ▸ Subdivide
+Mesh ▸ Transform ▸ Randomize
+Vertex (Ctrl V) ▸ Smooth Vertices
+Mesh ▸ Shading ▸ Smooth Edges
+Object ▸ Set Origin ▸ Origin to 3D Cursor
+Snap (Shift S) ▸ Selection to Cursor
