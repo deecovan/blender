@@ -36,10 +36,10 @@ Mesh ▸ Shading ▸ Sharp Edges
 Mesh ▸ Clean Up ▸ Decimate Geometry
 Select ▸ Side of Active
 Generate ▸ Boolean
-
 Edge (Ctrl E) ▸ Subdivide
-Mesh ▸ Transform ▸ Randomize
 Vertex (Ctrl V) ▸ Smooth Vertices
 Mesh ▸ Shading ▸ Smooth Edges
 Object ▸ Set Origin ▸ Origin to 3D Cursor
+Mesh ▸ Transform ▸ Randomize
 Snap (Shift S) ▸ Selection to Cursor
+
