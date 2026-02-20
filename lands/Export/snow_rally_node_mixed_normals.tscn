@@ -1,0 +1,107 @@
+[gd_scene load_steps=27 format=3 uid="uid://bkl2ds2d77lwj"]
+
+[ext_resource type="PackedScene" uid="uid://chmwq4dnb0wu3" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_00.glb" id="1_3jsjr"]
+[ext_resource type="PackedScene" uid="uid://cb37hvlfbek7b" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_00_BC_.glb" id="2_4gn88"]
+[ext_resource type="PackedScene" uid="uid://caxfqovxqcmi" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_00_BL_.glb" id="3_hands"]
+[ext_resource type="PackedScene" uid="uid://m2p6yx0x4vjf" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_00_BR_.glb" id="4_qni2r"]
+[ext_resource type="PackedScene" uid="uid://copkwotguk5j1" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_02.glb" id="5_5ldhu"]
+[ext_resource type="PackedScene" uid="uid://7g7r61jkixpp" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_02_BL_.glb" id="6_gucte"]
+[ext_resource type="PackedScene" uid="uid://n7twsg25b4cv" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_02_BR_.glb" id="7_7lke4"]
+[ext_resource type="PackedScene" uid="uid://b5jv53308voe0" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_03.glb" id="8_a8f5l"]
+[ext_resource type="PackedScene" uid="uid://cog4tdscvdkmr" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_03_BL_.glb" id="9_6tcuu"]
+[ext_resource type="PackedScene" uid="uid://cjvgt2wh8e6r8" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_03_BR_.glb" id="10_qgve7"]
+[ext_resource type="PackedScene" uid="uid://biitp81x3v7i3" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_04.glb" id="11_jiuvk"]
+[ext_resource type="PackedScene" uid="uid://brgv6gniuw5rf" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_04_BL_.glb" id="12_6nsos"]
+[ext_resource type="PackedScene" uid="uid://2h4qxs4qtlul" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_04_BR.glb" id="13_0fqyn"]
+[ext_resource type="PackedScene" uid="uid://dmvwwjki8slut" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_05.glb" id="14_rsjcf"]
+[ext_resource type="PackedScene" uid="uid://bbg8y8jfh2ukn" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_05_BL.glb" id="15_sq7mb"]
+[ext_resource type="PackedScene" uid="uid://bkqd6u18oa131" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_05_BR.glb" id="16_1r73k"]
+[ext_resource type="PackedScene" uid="uid://cofg1l1spet2g" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_06.glb" id="17_t85d1"]
+[ext_resource type="PackedScene" uid="uid://w5itaxa57lvi" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_06_BL_.glb" id="18_yepvv"]
+[ext_resource type="PackedScene" uid="uid://c6o4dhhudrdc7" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_06_BR_.glb" id="19_6pugf"]
+[ext_resource type="PackedScene" uid="uid://c8jirkusjwy4" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_07.glb" id="20_j0e26"]
+[ext_resource type="PackedScene" uid="uid://bn5pyr1txxj8i" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_07_BL_.glb" id="21_qycc5"]
+[ext_resource type="PackedScene" uid="uid://cg5r6bdn5amfd" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_07_BR_.glb" id="22_mh8do"]
+[ext_resource type="PackedScene" uid="uid://biwcuf5ypdpqh" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_0e.glb" id="23_lbwq0"]
+[ext_resource type="PackedScene" uid="uid://bn6rf0odvdgbn" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_0e_BL_.glb" id="24_bnwpm"]
+[ext_resource type="PackedScene" uid="uid://cb6j6nmcacyf8" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_0e_BR_.glb" id="25_6560k"]
+[ext_resource type="PackedScene" uid="uid://dtywjqsixagsm" path="res://Scenes/Tracks/GLBs/Rally.Snow/Export/Mix/_RallyLand_0e_BS_.glb" id="26_v6doo"]
+
+[node name="Snow Rally Node Mixed Normals" type="Node3D"]
+
+[node name="_RallyLand_00" parent="." instance=ExtResource("1_3jsjr")]
+
+[node name="_RallyLand_00_BC_" parent="." instance=ExtResource("2_4gn88")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.67218, -3.80258, 0)
+
+[node name="_RallyLand_00_BL_" parent="." instance=ExtResource("3_hands")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -9.7271, 0)
+
+[node name="_RallyLand_00_BR_" parent="." instance=ExtResource("4_qni2r")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -17.4241, 0)
+
+[node name="_RallyLand_02" parent="." instance=ExtResource("5_5ldhu")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 600.076, 0, 0)
+
+[node name="_RallyLand_02_BL_" parent="." instance=ExtResource("6_gucte")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 600, 0, 0)
+
+[node name="_RallyLand_02_BR_" parent="." instance=ExtResource("7_7lke4")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 600, 0, 0)
+
+[node name="_RallyLand_03" parent="." instance=ExtResource("8_a8f5l")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1200, 0, 0)
+
+[node name="_RallyLand_03_BL_" parent="." instance=ExtResource("9_6tcuu")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1200, 0, 0)
+
+[node name="_RallyLand_03_BR_" parent="." instance=ExtResource("10_qgve7")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1200, 0, 0)
+
+[node name="_RallyLand_04" parent="." instance=ExtResource("11_jiuvk")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1800.73, 0, 0)
+
+[node name="_RallyLand_04_BL_" parent="." instance=ExtResource("12_6nsos")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1800.73, 0, 0)
+
+[node name="_RallyLand_04_BR" parent="." instance=ExtResource("13_0fqyn")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1800.73, 0, 0)
+
+[node name="_RallyLand_05" parent="." instance=ExtResource("14_rsjcf")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2400.05, 0, 0)
+
+[node name="_RallyLand_05_BL" parent="." instance=ExtResource("15_sq7mb")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2400.05, 0, 0)
+
+[node name="_RallyLand_05_BR" parent="." instance=ExtResource("16_1r73k")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2400.05, 0, 0)
+
+[node name="_RallyLand_06" parent="." instance=ExtResource("17_t85d1")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3000, 0, 0)
+
+[node name="_RallyLand_06_BL_" parent="." instance=ExtResource("18_yepvv")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3000, 0, 0)
+
+[node name="_RallyLand_06_BR_" parent="." instance=ExtResource("19_6pugf")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3000, 0, 0)
+
+[node name="_RallyLand_07" parent="." instance=ExtResource("20_j0e26")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3600, -2.49261, 0)
+
+[node name="_RallyLand_07_BL_" parent="." instance=ExtResource("21_qycc5")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3600, -2.49261, 0)
+
+[node name="_RallyLand_07_BR_" parent="." instance=ExtResource("22_mh8do")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3600, -2.49261, 0)
+
+[node name="_RallyLand_0e" parent="." instance=ExtResource("23_lbwq0")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4214.68, -2.85, 0)
+
+[node name="_RallyLand_0e_BL_" parent="." instance=ExtResource("24_bnwpm")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4214.68, -2.85, 0)
+
+[node name="_RallyLand_0e_BR_" parent="." instance=ExtResource("25_6560k")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4214.68, -2.85, 0)
+
+[node name="_RallyLand_0e_BS_" parent="." instance=ExtResource("26_v6doo")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4214.68, -2.85, 0)

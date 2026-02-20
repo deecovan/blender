@@ -1,13 +1,8 @@
 Material.017
-Edge (Ctrl E) ▸ Set Sharpness by Angle
-3D View Pie (Shift F) ▸ Clear All Seams
-Select ▸ Sharp Edges
 Edge (Ctrl E) ▸ Un-Subdivide
 Mesh ▸ Shading ▸ Sharp Vertices
 Object ▸ Modifiers ▸ Add Modifier ▸ Generate ▸ Boolean
 Edge (Ctrl E) ▸ Subdivide Edge-Ring
-Edge (Ctrl E) ▸ Clear Sharp from Vertices
-Blender ▸ System ▸ Clean Up Space Data
 Mesh ▸ Normals (Alt N) ▸ Merge
 Face (Ctrl F) ▸ Triangulate Faces|Ctrl T
 Generate ▸ Mirror
@@ -18,7 +13,6 @@ Generate ▸ Mirror
   Landscape.003
   Landscape.00a
 Gravel
-Edge (Ctrl E) ▸ Mark Sharp
 Mesh ▸ Shading ▸ Smooth Vertices
   Border.001
 Ice
@@ -30,16 +24,31 @@ Canyon Brown
   Canyon600.002
   Canyon600.003
   Canyon600.004
-Edge (Ctrl E) ▸ Clear Sharp
 3D Viewport: Select ▸ Select Random
 Mesh ▸ Shading ▸ Sharp Edges
 Mesh ▸ Clean Up ▸ Decimate Geometry
 Select ▸ Side of Active
 Generate ▸ Boolean
 Edge (Ctrl E) ▸ Subdivide
-Vertex (Ctrl V) ▸ Smooth Vertices
-Mesh ▸ Shading ▸ Smooth Edges
+UV (U) ▸ Clear Seam
+Edge (Ctrl E) ▸ Clear Seam
+3D View Pie (Shift F) ▸ Clear Seam
+3D View Pie (Shift F) ▸ Clear All Seams
 Object ▸ Set Origin ▸ Origin to 3D Cursor
+Vertex (Ctrl V) ▸ Smooth Vertices
 Mesh ▸ Transform ▸ Randomize
+Mesh ▸ Weights ▸ Smooth
 Snap (Shift S) ▸ Selection to Cursor
+Object ▸ Set Origin ▸ Geometry to Origin
+Mesh ▸ Shading ▸ Smooth Edges
+Blender ▸ System ▸ Clean Up Space Data
+Edge (Ctrl E) ▸ Clear Sharp from Vertices
+Edge (Ctrl E) ▸ Set Sharpness by Angle
+Face (Ctrl F) ▸ Shade Flat
+Mesh ▸ Shading ▸ Flat Faces
+Edge (Ctrl E) ▸ Mark Sharp
+Select ▸ Sharp Edges
+Edge (Ctrl E) ▸ Clear Sharp
+Mesh ▸ Shading ▸ Smooth Faces
+Face (Ctrl F) ▸ Shade Smooth
 
