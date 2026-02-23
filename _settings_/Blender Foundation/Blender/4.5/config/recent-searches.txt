@@ -7,7 +7,6 @@ Mesh ▸ Normals (Alt N) ▸ Merge
 Face (Ctrl F) ▸ Triangulate Faces|Ctrl T
 Generate ▸ Mirror
   Landscape.09
-  Landscape.000
   Landscape
   Landscape.002
   Landscape.003
@@ -34,21 +33,29 @@ UV (U) ▸ Clear Seam
 Edge (Ctrl E) ▸ Clear Seam
 3D View Pie (Shift F) ▸ Clear Seam
 3D View Pie (Shift F) ▸ Clear All Seams
-Object ▸ Set Origin ▸ Origin to 3D Cursor
-Vertex (Ctrl V) ▸ Smooth Vertices
 Mesh ▸ Transform ▸ Randomize
 Mesh ▸ Weights ▸ Smooth
 Snap (Shift S) ▸ Selection to Cursor
-Object ▸ Set Origin ▸ Geometry to Origin
-Mesh ▸ Shading ▸ Smooth Edges
 Blender ▸ System ▸ Clean Up Space Data
 Edge (Ctrl E) ▸ Clear Sharp from Vertices
 Edge (Ctrl E) ▸ Set Sharpness by Angle
 Face (Ctrl F) ▸ Shade Flat
-Mesh ▸ Shading ▸ Flat Faces
 Edge (Ctrl E) ▸ Mark Sharp
 Select ▸ Sharp Edges
+snow.002
 Edge (Ctrl E) ▸ Clear Sharp
-Mesh ▸ Shading ▸ Smooth Faces
+Mesh ▸ Shading ▸ Flat Faces
 Face (Ctrl F) ▸ Shade Smooth
+Mesh ▸ Shading ▸ Smooth Edges
+Object ▸ Modifiers ▸ Add Modifier ▸ Normals ▸ Smooth by Angle
+Vertex (Ctrl V) ▸ Smooth Vertices
+  Landscape.000
+Material.004
+Mesh ▸ Shading ▸ Smooth Faces
+_snow.004
+_snow
+Object ▸ Set Origin ▸ Origin to 3D Cursor
+Object ▸ Shade Smooth
+Object ▸ Snap ▸ Cursor to Grid
+Object ▸ Set Origin ▸ Geometry to Origin
 
