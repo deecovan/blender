@@ -1,6 +1,0 @@
-C:\Projects\blender\lands\_RallySquare.200.variants.blend
-C:\Projects\blender\lands\_RallySquare.200.blend
-C:\Projects\blender\lands\_RallyLand_1s.shade_smooth.blend
-C:\Projects\blender\lands\_RallyLand_1a.shade_flat.blend
-C:\Projects\blender\vehicles\C  Nash TT\NashTT.03.ExportSized.blend
-C:\Projects\blender\vehicles\C  Nash TT\NashTT.02.ExportModArcs.blend

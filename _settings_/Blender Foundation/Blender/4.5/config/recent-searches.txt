@@ -25,9 +25,7 @@ Canyon Brown
   Canyon600.004
 3D Viewport: Select ▸ Select Random
 Mesh ▸ Shading ▸ Sharp Edges
-Mesh ▸ Clean Up ▸ Decimate Geometry
 Select ▸ Side of Active
-Generate ▸ Boolean
 Edge (Ctrl E) ▸ Subdivide
 UV (U) ▸ Clear Seam
 Edge (Ctrl E) ▸ Clear Seam
@@ -35,8 +33,6 @@ Edge (Ctrl E) ▸ Clear Seam
 3D View Pie (Shift F) ▸ Clear All Seams
 Mesh ▸ Transform ▸ Randomize
 Mesh ▸ Weights ▸ Smooth
-Snap (Shift S) ▸ Selection to Cursor
-Blender ▸ System ▸ Clean Up Space Data
 Edge (Ctrl E) ▸ Clear Sharp from Vertices
 Edge (Ctrl E) ▸ Set Sharpness by Angle
 Face (Ctrl F) ▸ Shade Flat
@@ -54,8 +50,18 @@ Material.004
 Mesh ▸ Shading ▸ Smooth Faces
 _snow.004
 _snow
-Object ▸ Set Origin ▸ Origin to 3D Cursor
-Object ▸ Shade Smooth
-Object ▸ Snap ▸ Cursor to Grid
-Object ▸ Set Origin ▸ Geometry to Origin
+Object ▸ Shade Flat
 
+Blender ▸ System ▸ Clean Up Space Data
+Object ▸ Snap ▸ Cursor to Grid
+Object ▸ Set Origin ▸ Origin to 3D Cursor
+Segments ▸ Subdivide
+Mesh ▸ Clean Up ▸ Decimate Geometry
+Generate ▸ Boolean
+Material.005
+Object ▸ Shade Smooth
+Generate ▸ Array
+Deform ▸ Curve
+Select ▸ Select Linked ▸ Linked Flat Faces
+Object ▸ Set Origin ▸ Geometry to Origin
+Snap (Shift S) ▸ Selection to Cursor
