@@ -6,3 +6,4 @@
 {ATI Technologies Inc./AMD Radeon(TM) Graphics/4.6.0 Core Profile Context 24.30.58.04.250822}=SUPPORTED
 {ATI Technologies Inc./AMD Radeon(TM) Graphics/4.6.0 Core Profile Context 26.1.1.260108}=SUPPORTED
 {Advanced Micro Devices/AMD Radeon(TM) Graphics/AMD proprietary driver 26.1.1 (AMD proprietary shader compiler)}=SUPPORTED
+{Advanced Micro Devices/AMD Radeon(TM) Graphics/AMD proprietary driver 26.2.2 (AMD proprietary shader compiler)}=SUPPORTED

@@ -48,10 +48,8 @@ Vertex (Ctrl V) ▸ Smooth Vertices
   Landscape.000
 Material.004
 Mesh ▸ Shading ▸ Smooth Faces
-_snow.004
 _snow
 Object ▸ Shade Flat
-
 Blender ▸ System ▸ Clean Up Space Data
 Object ▸ Snap ▸ Cursor to Grid
 Object ▸ Set Origin ▸ Origin to 3D Cursor
@@ -65,3 +63,5 @@ Deform ▸ Curve
 Select ▸ Select Linked ▸ Linked Flat Faces
 Object ▸ Set Origin ▸ Geometry to Origin
 Snap (Shift S) ▸ Selection to Cursor
+_snow.004
+
