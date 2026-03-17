@@ -98,10 +98,10 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3600, -2.49261, 0)
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4214.68, -2.85, 0)
 
 [node name="_RallyLand_0e_BL_" parent="." instance=ExtResource("24_bnwpy")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4214.68, -2.85, 0)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4181.35, -2.85, -7.06656)
 
 [node name="_RallyLand_0e_BR_" parent="." instance=ExtResource("25_6560y")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4214.68, -2.85, 0)
 
 [node name="_RallyLand_0e_BS_" parent="." instance=ExtResource("26_v6doy")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4214.68, -2.85, 0)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4203.64, -2.85, 0)
