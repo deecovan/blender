@@ -62,8 +62,6 @@ Generate ▸ Array
 Deform ▸ Curve
 Select ▸ Select Linked ▸ Linked Flat Faces
 Object ▸ Set Origin ▸ Geometry to Origin
-Snap (Shift S) ▸ Selection to Cursor
-_snow.004
 Dots Stroke
 Add (Shift A) ▸ Force Field ▸ Texture
 Material
@@ -72,5 +70,7 @@ Material
 Texture
 Texture.001
 Material.001
-
 Material.002
+_snow.004
+Snap (Shift S) ▸ Selection to Cursor
+
