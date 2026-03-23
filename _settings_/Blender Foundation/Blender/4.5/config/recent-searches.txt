@@ -26,13 +26,10 @@ Canyon Brown
 3D Viewport: Select ▸ Select Random
 Mesh ▸ Shading ▸ Sharp Edges
 Select ▸ Side of Active
-Edge (Ctrl E) ▸ Subdivide
 UV (U) ▸ Clear Seam
 Edge (Ctrl E) ▸ Clear Seam
 3D View Pie (Shift F) ▸ Clear Seam
 3D View Pie (Shift F) ▸ Clear All Seams
-Mesh ▸ Transform ▸ Randomize
-Mesh ▸ Weights ▸ Smooth
 Edge (Ctrl E) ▸ Clear Sharp from Vertices
 Edge (Ctrl E) ▸ Set Sharpness by Angle
 Face (Ctrl F) ▸ Shade Flat
@@ -42,26 +39,19 @@ snow.002
 Edge (Ctrl E) ▸ Clear Sharp
 Mesh ▸ Shading ▸ Flat Faces
 Face (Ctrl F) ▸ Shade Smooth
-Mesh ▸ Shading ▸ Smooth Edges
-Object ▸ Modifiers ▸ Add Modifier ▸ Normals ▸ Smooth by Angle
 Vertex (Ctrl V) ▸ Smooth Vertices
   Landscape.000
 Material.004
-Mesh ▸ Shading ▸ Smooth Faces
 _snow
 Object ▸ Shade Flat
 Blender ▸ System ▸ Clean Up Space Data
 Object ▸ Snap ▸ Cursor to Grid
-Object ▸ Set Origin ▸ Origin to 3D Cursor
-Segments ▸ Subdivide
 Mesh ▸ Clean Up ▸ Decimate Geometry
 Generate ▸ Boolean
 Material.005
-Object ▸ Shade Smooth
 Generate ▸ Array
 Deform ▸ Curve
 Select ▸ Select Linked ▸ Linked Flat Faces
-Object ▸ Set Origin ▸ Geometry to Origin
 Dots Stroke
 Add (Shift A) ▸ Force Field ▸ Texture
 Material
@@ -72,5 +62,17 @@ Texture.001
 Material.001
 Material.002
 _snow.004
-Snap (Shift S) ▸ Selection to Cursor
+Object ▸ Modifiers ▸ Add Modifier ▸ Deform ▸ Smooth
+Object ▸ Modifiers ▸ Add Modifier ▸ Normals ▸ Smooth by Angle
+Object ▸ Set Origin ▸ Geometry to Origin
+Object ▸ Set Origin ▸ Origin to 3D Cursor
+Mesh ▸ Normals (Alt N) ▸ Smooth Vectors
+Mesh ▸ Shading ▸ Smooth Faces
+Mesh ▸ Shading ▸ Smooth Edges
+Mesh ▸ Weights ▸ Smooth
+Edge (Ctrl E) ▸ Subdivide
+Object ▸ Shade Smooth
 
+Snap (Shift S) ▸ Selection to Cursor
+Mesh ▸ Transform ▸ Randomize
+Segments ▸ Subdivide
